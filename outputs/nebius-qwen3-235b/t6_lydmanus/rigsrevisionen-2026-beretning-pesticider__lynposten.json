@@ -1,0 +1,20 @@
+{
+  "model_id": "nebius-qwen3-235b",
+  "pinned_version": "Qwen/Qwen3-235B-A22B-Instruct-2507",
+  "task_id": "t6_lydmanus",
+  "source_id": "rigsrevisionen-2026-beretning-pesticider",
+  "archetype": "lynposten",
+  "prompt_sha256": "36e0d099508d2a19784cfd8cd72c2c4a58780378294e14b7e00a40faf10374fe",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 620
+  },
+  "text": "Over halvdelen af danske drikkevandsboringer indeholder pesticidrester. Det viser en beretning fra Statsrevisorerne afgivet den syvende september to tusind seksogtyve. Beretningen bygger på kontrol af pesticidbrug i Danmark. Pesticider beskytter planter, men skader samtidig miljø og sundhed. Ifølge vandforsyningsselskaberne må mere og mere grundvand fortyndes, før det kan bruges som drikkevand. Statsrevisorerne kalder Miljøministeriets kontrol for stærkt foruroligende. Kontrollen er næsten udelukkende baseret på selvangivelser fra virksomheder. Miljøstyrelsen efterprøver ikke oplysningerne. Siden to tusind atten har styrelsen vidst, at ikke alt pesticidforbrug bliver indberettet. Syv tusind otte hundrede ton glyfosat er købt, men ikke indberettet som brugt. Det svarer til knap halvdelen af alt indkøbt glyfosat. Styrelsen har ikke undersøgt, hvor stoffet er blevet af. Kontrollen følger heller ikke EU’s krav om risikobaserede kontrolbesøg. Virksomheder, der siger, de ikke bruger pesticider, kontrolleres slet ikke. Selv ved selvanmeldte overtrædelser har der ofte ikke været konsekvenser. Det har været i strid med kemikalieloven. Statsrevisorerne konkluderer, at ulovlige pesticider kan sive ned i grundvandet eller blive siddende i fødevarer.",
+  "prompt_tokens": 2190,
+  "completion_tokens": 411,
+  "latency_ms": 11549,
+  "cost_usd": 0.0006846,
+  "created": "2026-11-09T21:18:16.773905Z",
+  "error": null
+}

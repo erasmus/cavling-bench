@@ -1,0 +1,20 @@
+{
+  "model_id": "nebius-qwen3-235b",
+  "pinned_version": "Qwen/Qwen3-235B-A22B-Instruct-2507",
+  "task_id": "t5_forkortelse",
+  "source_id": "aarhus-2026-budgetaftale-2027",
+  "archetype": null,
+  "prompt_sha256": "87156675f78b39d0c900b3f3983b3bceaa06e11ffbe12d093ca34547feb5be7b",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 860
+  },
+  "text": "Et enigt Aarhus Byråd indgik torsdag den 17. september aftale om kommunens budget for 2027 og de følgende tre år. Aftalen prioriterer styrket velfærd gennem 138 mio. kr. årligt til socialområdet, herunder støtte til demente ældre og tidligere anbragte børn, samt flere fagprofessionelle i folkeskolen. Der ydes i alt 197 mio. kr. årligt til drift og 810 mio. kr. til anlæg, bl.a. til bedre fremkommelighed for busser og cyklister samt tiltag mod trafiktrængsel. Formålet er, at aarhusianerne nemt kan komme rundt i kommunen. Budgettet indebærer et samlet velfærdsløft på omkring 2 mia. kr. over perioden, suppleret af knap 500 mio. kr. fra nationale aftaler til bl.a. flere pædagoger og lavere forældrebetaling i dagtilbud. Partierne arbejder også for mindre administration og mere effektivisering gennem et nyt velfærdsbidrag fra 2028, der skal frigøre ressourcer til nye løsninger via teknologi eller arbejdsgange. Kommuneskatten holdes i ro. Bag aftalen står Socialdemokratiet, SF, Venstre, Enhedslisten, Det Konservative Folkeparti, Radikale Venstre, Liberal Alliance, Danmarksdemokraterne og Dansk Folkeparti. Borgmester Anders Winnerskjold fremhæver, at budgettet skal mærkes i borgeres hverdag gennem bedre kollektiv transport, flere voksne omkring børn og støtte til erhvervslivet. Han peger på, at Aarhus har en sund økonomi, men ikke kan realisere alle ønsker på én gang.",
+  "prompt_tokens": 1322,
+  "completion_tokens": 469,
+  "latency_ms": 25186,
+  "cost_usd": 0.0005457999999999999,
+  "created": "2026-11-09T21:18:07.721700Z",
+  "error": null
+}

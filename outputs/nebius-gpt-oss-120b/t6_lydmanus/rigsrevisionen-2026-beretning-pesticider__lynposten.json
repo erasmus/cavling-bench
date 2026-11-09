@@ -1,0 +1,20 @@
+{
+  "model_id": "nebius-gpt-oss-120b",
+  "pinned_version": "openai/gpt-oss-120b",
+  "task_id": "t6_lydmanus",
+  "source_id": "rigsrevisionen-2026-beretning-pesticider",
+  "archetype": "lynposten",
+  "prompt_sha256": "36e0d099508d2a19784cfd8cd72c2c4a58780378294e14b7e00a40faf10374fe",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 620
+  },
+  "text": "Syv september to‑og‑seks‑tyve fandt Statsrevisorerne, at Miljøministeriets kontrol med pesticider er stærkt foruroligende. Over halvdelen af danske drikkevandsboringer indeholdt pesticidrester i to‑og‑fem‑tyve, og grundvandet må ofte fortyndes, siger de. Kontrollen bygger næsten udelukkende på virksomhedernes selvangivelser og mangler risikovurdering, ifølge Statsrevisorerne. Glyfosat, som udgør omkring fyrre procent af al pesticid i Danmark, er i to‑og‑elleve år blevet indkøbt i syv‑tusind‑otte‑hundrede tons uden indberetning. Miljøstyrelsen har kun søgt efter fire ulovlige pesticider mellem to‑og‑to‑og‑tyve og fem‑og‑tyve, selvom der findes hundredvis. Selvanmeldte overtrædelser er ofte ubehandlet, og virksomheder uden pesticidbrug er undtaget fra kontrol. Resultatet er, at ulovlige eller for store mængder kan sive ned i grundvandet og true miljø og sundhed.",
+  "prompt_tokens": 1819,
+  "completion_tokens": 315,
+  "latency_ms": 1455,
+  "cost_usd": 0.00046185,
+  "created": "2026-11-09T21:20:09.343961Z",
+  "error": null
+}

@@ -1,0 +1,20 @@
+{
+  "model_id": "nebius-qwen3-235b",
+  "pinned_version": "Qwen/Qwen3-235B-A22B-Instruct-2507",
+  "task_id": "t4_versionering",
+  "source_id": "aarhus-2026-budgetaftale-2027",
+  "archetype": "lynposten",
+  "prompt_sha256": "306ecf62925ce6f724630a2ec620f633bc63805c27255f29a52f29291beee9c6",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 1025
+  },
+  "text": "Aarhus byråd får 138 mio. kr. mere til socialområdet om året. Aftalen rammer alle aarhusianere – især de mest sårbare.\n\nByrådet har indgået en enstemmig budgetaftale for 2027-2030. Pengene skal styrke velfærden og forbedre hverdagen. Der er ekstra fokus på demente ældre, tidligere anbragte børn og lavindkomstfamilier.\n\nSocialområdet får et årligt løft på 138 mio. kr. Det skyldes både en fælles ”socialprocent” og ekstra tildelinger. Formålet er at tackle strukturelle udfordringer og støtte de svageste borgere.\n\nI alt går 197 mio. kr. om året til drift. 810 mio. kr. går til anlæg. Pengene skal bl.a. bruges på bedre busfremkommelighed, cykelstier og mindre trafikpropper. Målet er nemmere hverdag for alle, der bor, arbejder eller rejser i Aarhus.\n\nBorgmester Anders Winnerskjold (A) siger: ”Et godt budget skal kunne mærkes i aarhusianernes hverdag.” Han peger på flere voksne i skoler og dagtilbud, billigere kollektiv transport og bedre vilkår for erhvervslivet.\n\nDer er også fokus på effektivisering. Et nyt velfærdsbidrag fra 2028 skal frigøre penge til teknologi og nye arbejdsgange. Formålet er færre administrative omkostninger og mere ressource til borgerkontakt.\n\nKommuneskatten holdes uændret. Det er en del af aftalens økonomiske ramme.\n\nOver fire år løfter byrådet velfærden med omkring 2 mia. kr. Yderligere knap 500 mio. kr. kommer fra nationale aftaler. Det gælder bl.a. flere pædagoger og lavere forældrebetaling i dagtilbud.\n\nBag aftalen står alle partier i byrådet – fra Socialdemokratiet til Dansk Folkeparti.",
+  "prompt_tokens": 1646,
+  "completion_tokens": 531,
+  "latency_ms": 37221,
+  "cost_usd": 0.0006477999999999999,
+  "created": "2026-11-09T21:18:05.223878Z",
+  "error": null
+}

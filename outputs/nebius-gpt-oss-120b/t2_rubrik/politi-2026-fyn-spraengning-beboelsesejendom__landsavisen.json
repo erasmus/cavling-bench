@@ -1,0 +1,20 @@
+{
+  "model_id": "nebius-gpt-oss-120b",
+  "pinned_version": "openai/gpt-oss-120b",
+  "task_id": "t2_rubrik",
+  "source_id": "politi-2026-fyn-spraengning-beboelsesejendom",
+  "archetype": "landsavisen",
+  "prompt_sha256": "9191beb9573f9cfbb3d32c0eae9415539c430ed16fdab5b7dfc1c66dc490848d",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 400
+  },
+  "text": "RUBRIK: Tre unge mænd idømt 14 år for sprængningsforsøg i Odense  \nUNDERRUBRIK: Dommen fra Odense Ret i februar 2026 dømmer de 19-, 21- og 22-årige til 14 års fængsel for forsøg på at sprænge en beboelsesejendom med fire kilo dynamit samt flere voldskriminaliteter.",
+  "prompt_tokens": 1271,
+  "completion_tokens": 434,
+  "latency_ms": 1459,
+  "cost_usd": 0.00045104999999999993,
+  "created": "2026-11-09T21:20:05.021438Z",
+  "error": null
+}

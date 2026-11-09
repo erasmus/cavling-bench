@@ -1,4 +1,4 @@
-"""All pydantic models for DaNews-Edit (REQUIREMENTS.md §5)."""
+"""All pydantic models for Cavling-bench."""
 
 from __future__ import annotations
 
@@ -181,6 +181,11 @@ class ModelCfg(Strict):
     max_concurrency: int = 4
     supports_seed: bool = False
     supports_temperature: bool = True
+    # Reasoning models spend completion tokens on hidden thinking before answering.
+    # `reasoning_budget_tokens` is added on top of the task's max_tokens so the visible
+    # answer is not truncated; `reasoning_effort` is passed through when set.
+    reasoning_effort: Literal["low", "medium", "high"] | None = None
+    reasoning_budget_tokens: int = 0
     notes: str = ""
     enabled: bool = True
 
@@ -216,9 +221,12 @@ class ModelsFile(Strict):
 
 
 class GenParams(Strict):
+    """Parameters as actually sent: max_tokens includes any reasoning_budget_tokens."""
+
     temperature: float = 0.0
     seed: int | None = 42
     max_tokens: int
+    reasoning_effort: str | None = None
 
 
 class Output(Strict):

@@ -1,0 +1,20 @@
+{
+  "model_id": "nebius-gpt-oss-120b",
+  "pinned_version": "openai/gpt-oss-120b",
+  "task_id": "t6_lydmanus",
+  "source_id": "dst-2026-inflation-september",
+  "archetype": "lynposten",
+  "prompt_sha256": "38fec05aae24ac799955c90a544d78c5a1fff2dadeb8b75c0a5146444d2c01b1",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 620
+  },
+  "text": "To to procent steg Danmarks samlede forbrugerprisindeks i september i forhold til samme måned sidste år, ifølge Danmarks Statistik. Hovedgruppen transport løftede tallet mest, især brændstofpriserne. Kerneinflationen, som udelader energi og ikke‑forarbejdede fødevarer, steg med et komma ni procent, primært på grund af højere husleje. I august var kerneinflationen et komma to procent. Fra august til september var det samlede indeks uændret, men brændstof, tøj og flyrejser trak det op med et komma fire seks procentpoint, mens leje af sommerhus, pakkerejser og fødevarer trak det ned med et komma syv to procentpoint. Danmarks EU‑harmoniserede inflation lå på to komma en procent i september, ifølge Danmarks Statistik.",
+  "prompt_tokens": 1230,
+  "completion_tokens": 240,
+  "latency_ms": 1263,
+  "cost_usd": 0.0003285,
+  "created": "2026-11-09T21:20:08.417182Z",
+  "error": null
+}

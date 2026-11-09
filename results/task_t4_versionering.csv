@@ -1,0 +1,3 @@
+model_id,n,pct_supported,pct_supported_lo,pct_supported_hi,n_contradicted,facts_preserved_pct,fluency,fluency_lo,fluency_hi,tone_bt_lynposten,tone_bt_landsavisen,format_pass_pct
+nebius-gpt-oss-120b,10,92.94642857142858,88.54166666666666,97.32142857142858,2,,4.0,4.0,4.0,,,40.0
+nebius-qwen3-235b,10,89.02709091509738,83.05572688181384,93.54479327376083,0,,4.3,4.1,4.5,,,60.0

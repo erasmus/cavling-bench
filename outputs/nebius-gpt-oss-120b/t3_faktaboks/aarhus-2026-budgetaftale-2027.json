@@ -1,0 +1,20 @@
+{
+  "model_id": "nebius-gpt-oss-120b",
+  "pinned_version": "openai/gpt-oss-120b",
+  "task_id": "t3_faktaboks",
+  "source_id": "aarhus-2026-budgetaftale-2027",
+  "archetype": null,
+  "prompt_sha256": "79ff93e9773d01d2091f594883a276ca926658aad72d4eec079472784e57f91a",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 575
+  },
+  "text": "- Aarhus Byråd indgik budgetaftale den 17. september 2023 for de kommende fire år.  \n- Socialområdet får et årligt løft på i alt 138 millioner kroner.  \n- Der er afsat 197 millioner kroner årligt til drift og 810 millioner kroner til anlæg i budgetperioden.  \n- Budgettet indeholder et samlet velfærdsløft på omkring 2 milliarder kroner over perioden.  \n- Kommuneskatten holdes uændret i den nye budgetaftale.",
+  "prompt_tokens": 1148,
+  "completion_tokens": 146,
+  "latency_ms": 696,
+  "cost_usd": 0.00025979999999999997,
+  "created": "2026-11-09T21:20:04.726528Z",
+  "error": null
+}

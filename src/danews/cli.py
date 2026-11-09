@@ -11,7 +11,7 @@ from rich.table import Table
 
 from .config import Config, Paths
 
-app = typer.Typer(add_completion=False, no_args_is_help=True, help="DaNews-Edit pipeline")
+app = typer.Typer(add_completion=False, no_args_is_help=True, help="Cavling-bench pipeline")
 judge_app = typer.Typer(no_args_is_help=True, help="LLM judging")
 spotcheck_app = typer.Typer(no_args_is_help=True, help="Human spot-check")
 app.add_typer(judge_app, name="judge")

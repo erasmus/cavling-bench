@@ -1,4 +1,4 @@
-"""Danish number/date normalisation and tokenisation helpers (REQUIREMENTS.md §6.3)."""
+"""Danish number/date normalisation and tokenisation helpers."""
 
 from __future__ import annotations
 

@@ -1,0 +1,20 @@
+{
+  "model_id": "nebius-qwen3-235b",
+  "pinned_version": "Qwen/Qwen3-235B-A22B-Instruct-2507",
+  "task_id": "t2_rubrik",
+  "source_id": "rigsrevisionen-2026-beretning-pesticider",
+  "archetype": "erhvervsnyt",
+  "prompt_sha256": "21deba0f10a3a26db66fce9657bc6adb8e13d73aee97b4197fb5b6921f4165a2",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 400
+  },
+  "text": "RUBRIK: 7.800 tons glyfosat uspurgt siden 2011 – kontrol mangler  \nUNDERRUBRIK: Statsrevisorerne slår alarm: Miljøstyrelsen har ikke efterprøvet pesticidoplysninger, undlader risikobaseret kontrol og har handlet i strid med loven.",
+  "prompt_tokens": 2167,
+  "completion_tokens": 83,
+  "latency_ms": 2023,
+  "cost_usd": 0.00048320000000000004,
+  "created": "2026-11-09T21:17:26.170961Z",
+  "error": null
+}

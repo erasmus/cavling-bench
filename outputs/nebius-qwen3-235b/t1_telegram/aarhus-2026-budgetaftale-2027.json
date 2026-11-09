@@ -1,0 +1,20 @@
+{
+  "model_id": "nebius-qwen3-235b",
+  "pinned_version": "Qwen/Qwen3-235B-A22B-Instruct-2507",
+  "task_id": "t1_telegram",
+  "source_id": "aarhus-2026-budgetaftale-2027",
+  "archetype": null,
+  "prompt_sha256": "3e35748e41b33da57fe89d6f7af2bb19d6bcb12387e2b589f98ae603c21291b8",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 560
+  },
+  "text": "Et enigt Aarhus Byråd indgik torsdag den 17. september en budgetaftale for 2027–2030 med et samlet velfærdsløft på omkring 2 mia. kr. over perioden. Aftalen, støttet af Socialdemokratiet, SF, Venstre, Enhedslisten, Det Konservative Folkeparti, Radikale Venstre, Liberal Alliance, Danmarksdemokraterne og Dansk Folkeparti, sikrer et årligt løft på 138 mio. kr. til socialområdet og 197 mio. kr. årligt til drift, herunder flere pædagoger og lavere forældrebetaling i dagtilbud. Der ydes 810 mio. kr. til anlæg, bl.a. til bedre kollektiv trafik og fremkommelighed. Kommuneskatten holdes i ro, og der etableres fra 2028 et nyt velfærdsbidrag til effektivisering og nye løsninger. Borgmester Anders Winnerskjold kalder det et budget, der styrker velfærd, hverdagen og erhvervslivet.",
+  "prompt_tokens": 1304,
+  "completion_tokens": 286,
+  "latency_ms": 5282,
+  "cost_usd": 0.0004324,
+  "created": "2026-11-09T21:17:19.308564Z",
+  "error": null
+}

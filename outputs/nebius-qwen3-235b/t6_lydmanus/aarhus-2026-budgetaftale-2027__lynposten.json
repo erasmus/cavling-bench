@@ -1,0 +1,20 @@
+{
+  "model_id": "nebius-qwen3-235b",
+  "pinned_version": "Qwen/Qwen3-235B-A22B-Instruct-2507",
+  "task_id": "t6_lydmanus",
+  "source_id": "aarhus-2026-budgetaftale-2027",
+  "archetype": "lynposten",
+  "prompt_sha256": "f3b551c5ce948c535931f9a097b664efc7f5caab24cdf594bb28eff7deba1664",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 620
+  },
+  "text": "Aarhus får større velfærdsindsats og billigere kollektiv trafik. Byrådet har indgået enighed om budgettet for 2027. Alle partier bakker op om forliget. Det betyder et løft på tretten8 millioner kroner om året til socialområdet. Der kommer flere pædagoger og lavere forældrebetaling i dagtilbud. Borgmester Anders Winnerskjold fra Socialdemokratiet kalder det et hverdagsnært budget. Han siger, det skal mærkes i folks liv. Man investerer også i bedre fremkommelighed for busser og cyklister. Der er afsat otte10 millioner kroner til anlæg. Kommuneskatten holdes uændret. Byrådet prioriterer også mindre administration. Et nyt velfærdsbidrag fra 2028 skal frigøre penge til teknologi og nye løsninger. Det er en del af en plan for mere effektiv forvaltning. Samlet løfter byrådet velfærden med omkring to mia. kr. over fire år.",
+  "prompt_tokens": 1685,
+  "completion_tokens": 268,
+  "latency_ms": 10924,
+  "cost_usd": 0.0004978,
+  "created": "2026-11-09T21:18:11.811647Z",
+  "error": null
+}

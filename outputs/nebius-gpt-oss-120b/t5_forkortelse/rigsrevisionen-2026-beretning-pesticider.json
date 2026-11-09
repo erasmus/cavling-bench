@@ -1,0 +1,20 @@
+{
+  "model_id": "nebius-gpt-oss-120b",
+  "pinned_version": "openai/gpt-oss-120b",
+  "task_id": "t5_forkortelse",
+  "source_id": "rigsrevisionen-2026-beretning-pesticider",
+  "archetype": null,
+  "prompt_sha256": "e945ada437c48fd48e4a97f95830305ae53a42412c9c31ad344815388b8a5cf5",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 860
+  },
+  "text": "Den 7. september 2026 behandlede Statsrevisorerne Beretning nr. 23/2025 om kontrol med pesticider og afleverede den til Folketinget med bemærkningen, at pesticider beskytter planter, men belaster miljø og sundhed, og at indholdet i danske drikkevandsboringer har været stigende siden 2018. I 2025 blev pesticidrester fundet i over halvdelen af drikkevandsboringerne, og flere vandforsyningsselskaber må fortynde grundvand med rester, før det kan anvendes som drikkevand. Brug og kontrol er reguleret i dansk lovgivning og EU‑forordninger; siden 1986 har målet været at begrænse brugen. I 2022 blev en politisk aftale og ekstra midler (2022‑2026) indført for at styrke kontrollen, og i 2025 blev en tillægsaftale indgået. Formålet med undersøgelsen er at vurdere Miljøministeriets kontrol. Statsrevisorerne finder kontrollen stærkt foruroligende: den er utilstrækkelig, baseret på selvangivelser uden risikovurdering, og overtrædelser får ofte ingen konsekvenser. Styrelsen har overblik over de fleste virksomheder, men oplysningerne er kun selvangivelser, som kan slettes eller ændres, og de efterprøves ikke. Siden 2011 er 7.800 ton glyfosat – ca. 40 % af al pesticid – ikke indberettet. Udvælgelse sker ikke efter risikovurdering, kun fire ulovlige pesticider blev søgt (2022‑2025), og sprøjtejournaler er den primære kontrolkilde. Selvanmeldte overtrædelser blev ikke kontrolleret før foråret 2025, og virksomheder uden pesticidbrug er undtaget. Forslag fra Styrelsen for Grøn Arealomlægning og Vandmiljø om krydstjek af køb, forbrug og lager fra 2020 er ikke fulgt.",
+  "prompt_tokens": 1505,
+  "completion_tokens": 498,
+  "latency_ms": 1998,
+  "cost_usd": 0.0005245499999999999,
+  "created": "2026-11-09T21:20:08.682453Z",
+  "error": null
+}

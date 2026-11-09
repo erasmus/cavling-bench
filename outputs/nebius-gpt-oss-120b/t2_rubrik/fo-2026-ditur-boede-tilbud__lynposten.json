@@ -1,0 +1,20 @@
+{
+  "model_id": "nebius-gpt-oss-120b",
+  "pinned_version": "openai/gpt-oss-120b",
+  "task_id": "t2_rubrik",
+  "source_id": "fo-2026-ditur-boede-tilbud",
+  "archetype": "lynposten",
+  "prompt_sha256": "4efb78bd385bf0ec7a8c9f182ebcf19744142aa05a85d7727f07edcf77cb6db9",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 400
+  },
+  "text": "RUBRIK: Ditur betaler 4,25 millioner i bøde for vildledende tilbud  \nUNDERRUBRIK: Virksomheden anerkender 26 overtrædelser af markedsføringsloven efter fem måneders overvågning af priser på smykker og ure.",
+  "prompt_tokens": 2062,
+  "completion_tokens": 256,
+  "latency_ms": 1050,
+  "cost_usd": 0.0004629,
+  "created": "2026-11-09T21:20:04.029097Z",
+  "error": null
+}

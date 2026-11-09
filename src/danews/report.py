@@ -417,7 +417,7 @@ def lead_md(
 ) -> str:
     n_models = len({o.model_id for o in sc.outputs.values()})
     n_out = len(sc.outputs)
-    s1 = f"DaNews-Edit målte {n_models} sprogmodeller på {len(cfg.tasks)} redaktionelle opgaver over {len(cfg.sources)} danske offentlige kildetekster ({n_out} output, kørt {run_date})."
+    s1 = f"Cavling-bench målte {n_models} sprogmodeller på {len(cfg.tasks)} redaktionelle opgaver over {len(cfg.sources)} danske offentlige kildetekster ({n_out} output, kørt {run_date})."
     t4 = tables.get("t4_versionering") or next(iter(tables.values()), [])
     valid = [r for r in t4 if not math.isnan(r.pct_supported.point)]
     s2 = ""
@@ -450,7 +450,7 @@ def leaderboard_md(
     run_date: str,
 ) -> str:
     parts = [
-        "# DaNews-Edit – resultater",
+        "# Cavling-bench – resultater",
         "",
         f"*Målt {run_date}. Ingen samlet score: hver tabel rangerer pr. opgave og pr. dimension. Alle tal har 95 % bootstrap-intervaller over kildetekster.*",
         "",
@@ -855,7 +855,7 @@ def run_report(cfg: Config, n_boot: int = 1000, cuts: list[str] | None = None) -
         "figures": [p.name for p in sorted(figdir.glob("*.png"))],
         "limitations": [lim.format(kappa_rho=kappa_rho) for lim in LIMITATIONS_FIXED] + cuts,
         "v2": V2_LIST,
-        "repo": "https://github.com/erasmus/danews-edit",
+        "repo": "https://github.com/erasmus/cavling-bench",
     }
     (res / "site_data.json").write_text(json.dumps(site, ensure_ascii=False, indent=1))
     return {

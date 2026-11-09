@@ -1,0 +1,20 @@
+{
+  "model_id": "nebius-qwen3-235b",
+  "pinned_version": "Qwen/Qwen3-235B-A22B-Instruct-2507",
+  "task_id": "t2_rubrik",
+  "source_id": "dst-2026-inflation-september",
+  "archetype": "lynposten",
+  "prompt_sha256": "eaf7099bd7376a065db6f6b693ed7ce990500b4896e2a61bde4a3feadc368f79",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 400
+  },
+  "text": "RUBRIK: Inflationen stiger til 2,2 pct. i september  \nUNDERRUBRIK: Brændstofpriserne driver stigningen, mens kerneinflationen falder til 1,9 pct. Danmark har lavere inflation end EU-gennemsnittet på 3,2 pct.",
+  "prompt_tokens": 1348,
+  "completion_tokens": 75,
+  "latency_ms": 4012,
+  "cost_usd": 0.0003146,
+  "created": "2026-11-09T21:17:19.914522Z",
+  "error": null
+}

@@ -1,0 +1,20 @@
+{
+  "model_id": "nebius-qwen3-235b",
+  "pinned_version": "Qwen/Qwen3-235B-A22B-Instruct-2507",
+  "task_id": "t4_versionering",
+  "source_id": "politi-2026-fyn-spraengning-beboelsesejendom",
+  "archetype": "lynposten",
+  "prompt_sha256": "ebe1e128904256576d04dac03085e8645273aa93e40782ccc97aeea83e0bab10",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 1025
+  },
+  "text": "14-årige fængselsstraffe for bombeforsøg og voldtægt i Odense\n\nTre mænd på 19, 21 og 22 år er idømt 14 års fængsel hver ved Retten i Odense. De er dømt for forsøg på at sprænge en beboelsesejendom i Odense med over fire kilo dynamit. Bomben skulle detoneres i en opgang på Nyborgvej i december 2023. Mellem 19 og 25 personer var i bygningen på tidspunktet.\n\nForsøget mislykkedes. Gerningsmændene fik ikke adgang til opgangen. De blev forstyrret af politiet, der ankom til stedet. De tre er også dømt for indførsel, transport og besiddelse af sprængstof under særligt skærpende omstændigheder. De har desuden overtrådt våbenloven.\n\nDe er yderligere dømt for at have planlagt skud mod en bolig i Seden i Odense i marts 2023. En familie med to børn boede i huset. Skuddene skabte nærliggende fare for liv og helbred.\n\nDen 19-årige mand er endvidere dømt for grov frihedsberøvelse og mishandling af en mand i februar 2023. Offeret blev holdt fanget i mindst to uger under uhygiejniske forhold. Han blev slået, sparket og forbrændt i ansigtet. Han blev voldtaget, mens overgrebet blev filmet og delt på sociale medier.\n\nFire andre personer er allerede dømt i sagen for deres rolle i planlægningen og håndteringen af sprængstoffet.\n\n”Retten har i dag sendt et klart signal om, at denne form for ekstrem og organiseret kriminalitet bliver straffet hårdt. Det er tale om meget alvorlige forhold, hvor både konkrete ofre og helt tilfældige borgere har været i livsfare,” siger specialanklager Daniel Dokkedahl fra Fyns Politi.\n\nDer er besluttet konfiskation af sprængstof, våben og mobiltelefon. Der er også pålagt sletning af videoen. De tre mænd forbliver varetægtsfængslet. Den 22-årige tog betænkningstid. De to andre anker dommen.",
+  "prompt_tokens": 1448,
+  "completion_tokens": 609,
+  "latency_ms": 17964,
+  "cost_usd": 0.000655,
+  "created": "2026-11-09T21:17:50.192193Z",
+  "error": null
+}

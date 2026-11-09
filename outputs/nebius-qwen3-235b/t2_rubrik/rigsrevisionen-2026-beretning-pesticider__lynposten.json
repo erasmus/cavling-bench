@@ -1,0 +1,20 @@
+{
+  "model_id": "nebius-qwen3-235b",
+  "pinned_version": "Qwen/Qwen3-235B-A22B-Instruct-2507",
+  "task_id": "t2_rubrik",
+  "source_id": "rigsrevisionen-2026-beretning-pesticider",
+  "archetype": "lynposten",
+  "prompt_sha256": "d99c7112d91ed8c5e97162a8d23087141be99b300f8b8c238649e48f95ce4315",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 400
+  },
+  "text": "RUBRIK: 7.800 ton glyfosat forsvandt fra kontrol  \nUNDERRUBRIK: Statsrevisorerne afslører, at Miljøstyrelsen ikke kan forklare, hvor 7.800 ton glyfosat er blevet af, og kritiserer den manglende kontrol med pesticidbrug.",
+  "prompt_tokens": 2165,
+  "completion_tokens": 84,
+  "latency_ms": 2443,
+  "cost_usd": 0.0004834,
+  "created": "2026-11-09T21:17:25.659115Z",
+  "error": null
+}

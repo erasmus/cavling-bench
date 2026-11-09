@@ -1,0 +1,20 @@
+{
+  "model_id": "nebius-qwen3-235b",
+  "pinned_version": "Qwen/Qwen3-235B-A22B-Instruct-2507",
+  "task_id": "t5_forkortelse",
+  "source_id": "politi-2026-fyn-spraengning-beboelsesejendom",
+  "archetype": null,
+  "prompt_sha256": "7b53a33f6c2e09441e80b30c9bd4464aad6b27505a51a50bc57530113a17d9ff",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 860
+  },
+  "text": "Tre mænd på 19, 21 og 22 år er fredag den 20. februar 2026 ved Retten i Odense dømt for forsøg på at sprænge en bombe med over fire kilo dynamit i en opgang på Nyborgvej i Odense i december 2023. På tidspunktet opholdt mellem 19 og 25 personer sig i ejendommen. Forsøget mislykkedes, da gerningsmændene ikke fik adgang til opgangen og blev forstyrret af politiet. De er desuden dømt for indførsel, transport og besiddelse af sprængstof under særligt skærpende omstændigheder samt våbenlovsovertrædelser. I samme sag er fire andre tidligere idømt lange fængselsstraffe.  \n\nDe tre mænd er også dømt for at have planlagt og foranlediget skud mod en beboelsesejendom i Seden i Odense i marts 2023, hvor en familie med to børn opholdt sig. Skuddene skabte nærliggende fare for liv og førlighed. Den 19-årige mand er endvidere dømt for grov og langvarig frihedsberøvelse og mishandling af en mand i februar 2023. Offeret blev holdt tilbage i mindst to uger under stærkt uhygiejniske forhold og udsat for slag, spark, forbrændinger i ansigtet og voldtægt under særligt skærpende omstændigheder, hvor overgrebet blev filmet og delt via sociale medier.  \n\nDen 19-årige mand fra Odense Kommune er idømt 14 års fængsel. Den 21-årige og den 22-årige fra Odense Kommune er ligeledes idømt 14 års fængsel. Specialanklager Daniel Dokkedahl fra Fyns Politi siger, at retten sender et klart signal mod ekstrem og organiseret kriminalitet. Der er truffet afgørelse om konfiskation af sprængstof, våben og mobiltelefon samt sletning af video. De tre mænd er varetægtsfængslet. Den 22-årige udbad sig betænkningstid, mens de to andre ankede dommen på stedet.",
+  "prompt_tokens": 1124,
+  "completion_tokens": 593,
+  "latency_ms": 12754,
+  "cost_usd": 0.0005806,
+  "created": "2026-11-09T21:18:02.947373Z",
+  "error": null
+}

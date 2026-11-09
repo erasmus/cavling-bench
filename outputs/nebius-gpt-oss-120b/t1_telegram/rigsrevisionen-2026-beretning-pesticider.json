@@ -1,0 +1,20 @@
+{
+  "model_id": "nebius-gpt-oss-120b",
+  "pinned_version": "openai/gpt-oss-120b",
+  "task_id": "t1_telegram",
+  "source_id": "rigsrevisionen-2026-beretning-pesticider",
+  "archetype": null,
+  "prompt_sha256": "bd736bff3602e30237ec72ef7d91e72cdf67c13f383a7f67b2afbec7724cf592",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 560
+  },
+  "text": "Statsrevisorerne konkluderer den 7. september 2026, at Miljøministeriets kontrol med pesticider er “stærkt foruroligende” og næsten udelukkende baseret på virksomhedernes selvangivelser. I 2025 blev pesticidrester fundet i over halvdelen af danske drikkevandsboringer, mens Miljøstyrelsen siden 2011 har uindberettet 7.800 ton glyfosat – svarende til næsten 40 % af al dansk pesticidindkøb. Styrelsen har hverken efterprøvet selvangivelser, udvalgt virksomheder ud fra risikovurdering eller søgt efter mere end fire ulovlige pesticider i perioden 2022‑2025, på trods af EU‑krav. Desuden har den undladt at følge op på selvanmeldte overtrædelser og ignoreret forslag om krydstjek af køb, forbrug og lager, hvilket kan føre til ulovlige pesticider i grundvand og fødevarer.",
+  "prompt_tokens": 1489,
+  "completion_tokens": 305,
+  "latency_ms": 1370,
+  "cost_usd": 0.00040635000000000004,
+  "created": "2026-11-09T21:20:02.906808Z",
+  "error": null
+}

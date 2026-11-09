@@ -1,0 +1,20 @@
+{
+  "model_id": "nebius-qwen3-235b",
+  "pinned_version": "Qwen/Qwen3-235B-A22B-Instruct-2507",
+  "task_id": "t4_versionering",
+  "source_id": "fo-2026-ditur-boede-tilbud",
+  "archetype": "landsavisen",
+  "prompt_sha256": "3b3865e02f31f460fd2c209dd4d4faa83329181dfba1dea878ce8fe1cf9a1846",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 1025
+  },
+  "text": "Ditur.dk ApS betaler en bøde på 4,25 millioner kroner efter at have markedsført smykker og ure som tilbud, selvom de pågældende produkter i praksis ikke var nedsat i forhold til deres reelle markedspris. Bøden følger efter en politianmeldelse fra Forbrugerombudsmanden i maj 2026, som påtog sig sagen på baggrund af overtrædelser af markedsføringslovens vildledningsforbud og prismærkningsbekendtgørelsen.\n\nI en periode på fem måneder overvågede Forbrugerombudsmanden priserne på avile.dk og ditur.dk. Her vurderede myndigheden, at virksomheden gentagne gange havde angivet en fast \"normalpris\", selvom produkterne i lang tid havde været til salg til væsentligt lavere priser. I ét eksempel blev en halskæde i 28 ud af 50 dage markedsført som tilbud, mens den angivne normalpris på 599 kroner ikke havde været gældende i de foregående 30 dage. De faktiske lavpriser i den periode var 199 og 179 kroner.\n\nIfølge prismærkningsbekendtgørelsen skal en normalpris være den laveste pris, der er anvendt i mindst 30 dage før en prisnedsættelse. Når virksomheder bruger højere normalpriser, skaber de et vildledende indtryk af større besparelser. Forbrugerombudsmand Torben Jensen siger, at sager som denne \"er både vildledende og en overtrædelse af reglerne\", og at de kan skade forbrugernes tillid til markedet.\n\nDitur.dk ApS har erkendt overtrædelserne og accepteret bøden, som er udregnet efter den skærpede bødemodel fra 2022. Sagen understreger behovet for, at virksomheder følger reglerne nøje, når de kommunikerer tilbud og prissætning til forbrugerne.",
+  "prompt_tokens": 2409,
+  "completion_tokens": 542,
+  "latency_ms": 16997,
+  "cost_usd": 0.000807,
+  "created": "2026-11-09T21:17:46.993526Z",
+  "error": null
+}

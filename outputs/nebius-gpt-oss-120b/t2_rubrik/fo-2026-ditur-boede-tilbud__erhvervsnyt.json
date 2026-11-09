@@ -1,0 +1,20 @@
+{
+  "model_id": "nebius-gpt-oss-120b",
+  "pinned_version": "openai/gpt-oss-120b",
+  "task_id": "t2_rubrik",
+  "source_id": "fo-2026-ditur-boede-tilbud",
+  "archetype": "erhvervsnyt",
+  "prompt_sha256": "02703bbf85b58ce6eff91b90c47cf4c4b7e1ff7f608e3d30097e7eff548cd0fd",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 400
+  },
+  "text": "RUBRIK: 4,25 mio. kr. bøde til Ditur for vildledende tilbud  \nUNDERRUBRIK: Forbrugerombudsmanden har pålagt e‑handelsfirmaet 4,25 millioner kroner efter 26 overtrædelser af markedsføringsloven og prismærkningsbekendtgørelsen.",
+  "prompt_tokens": 2045,
+  "completion_tokens": 225,
+  "latency_ms": 1169,
+  "cost_usd": 0.00044175,
+  "created": "2026-11-09T21:20:04.497061Z",
+  "error": null
+}

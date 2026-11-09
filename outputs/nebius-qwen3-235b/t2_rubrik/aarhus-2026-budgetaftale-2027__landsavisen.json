@@ -1,0 +1,20 @@
+{
+  "model_id": "nebius-qwen3-235b",
+  "pinned_version": "Qwen/Qwen3-235B-A22B-Instruct-2507",
+  "task_id": "t2_rubrik",
+  "source_id": "aarhus-2026-budgetaftale-2027",
+  "archetype": "landsavisen",
+  "prompt_sha256": "ba30d9c5eaf2e8cdb359079bb9691fa0d553b189bdddc186a0020d0cc8153ece",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 400
+  },
+  "text": "RUBRIK: Aarhus indgår budgetaftale for 2027  \nUNDERRUBRIK: Et enigt byråd sætter fokus på velfærd, kollektiv trafik og erhvervsliv med 138 mio. kr. mere til socialområdet og investeringer i fremkommelighed og effektivisering.",
+  "prompt_tokens": 1659,
+  "completion_tokens": 90,
+  "latency_ms": 1862,
+  "cost_usd": 0.0003858,
+  "created": "2026-11-09T21:17:15.901745Z",
+  "error": null
+}

@@ -1,0 +1,20 @@
+{
+  "model_id": "nebius-gpt-oss-120b",
+  "pinned_version": "openai/gpt-oss-120b",
+  "task_id": "t3_faktaboks",
+  "source_id": "politi-2026-fyn-spraengning-beboelsesejendom",
+  "archetype": null,
+  "prompt_sha256": "5eed86b2070ea12a0423f570a4137e245c39c88fc911d1f693983c6933def1a0",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 575
+  },
+  "text": "- De tre mænd, 19, 21 og 22 år, blev dømt den 20. februar 2026 i Odense Ret.  \n- De forsøgte at sprænge en bombe med mere end fire kilo dynamit i en opgang på Nyborgvej i december 2023.  \n- På tidspunktet var mellem 19 og 25 personer i beboelsesejendommen.  \n- Alle tre blev idømt 14 års fængsel og er varetægtsfængslet efter dommen.  \n- Retten beordrede konfiskation af sprængstof, våben og mobiltelefon samt pålæg om sletning af video.",
+  "prompt_tokens": 982,
+  "completion_tokens": 162,
+  "latency_ms": 640,
+  "cost_usd": 0.0002445,
+  "created": "2026-11-09T21:20:05.138144Z",
+  "error": null
+}

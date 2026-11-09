@@ -1,0 +1,20 @@
+{
+  "model_id": "nebius-qwen3-235b",
+  "pinned_version": "Qwen/Qwen3-235B-A22B-Instruct-2507",
+  "task_id": "t3_faktaboks",
+  "source_id": "fo-2026-ditur-boede-tilbud",
+  "archetype": null,
+  "prompt_sha256": "9acd68b03ead8241a2e9e3927d588a044e8f367e3d542cefbd040283de6b491b",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 575
+  },
+  "text": "- Ditur.dk ApS betaler en bøde på 4,25 millioner kroner for vildledende markedsføring af tilbud.  \n- Forbrugerombudsmanden politianmeldte virksomheden i maj 2026 for overtrædelse af markedsføringsloven.  \n- Overvågningen af priserne på avile.dk og ditur.dk varede i en periode på fem måneder.  \n- En halskæde blev markedsført med en normalpris på 599 kroner, selvom laveste pris de sidste 30 dage var 179 kroner.  \n- Ifølge prismærkningsbekendtgørelsen skal normalprisen være den laveste pris i mindst 30 dage før prisnedsættelsen.",
+  "prompt_tokens": 2089,
+  "completion_tokens": 198,
+  "latency_ms": 4273,
+  "cost_usd": 0.0005366,
+  "created": "2026-11-09T21:17:29.932930Z",
+  "error": null
+}

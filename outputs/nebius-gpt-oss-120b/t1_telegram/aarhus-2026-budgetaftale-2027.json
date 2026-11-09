@@ -1,0 +1,20 @@
+{
+  "model_id": "nebius-gpt-oss-120b",
+  "pinned_version": "openai/gpt-oss-120b",
+  "task_id": "t1_telegram",
+  "source_id": "aarhus-2026-budgetaftale-2027",
+  "archetype": null,
+  "prompt_sha256": "3e35748e41b33da57fe89d6f7af2bb19d6bcb12387e2b589f98ae603c21291b8",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 560
+  },
+  "text": "Aarhus Byråd indgik den 17. september en fire‑årig budgetaftale for 2027, hvor kommuneskatten holdes uændret, men der afsættes ekstra midler til velfærd og infrastruktur. Socialområdet får et årligt løft på 138 mio. kr. via en solidarisk “socialprocent”, mens driftsbudgettet øges med 197 mio. kr. om året. Derudover investeres 810 mio. kr. i anlæg, primært til bedre fremkommelighed for busser, cyklister og andre trafikanter. Over hele perioden løftes velfærden med ca. 2 mia. kr., og næsten 500 mio. kr. går til flere pædagoger og lavere forældrebetaling i dagtilbud. Borgmester Anders Winnerskjold fremhæver balancen mellem bedre kollektiv transport, flere fagprofessionelle i skolen og stærke rammer for erhvervslivet. (112 ord)",
+  "prompt_tokens": 1134,
+  "completion_tokens": 248,
+  "latency_ms": 1456,
+  "cost_usd": 0.0003189,
+  "created": "2026-11-09T21:20:02.977718Z",
+  "error": null
+}

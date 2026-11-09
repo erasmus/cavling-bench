@@ -1,0 +1,20 @@
+{
+  "model_id": "nebius-gpt-oss-120b",
+  "pinned_version": "openai/gpt-oss-120b",
+  "task_id": "t2_rubrik",
+  "source_id": "rigsrevisionen-2026-beretning-pesticider",
+  "archetype": "landsavisen",
+  "prompt_sha256": "1e2e5cbbea019f2f91670d6d54f6ef772db5979d798fee59fdf2c9f65e594b88",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 400
+  },
+  "text": "RUBRIK: Statsrevisorerne: Miljøstyrelsens pesticidkontrol er svag  \nUNDERRUBRIK: I 2025 fandt statsrevisorerne pesticidrester i over 50 % af drikkevandsboringer og påpegede, at Miljøstyrelsens kontrol udelukkende bygger på virksomhedernes selvangivelser, mangler risikovurdering og har overset store mængder uindberettet glyfosat.",
+  "prompt_tokens": 1792,
+  "completion_tokens": 592,
+  "latency_ms": 2153,
+  "cost_usd": 0.000624,
+  "created": "2026-11-09T21:20:06.004649Z",
+  "error": null
+}

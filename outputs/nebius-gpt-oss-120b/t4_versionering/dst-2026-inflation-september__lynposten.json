@@ -1,0 +1,20 @@
+{
+  "model_id": "nebius-gpt-oss-120b",
+  "pinned_version": "openai/gpt-oss-120b",
+  "task_id": "t4_versionering",
+  "source_id": "dst-2026-inflation-september",
+  "archetype": "lynposten",
+  "prompt_sha256": "66c478e9b9ddc4272eb2f487930df438b94ae662985f621c1b5f19729a98670d",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 1025
+  },
+  "text": "2,2 % inflation i september rammer forbrugerne. Det samlede forbrugerprisindeks steg med 2,2 % i forhold til samme måned sidste år. I august var stigningen 2,0 %. Transportgruppen løftede tallet mest. Brændstofpriserne steg kraftigt og trak indekset op.\n\nKerneinflationen, som udelader energi og ikke‑forarbejdede fødevarer, steg med 1,9 % i år. Huslejen var den primære driver. I august lå kerneinflationen på 2,2 %. Sådan påvirkes lejerne i hele landet.\n\nMellem august og september var forbrugerprisindekset uændret. Brændstof, tøj og flyrejser løftede indekset med 0,46 procentpoint. Samtidig faldt leje af sommerhus, pakkerejser og fødevarer med 0,72 procentpoint. Det betyder, at nogle udgifter faldt, mens andre steg.\n\nDanmarks EU‑harmoniserede inflation lå på 2,1 % i september. Tallene for september offentliggøres først 16. oktober. I august steg den EU‑brede inflation til 3,2 % fra 3,0 % i juli. Sverige havde den laveste EU‑inflation i august med 0,3 %, mens Rumænien toppede med 6,3 %.\n\nForskellen mellem det danske forbrugerprisindeks og HICP er, at ejerboligudgifter ikke indgår i HICP. Eurostat offentliggør de samlede EU‑tal én gang om måneden. De kan findes på Eurostats hjemmeside under “Inflation in the euro area” og i databasen “Harmonised indices of consumer prices”.\n\nForbrugerne mærker højere priser på brændstof, tøj og flyrejser. Samtidig kan de spare på sommerhusleje, pakkerejser og fødevarer. Inflationen påvirker både dagligdagen og budgettet.",
+  "prompt_tokens": 1195,
+  "completion_tokens": 595,
+  "latency_ms": 2319,
+  "cost_usd": 0.00053625,
+  "created": "2026-11-09T21:17:07.737023Z",
+  "error": null
+}

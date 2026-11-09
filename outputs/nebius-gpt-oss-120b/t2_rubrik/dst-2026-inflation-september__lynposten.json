@@ -1,0 +1,20 @@
+{
+  "model_id": "nebius-gpt-oss-120b",
+  "pinned_version": "openai/gpt-oss-120b",
+  "task_id": "t2_rubrik",
+  "source_id": "dst-2026-inflation-september",
+  "archetype": "lynposten",
+  "prompt_sha256": "eaf7099bd7376a065db6f6b693ed7ce990500b4896e2a61bde4a3feadc368f79",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 400
+  },
+  "text": "RUBRIK: Inflationen stiger til 2,2 % i september  \nUNDERRUBRIK: Transport og brændstof driver stigningen, mens kerneinflationen på 1,9 % skyldes højere husleje.",
+  "prompt_tokens": 1210,
+  "completion_tokens": 166,
+  "latency_ms": 554,
+  "cost_usd": 0.0002811,
+  "created": "2026-11-09T21:20:03.300955Z",
+  "error": null
+}

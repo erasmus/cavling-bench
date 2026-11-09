@@ -1,0 +1,20 @@
+{
+  "model_id": "nebius-gpt-oss-120b",
+  "pinned_version": "openai/gpt-oss-120b",
+  "task_id": "t4_versionering",
+  "source_id": "fo-2026-ditur-boede-tilbud",
+  "archetype": "landsavisen",
+  "prompt_sha256": "3b3865e02f31f460fd2c209dd4d4faa83329181dfba1dea878ce8fe1cf9a1846",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 1025
+  },
+  "text": "Ditur.dk ApS har i dag accepteret at betale en bøde på 4,25 millioner kroner efter, at Forbrugerombudsmanden i maj 2026 politianmeldte virksomheden for 26 overtrædelser af markedsføringslovens vildledningsforbud og prismærkningsbekendtgørelsen. Anmeldelsen fulgte fem måneders overvågning af priser på avile.dk og ditur.dk, hvor myndigheden konstaterede, at smykker og ure blev præsenteret som tilbud, selvom den oplyste “normalpris” i realiteten var den faktiske salgspris.\n\nForbrugerombudsmanden vurderer, at når en vare markedsføres til nedsat pris i så lange perioder, at den oprindelige pris bliver mere teoretisk end faktisk, vil den angivne normalpris vildlede forbrugerne. I et konkret eksempel var en halskæde i 50 dage på tilbud i 28 dage, men den faste normalpris på 599 kroner stod i strid med de laveste priser i de to foregående 30‑dages perioder, som var henholdsvis 199 kroner og 179 kroner. De annoncerede besparelser var derfor ikke så store, som de fremstod.\n\nIfølge prismærkningsbekendtgørelsens § 9 a skal den normalpris, der sammenlignes med, være den laveste pris, som den erhvervsdrivende har anvendt i mindst 30 dage forud for prisnedsættelsen. Bødens størrelse er fastsat efter den model, der trådte i kraft 1. januar 2022, og har til formål at skærpe sanktionerne for overtrædelser af markedsføringsloven.\n\nForbrugerombudsmand Torben Jensen udtaler: “Vi har desværre haft en del sager, hvor en virksomhed markedsfører tilbud baseret på normalpriser, der ikke har været retvisende, så forbrugerne tror, at de kan gøre et godt køb. Det er både vildledende og en overtrædelse af prismærkningsbekendtgørelsen, og derfor er det en sag, vi politianmelder.” Sagen understreger, at overholdelse af reglerne for prismarkedsføring er afgørende for forbrugertilliden og for fair konkurrence på markedet.",
+  "prompt_tokens": 2040,
+  "completion_tokens": 859,
+  "latency_ms": 3067,
+  "cost_usd": 0.0008214,
+  "created": "2026-11-09T21:17:09.001618Z",
+  "error": null
+}

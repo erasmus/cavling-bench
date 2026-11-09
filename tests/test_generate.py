@@ -33,5 +33,39 @@ def test_generate_is_idempotent_and_writes_valid_outputs(fixture_cfg):
     rec = json.loads(f.read_text())
     assert rec["archetype"] == "lynposten" and rec["error"] is None
     assert rec["params"]["max_tokens"] == 275 * 3 + 200
+    assert rec["params"]["reasoning_effort"] is None
     st = status(fixture_cfg)
     assert st["fake-echo"] == {"expected": 27, "present": 27, "errors": 0}
+
+
+def test_generate_records_effective_params_for_reasoning_models(fixture_cfg):
+    model = next(m for m in fixture_cfg.models if m.id == "fake-echo")
+    model.reasoning_effort = "low"
+    model.reasoning_budget_tokens = 1500
+    run_generate(fixture_cfg, models=["fake-echo"])
+    f = (
+        fixture_cfg.paths.outputs
+        / "fake-echo"
+        / "t4_versionering"
+        / "fx-ft-2026-l45__lynposten.json"
+    )
+    rec = json.loads(f.read_text())
+    assert rec["params"]["max_tokens"] == 275 * 3 + 200 + 1500
+    assert rec["params"]["reasoning_effort"] == "low"
+
+
+def test_generate_records_tokens_and_cost_for_empty_completions(fixture_cfg):
+    model = next(m for m in fixture_cfg.models if m.id == "fake-echo")
+    model.litellm_model = "fake/empty"
+    model.price_out_per_m = 2.0
+    run_generate(fixture_cfg, models=["fake-echo"])
+    f = (
+        fixture_cfg.paths.outputs
+        / "fake-echo"
+        / "t4_versionering"
+        / "fx-ft-2026-l45__lynposten.json"
+    )
+    rec = json.loads(f.read_text())
+    assert rec["error"] and rec["error"].startswith("EmptyCompletion")
+    assert rec["text"] == ""
+    assert rec["completion_tokens"] > 0 and rec["cost_usd"] > 0

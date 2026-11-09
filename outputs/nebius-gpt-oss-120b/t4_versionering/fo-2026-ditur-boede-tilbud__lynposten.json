@@ -1,0 +1,20 @@
+{
+  "model_id": "nebius-gpt-oss-120b",
+  "pinned_version": "openai/gpt-oss-120b",
+  "task_id": "t4_versionering",
+  "source_id": "fo-2026-ditur-boede-tilbud",
+  "archetype": "lynposten",
+  "prompt_sha256": "f41008b48e3d16fd0d3ce00367855fa4cdf8b8093a9753f0d38e4caa7241bf37",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 1025
+  },
+  "text": "4,25 millioner kroner betaler Ditur.dk ApS efter at Forbrugerombudsmanden i maj 2026 politianmeldte virksomheden for vildledende tilbud. Over 26 tilfælde blev markedsføringsloven og prismærkningsbekendtgørelsen brudt, siger myndigheden.\n\nForbrugerombudsmanden overvågede priser på avile.dk og ditur.dk i fem måneder. Den fandt, at smykker og ure blev præsenteret som tilbud, selvom de reelt ikke var nedsat. Normalpriserne var kun teoretiske, mens “tilbudspriserne” svarede til de faktiske priser. Det gjorde tilbuddene tilsyneladende bedre, end de var.\n\nIfølge prismærkningsbekendtgørelsens § 9 a skal normalprisen være den laveste pris, der er brugt i mindst 30 dage før prisnedsættelsen. I sagen var en halskæde i 50 dage på tilbud i 28 dage. Den blev markedsført med en fast normalpris på 599 kroner, selvom de laveste priser i de to foregående 30‑dages perioder var 199 kroner og 179 kroner. De lovede besparelser var derfor vildledende.\n\nDitur.dk ApS har erkendt alle forhold og accepteret bøden på 4,25 millioner kroner. Bødens størrelse er fastsat efter den model, der trådte i kraft 1. januar 2022, og som har skærpet straffen for overtrædelser af markedsføringsloven.\n\nForbrugerombudsmand Torben Jensen udtaler: “Vi har desværre haft en del sager, hvor en virksomhed markedsfører tilbud baseret på normalpriser, der ikke har været retvisende, så forbrugerne tror, at de kan gøre et godt køb.” Sagen viser, at virksomheder skal følge reglerne for prismarkedsføring, så forbrugerne ikke bliver vildledt.",
+  "prompt_tokens": 2047,
+  "completion_tokens": 474,
+  "latency_ms": 2357,
+  "cost_usd": 0.0005914500000000001,
+  "created": "2026-11-09T21:20:07.496453Z",
+  "error": null
+}

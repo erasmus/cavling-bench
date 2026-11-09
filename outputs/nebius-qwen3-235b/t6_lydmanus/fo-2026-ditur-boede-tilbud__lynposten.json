@@ -1,0 +1,20 @@
+{
+  "model_id": "nebius-qwen3-235b",
+  "pinned_version": "Qwen/Qwen3-235B-A22B-Instruct-2507",
+  "task_id": "t6_lydmanus",
+  "source_id": "fo-2026-ditur-boede-tilbud",
+  "archetype": "lynposten",
+  "prompt_sha256": "c2549273a78997f6b144c5d4ccaf8814fd2145be08121df26011cb4eaf1c4452",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 620
+  },
+  "text": "Ditur betaler fire og en kvart million kroner i bøde. Det skyldes vildledende markedsføring af tilbud på smykker og ure. Forbrugerombudsmanden anmeldte virksomheden i maj to tusind seksogtyve. Der var tale om 26 overtrædelser af markedsføringsloven og prismærkningsbekendtgørelsen. På hjemmesiderne avile.dk og ditur.dk blev varer sat på tilbud i op til otte ud af ti dage. Normalprisen var ofte højere, end den reelt havde været de seneste 30 dage. Et eksempel er en halskæde, der i 50 dage blev markedsført med en fast normalpris på fem hundrede nioghalvfems kroner. Den laveste pris de to foregående måneder var dog kun et hundrede nioghalvfems kroner. Forbrugerombudsmand Torben Jensen siger, at virksomheder ikke må lade tilbud fremstå bedre, end de er. Ditur har erkendt forholdene og accepteret bøden.",
+  "prompt_tokens": 2449,
+  "completion_tokens": 277,
+  "latency_ms": 12007,
+  "cost_usd": 0.000656,
+  "created": "2026-11-09T21:18:14.955946Z",
+  "error": null
+}

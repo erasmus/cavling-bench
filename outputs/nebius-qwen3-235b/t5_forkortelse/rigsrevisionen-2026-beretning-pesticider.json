@@ -1,0 +1,20 @@
+{
+  "model_id": "nebius-qwen3-235b",
+  "pinned_version": "Qwen/Qwen3-235B-A22B-Instruct-2507",
+  "task_id": "t5_forkortelse",
+  "source_id": "rigsrevisionen-2026-beretning-pesticider",
+  "archetype": null,
+  "prompt_sha256": "e945ada437c48fd48e4a97f95830305ae53a42412c9c31ad344815388b8a5cf5",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 860
+  },
+  "text": "Den 7. september 2026 behandlede Statsrevisorerne Beretning nr. 23/2025 om kontrol med pesticider, som blev afgivet til Folketinget. Pesticider bruges til at beskytte planter, men udgør en belastning for miljø og sundhed. Siden 2018 er indholdet af pesticider i danske drikkevandsboringer steget, og i 2025 blev der fundet pesticidrester i over halvdelen af boringerne. Vandforsyningsselskaberne må derfor ofte fortynde grundvand, før det kan anvendes som drikkevand. Brugen og kontrollen med pesticider reguleres af dansk lovgivning og EU’s forordninger. Siden 1986 har der været et mål om at begrænse brugen, og i 2022 indgik man en politisk aftale om at styrke kontrollen, suppleret med en tillægsaftale i 2025. Der blev tilført flere penge til kontrol i perioden 2022–2026. Statsrevisorerne vurderer, at Miljøministeriets kontrol er stærkt foruroligende og helt utilstrækkelig. Kontrollen bygger næsten udelukkende på virksomhedernes selvangivelser og er ikke baseret på risikovurdering. Selv ved selvanmeldte overtrædelser har der ofte ikke været konsekvenser. Miljøstyrelsen har forvaltet i strid med kemikalieloven og mangler kendskab til sit lovgrundlag. Der er ikke efterprøvning af oplysninger om pesticidforbrug. Siden 2018 har styrelsen vidst, at ikke alt forbrug bliver indberettet – fx er 7.800 tons glyfosat, svarende til knap halvdelen af det samlede indkøb siden 2011, ikke indberettet. Styrelsen har ikke undersøgt, hvor stoffet er blevet af. Miljøstyrelsen udvælger ikke virksomheder til kontrol efter risiko, trods pligt efter EU’s kontrolforordning. I 2022–2025 søgte styrelsen kun efter 4 slags ulovlige pesticider, selv om der er hundredvis af forbudte. Kontrollører bruger primært virksomhedernes egne sprøjtejournaler, hvilket gør det umuligt at bevise ulovligt forbrug uden oplysninger i journalen. Frem til foråret 2025 undlod styrelsen at følge op på selvanmeldte overtrædelser, hvilket var i strid med loven. Virksomheder, der angiver, at de ikke bruger pesticider, undtages helt fra kontrol. Styrelsen for Grøn Arealomlægning og Vandmiljø har flere gange siden 2020 foreslået krydstjek af køb, forbrug og lager, men Miljøstyrelsen har ikke handlet.",
+  "prompt_tokens": 1827,
+  "completion_tokens": 762,
+  "latency_ms": 15613,
+  "cost_usd": 0.0008226,
+  "created": "2026-11-09T21:18:09.920837Z",
+  "error": null
+}

@@ -1,6 +1,6 @@
 # Writing facts files (for whoever curates data/facts/<id>.yaml)
 
-One file per source, schema in REQUIREMENTS.md §5.2. Example (from the test fixtures):
+One file per source, schema `FactsFile` in `src/danews/schemas.py`. Example (from the test fixtures):
 
 ```yaml
 source_id: fx-dst-2026-ledighed

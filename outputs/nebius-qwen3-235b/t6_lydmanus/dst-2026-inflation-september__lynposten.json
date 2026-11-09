@@ -1,0 +1,20 @@
+{
+  "model_id": "nebius-qwen3-235b",
+  "pinned_version": "Qwen/Qwen3-235B-A22B-Instruct-2507",
+  "task_id": "t6_lydmanus",
+  "source_id": "dst-2026-inflation-september",
+  "archetype": "lynposten",
+  "prompt_sha256": "38fec05aae24ac799955c90a544d78c5a1fff2dadeb8b75c0a5146444d2c01b1",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 620
+  },
+  "text": "Inflationen steg til to komma to procent i september. Det viser tal fra Danmarks Statistik. Stigningen betyder, at priserne er steget mere end i august, hvor inflationen var to procent. Især brændstofpriserne kører op. De trækker inflationen op sammen med priserne på tøj og flyrejser. Men faldende priser på sommerhusleje, pakkerejser og fødevarer trækker ned. Samlet set blev forbrugerprisindekset uændret fra august til september. Kerneinflationen, som ser bort fra svingende energi- og fødevarepriser, faldt til en stigning på et komma ni procent. I august var den to komma to procent. Danmarks EU-harmoniserede inflation var to komma et procent i september. I august havde hele EU en gennemsnitlig inflation på tre komma to procent. Sverige havde lavest inflation med nul komma tre procent.",
+  "prompt_tokens": 1373,
+  "completion_tokens": 244,
+  "latency_ms": 10261,
+  "cost_usd": 0.000421,
+  "created": "2026-11-09T21:18:11.885929Z",
+  "error": null
+}

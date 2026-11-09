@@ -1,0 +1,20 @@
+{
+  "model_id": "nebius-gpt-oss-120b",
+  "pinned_version": "openai/gpt-oss-120b",
+  "task_id": "t1_telegram",
+  "source_id": "dst-2026-inflation-september",
+  "archetype": null,
+  "prompt_sha256": "1c34324828ae78616a012db331749906e38c0e62f2c372194186c0c10678b3ee",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 560
+  },
+  "text": "Inflationen i Danmark steg til 2,2 % i september 2026 sammenlignet med samme måned året før, ifølge Danmarks Statistik den 12. oktober, en stigning fra august, hvor den lå på 2,0 %. Hovedgruppen transport, især brændstofpriser, var den største drivkraft, mens kerneinflationen (ekskl. energi og ikke‑forarbejdede fødevarer) nåede 1,9 % på årsbasis, primært på grund af højere huslejeomkostninger. Fra august til september var det samlede forbrugerprisindeks uændret, men brændstof, tøj og flyrejser løftede indekset med 0,46 procentpoint, mens leje af sommerhus, pakkerejser og fødevarer trak det ned med 0,72 procentpoint. Danmarks EU‑harmoniserede inflation lå på 2,1 % i september, mens EU‑gennemsnittet steg til 3,2 % i august; de endelige september‑tal offentliggøres 16. oktober på Eurostats hjemmeside.",
+  "prompt_tokens": 900,
+  "completion_tokens": 288,
+  "latency_ms": 1796,
+  "cost_usd": 0.00030779999999999995,
+  "created": "2026-11-09T21:20:03.326520Z",
+  "error": null
+}

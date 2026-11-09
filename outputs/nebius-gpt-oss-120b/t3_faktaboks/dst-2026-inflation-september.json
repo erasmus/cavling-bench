@@ -1,0 +1,20 @@
+{
+  "model_id": "nebius-gpt-oss-120b",
+  "pinned_version": "openai/gpt-oss-120b",
+  "task_id": "t3_faktaboks",
+  "source_id": "dst-2026-inflation-september",
+  "archetype": null,
+  "prompt_sha256": "8aaabdb82d68246b9dd430cc61d0086390fea096c229c661995b8c89c90d9695",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 575
+  },
+  "text": "- I september steg det samlede forbrugerprisindeks med 2,2 % i forhold til samme måned året før.  \n- Kerneinflationen (ekskl. energi og ikke‑forarbejdede fødevarer) havde en årsstigning på 1,9 % i september.  \n- Danmarks EU‑harmoniserede inflation lå på 2,1 % i september.  \n- I august var den EU‑harmoniserede inflation for de 27 EU‑lande 3,2 %, op fra 3,0 % i juli.  \n- Sverige havde den laveste EU‑harmoniserede inflation i august med 0,3 %.",
+  "prompt_tokens": 914,
+  "completion_tokens": 174,
+  "latency_ms": 716,
+  "cost_usd": 0.0002415,
+  "created": "2026-11-09T21:20:04.911460Z",
+  "error": null
+}

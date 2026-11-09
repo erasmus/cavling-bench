@@ -1,0 +1,20 @@
+{
+  "model_id": "nebius-gpt-oss-120b",
+  "pinned_version": "openai/gpt-oss-120b",
+  "task_id": "t4_versionering",
+  "source_id": "politi-2026-fyn-spraengning-beboelsesejendom",
+  "archetype": "landsavisen",
+  "prompt_sha256": "b9ca15a4596e27a26eda28972d47d1dfbf2ee9a46847b300237cae26cce03e4c",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 1025
+  },
+  "text": "Tre unge mænd på 19, 21 og 22 år er i dag blevet idømt 14 års fængsel hver ved Retten i Odense for et mislykket forsøg på at sprænge en beboelsesejendom på Nyborgvej i december 2023. På tidspunktet var mellem 19 og 25 personer i opgangen, men gerningsmændene nåede ikke at få adgang, og politiet afbrød handlingen, da de ankom til stedet. Dommen omfatter også indførsel, transport og besiddelse af mere end fire kilo dynamit under særligt skærpende omstændigheder samt våbenlovsovertrædelser.\n\nSagen omfatter desuden planlægning og gennemførelse af skud mod en anden beboelsesejendom i Seden i marts 2023, hvor en familie med to børn boede. Skuddene udgjorde en umiddelbar fare for beboernes liv og helbred. En af de dømte har yderligere fået en dom for grov og langvarig frihedsberøvelse, mishandling og voldtægt af en mand i februar 2023, herunder gentagne slag, spark, forbrændinger og deling af video af overgrebet på sociale medier.\n\nSpecialanklager Daniel Dokkedahl fra Fyns Politi udtaler, at retten har sendt et klart signal om, at ekstrem og organiseret kriminalitet straffes hårdt, fordi både konkrete ofre og tilfældige borgere har været i livsfare. Retten har også beordret konfiskation af sprængstof, våben og mobiltelefoner samt pålagt sletning af den filmede voldtægt. De tre mænd er fortsat varetægtsfængslet, mens den 22-årige har anmodet om betænkningstid, og de to øvrige har ankende dommen på stedet.",
+  "prompt_tokens": 1256,
+  "completion_tokens": 440,
+  "latency_ms": 2122,
+  "cost_usd": 0.0004524,
+  "created": "2026-11-09T21:20:07.865848Z",
+  "error": null
+}

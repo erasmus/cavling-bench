@@ -49,3 +49,36 @@ no `*_API_KEY` in the environment). Command once keys are in `.env`:
 Freeze: data/ and prompts are *ready to freeze* but not frozen; the owner should spot-read the
 facts files (drafted from the texts, not hand-written) and confirm archetype names against the
 Danish media registry (§15) before recording the freeze commit here.
+
+## 2026-11-09 22:10 — gpt-oss-120b is a reasoning model; reasoning budget added
+First Nebius run: 40 of 45 gpt-oss-120b outputs came back empty with no error, because hidden
+reasoning consumed the whole task `max_tokens`. `models.yaml` rows now accept `reasoning_effort`
+and `reasoning_budget_tokens`; gpt-oss-120b is pinned at `low` / 1500 extra tokens (observed
+completions 114–860 tokens afterwards). An empty completion is now recorded as an error, and judge
+stages skip a judge whose key is unset instead of writing error records; error records are retried
+on the next run. Qwen3-235B median latency 14 s vs 1.5 s for gpt-oss (both serverless).
+
+## 2026-11-09 22:15 — M1 end-to-end run done (Nebius only)
+`generate → check → judge → report → site` ran on 5 sources × 2 models (nebius-gpt-oss-120b,
+nebius-qwen3-235b): 90/90 outputs, 90 grounding + 90 fluency records from Judge A, 0 tone pairs
+(both generators are judged only by Judge B under the cross-family rule, and no Anthropic key is
+set yet). Credit spend USD 0.19, paid USD 0.00. Nebius catalogue checked via `/v1/models`: both
+pinned ids are served; DeepSeek-V4-Pro / V4.1-Flash, Kimi-K3 and MiniMax-M3 are also available.
+Decision on adding any of them is open (owner).
+
+## 2026-11-09 22:40 — Renamed to Cavling-bench
+The benchmark is now called Cavling-bench, matching the GitHub repo `erasmus/cavling-bench`.
+All user-facing text, the distribution name, user agent and report were renamed. The Python
+package and CLI keep the short name `danews` (code, not user-facing). `REQUIREMENTS.md` is
+removed from version control and git-ignored like `specs/`; it stays on disk as the working spec.
+
+## 2026-11-09 23:00 — review fixes: empty completions are billed; params record what was sent
+Ultrareview of `feat/nebius-run-and-rename` found that `EmptyCompletion` was raised before
+`log_cost`, so the ~40 empty gpt-oss calls of the first run never reached `costs.jsonl` (they are
+not recoverable; the USD 45 total is under-counted by roughly those 40 × ~560 completion tokens).
+Fixed: the exception now carries the billed usage, `acomplete` logs it (and never caches it), and
+`generate` records tokens and cost on the error Output. `Output.params` now records the effective
+request (`max_tokens` incl. `reasoning_budget_tokens`, plus `reasoning_effort`); the 45 committed
+gpt-oss outputs still say `max_tokens: 560`, which was the task cap, not the 2060 sent. They are
+not regenerated (outputs/ is not frozen, but a rerun costs money for no scoring change); the next
+`generate --force` corrects them.

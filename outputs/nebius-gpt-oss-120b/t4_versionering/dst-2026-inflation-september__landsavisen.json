@@ -1,0 +1,20 @@
+{
+  "model_id": "nebius-gpt-oss-120b",
+  "pinned_version": "openai/gpt-oss-120b",
+  "task_id": "t4_versionering",
+  "source_id": "dst-2026-inflation-september",
+  "archetype": "landsavisen",
+  "prompt_sha256": "269dd3d97a80edcc5518cdd108790910ae6a27d58eadbaed9b24707e631bbc17",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 1025
+  },
+  "text": "I september steg Danmarks samlede forbrugerprisindeks (FPI) med 2,2 % i forhold til samme måned året før, hvilket er en fortsættelse af den stigende inflation efter en stigning på 2,0 % i august. Stigningen skyldes primært hovedgruppen transport, hvor især prisstigninger på brændstof har haft den største indvirkning på indekset. Samtidig har prisfald på leje af sommerhus, pakkerejser og fødevarer trukket indekset ned med 0,72 procentpoint, mens brændstof, tøj og flyrejser løftede det med 0,46 procentpoint.\n\nKerneinflationen – forbrugerprisindekset ekskl. energi og ikke‑forarbejdede fødevarer – lå på 1,9 % i september, en nedgang fra 2,2 % i august. Den primære driver for kerneinflationen er stigende huslejepriser, mens de øvrige komponenter har haft mindre indflydelse.\n\nDanmarks EU‑harmoniserede inflation (HICP) udgjorde 2,1 % i september. Selvom de officielle tal for september på europæisk niveau endnu ikke er offentliggjort, viser de seneste data, at den EU‑harmoniserede inflation for de 27 EU‑lande steg til 3,2 % i august fra 3,0 % i juli. I august var Sverige med 0,3 % den laveste, mens Rumænien med 6,3 % lå i toppen.\n\nForskellen mellem det danske FPI og HICP er, at udgifter til ejerboliger ikke indgår i HICP. Eurostat offentliggør de samlede EU‑inflationstal én gang om måneden; tallene for september vil blive tilgængelige den 16. oktober 2026 på Eurostats hjemmeside under “Inflation in the euro area” og i databasen “Harmonised indices of consumer prices”.",
+  "prompt_tokens": 1188,
+  "completion_tokens": 469,
+  "latency_ms": 1661,
+  "cost_usd": 0.00045959999999999995,
+  "created": "2026-11-09T21:20:06.683426Z",
+  "error": null
+}

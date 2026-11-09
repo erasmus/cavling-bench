@@ -17,7 +17,7 @@ from rich.console import Console
 
 from .check import load_outputs
 from .config import Config
-from .llm import LLMClient
+from .llm import LLMClient, model_is_reachable
 from .pairs import schedule
 from .schemas import (
     FluencyRecord,
@@ -111,6 +111,32 @@ def _append_jsonl(path, records: list[BaseModel]) -> None:
             f.write(r.model_dump_json() + "\n")
 
 
+def _load_done[T: BaseModel](path, model: type[T], force: bool) -> list[T]:
+    """Existing successful records. Error records are dropped from the file so they are retried."""
+    if force:
+        if path.exists():
+            path.unlink()
+        return []
+    recs = _read_jsonl(path, model)
+    good = [r for r in recs if not getattr(r, "error", None)]
+    if len(good) != len(recs):
+        path.write_text("".join(r.model_dump_json() + "\n" for r in good))
+    return good
+
+
+def _active_judges(cfg: Config, stats: dict[str, Any]) -> list[tuple[int, ModelCfg]]:
+    """Judges that can be called now; unreachable ones are reported in stats and skipped."""
+    active = []
+    for ix, judge in enumerate(_judges(cfg)):
+        reason = model_is_reachable(judge)
+        if reason:
+            stats[f"{judge.id}_skipped"] = reason
+            console.print(f"[yellow]{judge.id}: skipped ({reason})[/yellow]")
+        else:
+            active.append((ix, judge))
+    return active
+
+
 def _judges(cfg: Config) -> list[ModelCfg]:
     js = [cfg.model(cfg.models_file.judges.A)]
     if cfg.models_file.judges.B:
@@ -136,19 +162,13 @@ def _plan_outputs(cfg: Config, outputs: list[Output], judge_ix: int) -> list[Out
 
 async def _grounding(cfg: Config, only: str | None, use_cache: bool, force: bool) -> dict:
     path = cfg.paths.scores / "grounding.jsonl"
-    done = (
-        {(r.output_ref, r.judge_id) for r in _read_jsonl(path, GroundingRecord)}
-        if not force
-        else set()
-    )
-    if force and path.exists():
-        path.unlink()
+    done = {(r.output_ref, r.judge_id) for r in _load_done(path, GroundingRecord, force)}
     template = _env.from_string(cfg.prompt_template("judge_grounding"))
     client = LLMClient(cfg.paths, use_cache=use_cache, stage="judge_grounding")
     outputs = _usable(load_outputs(cfg))
     if only:
         outputs = [o for o in outputs if only in o.ref]
-    stats: dict[str, int] = defaultdict(int)
+    stats: dict[str, Any] = defaultdict(int)
 
     async def one(judge: ModelCfg, out: Output) -> GroundingRecord | None:
         if (out.ref, judge.id) in done:
@@ -171,7 +191,7 @@ async def _grounding(cfg: Config, only: str | None, use_cache: bool, force: bool
             error=err,
         )
 
-    for ix, judge in enumerate(_judges(cfg)):
+    for ix, judge in _active_judges(cfg, stats):
         plan = _plan_outputs(cfg, outputs, ix)
         recs = [r for r in await asyncio.gather(*[one(judge, o) for o in plan]) if r]
         _append_jsonl(path, recs)
@@ -191,19 +211,13 @@ def run_grounding(
 
 async def _fluency(cfg: Config, only: str | None, use_cache: bool, force: bool) -> dict:
     path = cfg.paths.scores / "fluency.jsonl"
-    done = (
-        {(r.output_ref, r.judge_id) for r in _read_jsonl(path, FluencyRecord)}
-        if not force
-        else set()
-    )
-    if force and path.exists():
-        path.unlink()
+    done = {(r.output_ref, r.judge_id) for r in _load_done(path, FluencyRecord, force)}
     template = _env.from_string(cfg.prompt_template("judge_fluency"))
     client = LLMClient(cfg.paths, use_cache=use_cache, stage="judge_fluency")
     outputs = _usable(load_outputs(cfg))
     if only:
         outputs = [o for o in outputs if only in o.ref]
-    stats: dict[str, int] = defaultdict(int)
+    stats: dict[str, Any] = defaultdict(int)
 
     async def one(judge: ModelCfg, out: Output) -> FluencyRecord | None:
         if (out.ref, judge.id) in done:
@@ -224,7 +238,7 @@ async def _fluency(cfg: Config, only: str | None, use_cache: bool, force: bool) 
             error=err,
         )
 
-    for ix, judge in enumerate(_judges(cfg)):
+    for ix, judge in _active_judges(cfg, stats):
         plan = _plan_outputs(cfg, outputs, ix)
         recs = [r for r in await asyncio.gather(*[one(judge, o) for o in plan]) if r]
         _append_jsonl(path, recs)
@@ -269,17 +283,15 @@ def single_judge_cells(cfg: Config) -> list[tuple[str, str]]:
 
 async def _tone(cfg: Config, only: str | None, use_cache: bool, force: bool) -> dict:
     path = cfg.paths.scores / "tone_pairs.jsonl"
-    existing = _read_jsonl(path, TonePairRecord) if not force else []
+    existing = _load_done(path, TonePairRecord, force)
     done = {(r.slot_ref, r.left_model, r.right_model, r.judge_id) for r in existing}
-    if force and path.exists():
-        path.unlink()
     template = _env.from_string(cfg.prompt_template("judge_tone_pairwise"))
     client = LLMClient(cfg.paths, use_cache=use_cache, stage="judge_tone")
     outputs = _usable(load_outputs(cfg))
     pairs = tone_pairs(cfg, outputs)
     if only:
         pairs = [p for p in pairs if only in p[0]]
-    stats: dict[str, int] = defaultdict(int)
+    stats: dict[str, Any] = defaultdict(int)
 
     async def one(judge: ModelCfg, slot_ref: str, left: Output, right: Output, seed: int):
         if (slot_ref, left.model_id, right.model_id, judge.id) in done:
@@ -311,7 +323,7 @@ async def _tone(cfg: Config, only: str | None, use_cache: bool, force: bool) -> 
             error=err,
         )
 
-    for ix, judge in enumerate(_judges(cfg)):
+    for ix, judge in _active_judges(cfg, stats):
         plan = pairs
         if ix > 0:
             plan = stratified_sample(

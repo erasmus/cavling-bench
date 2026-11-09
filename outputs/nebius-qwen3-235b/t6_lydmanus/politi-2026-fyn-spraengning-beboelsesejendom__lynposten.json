@@ -1,0 +1,20 @@
+{
+  "model_id": "nebius-qwen3-235b",
+  "pinned_version": "Qwen/Qwen3-235B-A22B-Instruct-2507",
+  "task_id": "t6_lydmanus",
+  "source_id": "politi-2026-fyn-spraengning-beboelsesejendom",
+  "archetype": "lynposten",
+  "prompt_sha256": "52c2efccdf13f57086a6ad9401b4f992d0721d4158dc38a426729ab5d2de3b25",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 620
+  },
+  "text": "Tretten år fik tre unge mænd i dag. De er dømt for forsøg på at sprænge en beboelsesejendom i Odense. Retten i Odense afsagde dom fredag den tyvende februar to tusind seksogtyve. De mænd er 19, 21 og 22 år gamle. De forsøgte at sprænge en opgang på Nyborgvej med over fire kilo dynamit. Det var i december to tusind treogtyve. Der var mellem 19 og 25 personer i bygningen på det tidspunkt. Forsøget mislykkedes. Politiet stoppede dem. De fik ikke adgang til opgangen. De er også dømt for at have planlagt skud mod en bolig i Seden. En familie med to børn boede der. De mænd er desuden dømt for våbenlovsovertrædelser og besiddelse af sprængstof. En af dem er dømt for grov frihedsberøvelse og mishandling over to uger. Offeret blev slået, sparket og forbrændt. Der blev filmet og delt videoer via sociale medier. Han er også dømt for voldtægt under særligt skærpende omstændigheder. Alle tre mænd får 14 års fængsel. Det oplyser Fyns Politi. Specialanklager Daniel Dokkedahl fra Fyns Politi siger, at retten har sendt et klart signal. Den 22-årige tog betænkningstid. De to andre anker dommen.",
+  "prompt_tokens": 1487,
+  "completion_tokens": 381,
+  "latency_ms": 12626,
+  "cost_usd": 0.000526,
+  "created": "2026-11-09T21:18:16.103079Z",
+  "error": null
+}

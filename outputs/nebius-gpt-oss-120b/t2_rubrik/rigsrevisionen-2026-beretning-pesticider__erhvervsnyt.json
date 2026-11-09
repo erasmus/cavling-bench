@@ -1,0 +1,20 @@
+{
+  "model_id": "nebius-gpt-oss-120b",
+  "pinned_version": "openai/gpt-oss-120b",
+  "task_id": "t2_rubrik",
+  "source_id": "rigsrevisionen-2026-beretning-pesticider",
+  "archetype": "erhvervsnyt",
+  "prompt_sha256": "21deba0f10a3a26db66fce9657bc6adb8e13d73aee97b4197fb5b6921f4165a2",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 400
+  },
+  "text": "RUBRIK: Statsrevisorerne: Pesticidkontrollen er utilstrækkelig  \nUNDERRUBRIK: Over 50 % af danske drikkevandsboringer indeholder pesticidrester, 7.800 t glyfosat er uindberettet, og Miljøstyrelsens kontrol bygger kun på virksomhedernes selvangivelser uden risikovurdering.",
+  "prompt_tokens": 1782,
+  "completion_tokens": 497,
+  "latency_ms": 2175,
+  "cost_usd": 0.0005655,
+  "created": "2026-11-09T21:20:06.030918Z",
+  "error": null
+}

@@ -1,0 +1,20 @@
+{
+  "model_id": "nebius-qwen3-235b",
+  "pinned_version": "Qwen/Qwen3-235B-A22B-Instruct-2507",
+  "task_id": "t5_forkortelse",
+  "source_id": "fo-2026-ditur-boede-tilbud",
+  "archetype": null,
+  "prompt_sha256": "c1314e2e76fe074e3c93c8f79b5e7faf7f4f30558fdd83b6fa190a0c11c63dfc",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 860
+  },
+  "text": "Ditur.dk ApS betaler en bøde på 4,25 millioner kroner efter at være politianmeldt af Forbrugerombudsmanden i maj 2026 for 26 overtrædelser af markedsføringslovens vildledningsforbud og prismærkningsbekendtgørelsen. På avile.dk og ditur.dk blev priser på tilfældigt udvalgte varer overvåget i fem måneder. Forbrugerombudsmanden vurderer, at virksomheden markedsførte smykker og ure som tilbud over så lange perioder, at den oplyste “normalpris” blev teoretisk, mens “tilbudsprisen” reelt var normalprisen. Det vildledte forbrugerne om den reelle pris og gjorde tilbuddene mere attraktive, end de var. Ifølge prismærkningsbekendtgørelsen § 9 a skal normalprisen være den laveste pris i mindst 30 dage før prisnedsættelsen. I et eksempel var en halskæde på tilbud 28 af 50 dage med fast normalpris på 599 kroner, selvom de faktiske laveste priser de foregående 30 dage var 199 og 179 kroner. Besparelserne var derfor overvurderet. Ditur.dk ApS har erkendt alle forhold og accepteret bøden. Bødens størrelse er fastsat efter modellen fra 1. januar 2022, der skærper sanktioner for markedsføringslovens overtrædelser. Forbrugerombudsmand Torben Jensen understreger, at urigtige normalpriser vildleder forbrugerne og undergraver tillid og fair konkurrence. Lovgivningen kræver, at markedsføring ikke indeholder urigtige eller vildledende oplysninger om prisfordele, og at væsentlige oplysninger gives klart og tydeligt.",
+  "prompt_tokens": 2086,
+  "completion_tokens": 489,
+  "latency_ms": 14629,
+  "cost_usd": 0.0007106,
+  "created": "2026-11-09T21:18:01.623301Z",
+  "error": null
+}

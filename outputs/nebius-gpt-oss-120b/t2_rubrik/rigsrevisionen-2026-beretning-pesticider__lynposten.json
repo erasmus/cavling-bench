@@ -1,0 +1,20 @@
+{
+  "model_id": "nebius-gpt-oss-120b",
+  "pinned_version": "openai/gpt-oss-120b",
+  "task_id": "t2_rubrik",
+  "source_id": "rigsrevisionen-2026-beretning-pesticider",
+  "archetype": "lynposten",
+  "prompt_sha256": "d99c7112d91ed8c5e97162a8d23087141be99b300f8b8c238649e48f95ce4315",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 400
+  },
+  "text": "RUBRIK: Statsrevisorerne kritiserer Miljøministeriets pesticidkontrol som utilstrækkelig  \nUNDERRUBRIK: Kontrollen bygger næsten udelukkende på virksomhedernes selvangivelser, mangler risikovurdering og har overset 7.800 tons glyfosat siden 2011.",
+  "prompt_tokens": 1799,
+  "completion_tokens": 242,
+  "latency_ms": 845,
+  "cost_usd": 0.00041505,
+  "created": "2026-11-09T21:20:04.569365Z",
+  "error": null
+}

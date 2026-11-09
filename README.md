@@ -1,10 +1,10 @@
-# DaNews-Edit
+# Cavling-bench
 
-**Dansk resumé.** DaNews-Edit er et åbent benchmark, der måler, hvilke sprogmodeller der kan betros danske redaktionelle opgaver – på hvilket grundlag og til hvilken afhængighedspris. Seks faste opgaver (telegram, rubrik, faktaboks, versionering, forkortelse, lydmanus) køres over 40 danske offentlige kildetekster på ~13 modeller fra amerikanske frontier-modeller til danske åbne modeller. Output scores på kildetroskab, tonefit, dansk sprogkvalitet og formatoverholdelse med mekaniske tjek, to dommermodeller fra forskellige modelfamilier og en menneskelig stikprøve med rapporteret enighed. Ingen samlet score; alle tal har konfidensintervaller.
+**Dansk resumé.** Cavling-bench er et åbent benchmark, der måler, hvilke sprogmodeller der kan betros danske redaktionelle opgaver – på hvilket grundlag og til hvilken afhængighedspris. Seks faste opgaver (telegram, rubrik, faktaboks, versionering, forkortelse, lydmanus) køres over 40 danske offentlige kildetekster på ~13 modeller fra amerikanske frontier-modeller til danske åbne modeller. Output scores på kildetroskab, tonefit, dansk sprogkvalitet og formatoverholdelse med mekaniske tjek, to dommermodeller fra forskellige modelfamilier og en menneskelig stikprøve med rapporteret enighed. Ingen samlet score; alle tal har konfidensintervaller.
 
-DaNews-Edit is an open benchmark that answers one question for Danish news publishers: which language models can be trusted with Danish editorial tasks, on what evidence, and at what cost of dependency?
+Cavling-bench is an open benchmark that answers one question for Danish news publishers: which language models can be trusted with Danish editorial tasks, on what evidence, and at what cost of dependency?
 
-`REQUIREMENTS.md` is the full specification; `DECISIONS.md` is the running log of pins, cuts and freezes.
+`DECISIONS.md` is the running log of scope, pins, cuts and freezes.
 
 ## Quick start
 

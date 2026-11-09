@@ -1,4 +1,4 @@
-"""Load models.yaml, tasks, style guides, sources and facts (REQUIREMENTS.md §3, §5)."""
+"""Load models.yaml, tasks, style guides, sources and facts."""
 
 from __future__ import annotations
 

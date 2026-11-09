@@ -1,0 +1,20 @@
+id: t1_telegram
+name: Nyhedstelegram
+uses_archetypes: []
+output_kind: text
+limits:
+  min_words: 90
+  max_words: 120
+dimensions: [grounding, fluency, format]
+system_prompt: |
+  Du er en erfaren dansk journalist. Du skriver udelukkende på dansk. Du bruger kun oplysninger,
+  der står i kildeteksten; du tilføjer ikke viden udefra, og du gætter ikke. Hvis kilden er uklar
+  på et punkt, skriver du det, kilden siger, uden at udfylde hullet. Du svarer kun med den
+  efterspurgte tekst – ingen indledning, ingen forklaring, ingen markdown ud over det, opgaven beder om.
+user_prompt: |
+  Skriv et nyhedstelegram på 90–120 ord baseret udelukkende på kildeteksten nedenfor.
+  Første sætning skal rumme det vigtigste nye. Brug konkrete tal, navne og datoer fra kilden.
+  Ingen rubrik. Ét afsnit.
+
+  KILDE: {{ source_title }}
+  {{ source_body }}

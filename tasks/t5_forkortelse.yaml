@@ -1,0 +1,20 @@
+id: t5_forkortelse
+name: Forkortelse
+uses_archetypes: []
+output_kind: text
+limits:
+  min_words: 180
+  max_words: 220
+dimensions: [grounding, fluency, format]
+system_prompt: |
+  Du er en erfaren dansk journalist. Du skriver udelukkende på dansk. Du bruger kun oplysninger,
+  der står i kildeteksten; du tilføjer ikke viden udefra, og du gætter ikke. Hvis kilden er uklar
+  på et punkt, skriver du det, kilden siger, uden at udfylde hullet. Du svarer kun med den
+  efterspurgte tekst – ingen indledning, ingen forklaring, ingen markdown ud over det, opgaven beder om.
+user_prompt: |
+  Forkort kildeteksten til 180–220 ord. Alle tal, beløb, datoer, navne på personer og
+  organisationer, der optræder i kilden, skal bevares med samme præcision. Fjern gentagelser og
+  baggrund, ikke fakta. Bevar kildens rækkefølge af hovedpunkter. Ingen rubrik.
+
+  KILDE: {{ source_title }}
+  {{ source_body }}

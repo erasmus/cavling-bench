@@ -1,0 +1,24 @@
+id: t6_lydmanus
+name: Lydmanus
+uses_archetypes: [lynposten]
+output_kind: script
+limits:
+  min_words: 100
+  max_words: 140
+dimensions: [grounding, tone, fluency, format]
+system_prompt: |
+  Du er en erfaren dansk journalist. Du skriver udelukkende på dansk. Du bruger kun oplysninger,
+  der står i kildeteksten; du tilføjer ikke viden udefra, og du gætter ikke. Hvis kilden er uklar
+  på et punkt, skriver du det, kilden siger, uden at udfylde hullet. Du svarer kun med den
+  efterspurgte tekst – ingen indledning, ingen forklaring, ingen markdown ud over det, opgaven beder om.
+user_prompt: |
+  Skriv et manuskript på 100–140 ord til oplæsning i en nyhedspodcast fra den publikation, der
+  beskrives i stilguiden, baseret udelukkende på kildeteksten. Regler for oplæsning: alle tal
+  skrives med bogstaver (undtagen årstal), ingen forkortelser, kilder nævnes mundtligt
+  ("ifølge Danmarks Statistik"), korte sætninger, ingen parenteser, ingen punktopstilling.
+
+  STILGUIDE:
+  {{ styleguide }}
+
+  KILDE: {{ source_title }}
+  {{ source_body }}

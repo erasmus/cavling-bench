@@ -1,0 +1,20 @@
+id: t3_faktaboks
+name: Faktaboks
+uses_archetypes: []
+output_kind: bullets
+limits:
+  bullets: 5
+  max_words_per_bullet: 25
+dimensions: [grounding, fluency, format]
+system_prompt: |
+  Du er en erfaren dansk journalist. Du skriver udelukkende på dansk. Du bruger kun oplysninger,
+  der står i kildeteksten; du tilføjer ikke viden udefra, og du gætter ikke. Hvis kilden er uklar
+  på et punkt, skriver du det, kilden siger, uden at udfylde hullet. Du svarer kun med den
+  efterspurgte tekst – ingen indledning, ingen forklaring, ingen markdown ud over det, opgaven beder om.
+user_prompt: |
+  Skriv en faktaboks med præcis 5 punkter om indholdet i kildeteksten. Hvert punkt er én sætning
+  på højst 25 ord og indeholder én verificerbar oplysning (tal, dato, navn eller afgørelse), der
+  står direkte i kilden. Ingen vurderinger. Punkterne indledes med "- ".
+
+  KILDE: {{ source_title }}
+  {{ source_body }}

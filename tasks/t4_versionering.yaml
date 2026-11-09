@@ -1,0 +1,23 @@
+id: t4_versionering
+name: Versionering
+uses_archetypes: [lynposten, landsavisen]
+output_kind: text
+limits:
+  min_words: 225
+  max_words: 275
+dimensions: [grounding, tone, fluency, format]
+system_prompt: |
+  Du er en erfaren dansk journalist. Du skriver udelukkende på dansk. Du bruger kun oplysninger,
+  der står i kildeteksten; du tilføjer ikke viden udefra, og du gætter ikke. Hvis kilden er uklar
+  på et punkt, skriver du det, kilden siger, uden at udfylde hullet. Du svarer kun med den
+  efterspurgte tekst – ingen indledning, ingen forklaring, ingen markdown ud over det, opgaven beder om.
+user_prompt: |
+  Skriv en nyhedsartikel på 225–275 ord baseret udelukkende på kildeteksten, skrevet til den
+  publikation der beskrives i stilguiden. Vælg den vinkel, publikationen ville vælge, men alle
+  oplysninger skal stamme fra kilden. Ingen rubrik. Brug afsnit.
+
+  STILGUIDE:
+  {{ styleguide }}
+
+  KILDE: {{ source_title }}
+  {{ source_body }}

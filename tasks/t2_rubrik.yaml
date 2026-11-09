@@ -1,0 +1,25 @@
+id: t2_rubrik
+name: Rubrik og underrubrik
+uses_archetypes: [lynposten, landsavisen, erhvervsnyt]
+output_kind: headline_pair
+limits:
+  max_headline_chars: 60
+  max_subheadline_chars: 160
+dimensions: [grounding, tone, fluency, format]
+system_prompt: |
+  Du er en erfaren dansk journalist. Du skriver udelukkende på dansk. Du bruger kun oplysninger,
+  der står i kildeteksten; du tilføjer ikke viden udefra, og du gætter ikke. Hvis kilden er uklar
+  på et punkt, skriver du det, kilden siger, uden at udfylde hullet. Du svarer kun med den
+  efterspurgte tekst – ingen indledning, ingen forklaring, ingen markdown ud over det, opgaven beder om.
+user_prompt: |
+  Skriv én rubrik (højst 60 tegn) og én underrubrik (højst 160 tegn) til en nyhed baseret på
+  kildeteksten, i den stil der beskrives i stilguiden. Rubrikken skal kunne stå alene.
+  Svar præcis i dette format og intet andet:
+  RUBRIK: <tekst>
+  UNDERRUBRIK: <tekst>
+
+  STILGUIDE:
+  {{ styleguide }}
+
+  KILDE: {{ source_title }}
+  {{ source_body }}

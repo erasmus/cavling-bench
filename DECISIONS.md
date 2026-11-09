@@ -65,3 +65,9 @@ nebius-qwen3-235b): 90/90 outputs, 90 grounding + 90 fluency records from Judge 
 set yet). Credit spend USD 0.19, paid USD 0.00. Nebius catalogue checked via `/v1/models`: both
 pinned ids are served; DeepSeek-V4-Pro / V4.1-Flash, Kimi-K3 and MiniMax-M3 are also available.
 Decision on adding any of them is open (owner).
+
+## 2026-11-09 22:40 — Renamed to Cavling-bench
+The benchmark is now called Cavling-bench, matching the GitHub repo `erasmus/cavling-bench`.
+All user-facing text, the distribution name, user agent and report were renamed. The Python
+package and CLI keep the short name `danews` (code, not user-facing). `REQUIREMENTS.md` is
+removed from version control and git-ignored like `specs/`; it stays on disk as the working spec.

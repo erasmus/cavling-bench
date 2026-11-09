@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-09T21:23:36+00:00",
+ "generated": "2026-11-09T21:36:00+00:00",
  "run_date": "2026-11-09",
  "n_sources": 40,
  "n_outputs": 90,
@@ -661,5 +661,5 @@
   "Rigtige mediers stilguider, kørt af medierne selv.",
   "Journalistisk produktivitet og adoption, målt i en redaktion."
  ],
- "repo": "https://github.com/erasmus/danews-edit"
+ "repo": "https://github.com/erasmus/cavling-bench"
 }

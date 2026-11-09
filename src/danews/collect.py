@@ -21,7 +21,7 @@ from .config import Config, parse_source_markdown, render_source_markdown
 from .schemas import DOMAIN_COUNTS, FactsFile, Source, SourceMeta
 
 console = Console(stderr=True)
-USER_AGENT = "danews-edit/1.0 (+github.com/erasmus/danews-edit)"
+USER_AGENT = "cavling-bench/1.0 (+github.com/erasmus/cavling-bench)"
 TIMEOUT = 20.0
 
 

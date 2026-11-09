@@ -1,8 +1,8 @@
-# DaNews-Edit – resultater
+# Cavling-bench – resultater
 
 *Målt 2026-11-09. Ingen samlet score: hver tabel rangerer pr. opgave og pr. dimension. Alle tal har 95 % bootstrap-intervaller over kildetekster.*
 
-DaNews-Edit målte 2 sprogmodeller på 6 redaktionelle opgaver over 40 danske offentlige kildetekster (90 output, kørt 2026-11-09). På versioneringsopgaven lå andelen af understøttede påstande mellem 89 % (Qwen3-235B-A22B (Nebius)) og 93 % (gpt-oss-120b (Nebius)); intervallerne overlapper for de fleste modeller. Prisen for 1.000 telegrammer spændte fra USD 0.36 (gpt-oss-120b (Nebius)) til USD 0.47 (Qwen3-235B-A22B (Nebius)).
+Cavling-bench målte 2 sprogmodeller på 6 redaktionelle opgaver over 40 danske offentlige kildetekster (90 output, kørt 2026-11-09). På versioneringsopgaven lå andelen af understøttede påstande mellem 89 % (Qwen3-235B-A22B (Nebius)) og 93 % (gpt-oss-120b (Nebius)); intervallerne overlapper for de fleste modeller. Prisen for 1.000 telegrammer spændte fra USD 0.36 (gpt-oss-120b (Nebius)) til USD 0.47 (Qwen3-235B-A22B (Nebius)).
 
 ## Afhængighed
 

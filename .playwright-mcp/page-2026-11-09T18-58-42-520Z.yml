@@ -1,0 +1,308 @@
+- generic [ref=e2]:
+  - banner [ref=e3]:
+    - link "Spring hovednavigationen over" [ref=e4] [cursor=pointer]:
+      - /url: "#content-main"
+    - generic [ref=e5]:
+      - link "Gå til forsiden af Finanstilsynet" [ref=e8] [cursor=pointer]:
+        - /url: /
+      - generic [ref=e10]:
+        - navigation "Service Menu" [ref=e11]:
+          - list [ref=e13]:
+            - listitem [ref=e14]:
+              - link "Forbrugere og investorer" [ref=e15] [cursor=pointer]:
+                - /url: https://www.finanstilsynet.dk/finansielle-temaer/forbruger-og-investorinformation
+              - text: 
+            - listitem [ref=e16]:
+              - link "Nyheder og presse" [ref=e17] [cursor=pointer]:
+                - /url: https://www.finanstilsynet.dk/nyheder-og-presse/nyheder-og-pressemeddelelser
+              - text: 
+            - listitem [ref=e18]:
+              - link "Job og karriere" [ref=e19] [cursor=pointer]:
+                - /url: https://www.finanstilsynet.dk/karriere
+              - text: 
+            - listitem [ref=e20]:
+              - link "Organisation og opgaver" [ref=e21] [cursor=pointer]:
+                - /url: https://www.finanstilsynet.dk/vores-organisation
+              - text: 
+        - button "Åben søgning" [ref=e23] [cursor=pointer]:
+          - generic [aria-hidden] [ref=e24]: 
+    - navigation "Hovedmenu" [ref=e25]:
+      - list [ref=e28]:
+        - listitem [ref=e29]:
+          - generic [ref=e30] [cursor=pointer]: Tilsyn
+          - link "Tilsyn - flere links" [ref=e31] [cursor=pointer]:
+            - /url: "#6a6fa86a-bcfc-40bc-96e9-6356c272a43e_menuItem01"
+            - text: 
+        - listitem [ref=e32]:
+          - generic [ref=e33] [cursor=pointer]: Ansøg og indberet
+          - link "Ansøg og indberet - flere links" [ref=e34] [cursor=pointer]:
+            - /url: "#6a6fa86a-bcfc-40bc-96e9-6356c272a43e_menuItem02"
+            - text: 
+        - listitem [ref=e35]:
+          - generic [ref=e36] [cursor=pointer]: Tal og fakta
+          - link "Tal og fakta - flere links" [ref=e37] [cursor=pointer]:
+            - /url: "#6a6fa86a-bcfc-40bc-96e9-6356c272a43e_menuItem03"
+            - text: 
+        - listitem [ref=e38]:
+          - generic [ref=e39] [cursor=pointer]: Lovgivning
+          - link "Lovgivning - flere links" [ref=e40] [cursor=pointer]:
+            - /url: "#6a6fa86a-bcfc-40bc-96e9-6356c272a43e_menuItem04"
+            - text: 
+        - listitem [ref=e41]:
+          - generic [ref=e42] [cursor=pointer]: Finansielle temaer
+          - link "Finansielle temaer - flere links" [ref=e43] [cursor=pointer]:
+            - /url: "#6a6fa86a-bcfc-40bc-96e9-6356c272a43e_menuItem05"
+            - text: 
+  - main [ref=e45]:
+    - navigation "Brødkrumme" [ref=e48]:
+      - list [ref=e50]:
+        - listitem [ref=e51]:
+          - link "Forside/" [ref=e52] [cursor=pointer]:
+            - /url: /
+        - listitem [ref=e53]:
+          - link "Tilsyn/" [ref=e54] [cursor=pointer]:
+            - /url: /tilsyn
+        - listitem [ref=e55]: Inspektionsredegørelser og afgørelser
+    - generic [ref=e58]:
+      - generic [ref=e59]:
+        - generic [ref=e61]:
+          - heading "Inspektionsredegørelser og afgørelser" [level=1] [ref=e62]
+          - paragraph [ref=e63]: Her finder du et samlet arkiv med Finanstilsynets inspektionsredegørelser og tilsynsreaktioner. Filtrene kan kun kombineres med årstal - øvrige filtre kan ikke kombineres.
+        - generic [ref=e64]:
+          - search [ref=e67]:
+            - generic [ref=e68]:
+              - textbox "Søg" [ref=e69]
+              - generic [ref=e70]: Søg
+              - button "søgeknap" [ref=e71] [cursor=pointer]: 
+              - group [ref=e73]:
+                - generic [ref=e74]:
+                  - checkbox "Vis kun eksakte resultater"
+                  - generic [ref=e75] [cursor=pointer]: Vis kun eksakte resultater
+            - generic [ref=e76]:
+              - button "Tilsynsreaktion" [ref=e78] [cursor=pointer]: Tilsynsreaktion 
+              - button "Virksomhedstype" [ref=e80] [cursor=pointer]: Virksomhedstype 
+              - button "Inspektionsemne" [ref=e82] [cursor=pointer]: Inspektionsemne 
+            - button "Vælg år" [ref=e85] [cursor=pointer]: Vælg år 
+            - generic [ref=e87]:
+              - text: 
+              - combobox "Sorter efter dato eller relevans" [ref=e88] [cursor=pointer]:
+                - option "Sortering efter dato" [selected]
+                - option "Sortering efter relevans"
+          - generic [ref=e90]:
+            - generic [ref=e91]:
+              - generic [ref=e93] [cursor=pointer]:
+                - paragraph [ref=e94]: Advarsel
+                - heading [level=2] [ref=e95]:
+                  - link "›Advarsel mod TAG Markets" [ref=e96]:
+                    - /url: https://www.finanstilsynet.dk/tilsyn/inspektionsredegoerelser-og-afgoerelser/2026/nov/advarsel-mod-tag-markets
+                - generic [ref=e97]: 09-11-2026
+                - paragraph [ref=e98]: Finanstilsynet udsender advarsel mod at investere gennem virksomheden TAG Markets.
+              - generic [ref=e100] [cursor=pointer]:
+                - paragraph [ref=e101]: Inspektionsredegørelse
+                - heading [level=2] [ref=e102]:
+                  - link "›Redegørelse om inspektion af krypto- og hvidvaskområdet i Penning Financial Services ApS" [ref=e103]:
+                    - /url: https://www.finanstilsynet.dk/tilsyn/inspektionsredegoerelser-og-afgoerelser/2026/nov/inspektion-af-krypto-og-hvidvaskomraadet-i-penning-financial-services
+                - generic [ref=e104]: 06-11-2026
+                - paragraph [ref=e105]: Finanstilsynet gennemførte i maj 2026 en inspektion af krypto- og hvidvaskområdet i Penning Financial Services ApS.
+              - generic [ref=e107] [cursor=pointer]:
+                - paragraph [ref=e108]: Inspektionsredegørelse
+                - heading [level=2] [ref=e109]:
+                  - link "›Redegørelse om inspektion vedrørende alternative investeringer i AkademikerPension" [ref=e110]:
+                    - /url: https://www.finanstilsynet.dk/tilsyn/inspektionsredegoerelser-og-afgoerelser/2026/nov/inspektion-vedroerende-alternative-investeringer-i-akademikerpension
+                - generic [ref=e111]: 04-11-2026
+                - paragraph [ref=e112]: Finanstilsynet gennemførte i januar 2026 en inspektion i AkademikerPension – Akademikernes Pensionskasse vedrørende alternative investeringer ekskl. ejendomme.
+              - generic [ref=e114] [cursor=pointer]:
+                - paragraph [ref=e115]: Inspektionsredegørelse
+                - heading [level=2] [ref=e116]:
+                  - link "›Redegørelse om boliglånsinspektion i Danske Bank A/S" [ref=e117]:
+                    - /url: https://www.finanstilsynet.dk/tilsyn/inspektionsredegoerelser-og-afgoerelser/2026/nov/redegoerelse-om-boliglaansinspektion-i-danske-bank
+                - generic [ref=e118]: 03-11-2026
+                - paragraph [ref=e119]: Finanstilsynet gennemførte i perioden maj til august 2026 en inspektion af Danske Bank A/S’ bevillinger af finansiering af ejerboliger i 1. kvartal 2026.
+              - generic [ref=e121] [cursor=pointer]:
+                - paragraph [ref=e122]: Afgørelse
+                - heading [level=2] [ref=e123]:
+                  - link "›Påtale til Ennogie Solar Group A/S for ikke at have offentliggjort intern viden hurtigst muligt og for ikke at have klassificeret oplysninger som intern viden" [ref=e124]:
+                    - /url: https://www.finanstilsynet.dk/tilsyn/inspektionsredegoerelser-og-afgoerelser/2026/nov/paatale-til-ennogie-solar-group
+                - generic [ref=e125]: 02-11-2026
+                - paragraph [ref=e126]: Finanstilsynet har den 30. oktober 2026 påtalt, at Ennogie Solar Group A/S (herefter Ennogie) ikke har klassificeret oplysninger om kapitalbehov og tvivl om kon...
+              - generic [ref=e128] [cursor=pointer]:
+                - paragraph [ref=e129]: Inspektionsredegørelse
+                - heading [level=2] [ref=e130]:
+                  - link "›Redegørelse om funktionsinspektion i AL Sydbank A/S" [ref=e131]:
+                    - /url: https://www.finanstilsynet.dk/tilsyn/inspektionsredegoerelser-og-afgoerelser/2026/okt/redegoerelse-om-funktionsinspektion-i-al-sydbank_301026
+                - generic [ref=e132]: 30-10-2026
+                - paragraph [ref=e133]: Finanstilsynet gennemførte i maj og juni 2026 en inspektion i AL Sydbank. Inspektionen var en funktionsinspektion som led i det løbende tilsyn ud fra en risikob...
+              - generic [ref=e135] [cursor=pointer]:
+                - paragraph [ref=e136]: Afgørelse
+                - heading [level=2] [ref=e137]:
+                  - link "›Påbud til Realkredit Danmark A/S om at efterleve § 53, stk. 2, i lov om finansiel virksomhed" [ref=e138]:
+                    - /url: https://www.finanstilsynet.dk/tilsyn/inspektionsredegoerelser-og-afgoerelser/2026/okt/paabud-til-realkredit-danmark-as_301026
+                - generic [ref=e139]: 30-10-2026
+                - paragraph [ref=e140]: Finanstilsynet har undersøgt Realkredit Danmarks reservefondslån, som de tilbyder kunder, hvis lån skal nedbringes som følge af overbelåning på grund af fejlvur...
+              - generic [ref=e142] [cursor=pointer]:
+                - paragraph [ref=e143]: Afgørelse
+                - heading [level=2] [ref=e144]:
+                  - link "›Påtale for at overskride fristen for underretning om en ledende medarbejders transaktioner" [ref=e145]:
+                    - /url: https://www.finanstilsynet.dk/tilsyn/inspektionsredegoerelser-og-afgoerelser/2026/okt/paatale_ledende_medarbejder_281026
+                - generic [ref=e146]: 28-10-2026
+                - paragraph [ref=e147]: Finanstilsynets afgørelse af 27. oktober 2026 er truffet i henhold til artikel 19, stk. 1, i Europa-Parlamentets og Rådets forordning (EU) nr. 596/2014 af 16. a...
+              - generic [ref=e149] [cursor=pointer]:
+                - paragraph [ref=e150]: Inspektionsredegørelse
+                - heading [level=2] [ref=e151]:
+                  - link "›Redegørelse om hvidvaskinspektion i Sparekassen Bredebro" [ref=e152]:
+                    - /url: https://www.finanstilsynet.dk/tilsyn/inspektionsredegoerelser-og-afgoerelser/2026/okt/redegoerelse-om-hvidvaskinspektion-i-sparekassen-bredebro
+                - generic [ref=e153]: 21-10-2026
+                - paragraph [ref=e154]: Finanstilsynet var i juni 2026 på inspektion i Sparekassen Bredebro. Inspektionen var en undersøgelse af hvidvaskområdet.
+              - generic [ref=e156] [cursor=pointer]:
+                - paragraph [ref=e157]: Inspektionsredegørelse
+                - heading [level=2] [ref=e158]:
+                  - link "›Redegørelse om hvidvaskinspektion i Nykredit Bank A/S" [ref=e159]:
+                    - /url: https://www.finanstilsynet.dk/tilsyn/inspektionsredegoerelser-og-afgoerelser/2026/okt/redegoerelse-om-hvidvaskinspektion-i-nykredit-bank-as
+                - generic [ref=e160]: 20-10-2026
+                - paragraph [ref=e161]: Finanstilsynet gennemførte i juni 2026 en inspektion af hvidvaskområdet i Nykredit Bank A/S som led i Finanstilsynets løbende tilsyn.
+            - navigation "Pagineringsnavigation" [ref=e162]:
+              - list [ref=e163]:
+                - listitem [ref=e164]:
+                  - link "Nuværende side 1" [ref=e165] [cursor=pointer]:
+                    - /url: "?page=1"
+                    - text: "1"
+                - listitem [ref=e166]:
+                  - link "Gå til side 2" [ref=e167] [cursor=pointer]:
+                    - /url: "?page=2"
+                    - text: "2"
+                - listitem [ref=e168]:
+                  - link "Gå til side 3" [ref=e169] [cursor=pointer]:
+                    - /url: "?page=3"
+                    - text: "3"
+                - listitem [ref=e170]:
+                  - link "Gå til side 4" [ref=e171] [cursor=pointer]:
+                    - /url: "?page=4"
+                    - text: "4"
+                - listitem [ref=e172]:
+                  - link "Gå til side 5" [ref=e173] [cursor=pointer]:
+                    - /url: "?page=5"
+                    - text: "5"
+                - listitem [ref=e174]:
+                  - link "Gå til side 6" [ref=e175] [cursor=pointer]:
+                    - /url: "?page=6"
+                    - text: "6"
+                - listitem [ref=e176]:
+                  - link "Gå til side 7" [ref=e177] [cursor=pointer]:
+                    - /url: "?page=7"
+                    - text: "7"
+                - listitem [ref=e178]:
+                  - link "Gå til side 8" [ref=e179] [cursor=pointer]:
+                    - /url: "?page=8"
+                    - text: "8"
+                - listitem [ref=e180]:
+                  - link "Gå til side 9" [ref=e181] [cursor=pointer]:
+                    - /url: "?page=9"
+                    - text: "9"
+                - listitem [ref=e182]:
+                  - link "Gå til side 10" [ref=e183] [cursor=pointer]:
+                    - /url: "?page=10"
+                    - text: "10"
+                - listitem [ref=e184]:
+                  - link "Næste side" [ref=e185] [cursor=pointer]:
+                    - /url: "?page=2"
+                    - text: ›
+      - generic [ref=e186]:
+        - generic [ref=e190]:
+          - heading "Søgetip" [level=2] [ref=e191]
+          - paragraph [ref=e193]: Vælg ’Vis kun eksakte resultater’, hvis du søger på et helt konkret ord, f.eks. et virksomhedsnavn.
+        - generic [ref=e197]:
+          - heading "Se også" [level=2] [ref=e198]
+          - list [ref=e199]:
+            - listitem [ref=e200]:
+              - link "› Virksomhedsregistret" [ref=e201] [cursor=pointer]:
+                - /url: https://virksomhedsregister.finanstilsynet.dk/
+            - listitem [ref=e202]:
+              - link "› Rapporter" [ref=e203] [cursor=pointer]:
+                - /url: https://www.finanstilsynet.dk/tilsyn/rapporter
+            - listitem [ref=e204]:
+              - link "› Regnskabskontrol" [ref=e205] [cursor=pointer]:
+                - /url: https://www.finanstilsynet.dk/tilsyn/regnskabskontrol
+        - generic [ref=e209]:
+          - heading "Statistik for afrapportering af hvidvaskinspektioner" [level=2] [ref=e210]
+          - paragraph [ref=e212]:
+            - link "3-månedersfrist" [ref=e213] [cursor=pointer]:
+              - /url: /Media/639262657728100950/overholdelse-af-3-mdrfrist-siden-2023-sept26.png
+        - generic [ref=e217]:
+          - heading "Nyheder fra Finanstilsynet" [level=2] [ref=e218]
+          - generic [ref=e219]:
+            - paragraph [ref=e220]: Modtag relevante nyheder fra Finanstilsynet
+            - paragraph [ref=e221]:
+              - link "Tilmeld dig" [ref=e222] [cursor=pointer]:
+                - /url: https://www.finanstilsynet.dk/modtag-nyheder
+  - contentinfo "Bund" [ref=e223]:
+    - generic [ref=e228]:
+      - generic [ref=e230]:
+        - img "Finanstilsynet" [ref=e236]
+        - paragraph [ref=e241]:
+          - emphasis [ref=e242]:
+            - strong [ref=e243]: En ordentlig og robust finansiel sektor for hele samfundet.
+      - generic [ref=e245]:
+        - generic [ref=e248]:
+          - heading "Adresse" [level=2] [ref=e249]
+          - generic [ref=e250]:
+            - paragraph [ref=e251]:
+              - strong [ref=e252]: Finanstilsynet
+              - text: Strandgade 291401 København K
+            - paragraph [ref=e253]:
+              - strong [ref=e254]: "EAN nummer:"
+              - text: "5798000021006"
+              - strong [ref=e255]: "CVR nummer:"
+              - text: "10598184"
+        - generic [ref=e258]:
+          - heading "Om os" [level=2] [ref=e259]
+          - list [ref=e260]:
+            - listitem [ref=e261]:
+              - link "› Organisation og opgaver" [ref=e262] [cursor=pointer]:
+                - /url: https://www.finanstilsynet.dk/vores-organisation
+            - listitem [ref=e263]:
+              - link "› Strategi" [ref=e264] [cursor=pointer]:
+                - /url: https://www.finanstilsynet.dk/vores-organisation/strategi-2030
+            - listitem [ref=e265]:
+              - link "› Kontakt" [ref=e266] [cursor=pointer]:
+                - /url: https://www.finanstilsynet.dk/kontakt
+            - listitem [ref=e267]:
+              - link "Modtag nyheder" [ref=e268] [cursor=pointer]:
+                - /url: https://www.finanstilsynet.dk/modtag-nyheder
+        - generic [ref=e271]:
+          - heading "Links" [level=2] [ref=e272]
+          - list [ref=e273]:
+            - listitem [ref=e274]:
+              - link "› Tilgængelighedserklæring" [ref=e275] [cursor=pointer]:
+                - /url: https://www.was.digst.dk/finanstilsynet-dk
+            - listitem [ref=e276]:
+              - link "› Cookiepolitik" [ref=e277] [cursor=pointer]:
+                - /url: https://www.finanstilsynet.dk/vores-organisation/cookies
+            - listitem [ref=e278]:
+              - link "› Privatlivspolitik" [ref=e279] [cursor=pointer]:
+                - /url: https://www.finanstilsynet.dk/vores-organisation/privatlivspolitik
+            - listitem [ref=e280]:
+              - link "Whistleblower" [ref=e281] [cursor=pointer]:
+                - /url: https://www.finanstilsynet.dk/whistleblower
+        - generic [ref=e284]:
+          - heading "Genveje" [level=2] [ref=e285]
+          - list [ref=e286]:
+            - listitem [ref=e287]:
+              - link "› Gå til virksomhedsregisteret" [ref=e288] [cursor=pointer]:
+                - /url: https://virksomhedsregister.finanstilsynet.dk/
+            - listitem [ref=e289]:
+              - link "› Gå til selskabsmeddelelser" [ref=e290] [cursor=pointer]:
+                - /url: https://oam.finanstilsynet.dk/
+            - listitem [ref=e291]:
+              - link "› English" [ref=e292] [cursor=pointer]:
+                - /url: https://www.dfsa.dk
+  - region "Cookie banner" [ref=e296]:
+    - generic [ref=e297]:
+      - generic [ref=e298]:
+        - generic [ref=e299]: Du bestemmer over dine data
+        - paragraph [ref=e300]: Denne hjemmeside benytter cookies fra tredjepart til besøgsstatistik. Vælger du "Accepter alle", giver du samtykke til at tredjepartsservices må gemme oplysninger om dit besøg.
+        - link "Læs mere om cookies" [ref=e301] [cursor=pointer]:
+          - /url: https://www.finanstilsynet.dk/cookies
+      - generic [ref=e302]:
+        - button " Accepter alle" [ref=e303] [cursor=pointer]
+        - button " Afvis alle" [ref=e304] [cursor=pointer]
+  - text:                   

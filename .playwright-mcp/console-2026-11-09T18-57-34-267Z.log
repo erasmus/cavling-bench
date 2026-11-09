@@ -1,0 +1,9 @@
+[     691ms] ReferenceError: kWidget is not defined
+    at <anonymous>:5:5
+    at dequeueNonAsyncScripts (https://consent.cookiebot.com/uc.js:2:24658)
+    at window.CookieControl.Cookie.dequeueNonAsyncScripts (https://consent.cookiebot.com/uc.js:2:115193)
+    at stopMutationObserver (https://consent.cookiebot.com/uc.js:2:18405)
+    at window.CookieControl.Cookie.stopMutationObserver (https://consent.cookiebot.com/uc.js:2:115493)
+    at signalWindowLoad (https://consent.cookiebot.com/uc.js:2:68538)
+[     802ms] [WARNING] A preload for 'https://static.cloudflareinsights.com/beacon.min.js/vce701823e78c4301a35b7e07294d87301792088814092' is found, but is not used due to an integrity mismatch. @ https://consent.cookiebot.com/uc.js:2
+[    5901ms] [WARNING] The resource https://static.cloudflareinsights.com/beacon.min.js/vce701823e78c4301a35b7e07294d87301792088814092 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally. @ https://www.ft.dk/da/aktuelt/presse-og-kommunikation:1

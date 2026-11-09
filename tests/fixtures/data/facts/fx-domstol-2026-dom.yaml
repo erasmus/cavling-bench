@@ -1,0 +1,45 @@
+source_id: fx-domstol-2026-dom
+facts:
+  - id: f1
+    type: date
+    value: "18. september 2026"
+    canonical: "2026-09-18"
+    span: "fredag den 18. september 2026 stadfæstet"
+    critical: true
+  - id: f2
+    type: number
+    value: "fire års fængsel"
+    canonical: 4
+    span: "til fire års fængsel"
+    critical: true
+  - id: f3
+    type: number
+    value: "23,6 mio. kr."
+    canonical: 23600000
+    unit: DKK
+    span: "unddraget statskassen 23,6 mio. kr. i moms"
+    critical: true
+  - id: f4
+    type: org
+    value: "Østre Landsret"
+    canonical: "østre landsret"
+    span: "Østre Landsret har fredag"
+    critical: true
+  - id: f5
+    type: org
+    value: "Retten i Glostrup"
+    canonical: "retten i glostrup"
+    span: "en dom fra Retten i Glostrup"
+    critical: false
+  - id: f6
+    type: number
+    value: "47-årige"
+    canonical: 47
+    span: "Den 47-årige tiltalte blev"
+    critical: false
+  - id: f7
+    type: name
+    value: "Jesper Nørgaard Holm"
+    canonical: "jesper nørgaard holm"
+    span: "Senioranklager Jesper Nørgaard Holm fra"
+    critical: false

@@ -1,0 +1,224 @@
+- generic [active] [ref=f20e1]:
+  - link "Gå til indhold" [ref=f20e2] [cursor=pointer]:
+    - /url: "#ContentArea"
+  - generic [ref=f20e3]:
+    - text:    
+    - generic [ref=f20e4]:
+      - text:  
+      - generic [ref=f20e7]:
+        - generic [ref=f20e9]:
+          - generic [ref=f20e10]:
+            - link [ref=f20e13] [cursor=pointer]:
+              - /url: https://www.ft.dk/da/statsrevisorerne
+              - img "Link til forside" [ref=f20e16]
+              - heading "Statsrevisorerne" [level=1] [ref=f20e17]
+            - text:  
+          - generic [ref=f20e19]:
+            - textbox "Søg i dokumenter" [ref=f20e21]
+            - button "Søg" [ref=f20e23] [cursor=pointer]:
+              - generic [ref=f20e24]: 
+          - navigation [ref=f20e25]:
+            - list [ref=f20e27]:
+              - listitem [ref=f20e28]:
+                - link "Forside" [ref=f20e29] [cursor=pointer]:
+                  - /url: /da/statsrevisorerne
+              - listitem [ref=f20e30]:
+                - link " Nyheder" [ref=f20e31] [cursor=pointer]:
+                  - /url: /da/statsrevisorerne/nyheder
+                  - generic [ref=f20e32]: 
+                  - text: Nyheder
+              - listitem [ref=f20e34]:
+                - link "Dokumenter" [ref=f20e35] [cursor=pointer]:
+                  - /url: /da/statsrevisorerne/dokumenter
+              - listitem [ref=f20e36]:
+                - link "Kalender" [ref=f20e37] [cursor=pointer]:
+                  - /url: /da/statsrevisorerne/kalender
+              - listitem [ref=f20e38]:
+                - link "De seks statsrevisorer" [ref=f20e39] [cursor=pointer]:
+                  - /url: /da/statsrevisorerne/de-seks-statsrevisorer
+              - listitem [ref=f20e40]:
+                - link "Opgaver" [ref=f20e41] [cursor=pointer]:
+                  - /url: /da/statsrevisorerne/opgaver
+              - listitem [ref=f20e42]:
+                - link "Statsrevisorerne og Rigsrevisionen" [ref=f20e43] [cursor=pointer]:
+                  - /url: /da/statsrevisorerne/statsrevisorerne-og-rigsrevisionen
+            - list [ref=f20e45]:
+              - listitem [ref=f20e46]:
+                - link " Abonnement" [ref=f20e47] [cursor=pointer]:
+                  - /url: https://www.ft.dk/da/abonnementservice
+              - listitem [ref=f20e48]:
+                - link " Folketinget" [ref=f20e49] [cursor=pointer]:
+                  - /url: https://www.ft.dk/da/
+        - generic [ref=f20e50]:
+          - list [ref=f20e53]:
+            - listitem
+            - listitem [ref=f20e54]:
+              - button "E-mail siden" [ref=f20e55] [cursor=pointer]:
+                - generic [ref=f20e56]: 
+            - listitem [ref=f20e57]:
+              - button "Udskriv" [ref=f20e58] [cursor=pointer]:
+                - generic [ref=f20e59]: 
+            - listitem [ref=f20e60]:
+              - button "Læs op" [ref=f20e61]
+            - listitem [ref=f20e69]:
+              - link "" [ref=f20e70] [cursor=pointer]:
+                - /url: https://www.ft.dk/da/dokumentkurv
+              - generic [ref=f20e72]: "0"
+            - listitem [ref=f20e73]:
+              - link "Del via" [ref=f20e74] [cursor=pointer]:
+                - /url: "#"
+                - generic [ref=f20e75]: 
+          - main [ref=f20e76]:
+            - navigation "breadcrumbs" [ref=f20e78]:
+              - list [ref=f20e79]:
+                - listitem [ref=f20e80]:
+                  - link "Forside" [ref=f20e81] [cursor=pointer]:
+                    - /url: https://www.ft.dk/Statsrevisorerne
+                - listitem [ref=f20e82]:
+                  - text: ›
+                  - link "Nyheder" [ref=f20e83]:
+                    - /url: https://www.ft.dk/da/statsrevisorerne/nyheder
+            - heading "Statsrevisorernes nyheder" [level=1] [ref=f20e85]
+            - generic [ref=f20e87]:
+              - generic [ref=f20e88]:
+                - generic [ref=f20e89]:
+                  - generic [ref=f20e90]: Vis fra denne dato
+                  - textbox "dd-mm-åååå" [ref=f20e91]: 09-05-2026
+                  - generic [ref=f20e92] [cursor=pointer]: 
+                - generic [ref=f20e93]:
+                  - generic [ref=f20e94]: Vis til denne dato
+                  - textbox "dd-mm-åååå" [ref=f20e95]: 09-11-2026
+                  - generic [ref=f20e96] [cursor=pointer]: 
+                - link "Vis" [ref=f20e97] [cursor=pointer]:
+                  - /url: javascript:__doPostBack('globalcontent_0$pagelayoutbcontent_2$ctl00$ctl00','')
+              - generic [ref=f20e98]:
+                - textbox "Indtast søgeord" [ref=f20e100]
+                - button "Søg" [ref=f20e101] [cursor=pointer]
+            - generic [ref=f20e106]:
+              - generic [ref=f20e107]: Din søgning gav 14 resultater
+              - generic [ref=f20e108]:
+                - text: "Vist pr. side:"
+                - link "25" [ref=f20e109]:
+                  - /url: "?page=1&sortedBy=&sortedDescending=&pageSize=25"
+                - link "50" [ref=f20e110] [cursor=pointer]:
+                  - /url: "?page=1&sortedBy=&sortedDescending=&pageSize=50"
+                - link "100" [ref=f20e111] [cursor=pointer]:
+                  - /url: "?page=1&sortedBy=&sortedDescending=&pageSize=100"
+                - link "200" [ref=f20e112] [cursor=pointer]:
+                  - /url: "?page=1&sortedBy=&sortedDescending=&pageSize=200"
+            - generic [ref=f20e115]:
+              - generic [ref=f20e116]: 09.11.2026
+              - heading [level=2] [ref=f20e117]:
+                - link "Statsrevisorerne finder forvaltningen af filmstøtten utilstrækkelig" [ref=f20e118] [cursor=pointer]:
+                  - /url: https://www.ft.dk/da/statsrevisorerne/nyheder/2026/11/statsrevisorerne-finder-forvaltningen-af-filmstoetten-utilstraekkelig
+              - paragraph [ref=f20e119]: Filminstituttet har ikke i tilstrækkelig grad understøttet, at filmkonsulenterne er økonomisk uafhængige af filmbranchen, og Kulturministeriet har ikke etableret et tilstrækkeligt administrationsgrundlag og opfølgning på Filminstituttets mål. Det viser en ny beretning fra Rigsrevisionen.
+              - generic [ref=f20e120]: 09.11.2026
+              - heading [level=2] [ref=f20e121]:
+                - link "Statsrevisorerne kritiserer Forsvarsministeriets tilsyn med det særligt væsentlige materiel" [ref=f20e122] [cursor=pointer]:
+                  - /url: https://www.ft.dk/da/statsrevisorerne/nyheder/2026/11/statsrevisorerne-kritiserer-forsvarsministeriets-tilsyn-med-det-saerligt-vaesentlige-materiel
+              - paragraph [ref=f20e123]: Der var sidste år problemer med mere end halvdelen af de typer af materiel, som Forsvarsministeriet vurderer til at være særligt væsentlige, for at de kan løse deres opgaver. Ministeriet har ikke et tilstrækkeligt overblik over materiellet.
+              - generic [ref=f20e124]: 05.10.2026
+              - heading [level=2] [ref=f20e125]:
+                - link "Stephanie Lose er ny formand for Statsrevisorerne" [ref=f20e126] [cursor=pointer]:
+                  - /url: https://www.ft.dk/da/statsrevisorerne/nyheder/2026/10/stephanie-lose-er-ny-formand-for-statsrevisorerne
+              - paragraph [ref=f20e127]: Statsrevisorerne har valgt Venstres Stephanie Lose som formand. Socialdemokratiets Leif Lahn Jensen fortsætter som næstformand.
+              - generic [ref=f20e128]: 05.10.2026
+              - heading [level=2] [ref=f20e129]:
+                - link "Regionernes ventetider på demensudredning får skarp kritik fra Statsrevisorerne" [ref=f20e130] [cursor=pointer]:
+                  - /url: https://www.ft.dk/da/statsrevisorerne/nyheder/2026/10/regionernes-ventetider-paa-demensudredning-faar-skarp-kritik-fra-statsrevisorerne
+              - paragraph [ref=f20e131]: Den gennemsnitlige ventetid på at blive udredt for demens var sidste år mere end fem gange længere end de 30 dage, som loven siger. Proble-merne er taget til gennem de seneste fire år.
+              - generic [ref=f20e132]: 05.10.2026
+              - heading [level=2] [ref=f20e133]:
+                - 'link "Statsrevisorerne: DSB’s styring af købet af nye IC5-tog er meget utilfredsstillende" [ref=f20e134] [cursor=pointer]':
+                  - /url: https://www.ft.dk/da/statsrevisorerne/nyheder/2026/10/statsrevisorerne-dsbs-styring-af-koebet-af-nye-ic5-tog-er-meget-utilfredsstillende
+              - paragraph [ref=f20e135]: De nye, eldrevne IC5-tog bliver mindst 3 år forsinket. Det øger risikoen for nedbrud og ustabil drift og medfører en ekstraregning på i alt 3,5 mia. kr.
+              - generic [ref=f20e136]: 07.09.2026
+              - heading [level=2] [ref=f20e137]:
+                - link "Stærkt foruroligende pesticidkontrol udløser skarp kritik fra Statsrevisorerne" [ref=f20e138] [cursor=pointer]:
+                  - /url: https://www.ft.dk/da/statsrevisorerne/nyheder/2026/09/staerkt-foruroligende-pesticidkontrol-udloeser-skarp-kritik-fra-statsrevisorerne
+              - paragraph [ref=f20e139]: Miljøstyrelsens kontrol med brug af pesticider har en række alvorlige mangler. Derfor udtaler Statsrevisorerne i dag skarp kritik af Miljøministeriet.
+              - generic [ref=f20e140]: 07.09.2026
+              - heading [level=2] [ref=f20e141]:
+                - link "Statsrevisorerne udtaler skarp kritik af tilsynet med havbrug i Danmark" [ref=f20e142] [cursor=pointer]:
+                  - /url: https://www.ft.dk/da/statsrevisorerne/nyheder/2026/09/statsrevisorerne-udtaler-skarp-kritik-af-tilsynet-med-havbrug-i-danmark
+              - paragraph [ref=f20e143]: Miljøministeriets tilsyn med danske havbrug samt forvaltningen af tilladelser til at drive havbrug får skarp kritik af Statsrevisorerne.
+              - generic [ref=f20e144]: 17.08.2026
+              - heading [level=2] [ref=f20e145]:
+                - 'link "Statsrevisorerne: Statens regnskab for 2025 er rigtigt med et enkelt forbehold" [ref=f20e146] [cursor=pointer]':
+                  - /url: https://www.ft.dk/da/statsrevisorerne/nyheder/2026/08/statsrevisorerne-statens-regnskab-for-2025-er-rigtigt-med-et-enkelt-forbehold
+              - paragraph [ref=f20e147]: Revisionen viser, at statsregnskabet for 2025 er rigtigt. Rigsrevisionen tager dog et forbehold på Miljøministeriets regnskab. Gennemgangen af statens forvaltning har fundet problemer i 16 af 57 revisioner, mens alle 43 virksomheder uden for statsregnskabet har fået påtegning uden forbehold.
+              - generic [ref=f20e148]: 12.08.2026
+              - heading [level=2] [ref=f20e149]:
+                - link "Folketinget udpeger nye statsrevisorer for 2026-2030" [ref=f20e150] [cursor=pointer]:
+                  - /url: https://www.ft.dk/da/statsrevisorerne/nyheder/2026/08/folketinget-udpeger-nye-statsrevisorer-for-2026-2030
+              - paragraph [ref=f20e151]: Der er den 12. august blevet sat navn på de seks statsrevisorer for perioden 2026-2030. Det nye kollegium tiltræder 1. oktober.
+              - generic [ref=f20e152]: 15.06.2026
+              - heading [level=2] [ref=f20e153]:
+                - link "Moderaterne udpeger Mohammad Rona som statsrevisor" [ref=f20e154] [cursor=pointer]:
+                  - /url: https://www.ft.dk/da/statsrevisorerne/nyheder/2026/06/moderaterne-udpeger-mohammad-rona-som-statsrevisor
+              - paragraph [ref=f20e155]: Moderaternes Mohammad Rona afløser Monika Rubin som statsrevisor, efter Monika Rubin blev udnævnt om minister.
+              - generic [ref=f20e156]: 08.06.2026
+              - heading [level=2] [ref=f20e157]:
+                - 'link "Statsrevisorerne: Forsvarsministeriets manglende overblik over udgifter til F-35-kampflyene er utilfredsstillende" [ref=f20e158] [cursor=pointer]':
+                  - /url: https://www.ft.dk/da/statsrevisorerne/nyheder/2026/06/forsvarsministeriets-manglende-overblik-over-udgifter-til-f-35-kampflyene-er-utilfredsstillende
+              - paragraph [ref=f20e159]: Statsrevisorerne finder det utilfredsstillende, at Forsvarsministeriet ikke har haft et overblik over de samlede udgifter til indkøb af 27 F-35-kampfly. Det er meget utilfredsstillende, at Folketinget ikke har været fyldestgørende orienteret om de forventede udgifter til købet, lyder kritikken bl.a.
+              - generic [ref=f20e160]: 08.06.2026
+              - heading [level=2] [ref=f20e161]:
+                - link "Statsrevisorerne finder manglende opfølgning på krav til undervisning i folkeskolen meget utilfredsstillende" [ref=f20e162] [cursor=pointer]:
+                  - /url: https://www.ft.dk/da/statsrevisorerne/nyheder/2026/06/finder-manglende-opfoelgning-paa-krav-til-undervisning-i-folkeskolen-meget-utilfredsstillende
+              - paragraph [ref=f20e163]: Mange elever i folkeskolen får ikke den undervisning i dansk og matematik, som de har krav på ifølge loven. Undervisningsministeriet har ikke fulgt op på, om kravene faktisk blev opfyldt.
+              - generic [ref=f20e164]: 11.05.2026
+              - heading [level=2] [ref=f20e165]:
+                - link "Statsrevisorerne finder politiets praksis for henlæggelser af sager om personfarlig kriminalitet stærkt foruroligende" [ref=f20e166] [cursor=pointer]:
+                  - /url: https://www.ft.dk/da/statsrevisorerne/nyheder/2026/05/statsrevisorerne-finder-politiets-henlaeggelser-af-personfarlig-kriminalitet-staerkt-foruroligende
+              - paragraph [ref=f20e167]: En ny beretning fra Rigsrevisionen tegner et billede af problematisk behandling af sager om personfarlig kriminalitet. Det udløser kritik på næsthøjeste niveau fra Statsrevisorerne.
+              - generic [ref=f20e168]: 11.05.2026
+              - heading [level=2] [ref=f20e169]:
+                - link "Statsrevisorerne udtaler skarp kritik af politiets henlæggelser af sager om økonomisk kriminalitet" [ref=f20e170] [cursor=pointer]:
+                  - /url: https://www.ft.dk/da/statsrevisorerne/nyheder/2026/05/statsrevisorerne-udtaler-skarp-kritik-af-politiets-henlaeggelser-af-sager-om-oekonomisk-kriminalitet
+              - paragraph [ref=f20e171]: En ny beretning fra Rigsrevisionen tegner et billede af problematisk behandling af sager om økonomisk kriminalitet. Det udløser kritik på næsthøjeste niveau fra Statsrevisorerne.
+            - generic [ref=f20e176]:
+              - generic [ref=f20e177]: Din søgning gav 14 resultater
+              - generic [ref=f20e178]:
+                - text: "Vist pr. side:"
+                - link "25" [ref=f20e179]:
+                  - /url: "?page=1&sortedBy=&sortedDescending=&pageSize=25"
+                - link "50" [ref=f20e180] [cursor=pointer]:
+                  - /url: "?page=1&sortedBy=&sortedDescending=&pageSize=50"
+                - link "100" [ref=f20e181] [cursor=pointer]:
+                  - /url: "?page=1&sortedBy=&sortedDescending=&pageSize=100"
+                - link "200" [ref=f20e182] [cursor=pointer]:
+                  - /url: "?page=1&sortedBy=&sortedDescending=&pageSize=200"
+          - contentinfo [ref=f20e183]:
+            - generic [ref=f20e186]:
+              - generic [ref=f20e187]:
+                - heading "Adresse" [level=1] [ref=f20e188]
+                - generic [ref=f20e191]:
+                  - paragraph [ref=f20e192]:
+                    - text: "Statsrevisorernes Sekretariat Christiansborg 1240 København K. Telefon +45 3337 5500 E-mail:"
+                    - link "statsrevisorerne@ft.dk" [ref=f20e193] [cursor=pointer]:
+                      - /url: "mailto: statsrevisorerne@ft.fk"
+                  - paragraph [ref=f20e194]: EAN-nr. 5798000016231
+              - generic [ref=f20e195]:
+                - heading "Kontakt" [level=1] [ref=f20e196]
+                - generic [ref=f20e197]:
+                  - link " Kontakt Statsrevisorerne" [ref=f20e199] [cursor=pointer]:
+                    - /url: https://www.ft.dk/da/statsrevisorerne/kontakt
+                  - link " Kontakt Statsrevisorernes Sekretariat" [ref=f20e201] [cursor=pointer]:
+                    - /url: https://www.ft.dk/da/statsrevisorerne/statsrevisorernes-sekretariat
+                  - link " Statsrevisorernes pressekontakt" [ref=f20e203] [cursor=pointer]:
+                    - /url: https://www.ft.dk/da/statsrevisorerne/statsrevisorernes-pressekontakt
+              - generic [ref=f20e204]:
+                - heading "Links" [level=1] [ref=f20e205]
+                - generic [ref=f20e206]:
+                  - link " Privatlivspolitik" [ref=f20e208] [cursor=pointer]:
+                    - /url: https://www.ft.dk/da/statsrevisorerne/privatlivspolitik
+                  - link " Tilgængelighedserklæring" [ref=f20e210] [cursor=pointer]:
+                    - /url: https://www.was.digst.dk/ft-dk
+                  - link " Rigsrevisionen" [ref=f20e212] [cursor=pointer]:
+                    - /url: ""
+                  - link " Folketingets Ombudsmand" [ref=f20e214] [cursor=pointer]:
+                    - /url: https://www.ft.dk/da/organisation/folketingets-institutioner/folketingets-ombudsmand
+                  - link " Folketinget" [ref=f20e216] [cursor=pointer]:
+                    - /url: https://www.ft.dk/da/
+  - iframe [aria-hidden] [ref=f20e217]

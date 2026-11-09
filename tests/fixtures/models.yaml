@@ -1,0 +1,51 @@
+judges:
+  A: fake-judge-a
+  B: fake-judge-b
+judge_b_sample_fraction: 0.5
+models:
+  - id: fake-echo
+    display: "Fake echo"
+    family: fake
+    tier: open_nordic
+    litellm_model: fake/echo
+    pinned_version: fake-echo-1
+    billing: local
+    price_in_per_m: 0.0
+    price_out_per_m: 0.0
+    open_weights: true
+    licence: MIT
+    eu_residency: self-hosted
+    params_b: 0.001
+    supports_seed: true
+  - id: fake-bad
+    display: "Fake bad"
+    family: fake2
+    tier: open_global
+    litellm_model: fake/bad
+    pinned_version: fake-bad-1
+    billing: paid
+    price_in_per_m: 1.0
+    price_out_per_m: 3.0
+    open_weights: false
+    licence: proprietary
+    eu_residency: "no"
+  - id: fake-judge-a
+    display: "Fake judge A"
+    family: fake-judges
+    tier: open_global
+    litellm_model: fake/judge
+    pinned_version: fake-judge-1
+    billing: credit_nebius
+    open_weights: true
+    licence: Apache-2.0
+    eu_residency: "yes"
+  - id: fake-judge-b
+    display: "Fake judge B"
+    family: fake
+    tier: mid_proprietary
+    litellm_model: fake/judge
+    pinned_version: fake-judge-1
+    billing: paid
+    open_weights: false
+    licence: proprietary
+    eu_residency: "cloud region"

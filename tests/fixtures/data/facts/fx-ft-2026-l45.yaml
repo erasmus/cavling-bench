@@ -1,0 +1,45 @@
+source_id: fx-ft-2026-l45
+facts:
+  - id: f1
+    type: name
+    value: "Mette Juul Thomsen"
+    canonical: "mette juul thomsen"
+    span: "Social- og boligminister Mette Juul Thomsen fremsatte"
+    critical: true
+  - id: f2
+    type: date
+    value: "1. juli 2027"
+    canonical: "2027-07-01"
+    span: "fra den 1. juli 2027 får pligt til"
+    critical: true
+  - id: f3
+    type: number
+    value: "38 mio. kr."
+    canonical: 38000000
+    unit: DKK
+    span: "koste kommunerne 38 mio. kr. årligt"
+    critical: true
+  - id: f4
+    type: number
+    value: "seks måneder"
+    canonical: 6
+    span: "inden for en frist på seks måneder"
+    critical: true
+  - id: f5
+    type: org
+    value: "Social- og Boligudvalget"
+    canonical: "social- og boligudvalget"
+    span: "henvist til Social- og Boligudvalget"
+    critical: false
+  - id: f6
+    type: number
+    value: "11.400 friplejeboliger"
+    canonical: 11400
+    span: "i alt 11.400 friplejeboliger i Danmark"
+    critical: false
+  - id: f7
+    type: date
+    value: "3. december 2026"
+    canonical: "2026-12-03"
+    span: "afgive betænkning den 3. december 2026"
+    critical: false

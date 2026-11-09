@@ -1,0 +1,143 @@
+- generic [active] [ref=f24e1]:
+  - link "Gå til indhold" [ref=f24e2] [cursor=pointer]:
+    - /url: "#ContentArea"
+  - generic [ref=f24e3]:
+    - text:    
+    - generic [ref=f24e4]:
+      - text:  
+      - generic [ref=f24e7]:
+        - generic [ref=f24e9]:
+          - generic [ref=f24e10]:
+            - link [ref=f24e13] [cursor=pointer]:
+              - /url: https://www.ft.dk/da/statsrevisorerne
+              - img "Link til forside" [ref=f24e16]
+              - heading "Statsrevisorerne" [level=1] [ref=f24e17]
+            - text:  
+          - generic [ref=f24e19]:
+            - textbox "Søg i dokumenter" [ref=f24e21]
+            - button "Søg" [ref=f24e23] [cursor=pointer]:
+              - generic [ref=f24e24]: 
+          - navigation [ref=f24e25]:
+            - list [ref=f24e27]:
+              - listitem [ref=f24e28]:
+                - link "Forside" [ref=f24e29] [cursor=pointer]:
+                  - /url: /da/statsrevisorerne
+              - listitem [ref=f24e30]:
+                - link " Nyheder" [ref=f24e31] [cursor=pointer]:
+                  - /url: /da/statsrevisorerne/nyheder
+                  - generic [ref=f24e32]: 
+                  - text: Nyheder
+              - listitem [ref=f24e34]:
+                - link "Dokumenter" [ref=f24e35] [cursor=pointer]:
+                  - /url: /da/statsrevisorerne/dokumenter
+              - listitem [ref=f24e36]:
+                - link "Kalender" [ref=f24e37] [cursor=pointer]:
+                  - /url: /da/statsrevisorerne/kalender
+              - listitem [ref=f24e38]:
+                - link "De seks statsrevisorer" [ref=f24e39] [cursor=pointer]:
+                  - /url: /da/statsrevisorerne/de-seks-statsrevisorer
+              - listitem [ref=f24e40]:
+                - link "Opgaver" [ref=f24e41] [cursor=pointer]:
+                  - /url: /da/statsrevisorerne/opgaver
+              - listitem [ref=f24e42]:
+                - link "Statsrevisorerne og Rigsrevisionen" [ref=f24e43] [cursor=pointer]:
+                  - /url: /da/statsrevisorerne/statsrevisorerne-og-rigsrevisionen
+            - list [ref=f24e45]:
+              - listitem [ref=f24e46]:
+                - link " Abonnement" [ref=f24e47] [cursor=pointer]:
+                  - /url: https://www.ft.dk/da/abonnementservice
+              - listitem [ref=f24e48]:
+                - link " Folketinget" [ref=f24e49] [cursor=pointer]:
+                  - /url: https://www.ft.dk/da/
+        - generic [ref=f24e50]:
+          - list [ref=f24e53]:
+            - listitem
+            - listitem [ref=f24e54]:
+              - button "E-mail siden" [ref=f24e55] [cursor=pointer]:
+                - generic [ref=f24e56]: 
+            - listitem [ref=f24e57]:
+              - button "Udskriv" [ref=f24e58] [cursor=pointer]:
+                - generic [ref=f24e59]: 
+            - listitem [ref=f24e60]:
+              - button "Læs op" [ref=f24e61]
+            - listitem [ref=f24e69]:
+              - link "" [ref=f24e70] [cursor=pointer]:
+                - /url: https://www.ft.dk/da/dokumentkurv
+              - generic [ref=f24e72]: "0"
+            - listitem [ref=f24e73]:
+              - link "Del via" [ref=f24e74] [cursor=pointer]:
+                - /url: "#"
+                - generic [ref=f24e75]: 
+          - main [ref=f24e76]:
+            - navigation "breadcrumbs" [ref=f24e78]:
+              - list [ref=f24e79]:
+                - listitem [ref=f24e80]:
+                  - link "Forside" [ref=f24e81] [cursor=pointer]:
+                    - /url: https://www.ft.dk/da/statsrevisorerne
+                - listitem [ref=f24e82]:
+                  - text: ›
+                  - link "Nyheder" [ref=f24e83] [cursor=pointer]:
+                    - /url: https://www.ft.dk/da/statsrevisorerne/nyheder
+                - listitem [ref=f24e84]:
+                  - text: ›
+                  - link "Regionernes ventetider paa demensudredning faar skarp kritik fra Statsrevisorerne" [ref=f24e85]:
+                    - /url: https://www.ft.dk/da/statsrevisorerne/nyheder/2026/10/regionernes-ventetider-paa-demensudredning-faar-skarp-kritik-fra-statsrevisorerne
+            - heading "Regionernes ventetider på demensudredning får skarp kritik fra Statsrevisorerne" [level=1] [ref=f24e86]
+            - paragraph [ref=f24e88]: 05.10.2026
+            - paragraph [ref=f24e89]: Den gennemsnitlige ventetid på at blive udredt for demens var sidste år mere end fem gange længere end de 30 dage, som loven siger. Proble-merne er taget til gennem de seneste fire år.
+            - generic [ref=f24e90]:
+              - paragraph [ref=f24e91]: "Næsten 25.000 demensramte har de seneste 4 år oplevet at vente længere end 30 dage på at blive udredt for deres sygdom. Det svarer til fem ud af seks, der er henvist til udredning på sygehuset. Derfor har Statsrevisorerne i dag udtalt skarp kritik af regionerne, som har ansvaret for udredningen. Rigsrevisionens beretning viser, at der er store forskelle på, hvor gode regionerne er til at overholde tidsfristen. Men der er ingen regioner, som kommer tæt på at opfylde lovens krav. Der er også problemer med selve udredningen. Der er fx stor forskel mellem regionerne på, om patienterne faktisk får de undersøgelser, de har brug for. Og der ses en væsentlig forskel i behandlingens kvalitet, alt efter hvilken social baggrund patienterne kommer med. Statsrevisorerne udtaler: ”Beretningen viser, at vi er meget langt fra målet om, at patienter skal udredes for demens inden for 30 dage, og at ventetiden vokser. Der er alt for store forskelle mellem vores regioner og mellem borgere med stærk og svag social baggrund, når det kommer til kvaliteten af den specialiserede udredning og adgangen til nødvendige undersøgelser. Det kritiserer vi skarpt.”"
+              - paragraph [ref=f24e92]:
+                - strong [ref=f24e93]: "Statsrevisorerne har hæftet sig ved disse undersøgelsesresultater:"
+              - list [ref=f24e94]:
+                - listitem [ref=f24e95]: Over halvdelen af den tid, hvor patienterne venter på at blive udredt, går med at vente på det første møde på sygehuset.
+                - listitem [ref=f24e96]: Kvaliteten af ministeriets data om, hvornår patienterne er færdigudredte, er ikke retvisende, fordi flere udredningsenheder registrerer patienter som færdigudredt ved patientens første møde på sygehuset. Der er også patienter, som bliver registreret som færdigudredt, selv om udredningen fortsætter.
+                - listitem [ref=f24e97]: Sundhedsstyrelsen anbefaler, at regionerne har større udredningsenheder. 23 af regionens 33 udredningsenheder udredte under 500 patienter i 2025. En stor del af enhederne lever dermed ikke op til Sundhedsstyrelsens anbefaling. Patienter, som bliver udredt på store udredningsenheder, får oftere de specialiserede undersøgelser, som de er i målgruppen for.
+                - listitem [ref=f24e98]: Sundhedsstyrelsen forventer, at ca. 18 % af de patienter, som i dag bliver udredt på sygehuset, fremover kan blive udredt hos deres egen læge. Mere udredning hos de praktiserende læger vil alt andet lige medføre et højere mørketal, medmindre ministeriet pålægger lægerne at registrere udredningen i nationale databaser.
+                - listitem [ref=f24e99]: Kvaliteten af regionernes basale udredning er ensartet, og næsten alle patienter får den basale udredning, som de er målgruppen for.
+                - listitem [ref=f24e100]: Der er forskel på kvaliteten af den specialiserede udredning på tværs af regionerne. På landsplan får knap 1/3 af patienterne ikke de specialiserede undersøgelser, som de er i målgruppen for.
+                - listitem [ref=f24e101]: For 4 ud af 5 regioner er der udviklingsmål for den specialiserede udredning, som ikke nås. Målene for udredningen er dog ikke retligt bindende.
+                - listitem [ref=f24e102]: En gennemsnitlig patients udredningstid falder med 24 dage, hvis patientens sociale baggrund er stærk frem for svag. Dertil kommer, at 79% af patienterne med stærk social baggrund får adgang til specialiseret udredning, mens det kun gør sig gældende for 64% af patienterne med svag social baggrund.
+              - paragraph [ref=f24e103]: Statsrevisorerne er enige i Rigsrevisionens anbefaling om, at årsagerne til forskelle i kvaliteten af udredningen og forskellene i udredningens ventetid og kvalitet for patienter afhængigt af deres sociale baggrund bør undersøges.
+              - paragraph [ref=f24e104]:
+                - text: Se hele beretningen og kort fortalt –
+                - link "her" [ref=f24e105] [cursor=pointer]:
+                  - /url: https://www.ft.dk/statsrevisor/20261/beretning/sb2/index.htm
+                - text: ". Deltagere i statsrevisormødet: Stephanie Lose (V), Leif Lahn Jensen (S), Peter Westermann (SF), Benny Engelbrecht (S), Anders Vistisen (DF) og Steffen Larsen (LA) Stephanie Lose og Peter Westermann har erklæret sig inhabil i sagen."
+            - list [ref=f24e107]:
+              - listitem [ref=f24e108]:
+                - link " Se flere nyheder fra Statsrevisorerne" [ref=f24e109] [cursor=pointer]:
+                  - /url: ""
+          - contentinfo [ref=f24e110]:
+            - generic [ref=f24e113]:
+              - generic [ref=f24e114]:
+                - heading "Adresse" [level=1] [ref=f24e115]
+                - generic [ref=f24e118]:
+                  - paragraph [ref=f24e119]:
+                    - text: "Statsrevisorernes Sekretariat Christiansborg 1240 København K. Telefon +45 3337 5500 E-mail:"
+                    - link "statsrevisorerne@ft.dk" [ref=f24e120] [cursor=pointer]:
+                      - /url: "mailto: statsrevisorerne@ft.fk"
+                  - paragraph [ref=f24e121]: EAN-nr. 5798000016231
+              - generic [ref=f24e122]:
+                - heading "Kontakt" [level=1] [ref=f24e123]
+                - generic [ref=f24e124]:
+                  - link " Kontakt Statsrevisorerne" [ref=f24e126] [cursor=pointer]:
+                    - /url: https://www.ft.dk/da/statsrevisorerne/kontakt
+                  - link " Kontakt Statsrevisorernes Sekretariat" [ref=f24e128] [cursor=pointer]:
+                    - /url: https://www.ft.dk/da/statsrevisorerne/statsrevisorernes-sekretariat
+                  - link " Statsrevisorernes pressekontakt" [ref=f24e130] [cursor=pointer]:
+                    - /url: https://www.ft.dk/da/statsrevisorerne/statsrevisorernes-pressekontakt
+              - generic [ref=f24e131]:
+                - heading "Links" [level=1] [ref=f24e132]
+                - generic [ref=f24e133]:
+                  - link " Privatlivspolitik" [ref=f24e135] [cursor=pointer]:
+                    - /url: https://www.ft.dk/da/statsrevisorerne/privatlivspolitik
+                  - link " Tilgængelighedserklæring" [ref=f24e137] [cursor=pointer]:
+                    - /url: https://www.was.digst.dk/ft-dk
+                  - link " Rigsrevisionen" [ref=f24e139] [cursor=pointer]:
+                    - /url: ""
+                  - link " Folketingets Ombudsmand" [ref=f24e141] [cursor=pointer]:
+                    - /url: https://www.ft.dk/da/organisation/folketingets-institutioner/folketingets-ombudsmand
+                  - link " Folketinget" [ref=f24e143] [cursor=pointer]:
+                    - /url: https://www.ft.dk/da/
+  - iframe [aria-hidden] [ref=f24e144]

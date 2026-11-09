@@ -1,0 +1,11 @@
+- banner [ref=f1e4]:
+  - navigation [ref=f1e6]:
+    - link "Retsinformation.dk" [ref=f1e8] [cursor=pointer]:
+      - /url: /
+    - list [ref=f1e12]:
+      - listitem [ref=f1e13]:
+        - button "Menu" [ref=f1e15] [cursor=pointer]
+      - listitem [ref=f1e16]:
+        - link "Tryk her for at søge efter dokumenter" [ref=f1e17] [cursor=pointer]:
+          - /url: /documents
+          - generic [ref=f1e18]: Søg

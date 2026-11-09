@@ -88,15 +88,26 @@ def model_is_reachable(model: ModelCfg) -> str | None:
 
 
 class EmptyCompletion(RuntimeError):
-    """The model returned no visible text, typically because hidden reasoning used max_tokens."""
+    """The model returned no visible text, typically because hidden reasoning used max_tokens.
+
+    The provider still billed the call, so `result` carries its usage (text empty) for
+    cost logging and for recording tokens on the Output.
+    """
+
+    def __init__(self, message: str, result: LLMResult | None = None):
+        super().__init__(message)
+        self.result = result
 
 
-def finalise_text(content: str | None, finish_reason: str | None) -> str:
+def finalise_text(
+    content: str | None, finish_reason: str | None, result: LLMResult | None = None
+) -> str:
     text = (content or "").strip()
     if not text:
         raise EmptyCompletion(
             f"empty completion (finish_reason={finish_reason}); "
-            "for reasoning models raise reasoning_budget_tokens in models.yaml"
+            "for reasoning models raise reasoning_budget_tokens in models.yaml",
+            result=result,
         )
     return text
 
@@ -149,7 +160,16 @@ class LLMClient:
             return res
         sem = self._semaphore(model_cfg)
         async with sem:
-            res = await self._call_with_retry(model_cfg, messages, params)
+            try:
+                res = await self._call_with_retry(model_cfg, messages, params)
+            except EmptyCompletion as e:
+                # Billed but unusable: log the cost, never cache it, then propagate.
+                if e.result is not None:
+                    e.result.cost_usd = cost_for(
+                        model_cfg, e.result.prompt_tokens, e.result.completion_tokens
+                    )
+                    log_cost(self.paths, self.stage, model_cfg, e.result)
+                raise
         res.cost_usd = cost_for(model_cfg, res.prompt_tokens, res.completion_tokens)
         self.paths.cache.mkdir(parents=True, exist_ok=True)
         cache_file.write_text(json.dumps(res.to_json(), ensure_ascii=False))
@@ -195,7 +215,9 @@ class LLMClient:
         self, cfg: ModelCfg, messages: list[Message], params: dict[str, Any]
     ) -> LLMResult:
         if cfg.litellm_model.startswith(FAKE_PREFIX):
-            return fake_complete(cfg, messages, params)
+            res = fake_complete(cfg, messages, params)
+            res.text = finalise_text(res.text, "stop", result=res)
+            return res
         import litellm  # the only place a model SDK is touched
 
         litellm.suppress_debug_info = True
@@ -211,16 +233,19 @@ class LLMClient:
         resp = await litellm.acompletion(**kwargs)
         latency_ms = int((time.perf_counter() - t0) * 1000)
         choice = resp.choices[0]
-        text = finalise_text(choice.message.content, getattr(choice, "finish_reason", None))
         usage = resp.usage
-        return LLMResult(
-            text=text,
+        res = LLMResult(
+            text="",
             prompt_tokens=int(getattr(usage, "prompt_tokens", 0) or 0),
             completion_tokens=int(getattr(usage, "completion_tokens", 0) or 0),
             latency_ms=latency_ms,
             cost_usd=0.0,
             provider_request_id=getattr(resp, "id", None),
         )
+        res.text = finalise_text(
+            choice.message.content, getattr(choice, "finish_reason", None), result=res
+        )
+        return res
 
 
 # Fake provider ---------------------------------------------------------------
@@ -257,6 +282,15 @@ def fake_complete(cfg: ModelCfg, messages: list[Message], params: dict[str, Any]
     user = next((m["content"] for m in reversed(messages) if m["role"] == "user"), "")
     seed = _det_rng(cfg.id + user)
     variant = cfg.litellm_model.removeprefix(FAKE_PREFIX)
+    if variant == "empty":
+        return LLMResult(
+            text="",
+            prompt_tokens=len(user.split()),
+            completion_tokens=int(params.get("max_tokens", 0)) or 1,
+            latency_ms=1,
+            cost_usd=0.0,
+            provider_request_id="fake-empty",
+        )
     if '"claims"' in user:
         text = json.dumps(
             {

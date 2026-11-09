@@ -102,3 +102,22 @@ def test_empty_truncated_completion_is_an_error():
     assert finalise_text("  svar  ", "stop") == "svar"
     with pytest.raises(EmptyCompletion):
         finalise_text("", "length")
+
+
+def test_empty_completion_still_logs_cost_and_is_not_cached(tmp_path):
+    from danews.llm import EmptyCompletion
+
+    paths = Paths(root=tmp_path)
+    client = LLMClient(paths, use_cache=True, stage="generate")
+    cfg = _cfg(id="fake-empty", litellm_model="fake/empty")
+    msgs = [{"role": "user", "content": "Skriv noget."}]
+    with pytest.raises(EmptyCompletion) as ei:
+        client.complete(cfg, msgs, max_tokens=50)
+    # usage travels with the exception so callers can record it on the Output
+    assert ei.value.result is not None
+    assert ei.value.result.completion_tokens > 0
+    assert ei.value.result.cost_usd > 0
+    costs = read_costs(paths)
+    assert len(costs) == 1
+    assert costs[0].model_id == "fake-empty" and costs[0].cost_usd > 0
+    assert not list(paths.cache.glob("*.json"))

@@ -67,7 +67,8 @@ async def _generate_one(
     gen_params = GenParams(
         temperature=params.get("temperature", 0.0),
         seed=params.get("seed"),
-        max_tokens=slot.task.max_tokens,
+        max_tokens=params["max_tokens"],
+        reasoning_effort=params.get("reasoning_effort"),
     )
     text, err = "", None
     pt = ct = lat = 0
@@ -83,6 +84,14 @@ async def _generate_one(
         )
     except Exception as e:  # noqa: BLE001 — recorded, not raised (§6.2)
         err = f"{type(e).__name__}: {e}"[:500]
+        billed = getattr(e, "result", None)
+        if billed is not None:  # EmptyCompletion: billed tokens, no usable text
+            pt, ct, lat, cost = (
+                billed.prompt_tokens,
+                billed.completion_tokens,
+                billed.latency_ms,
+                billed.cost_usd,
+            )
     out = Output(
         model_id=model.id,
         pinned_version=model.pinned_version,

@@ -221,9 +221,12 @@ class ModelsFile(Strict):
 
 
 class GenParams(Strict):
+    """Parameters as actually sent: max_tokens includes any reasoning_budget_tokens."""
+
     temperature: float = 0.0
     seed: int | None = 42
     max_tokens: int
+    reasoning_effort: str | None = None
 
 
 class Output(Strict):

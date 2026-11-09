@@ -71,3 +71,14 @@ The benchmark is now called Cavling-bench, matching the GitHub repo `erasmus/cav
 All user-facing text, the distribution name, user agent and report were renamed. The Python
 package and CLI keep the short name `danews` (code, not user-facing). `REQUIREMENTS.md` is
 removed from version control and git-ignored like `specs/`; it stays on disk as the working spec.
+
+## 2026-11-09 23:00 — review fixes: empty completions are billed; params record what was sent
+Ultrareview of `feat/nebius-run-and-rename` found that `EmptyCompletion` was raised before
+`log_cost`, so the ~40 empty gpt-oss calls of the first run never reached `costs.jsonl` (they are
+not recoverable; the USD 45 total is under-counted by roughly those 40 × ~560 completion tokens).
+Fixed: the exception now carries the billed usage, `acomplete` logs it (and never caches it), and
+`generate` records tokens and cost on the error Output. `Output.params` now records the effective
+request (`max_tokens` incl. `reasoning_budget_tokens`, plus `reasoning_effort`); the 45 committed
+gpt-oss outputs still say `max_tokens: 560`, which was the task cap, not the 2060 sent. They are
+not regenerated (outputs/ is not frozen, but a rerun costs money for no scoring change); the next
+`generate --force` corrects them.

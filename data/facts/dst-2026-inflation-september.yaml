@@ -1,0 +1,69 @@
+source_id: dst-2026-inflation-september
+facts:
+  - id: f1
+    type: number
+    value: "2,2 pct."
+    canonical: 2.2
+    unit: "%"
+    span: "steg det samlede forbrugerprisindeks med 2,2 pct. i forhold til samme måned"
+    critical: true
+  - id: f2
+    type: number
+    value: "2,0 pct."
+    canonical: 2.0
+    unit: "%"
+    span: "I august var den tilsvarende stigning 2,0 pct."
+    critical: true
+  - id: f3
+    type: number
+    value: "1,9 pct."
+    canonical: 1.9
+    unit: "%"
+    span: "(kerneinflationen) havde en årsstigning på 1,9 pct. i september"
+    critical: true
+  - id: f4
+    type: number
+    value: "2,2 pct."
+    canonical: 2.2
+    unit: "%"
+    span: "I august havde kerneinflationen en årsstigning på 2,2 pct."
+    critical: false
+  - id: f5
+    type: date
+    value: "12. oktober 2026"
+    canonical: "2026-10-12"
+    span: "12. oktober 2026"
+    critical: true
+  - id: f6
+    type: number
+    value: "2,1 pct."
+    canonical: 2.1
+    unit: "%"
+    span: "Danmarks EU-harmoniserede inflation lå på 2,1 pct. i september"
+    critical: false
+  - id: f7
+    type: number
+    value: "3,2 pct."
+    canonical: 3.2
+    unit: "%"
+    span: "for de 27 EU-lande til 3,2 pct. fra 3,0 pct. i juli"
+    critical: false
+  - id: f8
+    type: place
+    value: "Sverige"
+    canonical: "sverige"
+    span: "lavest EU-harmoniseret inflation i august var Sverige med 0,3 pct."
+    critical: false
+  - id: f9
+    type: date
+    value: "16. oktober 2026"
+    canonical: "2026-10-16"
+    span: "Tallene for september udkommer 16. oktober 2026"
+    critical: false
+  - id: f10
+    type: number
+    value: "0,46 procentpoint"
+    canonical: 0.46
+    unit: pp
+    span: "indekset op med 0,46 procentpoint"
+    critical: false

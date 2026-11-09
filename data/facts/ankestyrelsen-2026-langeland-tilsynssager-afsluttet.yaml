@@ -1,0 +1,56 @@
+source_id: ankestyrelsen-2026-langeland-tilsynssager-afsluttet
+facts:
+  - id: f1
+    type: number
+    value: "295 sager"
+    canonical: 295
+    span: "vurderede, at 295 sager var relevante at gennemgå"
+    critical: true
+  - id: f2
+    type: date
+    value: "november 2022"
+    canonical: "2022-11"
+    span: "I den ene sag fra november 2022 vurderede tilsynet"
+    critical: true
+  - id: f3
+    type: date
+    value: "marts 2025"
+    canonical: "2025-03"
+    span: "har tilsynet i marts 2025 modtaget Langeland Kommunes slutorientering"
+    critical: false
+  - id: f4
+    type: name
+    value: "Hanne Østergaard"
+    canonical: "hanne østergaard"
+    span: "siger ankechef Hanne Østergaard, Tilsyn og Underretning"
+    critical: true
+  - id: f5
+    type: org
+    value: "Langeland Kommune"
+    canonical: "langeland kommune"
+    span: "netop meddelt Langeland Kommune, at opfølgningen på to tilsynssager"
+    critical: true
+  - id: f6
+    type: number
+    value: "to tilsynssager"
+    canonical: 2
+    span: "opfølgningen på to tilsynssager mod kommunen afsluttes"
+    critical: true
+  - id: f7
+    type: date
+    value: "maj 2026"
+    canonical: "2026-05"
+    span: "som varer fra maj 2026 til januar 2028"
+    critical: false
+  - id: f8
+    type: date
+    value: "januar 2028"
+    canonical: "2028-01"
+    span: "fra maj 2026 til januar 2028 - være fokus"
+    critical: false
+  - id: f9
+    type: org
+    value: "Socialstyrelsen"
+    canonical: "socialstyrelsen"
+    span: "medarbejdere fra Socialstyrelsen og Ankestyrelsen"
+    critical: false

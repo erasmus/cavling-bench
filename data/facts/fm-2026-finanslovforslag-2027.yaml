@@ -1,0 +1,70 @@
+source_id: fm-2026-finanslovforslag-2027
+facts:
+  - id: f1
+    type: number
+    value: "3,5 pct."
+    canonical: 3.5
+    unit: "%"
+    span: "løfte forsvarsudgifterne til 3,5 pct. af BNP i 2030"
+    critical: true
+  - id: f2
+    type: number
+    value: "1,2 mia. kr."
+    canonical: 1200000000
+    unit: DKK
+    span: "investere 1,2 mia. kr. i 2027 og 1,1 mia. kr. årligt i 2028-2030"
+    critical: true
+  - id: f3
+    type: number
+    value: "0,6 mia. kr."
+    canonical: 600000000
+    unit: DKK
+    span: "afsætte en ramme på 0,6 mia. kr. i 2027 og 0,9 mia. kr."
+    critical: false
+  - id: f4
+    type: number
+    value: "godt 1.600 kr."
+    canonical: 1600
+    unit: DKK
+    span: "løft i den månedlige ydelse på godt 1.600 kr."
+    critical: false
+  - id: f5
+    type: number
+    value: "1.000 kr."
+    canonical: 1000
+    unit: DKK
+    span: "svarende til 1.000 kr. om måneden efter skat"
+    critical: true
+  - id: f6
+    type: number
+    value: "650 mio. kr."
+    canonical: 650000000
+    unit: DKK
+    span: "afsætter derfor 650 mio. kr. i 2027 og 850 mio. kr. årligt"
+    critical: false
+  - id: f7
+    type: number
+    value: "800 mio. kr."
+    canonical: 800000000
+    unit: DKK
+    span: "til kollektiv transport 800 mio. kr. i 2027"
+    critical: false
+  - id: f8
+    type: number
+    value: "22 år"
+    canonical: 22
+    span: "gratis kollektiv transport for unge under 22 år"
+    critical: false
+  - id: f9
+    type: name
+    value: "Peter Hummelgaard"
+    canonical: "peter hummelgaard"
+    span: "Finansminister Peter Hummelgaard siger"
+    critical: true
+  - id: f10
+    type: number
+    value: "900 mio. kr."
+    canonical: 900000000
+    unit: DKK
+    span: "Vi investerer 900 mio. kr. i folkeskolen"
+    critical: false

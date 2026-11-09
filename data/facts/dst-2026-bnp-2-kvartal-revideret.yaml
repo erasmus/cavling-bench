@@ -1,0 +1,63 @@
+source_id: dst-2026-bnp-2-kvartal-revideret
+facts:
+  - id: f1
+    type: number
+    value: "0,9 pct."
+    canonical: 0.9
+    unit: "%"
+    span: "Bruttonationalproduktet (BNP) steg med 0,9 pct. i andet kvartal 2026"
+    critical: true
+  - id: f2
+    type: number
+    value: "0,6 procentpoint"
+    canonical: 0.6
+    unit: pp
+    span: "væksten revideret op med 0,6 procentpoint i forhold til seneste opgørelse"
+    critical: true
+  - id: f3
+    type: date
+    value: "30. september 2026"
+    canonical: "2026-09-30"
+    span: "Ændret 30. september 2026 kl. 10:20"
+    critical: true
+  - id: f4
+    type: number
+    value: "6,0 pct."
+    canonical: 6.0
+    unit: "%"
+    span: "første halvår af 2026 er 6,0 pct. højere end samme periode året før"
+    critical: false
+  - id: f5
+    type: number
+    value: "7.800 personer"
+    canonical: 7800
+    span: "svarende til 7.800 personer, og de præsterede timer"
+    critical: false
+  - id: f6
+    type: number
+    value: "1,5 pct."
+    canonical: 1.5
+    unit: "%"
+    span: "De faste bruttoinvesteringer steg i andet kvartal med 1,5 pct."
+    critical: false
+  - id: f7
+    type: number
+    value: "1,7 pct."
+    canonical: 1.7
+    unit: "%"
+    span: "BNP-væksten i første kvartal er på 1,7 pct."
+    critical: false
+  - id: f8
+    type: number
+    value: "1,1 pct."
+    canonical: 1.1
+    unit: "%"
+    span: "bruttoværditilvæksten (BVT) for hele økonomien steg med 1,1 pct."
+    critical: true
+  - id: f9
+    type: number
+    value: "0,2 pct."
+    canonical: 0.2
+    unit: "%"
+    span: "Beskæftigelsen steg med 0,2 pct. i andet kvartal"
+    critical: false

@@ -1,0 +1,66 @@
+source_id: regeringen-2026-kystbeskyttelse-14-9-mia
+facts:
+  - id: f1
+    type: number
+    value: "14,9 mia. kroner"
+    canonical: 14900000000
+    unit: DKK
+    span: "En ny statslig investeringsplan med 14,9 mia. kroner"
+    critical: true
+  - id: f2
+    type: number
+    value: "85 procent"
+    canonical: 85
+    unit: "%"
+    span: "medfinansiere 85 procent af anlægsinvesteringerne"
+    critical: true
+  - id: f3
+    type: number
+    value: "15 procent"
+    canonical: 15
+    unit: "%"
+    span: "de kommunale bidrag på 15 procent"
+    critical: false
+  - id: f4
+    type: number
+    value: "20 mia. kroner"
+    canonical: 20000000000
+    unit: DKK
+    span: "investeringer på op mod 20 mia. kroner til kystbeskyttelse af Danmark frem mod 2040"
+    critical: true
+  - id: f5
+    type: name
+    value: "Magnus Heunicke"
+    canonical: "magnus heunicke"
+    span: "Miljøminister Magnus Heunicke udtaler"
+    critical: true
+  - id: f6
+    type: name
+    value: "Lars Aagard"
+    canonical: "lars aagard"
+    span: "Klima-, energi- og forsyningsminister Lars Aagard udtaler"
+    critical: false
+  - id: f7
+    type: name
+    value: "Morten Dahlin"
+    canonical: "morten dahlin"
+    span: "Minister for byer og landdistrikter Morten Dahlin udtaler"
+    critical: false
+  - id: f8
+    type: number
+    value: "1 mio. danskere"
+    canonical: 1000000
+    span: "1 mio. danskere bor under en kilometer fra kysten"
+    critical: false
+  - id: f9
+    type: number
+    value: "175.000 arbejdspladser"
+    canonical: 175000
+    span: "100.000 husstande og virksomheder med 175.000 arbejdspladser"
+    critical: false
+  - id: f10
+    type: number
+    value: "100.000 husstande"
+    canonical: 100000
+    span: "op mod 100.000 husstande og virksomheder"
+    critical: false

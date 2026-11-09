@@ -1,0 +1,63 @@
+source_id: aalborg-2025-omlaegningsplan-trepart
+facts:
+  - id: f1
+    type: number
+    value: "94 projekter"
+    canonical: 94
+    span: "Omlægningsplanen foreslår konkret 94 projekter fordelt over hele kommunen"
+    critical: true
+  - id: f2
+    type: number
+    value: "77 forslag"
+    canonical: 77
+    span: "herunder 77 forslag til lavbundsprojekter"
+    critical: true
+  - id: f3
+    type: number
+    value: "13 forslag"
+    canonical: 13
+    span: "der 13 forslag til sikring af drikkevandet"
+    critical: false
+  - id: f4
+    type: number
+    value: "tre forslag"
+    canonical: 3
+    span: "i omlægningsplanen tre forslag til større sammenhængende naturområder"
+    critical: false
+  - id: f5
+    type: number
+    value: "20 procent"
+    canonical: 20
+    unit: "%"
+    span: "målet i Den grønne trepart om 20 procent mere beskyttet natur"
+    critical: false
+  - id: f6
+    type: org
+    value: "Aalborg Kommune"
+    canonical: "aalborg kommune"
+    span: "en samlet omlægningsplan for hele Aalborg Kommune"
+    critical: true
+  - id: f7
+    type: name
+    value: "Jan Nymark Rose Thaysen"
+    canonical: "jan nymark rose thaysen"
+    span: "næstformand i Aalborg Trepart, Jan Nymark Rose Thaysen"
+    critical: true
+  - id: f8
+    type: name
+    value: "Lasse Frimand Jensen"
+    canonical: "lasse frimand jensen"
+    span: "med borgmester Lasse Frimand Jensen i spidsen"
+    critical: false
+  - id: f9
+    type: number
+    value: "23 lokale treparter"
+    canonical: 23
+    span: "I Danmark har der været nedsat 23 lokale treparter"
+    critical: false
+  - id: f10
+    type: place
+    value: "Halkær Bredning"
+    canonical: "halkær bredning"
+    span: "Kvælstofindsatsen skal især ske i vandoplandet omkring Halkær Bredning vest for Nibe"
+    critical: false

@@ -50,4 +50,5 @@ target-version = "py312"
 src = ["src", "tests"]
 
 [tool.ruff.lint]
+per-file-ignores = { "src/danews/agreement.py" = ["E501"], "src/danews/report.py" = ["E501"] }
 select = ["E", "F", "I", "UP", "B"]

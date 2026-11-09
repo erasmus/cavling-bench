@@ -1,0 +1,66 @@
+source_id: fm-2026-ok26-statens-overenskomst
+facts:
+  - id: f1
+    type: number
+    value: "200.000 medarbejdere"
+    canonical: 200000
+    span: "for de omkring 200.000 medarbejdere i staten"
+    critical: true
+  - id: f2
+    type: number
+    value: "8,7 pct."
+    canonical: 8.7
+    unit: "%"
+    span: "en økonomisk ramme på 8,7 pct. over de kommende tre år"
+    critical: true
+  - id: f3
+    type: number
+    value: "275 mio. kr."
+    canonical: 275000000
+    unit: DKK
+    span: "prioritere 275 mio. kr. af den samlede ramme"
+    critical: true
+  - id: f4
+    type: number
+    value: "250 mio. kr."
+    canonical: 250000000
+    unit: DKK
+    span: "prioritere 250 mio. kr. mere til lokal løn"
+    critical: false
+  - id: f5
+    type: number
+    value: "20 mio. kr."
+    canonical: 20000000
+    unit: DKK
+    span: "20 mio. kr. til et lønløft til erhvervsskolelærerne"
+    critical: false
+  - id: f6
+    type: org
+    value: "Centralorganisationernes Fællesudvalg"
+    canonical: "centralorganisationernes fællesudvalg"
+    span: "sammen med Centralorganisationernes Fællesudvalg (CFU) og Akademikerne"
+    critical: true
+  - id: f7
+    type: name
+    value: "Nicolai Wammen"
+    canonical: "nicolai wammen"
+    span: "Finansminister Nicolai Wammen siger"
+    critical: false
+  - id: f8
+    type: date
+    value: "1. april 2026"
+    canonical: "2026-04-01"
+    span: "gælde fra 1. april 2026 til 31. marts 2029"
+    critical: true
+  - id: f9
+    type: date
+    value: "31. marts 2029"
+    canonical: "2029-03-31"
+    span: "2026 til 31. marts 2029"
+    critical: false
+  - id: f10
+    type: number
+    value: "to ekstra seniordage"
+    canonical: 2
+    span: "en fritvalgsdag for udvalgte personalegrupper og to ekstra seniordage"
+    critical: false

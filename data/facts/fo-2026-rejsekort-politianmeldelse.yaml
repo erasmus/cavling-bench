@@ -1,0 +1,62 @@
+source_id: fo-2026-rejsekort-politianmeldelse
+facts:
+  - id: f1
+    type: org
+    value: "Rejsekort & Rejseplan A/S"
+    canonical: "rejsekort & rejseplan a/s"
+    span: "Rejsekort & Rejseplan A/S har vildledt forbrugerne"
+    critical: true
+  - id: f2
+    type: org
+    value: "Forbrugerombudsmanden"
+    canonical: "forbrugerombudsmanden"
+    span: "Det vurderer Forbrugerombudsmanden, som politianmelder Rejsekort & Rejseplan"
+    critical: true
+  - id: f3
+    type: number
+    value: "over 35 forbrugerklager"
+    canonical: 35
+    span: "Forbrugerombudsmanden har modtaget over 35 forbrugerklager"
+    critical: true
+  - id: f4
+    type: date
+    value: "oktober 2025"
+    canonical: "2025-10"
+    span: "blev fra oktober 2025 overdækket med hætter"
+    critical: false
+  - id: f5
+    type: name
+    value: "Torben Jensen"
+    canonical: "torben jensen"
+    span: "Forbrugerombudsmand Torben Jensen siger"
+    critical: true
+  - id: f6
+    type: org
+    value: "Nordjyllands Trafikselskab"
+    canonical: "nordjyllands trafikselskab"
+    span: "delt på Facebook-siden Nordjyllands Trafikselskab"
+    critical: false
+  - id: f7
+    type: org
+    value: "DSB"
+    canonical: "dsb"
+    span: "vist i en video på DSB's Facebook-side"
+    critical: false
+  - id: f8
+    type: org
+    value: "Midttrafik"
+    canonical: "midttrafik"
+    span: "Facebook-siderne Fynbus og Midttrafik samt YouTube-kanalen Sydtrafik"
+    critical: false
+  - id: f9
+    type: quote
+    value: "Dit fysiske kort lukker - Hent Rejsekort-appen"
+    canonical: "dit fysiske kort lukker - hent rejsekort-appen"
+    span: "Video med teksten \"Dit fysiske kort lukker - Hent Rejsekort-appen\""
+    critical: false
+  - id: f10
+    type: quote
+    value: "RIP fysisk Rejsekort og DOT-app"
+    canonical: "rip fysisk rejsekort og dot-app"
+    span: "opslag med teksten \"RIP fysisk Rejsekort og DOT-app"
+    critical: false

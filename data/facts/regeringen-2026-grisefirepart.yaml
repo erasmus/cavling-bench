@@ -1,0 +1,64 @@
+source_id: regeringen-2026-grisefirepart
+facts:
+  - id: f1
+    type: number
+    value: "95 procent"
+    canonical: 95
+    unit: "%"
+    span: "omkring 95 procent får klippet en del af halen af"
+    critical: true
+  - id: f2
+    type: name
+    value: "Christian Rabjerg Madsen"
+    canonical: "christian rabjerg madsen"
+    span: "Ministeren for natur og dyrevelfærd, Christian Rabjerg Madsen, siger"
+    critical: true
+  - id: f3
+    type: org
+    value: "Landbrug & Fødevarer"
+    canonical: "landbrug & fødevarer"
+    span: "bliver det med Landbrug & Fødevarer, Dyrenes Beskyttelse"
+    critical: true
+  - id: f4
+    type: org
+    value: "Dyrenes Beskyttelse"
+    canonical: "dyrenes beskyttelse"
+    span: "Landbrug & Fødevarer, Dyrenes Beskyttelse, Fødevareforbundet NNF"
+    critical: false
+  - id: f5
+    type: org
+    value: "Danmarks Naturfredningsforening"
+    canonical: "danmarks naturfredningsforening"
+    span: "Fødevareforbundet NNF, Danmarks Naturfredningsforening, Dansk Erhverv"
+    critical: true
+  - id: f6
+    type: name
+    value: "Lars Løkke Rasmussen"
+    canonical: "lars løkke rasmussen"
+    span: "Udenrigsministeren, Lars Løkke Rasmussen, siger"
+    critical: false
+  - id: f7
+    type: name
+    value: "Martin Lidegaard"
+    canonical: "martin lidegaard"
+    span: "Erhvervs- og konkurrencekraftsminister, Martin Lidegaard, siger"
+    critical: false
+  - id: f8
+    type: name
+    value: "Maria Reumert Gjerding"
+    canonical: "maria reumert gjerding"
+    span: "Miljøministeren, Maria Reumert Gjerding, siger"
+    critical: false
+  - id: f9
+    type: number
+    value: "15 år"
+    canonical: 15
+    unit: år
+    span: "I de sidste 15 år er antallet af slagtninger og slagteriarbejdere"
+    critical: false
+  - id: f10
+    type: org
+    value: "Dansk Industri"
+    canonical: "dansk industri"
+    span: "Dansk Erhverv, Dansk Industri og regeringen selv om bordet"
+    critical: false

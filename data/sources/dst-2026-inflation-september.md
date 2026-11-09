@@ -9,8 +9,8 @@ retrieved: '2026-11-09'
 licence: Frit at gengive med Danmarks Statistik som kilde (svarer til CC BY 4.0)
 word_count: 311
 language: da
-planted_ambiguity: false
-notes: Inflation 2,2 pct. up vs kerneinflation 1,9 pct. down — opposite directions.
+planted_ambiguity: true
+notes: 'Trap: headline inflation 2,2 pct. rises while kerneinflation 1,9 pct. falls; ''2,2 pct.'' appears for both series in different months.'
 needs_manual: false
 ---
 Inflationen steg igen i september

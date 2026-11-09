@@ -9,8 +9,8 @@ retrieved: '2026-11-09'
 licence: Frit at gengive med Danmarks Statistik som kilde (svarer til CC BY 4.0)
 word_count: 992
 language: da
-planted_ambiguity: false
-notes: BNP +0,9 pct. revised up from +0,3 pct. in the 20 Aug release — confusable pair.
+planted_ambiguity: true
+notes: 'Trap: BNP Q2 +0,9 pct. is a revision (+0,6 pp) of an earlier +0,3; several unrelated ''1,5 pct.'' values collide.'
 needs_manual: false
 ---
 Solid fremgang i dansk økonomi i 2. kvartal

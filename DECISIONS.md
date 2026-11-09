@@ -29,3 +29,11 @@ not by hand, so the step is reproducible. 10 spares marked `skip: true` in `data
 with the reason inline. Reuse terms: explicit for dst.dk and nationalbanken.dk; all other
 authorities carry the ophavsretslov § 9 public-document reading — to confirm with press offices
 before the repo goes public.
+
+## 2026-11-09 23:30 — Facts written for 40 sources; 8 texts flagged planted_ambiguity
+Facts (6–10 per source, ≥ 3 critical) drafted from the texts with verbatim spans and validated by
+`facts-lint`; the owner should spot-read them before freezing. No source text was altered to plant
+a trap; `planted_ambiguity: true` marks the 8 texts whose *natural* confusable figures or revised
+numbers serve that purpose (described in each file's `notes`). Linter limits noted by curators:
+bare-year dates and compound durations ("et år og seks måneder") are not parsed, so such facts
+were recorded as `quote` or omitted.

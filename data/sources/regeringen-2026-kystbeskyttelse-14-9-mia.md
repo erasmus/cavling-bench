@@ -9,8 +9,8 @@ retrieved: '2026-11-09'
 licence: Offentligt aktstykke (ophavsretsloven § 9); ingen særskilte vilkår på regeringen.dk
 word_count: 591
 language: da
-planted_ambiguity: false
-notes: 14,9 mia. vs 'op til 20 mia. frem mod 2040'; 85/15 pct. split.
+planted_ambiguity: true
+notes: 'Trap: 14,9 mia. kr. state plan vs ''op mod 20 mia. frem mod 2040'' total; 1 mio. danskere vs 100.000 husstande vs 175.000 arbejdspladser.'
 needs_manual: false
 ---
 Med Klimatilpasningsplan II vil regeringen indføre et nyt paradigme for kystbeskyttelse af Danmark. En ny statslig investeringsplan med 14,9 mia. kroner, der skal hjælpe kommunerne med at sikre Danmarks kyster mod den nye klimavirkelighed med hyppigere stormfloder og vildere vejr.

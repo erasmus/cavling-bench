@@ -1,0 +1,64 @@
+source_id: rigsrevisionen-2026-beretning-pesticider
+facts:
+  - id: f1
+    type: date
+    value: "7. september 2026"
+    canonical: "2026-09-07"
+    span: "Den 7. september 2026 behandlede Statsrevisorerne"
+    critical: true
+  - id: f2
+    type: number
+    value: "7.800 tons"
+    canonical: 7800
+    unit: tons
+    span: "indkøbt 7.800 tons af pesticidet glyfosat, som ikke er indberettet"
+    critical: true
+  - id: f3
+    type: number
+    value: "40 %"
+    canonical: 40
+    unit: "%"
+    span: "Glyfosat tegner sig for ca. 40 % af alt pesticid"
+    critical: false
+  - id: f4
+    type: org
+    value: "Miljøstyrelsen"
+    canonical: "miljøstyrelsen"
+    span: "Statsrevisorerne kritiserer, at Miljøstyrelsen i flere tilfælde har forvaltet i strid med kemikalieloven"
+    critical: true
+  - id: f5
+    type: org
+    value: "Miljøministeriet"
+    canonical: "miljøministeriet"
+    span: "vurdere, om Miljøministeriets kontrol med brug af pesticider er tilfredsstillende"
+    critical: true
+  - id: f6
+    type: quote
+    value: "stærkt foruroligende"
+    canonical: "stærkt foruroligende"
+    span: "Statsrevisorerne finder Miljøministeriets kontrol med brug af pesticider stærkt foruroligende"
+    critical: true
+  - id: f7
+    type: number
+    value: "4 slags ulovlige pesticider"
+    canonical: 4
+    span: "kun søgt efter brug af 4 slags ulovlige pesticider"
+    critical: false
+  - id: f8
+    type: org
+    value: "Styrelsen for Grøn Arealomlægning og Vandmiljø"
+    canonical: "styrelsen for grøn arealomlægning og vandmiljø"
+    span: "Styrelsen for Grøn Arealomlægning og Vandmiljø, som udfører kontrollen for Miljøstyrelsen"
+    critical: false
+  - id: f9
+    type: quote
+    value: "over halvdelen af drikkevandsboringerne"
+    canonical: "over halvdelen af drikkevandsboringerne"
+    span: "I 2025 blev der fundet pesticidrester i over halvdelen af drikkevandsboringerne"
+    critical: false
+  - id: f10
+    type: org
+    value: "Statsrevisorerne"
+    canonical: "statsrevisorerne"
+    span: "Statsrevisorerne afgav beretningen til Folketinget med følgende bemærkning"
+    critical: false

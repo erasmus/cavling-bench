@@ -9,8 +9,8 @@ retrieved: '2026-11-09'
 licence: Frit at gengive med Danmarks Statistik som kilde (svarer til CC BY 4.0)
 word_count: 389
 language: da
-planted_ambiguity: false
-notes: Overskud 90,9 mia. (2025) vs 123,5 (2024); March release said 88,5 — revision trap.
+planted_ambiguity: true
+notes: 'Trap: 90,9 mia. kr. (2025) vs 123,5 (2024), saldo revised +2,5 mia. since March; udgifter 1.472,8 vs indtægter 1.563,8.'
 needs_manual: false
 ---
 Offentligt overskud i 2025

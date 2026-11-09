@@ -1,0 +1,61 @@
+source_id: aarhus-2026-budgetaftale-2027
+facts:
+  - id: f1
+    type: number
+    value: "138 mio. kr."
+    canonical: 138000000
+    unit: DKK
+    span: "et årligt løft på i alt138 mio. kr."
+    critical: true
+  - id: f2
+    type: number
+    value: "197 mio. kr."
+    canonical: 197000000
+    unit: DKK
+    span: "i alt 197 mio. kr. årligt til drift i budgetperioden"
+    critical: true
+  - id: f3
+    type: number
+    value: "810 mio. kr."
+    canonical: 810000000
+    unit: DKK
+    span: "Hertil kommer 810 mio. kr. til anlæg"
+    critical: true
+  - id: f4
+    type: number
+    value: "2 mia. kr."
+    canonical: 2000000000
+    unit: DKK
+    span: "løft af velfærden på omkring 2 mia. kr. over budgetperioden"
+    critical: false
+  - id: f5
+    type: number
+    value: "500 mio. kr."
+    canonical: 500000000
+    unit: DKK
+    span: "Dertil kommer knap 500 mio. kr. til blandt andet flere pædagoger"
+    critical: false
+  - id: f6
+    type: name
+    value: "Anders Winnerskjold"
+    canonical: "anders winnerskjold"
+    span: "Borgmester Anders Winnerskjold"
+    critical: true
+  - id: f7
+    type: org
+    value: "Aarhus Byråd"
+    canonical: "aarhus byråd"
+    span: "Et enigt Aarhus Byråd har torsdag den 17. september"
+    critical: true
+  - id: f8
+    type: number
+    value: "fire år"
+    canonical: 4
+    span: "aftale om kommunens budget for de kommende fire år"
+    critical: false
+  - id: f9
+    type: org
+    value: "Socialdemokratiet"
+    canonical: "socialdemokratiet"
+    span: "Partierne Socialdemokratiet, SF, Venstre, Enhedslisten"
+    critical: false

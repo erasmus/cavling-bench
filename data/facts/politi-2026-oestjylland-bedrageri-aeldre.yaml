@@ -1,0 +1,64 @@
+source_id: politi-2026-oestjylland-bedrageri-aeldre
+facts:
+  - id: f1
+    type: quote
+    value: "et år og seks måneders fængsel"
+    canonical: "et år og seks måneders fængsel"
+    span: "blevet idømt et år og seks måneders fængsel for at have begået bankbudsbedragerier"
+    critical: true
+  - id: f2
+    type: org
+    value: "Retten i Aarhus"
+    canonical: "retten i aarhus"
+    span: "Det blev i dag slået fast ved Retten i Aarhus"
+    critical: true
+  - id: f3
+    type: number
+    value: "48 ældre borgere"
+    canonical: 48
+    span: "svindlet i alt 48 ældre borgere rundt om i landet"
+    critical: true
+  - id: f4
+    type: number
+    value: "270.000 kroner"
+    canonical: 270000
+    unit: DKK
+    span: "270.000 kroner. Så meget har en 32-årig mand fra Tilst"
+    critical: true
+  - id: f5
+    type: number
+    value: "150 øvrige borgere"
+    canonical: 150
+    span: "forsøgt at svindle omkring 150 øvrige borgere via telefonen"
+    critical: false
+  - id: f6
+    type: number
+    value: "32-årig"
+    canonical: 32
+    span: "En 32-årig mand er ved Retten i Aarhus"
+    critical: false
+  - id: f7
+    type: name
+    value: "Jakob Christensen"
+    canonical: "jakob christensen"
+    span: "siger anklager Jakob Christensen fra Anklagemyndigheden ved Østjyllands Politi"
+    critical: false
+  - id: f8
+    type: org
+    value: "Østjyllands Politi"
+    canonical: "østjyllands politi"
+    span: "Anklagemyndigheden ved Østjyllands Politi"
+    critical: false
+  - id: f9
+    type: number
+    value: "15.000 kroner"
+    canonical: 15000
+    unit: DKK
+    span: "havde den pågældende borger fået hævet 15.000 kroner fra sin konto"
+    critical: false
+  - id: f10
+    type: place
+    value: "Tilst"
+    canonical: "tilst"
+    span: "en 32-årig mand fra Tilst svindlet"
+    critical: false

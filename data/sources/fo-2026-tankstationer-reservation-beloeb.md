@@ -9,8 +9,8 @@ retrieved: '2026-11-09'
 licence: Offentligt aktstykke (ophavsretsloven § 9); ingen særskilte vilkår på forbrugerombudsmanden.dk
 word_count: 969
 language: da
-planted_ambiguity: false
-notes: Reservation amounts per brand (950/850→100/1.200/1.500 kr.); up to 11 days.
+planted_ambiguity: true
+notes: 'Trap: five reservation amounts across four brands, OK''s 850 kr. superseded by 100 kr.; ''op til 11 dage'' is release delay, not a reservation.'
 needs_manual: false
 ---
 Tankstationer må ikke reservere urimeligt høje beløb på forbrugernes konti

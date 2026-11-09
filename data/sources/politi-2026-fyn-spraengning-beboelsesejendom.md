@@ -9,8 +9,8 @@ retrieved: '2026-11-09'
 licence: Offentligt aktstykke (ophavsretsloven § 9); ingen særskilte vilkår på politi.dk
 word_count: 394
 language: da
-planted_ambiguity: false
-notes: 3 × 14 års fængsel; internal age inconsistency in the text — natural trap.
+planted_ambiguity: true
+notes: 'Trap: ages given as 19/21/22 in the lead and 20/21/22 in the sentence list; ''19–25 personer'' in the building.'
 needs_manual: false
 ---
 Tre unge mænd idømt lange fængselsstraffe i forsøg på sprængning i beboelsesejendom

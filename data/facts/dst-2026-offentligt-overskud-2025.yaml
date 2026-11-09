@@ -1,0 +1,71 @@
+source_id: dst-2026-offentligt-overskud-2025
+facts:
+  - id: f1
+    type: number
+    value: "90,9 mia. kr."
+    canonical: 90900000000
+    unit: DKK
+    span: "I 2025 var der et overskud på 90,9 mia. kr. på de offentlige finanser"
+    critical: true
+  - id: f2
+    type: number
+    value: "123,5 mia. kr."
+    canonical: 123500000000
+    unit: DKK
+    span: "I 2024 var overskuddet på 123,5 mia. kr."
+    critical: true
+  - id: f3
+    type: number
+    value: "1.472,8 mia. kr."
+    canonical: 1472800000000
+    unit: DKK
+    span: "steg udgifterne med 85,0 mia. kr. til 1.472,8 mia. kr."
+    critical: false
+  - id: f4
+    type: number
+    value: "1.563,8 mia. kr."
+    canonical: 1563800000000
+    unit: DKK
+    span: "indtægterne steg med 52,4 mia. kr. til 1.563,8 mia. kr. i 2025"
+    critical: false
+  - id: f5
+    type: number
+    value: "47,0 mia. kr."
+    canonical: 47000000000
+    unit: DKK
+    span: "pensionsafkastskatten er opgjort til 47,0 mia. kr. i 2025"
+    critical: true
+  - id: f6
+    type: number
+    value: "41 pct."
+    canonical: 41
+    unit: "%"
+    span: "Med 41 pct. af de samlede udgifter er social beskyttelse"
+    critical: false
+  - id: f7
+    type: number
+    value: "2,5 mia. kr."
+    canonical: 2500000000
+    unit: DKK
+    span: "den offentlige saldo opjusteret med 2,5 mia. kr. i 2025"
+    critical: true
+  - id: f8
+    type: date
+    value: "3. juni 2026"
+    canonical: "2026-06-03"
+    span: "Offentligt overskud i 2025 3. juni 2026"
+    critical: false
+  - id: f9
+    type: number
+    value: "438,4 mia. kr."
+    canonical: 438400000000
+    unit: DKK
+    span: "så de i 2025 udgjorde 438,4 mia. kr."
+    critical: false
+  - id: f10
+    type: number
+    value: "5 pct."
+    canonical: 5
+    unit: "%"
+    span: "udgør 5 pct. af udgifterne i 2025"
+    critical: false

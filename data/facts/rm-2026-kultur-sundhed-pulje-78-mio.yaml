@@ -1,0 +1,66 @@
+source_id: rm-2026-kultur-sundhed-pulje-78-mio
+facts:
+  - id: f1
+    type: number
+    value: "7,8 mio. kr."
+    canonical: 7800000
+    unit: DKK
+    span: "åbner Region Midtjylland nu en pulje på 7,8 mio. kr."
+    critical: true
+  - id: f2
+    type: org
+    value: "Region Midtjylland"
+    canonical: "region midtjylland"
+    span: "Derfor åbner Region Midtjylland nu en pulje"
+    critical: true
+  - id: f3
+    type: number
+    value: "200.000 kr"
+    canonical: 200000
+    unit: DKK
+    span: "Der skal som minimum søges om 200.000 kr"
+    critical: true
+  - id: f4
+    type: number
+    value: "25 procent"
+    canonical: 25
+    unit: "%"
+    span: "medfinansiering på mindst 25 procent af det samlede budget"
+    critical: true
+  - id: f5
+    type: date
+    value: "26. august 2026"
+    canonical: "2026-08-26"
+    span: "Ansøgningsfristen er den 26. august 2026 kl. 12.00"
+    critical: true
+  - id: f6
+    type: number
+    value: "tre år"
+    canonical: 3
+    unit: år
+    span: "projekter med en varighed på op til tre år"
+    critical: false
+  - id: f7
+    type: name
+    value: "Per Møller Jensen"
+    canonical: "per møller jensen"
+    span: "Per Møller Jensen (S), formand for Region Midtjyllands Udvalg for Regional Udvikling"
+    critical: false
+  - id: f8
+    type: name
+    value: "Vivi Altenburg"
+    canonical: "vivi altenburg"
+    span: "siger Vivi Altenburg (DD), næstformand for Udvalg for Regional Udvikling"
+    critical: false
+  - id: f9
+    type: date
+    value: "november 2026"
+    canonical: "2026-11"
+    span: "Ansøgninger behandles i november 2026."
+    critical: false
+  - id: f10
+    type: place
+    value: "Godsbanen i Aarhus"
+    canonical: "godsbanen i aarhus"
+    span: "Det fysiske møde er på Godsbanen i Aarhus 21. maj kl. 10-13"
+    critical: false

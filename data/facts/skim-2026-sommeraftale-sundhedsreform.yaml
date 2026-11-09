@@ -1,0 +1,68 @@
+source_id: skim-2026-sommeraftale-sundhedsreform
+facts:
+  - id: f1
+    type: number
+    value: "800 mio. kr."
+    canonical: 800000000
+    unit: DKK
+    span: "giver sundhedsvæsenet et løft på knap 800 mio. kr. allerede i 2027"
+    critical: true
+  - id: f2
+    type: number
+    value: "1,1 mia. kr."
+    canonical: 1100000000
+    unit: DKK
+    span: "stiger op til 1,1 mia. kr. årligt fra 2030 og frem"
+    critical: true
+  - id: f3
+    type: number
+    value: "96 timers"
+    canonical: 96
+    unit: timer
+    span: "udvides ordningen med 96 timers behandlingsansvar"
+    critical: true
+  - id: f4
+    type: number
+    value: "21 dage"
+    canonical: 21
+    unit: dage
+    span: "relevante forebyggelsestilbud inden for 21 dage efter henvisning fra egen læge"
+    critical: true
+  - id: f5
+    type: name
+    value: "Ida Auken"
+    canonical: "ida auken"
+    span: "Sundhedsminister Ida Auken siger"
+    critical: true
+  - id: f6
+    type: org
+    value: "Danske Regioner"
+    canonical: "danske regioner"
+    span: "regeringen, Danske Regioner og KL i dag blevet enige"
+    critical: true
+  - id: f7
+    type: name
+    value: "Mads Duedahl"
+    canonical: "mads duedahl"
+    span: "Formand for Danske Regioner Mads Duedahl siger"
+    critical: false
+  - id: f8
+    type: name
+    value: "Dorte West"
+    canonical: "dorte west"
+    span: "Formand for KL’s Sundheds- og Ældreudvalg Dorte West siger"
+    critical: false
+  - id: f9
+    type: number
+    value: "67 år"
+    canonical: 67
+    unit: år
+    span: "gælder lofterne ikke for læger, der er fyldt 67 år"
+    critical: false
+  - id: f10
+    type: number
+    value: "128 mio. kr."
+    canonical: 128000000
+    unit: DKK
+    span: "udmøntes 128 mio. kr. i 2027 til at nedbringe ventetider hos praktiserende speciallæger"
+    critical: false

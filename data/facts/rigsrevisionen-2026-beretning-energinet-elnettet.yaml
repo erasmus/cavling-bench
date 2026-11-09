@@ -1,0 +1,68 @@
+source_id: rigsrevisionen-2026-beretning-energinet-elnettet
+facts:
+  - id: f1
+    type: date
+    value: "9. april 2026"
+    canonical: "2026-04-09"
+    span: "Den 9. april 2026 behandlede Statsrevisorerne"
+    critical: true
+  - id: f2
+    type: number
+    value: "70 %"
+    canonical: 70
+    unit: "%"
+    span: "da ca. 70 % af de igangsatte udbygningsprojekter er forsinkede"
+    critical: true
+  - id: f3
+    type: number
+    value: "10 mia. kr."
+    canonical: 10000000000
+    unit: DKK
+    span: "foreløbigt blevet mere end 10 mia. kr. dyrere end planlagt"
+    critical: true
+  - id: f4
+    type: org
+    value: "Energinet"
+    canonical: "energinet"
+    span: "Energinet ejer og udvikler el- og gasnettet i Danmark"
+    critical: true
+  - id: f5
+    type: org
+    value: "Klima-, Energi- og Forsyningsministeriet"
+    canonical: "klima-, energi- og forsyningsministeriet"
+    span: "ejerskabet varetages af Klima-, Energi- og Forsyningsministeriet"
+    critical: true
+  - id: f6
+    type: number
+    value: "80 %"
+    canonical: 80
+    unit: "%"
+    span: "tager i gennemsnit ca. 80 % længere tid end forventet"
+    critical: false
+  - id: f7
+    type: number
+    value: "206 km"
+    canonical: 206
+    unit: km
+    span: "er der færdiggjort 206 km elnet ud af de 490 km elnet"
+    critical: false
+  - id: f8
+    type: number
+    value: "250 km"
+    canonical: 250
+    unit: km
+    span: "fra 120 km til 250 km elnet årligt"
+    critical: false
+  - id: f9
+    type: number
+    value: "9.000 km"
+    canonical: 9000
+    unit: km
+    span: "Elnettet omfatter i dag ca. 9.000 km jordkabler og luftledninger"
+    critical: false
+  - id: f10
+    type: org
+    value: "Statsrevisorerne"
+    canonical: "statsrevisorerne"
+    span: "Statsrevisorerne finder styringen af udbygningen af elnettet kritisabel"
+    critical: false

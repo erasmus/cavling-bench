@@ -1,0 +1,64 @@
+source_id: fo-2026-ditur-boede-tilbud
+facts:
+  - id: f1
+    type: number
+    value: "4,25 millioner kroner"
+    canonical: 4250000
+    unit: DKK
+    span: "accepteret at betale en bøde på 4,25 millioner kroner"
+    critical: true
+  - id: f2
+    type: org
+    value: "Ditur.dk ApS"
+    canonical: "ditur.dk aps"
+    span: "Ditur.dk ApS har accepteret at betale"
+    critical: true
+  - id: f3
+    type: org
+    value: "Forbrugerombudsmanden"
+    canonical: "forbrugerombudsmanden"
+    span: "Forbrugerombudsmanden i maj 2026 politianmeldte virksomheden"
+    critical: true
+  - id: f4
+    type: number
+    value: "26 tilfælde"
+    canonical: 26
+    span: "for i 26 tilfælde at overtræde markedsføringslovens vildledningsforbud"
+    critical: true
+  - id: f5
+    type: date
+    value: "maj 2026"
+    canonical: "2026-05"
+    span: "i maj 2026 politianmeldte virksomheden"
+    critical: false
+  - id: f6
+    type: number
+    value: "fem måneder"
+    canonical: 5
+    span: "i en periode på fem måneder overvåget priserne"
+    critical: false
+  - id: f7
+    type: number
+    value: "30 dage"
+    canonical: 30
+    span: "i en periode på mindst 30 dage forud for prisnedsættelsen"
+    critical: false
+  - id: f8
+    type: number
+    value: "599 kroner"
+    canonical: 599
+    unit: DKK
+    span: "en fast normalpris på 599 kroner"
+    critical: false
+  - id: f9
+    type: name
+    value: "Torben Jensen"
+    canonical: "torben jensen"
+    span: "Forbrugerombudsmand Torben Jensen siger"
+    critical: false
+  - id: f10
+    type: date
+    value: "1. januar 2022"
+    canonical: "2022-01-01"
+    span: "indført med virkning fra 1. januar 2022"
+    critical: false

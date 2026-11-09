@@ -9,8 +9,8 @@ retrieved: '2026-11-09'
 licence: Kopiering tilladt vederlagsfrit med Danmarks Nationalbank som kilde; indholdet må ikke forvanskes
 word_count: 384
 language: da
-planted_ambiguity: false
-notes: Three near-identical triples (inflation, BNP, kerne 2026–28).
+planted_ambiguity: true
+notes: 'Trap: three near-identical triples (inflation 1,8/2,0/1,9; BNP 1,8/1,8/2; kerne 2,2/2,1/1,7) plus a 4,5 pct. risk scenario.'
 needs_manual: false
 ---
 Udsigterne for dansk og global økonomi er præget af vedvarende geopolitisk usikkerhed, handelskonflikter og stigende energipriser. Men dansk økonomi er grundlæggende i god balance med høj beskæftigelse og lav ledighed, vurderer Nationalbanken i sin prognose for dansk økonomi, der er offentliggjort i dag.

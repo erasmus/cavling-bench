@@ -1,0 +1,67 @@
+source_id: politi-2026-sydoestjylland-hadforbrydelse
+facts:
+  - id: f1
+    type: org
+    value: "Retten i Horsens"
+    canonical: "retten i horsens"
+    span: "er i dag ved Retten i Horsens blevet idømt fængselsstraffe"
+    critical: true
+  - id: f2
+    type: quote
+    value: "et år og tre måneders fængsel"
+    canonical: "et år og tre måneders fængsel"
+    span: "blev idømt et år og tre måneders fængsel, et opholdsforbud i nattelivet"
+    critical: true
+  - id: f3
+    type: number
+    value: "10 måneders fængsel"
+    canonical: 10
+    unit: måneder
+    span: "Den 17-årige mand blev idømt 10 måneders fængsel."
+    critical: true
+  - id: f4
+    type: number
+    value: "tre måneders fængsel"
+    canonical: 3
+    unit: måneder
+    span: "Den anden 18-årige mand blev idømt tre måneders fængsel samt en advarsel om udvisning"
+    critical: true
+  - id: f5
+    type: number
+    value: "seks år"
+    canonical: 6
+    unit: år
+    span: "udvisning af Danmark med et indrejseforbud i seks år"
+    critical: false
+  - id: f6
+    type: date
+    value: "17. januar 2026"
+    canonical: "2026-01-17"
+    span: "at de den 17. januar 2026 omkring kl. 02.10 ved banegården i Horsens"
+    critical: true
+  - id: f7
+    type: number
+    value: "17 år"
+    canonical: 17
+    unit: år
+    span: "henholdsvis 18 år, 18 år og 17 år"
+    critical: false
+  - id: f8
+    type: name
+    value: "Thomas Vestergaard"
+    canonical: "thomas vestergaard"
+    span: "udtaler Thomas Vestergaard, anklagerfuldmægtig i anklagemyndigheden ved Sydøstjyllands Politi"
+    critical: false
+  - id: f9
+    type: date
+    value: "2. januar 2026"
+    canonical: "2026-01-02"
+    span: "i Vitus Beringsparken i Horsens den 2. januar 2026"
+    critical: false
+  - id: f10
+    type: number
+    value: "seks måneder"
+    canonical: 6
+    unit: måneder
+    span: "et opholdsforbud i nattelivet i seks måneder"
+    critical: false

@@ -9,8 +9,8 @@ retrieved: '2026-11-09'
 licence: Frit at gengive med Danmarks Statistik som kilde (svarer til CC BY 4.0)
 word_count: 347
 language: da
-planted_ambiguity: false
-notes: Aflønning 116,2 vs overførsler 116,9 mia. — near-identical amounts.
+planted_ambiguity: true
+notes: 'Trap: Q1 surplus restated 9,3 → 23,2 mia.; aflønning 116,2 vs overførsler 116,9; nettoformue 871 vs ØMU-gæld 859,1.'
 needs_manual: false
 ---
 Offentligt overskud på 35,5 mia. kr. i 2. kvt. 2026

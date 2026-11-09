@@ -1,0 +1,44 @@
+source_id: datatilsynet-2026-faaborg-midtfyn-ai-aeldrepleje
+facts:
+  - id: f1
+    type: org
+    value: "Faaborg-Midtfyn Kommune"
+    canonical: "faaborg-midtfyn kommune"
+    span: "sag om Faaborg-Midtfyn Kommunes brug af et AI-baseret monitoreringssystem"
+    critical: true
+  - id: f2
+    type: number
+    value: "18 beboere"
+    canonical: 18
+    span: "brugt løsningen over for 18 beboere i en afgrænset prøveperiode"
+    critical: true
+  - id: f3
+    type: number
+    value: "seks måneder"
+    canonical: 6
+    span: "en afgrænset prøveperiode på seks måneder"
+    critical: true
+  - id: f4
+    type: date
+    value: "januar 2026"
+    canonical: "2026-01"
+    span: "Sagen blev indledt af egen drift i januar 2026"
+    critical: true
+  - id: f5
+    type: org
+    value: "Datatilsynet"
+    canonical: "datatilsynet"
+    span: "Datatilsynet har truffet afgørelse i en sag om"
+    critical: true
+  - id: f6
+    type: quote
+    value: "Risikovurderingen var for generel"
+    canonical: "risikovurderingen var for generel"
+    span: "Risikovurderingen var for generel"
+    critical: false
+  - id: f7
+    type: quote
+    value: "kommunen skulle have gennemført en konsekvensanalyse, inden løsningen blev taget i brug"
+    canonical: "kommunen skulle have gennemført en konsekvensanalyse, inden løsningen blev taget i brug"
+    span: "kommunen skulle have gennemført en konsekvensanalyse, inden løsningen blev taget i brug"
+    critical: false

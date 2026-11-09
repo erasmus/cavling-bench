@@ -9,3 +9,7 @@ __pycache__/
 dist/
 site/site_data.json
 site/figures/
+
+# Spec stays out of version control
+REQUIREMENTS.md
+/specs/

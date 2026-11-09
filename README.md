@@ -4,7 +4,7 @@
 
 Cavling-bench is an open benchmark that answers one question for Danish news publishers: which language models can be trusted with Danish editorial tasks, on what evidence, and at what cost of dependency?
 
-The full specification (`REQUIREMENTS.md`) is kept outside version control; `DECISIONS.md` is the running log of pins, cuts and freezes and records every deviation from it.
+`DECISIONS.md` is the running log of scope, pins, cuts and freezes.
 
 ## Quick start
 

@@ -1,4 +1,4 @@
-"""Mechanical checks, no LLM (REQUIREMENTS.md §6.3)."""
+"""Mechanical checks, no LLM."""
 
 from __future__ import annotations
 

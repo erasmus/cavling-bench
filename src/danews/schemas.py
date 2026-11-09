@@ -1,4 +1,4 @@
-"""All pydantic models for Cavling-bench (REQUIREMENTS.md §5)."""
+"""All pydantic models for Cavling-bench."""
 
 from __future__ import annotations
 

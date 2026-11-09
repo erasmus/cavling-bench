@@ -1,6 +1,7 @@
-Read REQUIREMENTS.md before doing anything. It defines scope, schemas, pipeline stages,
-prompts and acceptance criteria. Do not invent requirements that are not in it; if something
-is ambiguous, ask or pick the option it marks as default and note it in DECISIONS.md.
+Read DECISIONS.md before doing anything. It is the running log of scope, pins, cuts and
+freezes. Schemas live in src/danews/schemas.py, pipeline stages in src/danews/cli.py, prompts
+under data/. Do not invent requirements; if something is ambiguous, ask or pick the simplest
+option and note it in DECISIONS.md.
 
 Rules:
 - Python 3.12, managed with uv. Run `uv run pytest` before every commit.

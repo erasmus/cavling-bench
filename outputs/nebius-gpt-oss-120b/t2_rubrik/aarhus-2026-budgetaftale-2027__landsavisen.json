@@ -1,0 +1,20 @@
+{
+  "model_id": "nebius-gpt-oss-120b",
+  "pinned_version": "openai/gpt-oss-120b",
+  "task_id": "t2_rubrik",
+  "source_id": "aarhus-2026-budgetaftale-2027",
+  "archetype": "landsavisen",
+  "prompt_sha256": "ba30d9c5eaf2e8cdb359079bb9691fa0d553b189bdddc186a0020d0cc8153ece",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 400
+  },
+  "text": "RUBRIK: Aarhus Byråd vedtager fireårigt budgetforlig med velfærd  \nUNDERRUBRIK: Budgetaftalen giver 138 mio. kr. ekstra til socialområdet, 810 mio. kr. til anlægsprojekter for bedre mobilitet, holder kommuneskatten uændret og er vedtaget af alle ni partier.",
+  "prompt_tokens": 1437,
+  "completion_tokens": 565,
+  "latency_ms": 2180,
+  "cost_usd": 0.00055455,
+  "created": "2026-11-09T21:20:03.722914Z",
+  "error": null
+}

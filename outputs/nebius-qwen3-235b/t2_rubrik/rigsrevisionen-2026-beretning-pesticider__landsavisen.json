@@ -1,0 +1,20 @@
+{
+  "model_id": "nebius-qwen3-235b",
+  "pinned_version": "Qwen/Qwen3-235B-A22B-Instruct-2507",
+  "task_id": "t2_rubrik",
+  "source_id": "rigsrevisionen-2026-beretning-pesticider",
+  "archetype": "landsavisen",
+  "prompt_sha256": "1e2e5cbbea019f2f91670d6d54f6ef772db5979d798fee59fdf2c9f65e594b88",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 400
+  },
+  "text": "RUBRIK: Kontrol med pesticider \"stærkt foruroligende\"  \nUNDERRUBRIK: Statsrevisorerne kritiserer Miljøstyrelsen for manglende risikovurdering, udelukkende brug af selvangivelser og over 7.800 tons uspurt glyfosat siden 2011.",
+  "prompt_tokens": 2164,
+  "completion_tokens": 88,
+  "latency_ms": 3000,
+  "cost_usd": 0.00048560000000000004,
+  "created": "2026-11-09T21:17:26.452622Z",
+  "error": null
+}

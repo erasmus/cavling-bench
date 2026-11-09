@@ -1,0 +1,20 @@
+{
+  "model_id": "nebius-gpt-oss-120b",
+  "pinned_version": "openai/gpt-oss-120b",
+  "task_id": "t6_lydmanus",
+  "source_id": "politi-2026-fyn-spraengning-beboelsesejendom",
+  "archetype": "lynposten",
+  "prompt_sha256": "52c2efccdf13f57086a6ad9401b4f992d0721d4158dc38a426729ab5d2de3b25",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 620
+  },
+  "text": "Nitten, enogtyve og toogtyve år gamle mænd blev i dag fredag den tyve februar i Odense dømt for forsøg på sprængning i en beboelsesejendom. De forsøgte at sprænge en bombe med mere end fire kilo dynamit i en opgang på Nyborgvej i december toogtyve tre, mens mellem nitten og femogtyve personer opholdt sig der. Forsøget slog fejl, fordi gerningsmændene ikke kom ind i opgangen og blev opdaget af politiet. De er også dømt for indførsel, transport og besiddelse af sprængstof under særligt skærpende omstændigheder samt for våbenlovsovertrædelser. Yderligere er de dømt for planlagt skud mod en beboelsesejendom i marts toogtyve tre og for grov frihedsberøvelse, mishandling og voldtægt af en mand i februar toogtyve tre. Specialanklager Daniel Dokkedahl fra Fyns Politi siger, at retten har sendt et klart signal om, at ekstrem og organiseret kriminalitet straffes hårdt. Alle tre er idømt fjorten års fængsel og forbliver i varetægt.",
+  "prompt_tokens": 1298,
+  "completion_tokens": 373,
+  "latency_ms": 1467,
+  "cost_usd": 0.0004185,
+  "created": "2026-11-09T21:20:09.334296Z",
+  "error": null
+}

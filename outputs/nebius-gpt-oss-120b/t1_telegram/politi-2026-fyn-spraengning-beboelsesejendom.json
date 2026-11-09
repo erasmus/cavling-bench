@@ -1,0 +1,20 @@
+{
+  "model_id": "nebius-gpt-oss-120b",
+  "pinned_version": "openai/gpt-oss-120b",
+  "task_id": "t1_telegram",
+  "source_id": "politi-2026-fyn-spraengning-beboelsesejendom",
+  "archetype": null,
+  "prompt_sha256": "1499144ab81cdf199c2374568f05a2c3c29298a2870e04834b18505eac9775e8",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 560
+  },
+  "text": "Tre unge mænd på 19, 21 og 22 år er i dag, fredag den 20. februar 2026, idømt 14 års fængsel hver for forsøg på at sprænge en beboelsesejendom på Nyborgvej i Odense i december 2023 med mere end fire kilo dynamit, samt for indførsel, transport og besiddelse af sprængstof under særligt skærpende omstændigheder, våbenlovsovertrædelser, planlagt skud mod en anden beboelsesejendom i marts 2023 og grov frihedsberøvelse, mishandling og voldtægt af en mand i februar 2023. Forsøget mislykkedes, da gerningsmændene ikke fik adgang til opgangen og blev opdaget af politiet. Fire andre personer er allerede idømt lange fængselsstraffe for planlægning og håndtering af sprængstoffet. Retten har også beordret konfiskation af sprængstof, våben og mobiltelefon samt sletning af videooptagelser. Specialanklager Daniel Dokkedahl udtalte, at dommen sender et klart signal om hård straf for ekstrem og organiseret kriminalitet. De dømte er fortsat varetægtsfængslede.",
+  "prompt_tokens": 968,
+  "completion_tokens": 310,
+  "latency_ms": 1211,
+  "cost_usd": 0.0003312,
+  "created": "2026-11-09T21:20:02.745169Z",
+  "error": null
+}

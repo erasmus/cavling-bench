@@ -1,0 +1,20 @@
+{
+  "model_id": "nebius-qwen3-235b",
+  "pinned_version": "Qwen/Qwen3-235B-A22B-Instruct-2507",
+  "task_id": "t4_versionering",
+  "source_id": "rigsrevisionen-2026-beretning-pesticider",
+  "archetype": "lynposten",
+  "prompt_sha256": "fa8289c7fc89431472d872f9035ceeb7499e50af7f2ecfbdab455ff78ef23e88",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 1025
+  },
+  "text": "Over halvdelen af Danmarks drikkevandsboringer indeholder pesticidrester. Det viser en beretning fra Statsrevisorerne, som onsdag blev afgivet til Folketinget.\n\nBeretningen afslører, at Miljøstyrelsen ikke har styr på pesticidbruget i Danmark. Kontrollen er næsten udelukkende baseret på selvangivelser fra landbrug og virksomheder. Styrelsen efterprøver ikke oplysningerne. Virksomheder kan slette, rette eller udelade data – uden konsekvenser.\n\nSiden 2018 har pesticidniveauet i grundvandet været stigende. I 2025 blev der fundet pesticider i 52 procent af boringerne. Vandforsyningsselskaber må nu ofte fortynde grundvandet, før det kan bruges som drikkevand.\n\nStatsrevisorerne peger på alvorlige mangler. Siden 2011 er der indkøbt 7.800 tons glyfosat, som ikke er indberettet som forbrugt. Det svarer til knap halvdelen af alt indkøbt glyfosat i perioden. Styrelsen har ikke undersøgt, hvor stoffet er blevet af.\n\nMiljøstyrelsen udvælger ikke virksomheder til kontrol efter risiko. Det kræver EU’s kontrolforordning – men reglen overholdes ikke. I 2022-2025 kontrollerede styrelsen kun for brug af fire typer ulovlige pesticider, selv om der er hundredvis af forbudte stoffer.\n\nKontrollører bruger næsten udelukkende virksomhedernes egne sprøjtejournaler. Selv med en halvtom dunk med ulovlige pesticider på stedet, kan det ikke bevises, hvis det ikke står i journalen.\n\nFra 2020 har Styrelsen for Grøn Arealomlægning og Vandmiljø flere gange foreslået, at man krydstjekker køb, forbrug og lager. Miljøstyrelsen har ikke handlet på forslagene.\n\nStatsrevisorerne konkluderer: Kontrollen er helt utilstrækkelig. Det kan medføre, at ulovlige mængder pesticider siver ned i grundvandet eller ender i fødevarer.",
+  "prompt_tokens": 2151,
+  "completion_tokens": 583,
+  "latency_ms": 14122,
+  "cost_usd": 0.00078,
+  "created": "2026-11-09T21:17:54.306496Z",
+  "error": null
+}

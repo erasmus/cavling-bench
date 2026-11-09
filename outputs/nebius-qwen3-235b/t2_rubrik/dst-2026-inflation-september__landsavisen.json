@@ -1,0 +1,20 @@
+{
+  "model_id": "nebius-qwen3-235b",
+  "pinned_version": "Qwen/Qwen3-235B-A22B-Instruct-2507",
+  "task_id": "t2_rubrik",
+  "source_id": "dst-2026-inflation-september",
+  "archetype": "landsavisen",
+  "prompt_sha256": "101f8bb639fd89b09fa38a0bf845b1573f545bcb8dc3330e392544ceef02c0bd",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 400
+  },
+  "text": "RUBRIK: Inflationen steg til 2,2 pct. i september  \nUNDERRUBRIK: Stigningen skyldes især højere brændstofpriser, mens kerneinflationen faldt let til 1,9 pct. i måneden.",
+  "prompt_tokens": 1347,
+  "completion_tokens": 67,
+  "latency_ms": 1450,
+  "cost_usd": 0.00030960000000000004,
+  "created": "2026-11-09T21:17:17.878177Z",
+  "error": null
+}

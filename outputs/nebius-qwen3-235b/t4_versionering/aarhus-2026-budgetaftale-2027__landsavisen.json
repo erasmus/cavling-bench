@@ -1,0 +1,20 @@
+{
+  "model_id": "nebius-qwen3-235b",
+  "pinned_version": "Qwen/Qwen3-235B-A22B-Instruct-2507",
+  "task_id": "t4_versionering",
+  "source_id": "aarhus-2026-budgetaftale-2027",
+  "archetype": "landsavisen",
+  "prompt_sha256": "1bb9487084ce6086f8713574dd18e3d902d3186d42b43ecd79f9c93a7388a3b3",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 1025
+  },
+  "text": "Aarhus Byråd har indgået en fælles budgetaftale for perioden frem til 2027, efter to års forhandlinger. Aftalen, som er resultatet af bred politisk enighed, sætter fokus på styrket velfærd, bedre kollektiv trafik og øget støtte til erhvervslivet. Den samlede økonomiske ramme afspejler både kommunens ambitioner og de økonomiske begrænsninger, der præger flere velfærdsområder.\n\nBudgettet sikrer et årligt løft på 138 millioner kroner til socialområdet, herunder støtte til demente ældre og tidligere anbragte børn. Derudover allokeres 197 millioner kroner årligt til drift, mens 810 millioner kroner går til anlæg – blandt andet til bedre fremkommelighed for busser og cyklister. Formålet er at mindske trængslen og gøre det nemmere for borgerne at komme rundt i byen. Samtidig fastholdes kommuneskatten på nuværende niveau.\n\nBorgmester Anders Winnerskjold (V) fremhæver, at budgettet skal mærkes i borgerens hverdag. ”Vi investerer i flere voksne omkring børnene, bedre og billigere kollektiv transport og bedre fremkommelighed,” siger han og tilføjer, at rammerne også skal støtte vækst og arbejdspladser. Han pointerer, at effektivisering og reduktion af administration er nøgler til at frigøre ressourcer til borgerfremmende tiltag.\n\nAftalen omfatter også et samlet velfærdsløft på omkring 2 milliarder kroner over perioden, heraf knap 500 millioner kroner fra nationale aftaler til eksempelvis flere pædagoger og lavere forældrebetaling. Fra 2028 indføres et nyt velfærdsbidrag, der skal finansiere innovative løsninger gennem teknologi og nye arbejdsgange. Bag aftalen står alle ni byrådspartier, herunder Socialdemokratiet, SF, Venstre, Enhedslisten, Det Konservative Folkeparti, Radikale Venstre, Liberal Alliance, Danmarksdemokraterne og Dansk Folkeparti.",
+  "prompt_tokens": 1645,
+  "completion_tokens": 592,
+  "latency_ms": 14394,
+  "cost_usd": 0.0006842,
+  "created": "2026-11-09T21:17:42.534758Z",
+  "error": null
+}

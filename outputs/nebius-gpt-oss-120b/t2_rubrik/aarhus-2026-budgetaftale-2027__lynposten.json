@@ -1,0 +1,20 @@
+{
+  "model_id": "nebius-gpt-oss-120b",
+  "pinned_version": "openai/gpt-oss-120b",
+  "task_id": "t2_rubrik",
+  "source_id": "aarhus-2026-budgetaftale-2027",
+  "archetype": "lynposten",
+  "prompt_sha256": "d8f63e3fcd8f2cef31bfd9e056a0c55ac7a76df269ef964cc64b2f2563b4178c",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 400
+  },
+  "text": "RUBRIK: Aarhus Byråd vedtager 2027-budget med 138 mio. til velfærd  \nUNDERRUBRIK: Budgetaftalen giver 197 mio. årligt til drift, 810 mio. til anlæg, 138 mio. ekstra til socialområdet og holder kommuneskatten uændret.",
+  "prompt_tokens": 1444,
+  "completion_tokens": 593,
+  "latency_ms": 2314,
+  "cost_usd": 0.0005723999999999999,
+  "created": "2026-11-09T21:20:03.854448Z",
+  "error": null
+}

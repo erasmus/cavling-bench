@@ -1,0 +1,20 @@
+{
+  "model_id": "nebius-gpt-oss-120b",
+  "pinned_version": "openai/gpt-oss-120b",
+  "task_id": "t4_versionering",
+  "source_id": "aarhus-2026-budgetaftale-2027",
+  "archetype": "landsavisen",
+  "prompt_sha256": "1bb9487084ce6086f8713574dd18e3d902d3186d42b43ecd79f9c93a7388a3b3",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 1025
+  },
+  "text": "Aarhus Byråd har torsdag den 17. september indgået en fireårig budgetaftale, der skal styrke både velfærd og infrastruktur i kommunen. Aftalen er resultatet af et enigt byråd bestående af Socialdemokratiet, SF, Venstre, Enhedslisten, Det Konservative Folkeparti, Radikale Venstre, Liberal Alliance, Danmarksdemokraterne og Dansk Folkeparti, og den svarer på pres på socialområdet samt behovet for bedre mobilitet.\n\nPå socialområdet får kommunens udgifter et årligt løft på 138 millioner kroner, som skal dække strukturelle udfordringer og sikre støtte til de mest udsatte borgere. Samtidig er der afsat 197 millioner kroner til drift og 810 millioner kroner til anlægsprojekter, herunder forbedret fremkommelighed for busser, cyklister og andre trafikanter samt tiltag, der skal mindske trængsel. Formålet er, at aarhusianerne nemt kan komme ud, hjem og rundt i hele kommunen.\n\nBudgettet indeholder også et samlet løft af velfærden på omkring 2 milliarder kroner over perioden, suppleret af næsten 500 millioner kroner til flere pædagoger og lavere forældrebetaling i dagtilbud som følge af nationale aftaler. Et nyt velfærdsbidrag fra 2028 skal frigøre midler til nye arbejdsgange og teknologi, så administrationen kan blive mere effektiv.\n\nBorgmester Anders Winnerskjold udtaler: ”Et godt budget skal kunne mærkes i aarhusianernes hverdag. Derfor investerer vi i flere voksne omkring børnene, bedre og billigere kollektiv transport og bedre fremkommelighed. Vi skal samtidig skabe gode rammer for de virksomheder, der er med til at skabe arbejdspladser, vækst og udvikling i Aarhus.” Budgetforliget holder kommuneskatten uændret, hvilket giver en økonomisk stabil ramme for de kommende fire år.",
+  "prompt_tokens": 1422,
+  "completion_tokens": 469,
+  "latency_ms": 1893,
+  "cost_usd": 0.0004946999999999999,
+  "created": "2026-11-09T21:20:06.805226Z",
+  "error": null
+}

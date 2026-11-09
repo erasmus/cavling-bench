@@ -1,0 +1,20 @@
+{
+  "model_id": "nebius-qwen3-235b",
+  "pinned_version": "Qwen/Qwen3-235B-A22B-Instruct-2507",
+  "task_id": "t4_versionering",
+  "source_id": "rigsrevisionen-2026-beretning-pesticider",
+  "archetype": "landsavisen",
+  "prompt_sha256": "deda95961e3958863786db782a085f64e3163dc31fa977fb92753c32b1818d66",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 1025
+  },
+  "text": "Den 7. september 2026 afgav Statsrevisorerne en beretning til Folketinget, hvori de kritiserer Miljøministeriets kontrol med pesticidbrug som stærkt foruroligende og helt utilstrækkelig. Beretningen kommer efter to års tovtrækkeri om effektiviteten af de foranstaltninger, der skulle styrke kontrollen efter en politisk aftale i 2022 og en tillægsaftale i 2025. Formålet var at sikre overholdelse af både dansk lovgivning og EU’s pesticidregler, men ifølge Statsrevisorerne er systemet i dag nærmest baseret udelukkende på tillid til virksomhedernes egne oplysninger.\n\nKontrollen bygger ikke på risikovurderinger, som EU’s kontrolforordning kræver, og Miljøstyrelsen efterprøver ikke de indberettede data om pesticidforbrug. Siden 2018 har styrelsen vidst, at ikke alt forbrug bliver indberettet – blandt andet er 7.800 tons glyfosat, der er indkøbt siden 2011, aldrig registreret som brugt. Glyfosat udgør cirka 40 procent af alt pesticidkøb i Danmark. Trods dette har styrelsen ikke undersøgt, hvor stoffet er blevet af. Desuden har man kun kontrolleret for brug af fire typer ulovlige pesticider i perioden 2022–2025, selv om der findes hundredvis af forbudte stoffer.\n\nStatsrevisorerne peger på, at Miljøstyrelsen har handlet i strid med kemikalieloven, blandt andet ved ikke at følge op på selvanmeldte overtrædelser frem til foråret 2025. Endvidere har virksomheder, der selv oplyser, at de ikke bruger pesticider, været fuldstændig undtaget fra kontrol. Styrelsen for Grøn Arealomlægning og Vandmiljø har gentagne gange foreslået systemer til krydstjek af køb, forbrug og lager, men Miljøstyrelsen har ikke handlet.  \n\n– Det er foruroligende, at styrelsen ikke har været tilstrækkeligt bekendt med det lovgrundlag, de skal administrere efter, siger Statsrevisorerne. Manglende kontrol åbner for, at ulovlige mængder eller typer af pesticider kan ende i grundvandet og fødevarer – med risiko for miljø og sundhed.",
+  "prompt_tokens": 2150,
+  "completion_tokens": 652,
+  "latency_ms": 19336,
+  "cost_usd": 0.0008212,
+  "created": "2026-11-09T21:18:00.886164Z",
+  "error": null
+}

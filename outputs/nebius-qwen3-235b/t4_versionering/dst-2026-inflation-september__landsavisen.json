@@ -1,0 +1,20 @@
+{
+  "model_id": "nebius-qwen3-235b",
+  "pinned_version": "Qwen/Qwen3-235B-A22B-Instruct-2507",
+  "task_id": "t4_versionering",
+  "source_id": "dst-2026-inflation-september",
+  "archetype": "landsavisen",
+  "prompt_sha256": "269dd3d97a80edcc5518cdd108790910ae6a27d58eadbaed9b24707e631bbc17",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 1025
+  },
+  "text": "Inflationen i Danmark steg til 2,2 pct. i september i forhold til samme måned året før, viser tal fra Danmarks Statistik. Stigningen følger efter en årsinflation på 2,0 pct. i august og skyldes primært stigende priser på brændstof inden for transportområdet. Det er især denne hovedgruppe, der driver opadgående bevægelse i det samlede forbrugerprisindeks.\n\nFra måned til måned forblev forbrugerprisindekset uændret i september. Prisstigninger på brændstof, tøj og flyrejser trak indekset op med 0,46 procentpoint, mens faldende priser på sommerhusleje, pakkerejser og fødevarer trak det ned med 0,72 procentpoint. Samlet betyder det, at de modsatrettede bevægelser udlignede hinanden i månedsregnskabet.\n\nKerneinflationen, som udelukker svingende poster som energi og ikke-forarbejdede fødevarer, lå på 1,9 pct. i september. Det er et fald fra 2,2 pct. i august og skyldes især stigende huslejepriser, der fortsat udgør et væsentligt pres på forbrugerne. \n\nDanmarks EU-harmoniserede inflation, hvor udgifter til ejerboliger ikke indgår, lå på 2,1 pct. i september. I EU som helhed steg inflationen til 3,2 pct. i august, seneste tilgængelige måned. Sverige noterede den laveste inflation blandt EU-landene med 0,3 pct., mens Rumænien havde den højeste med 6,3 pct. Sammenlignelige tal for september på europæisk plan offentliggøres den 16. oktober af Eurostat.",
+  "prompt_tokens": 1333,
+  "completion_tokens": 469,
+  "latency_ms": 10439,
+  "cost_usd": 0.000548,
+  "created": "2026-11-09T21:17:40.183770Z",
+  "error": null
+}

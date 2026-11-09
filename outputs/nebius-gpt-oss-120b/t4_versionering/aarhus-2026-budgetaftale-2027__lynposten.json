@@ -1,0 +1,20 @@
+{
+  "model_id": "nebius-gpt-oss-120b",
+  "pinned_version": "openai/gpt-oss-120b",
+  "task_id": "t4_versionering",
+  "source_id": "aarhus-2026-budgetaftale-2027",
+  "archetype": "lynposten",
+  "prompt_sha256": "306ecf62925ce6f724630a2ec620f633bc63805c27255f29a52f29291beee9c6",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 1025
+  },
+  "text": "17 september – Aarhus Byråd har indgået en fire‑års budgetaftale, der rammer alle borgere.  \n\nAftalen giver socialområdet et årligt løft på 138 millioner kroner. Det skal dække strukturelle udfordringer og sikre de mest udsatte. Samtidig får driftsbudgettet 197 millioner kroner om året, mens 810 millioner kroner afsættes til anlægsprojekter.  \n\nPengene skal bruges på bedre fremkommelighed for busser, cyklister og andre trafikanter. De skal også sikre færre trængsler i byen. Derudover investeres der i flere fagprofessionelle i folkeskolen, flere pædagoger og lavere forældrebetaling i dagtilbud.  \n\nEt nyt velfærdsbidrag fra 2028 skal frigøre midler til nye arbejdsgange og teknologi. Det skal gøre administrationen lettere og give flere penge til de løsninger, borgerne mærker.  \n\nBorgmester Anders Winnerskjold siger: “Et godt budget skal kunne mærkes i aarhusianernes hverdag. Derfor investerer vi i flere voksne omkring børnene, bedre og billigere kollektiv transport og bedre fremkommelighed.”  \n\nHan tilføjer: “Vi skal bruge færre kræfter på administration og være mere effektive, så vi kan frigøre ressourcer til det, borgerne kan mærke.”  \n\nBudgetforliget holder kommuneskatten uændret. Aftalen er indgået af Socialdemokratiet, SF, Venstre, Enhedslisten, Det Konservative Folkeparti, Radikale Venstre, Liberal Alliance, Danmarksdemokraterne og Dansk Folkeparti.  \n\nResultatet er et samlet løft af velfærden på omkring 2 milliarder kroner over perioden, plus næsten 500 millioner kroner til pædagoger og lavere forældrebetaling.  \n\nAftalen balancerer velfærd, mobilitet og erhvervsliv i en økonomisk sund kommune.",
+  "prompt_tokens": 1429,
+  "completion_tokens": 480,
+  "latency_ms": 1686,
+  "cost_usd": 0.00050235,
+  "created": "2026-11-09T21:20:06.414055Z",
+  "error": null
+}

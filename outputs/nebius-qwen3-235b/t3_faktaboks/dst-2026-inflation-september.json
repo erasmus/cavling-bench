@@ -1,0 +1,20 @@
+{
+  "model_id": "nebius-qwen3-235b",
+  "pinned_version": "Qwen/Qwen3-235B-A22B-Instruct-2507",
+  "task_id": "t3_faktaboks",
+  "source_id": "dst-2026-inflation-september",
+  "archetype": null,
+  "prompt_sha256": "8aaabdb82d68246b9dd430cc61d0086390fea096c229c661995b8c89c90d9695",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 575
+  },
+  "text": "- Inflationen i Danmark steg til 2,2 pct. i september 2026 i forhold til samme måned året før.  \n- Kerneinflationen, ekskl. energi og ikke-forarbejdede fødevarer, lå på 1,9 pct. i september 2026.  \n- Prisstigninger på brændstof, tøj og flyrejser trak indekset op med 0,46 procentpoint fra august til september 2026.  \n- Danmarks EU-harmoniserede inflation var 2,1 pct. i september 2026.  \n- Sverige havde den laveste EU-harmoniserede inflation blandt EU-landene i august 2026 med 0,3 pct.",
+  "prompt_tokens": 1013,
+  "completion_tokens": 185,
+  "latency_ms": 3675,
+  "cost_usd": 0.00031360000000000003,
+  "created": "2026-11-09T21:17:28.139769Z",
+  "error": null
+}

@@ -1,0 +1,20 @@
+{
+  "model_id": "nebius-qwen3-235b",
+  "pinned_version": "Qwen/Qwen3-235B-A22B-Instruct-2507",
+  "task_id": "t3_faktaboks",
+  "source_id": "politi-2026-fyn-spraengning-beboelsesejendom",
+  "archetype": null,
+  "prompt_sha256": "5eed86b2070ea12a0423f570a4137e245c39c88fc911d1f693983c6933def1a0",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 575
+  },
+  "text": "- Tre mænd på 19, 21 og 22 år blev dømt fredag den 20. februar 2026 ved Retten i Odense.  \n- De blev dømt for forsøg på at sprænge en bombe med over fire kilo dynamit i en opgang på Nyborgvej i december 2023.  \n- Mellem 19 og 25 personer opholdt sig i ejendommen på tidspunktet for bombeforsøget.  \n- De tre mænd er også dømt for planlægning af skud mod en bolig i Seden i Odense, hvor en familie med to børn boede, i marts 2023.  \n- Den 20-årige, den 21-årige og den 22-årige mand fra Odense Kommune er hver idømt 14 års fængsel.",
+  "prompt_tokens": 1127,
+  "completion_tokens": 215,
+  "latency_ms": 15377,
+  "cost_usd": 0.0003544,
+  "created": "2026-11-09T21:17:41.549157Z",
+  "error": null
+}

@@ -1,0 +1,20 @@
+{
+  "model_id": "nebius-gpt-oss-120b",
+  "pinned_version": "openai/gpt-oss-120b",
+  "task_id": "t4_versionering",
+  "source_id": "rigsrevisionen-2026-beretning-pesticider",
+  "archetype": "landsavisen",
+  "prompt_sha256": "deda95961e3958863786db782a085f64e3163dc31fa977fb92753c32b1818d66",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 1025
+  },
+  "text": "Statsrevisorerne har i deres beretning nr. 23/2025 konkluderet, at Miljøministeriets kontrol med pesticider er “stærkt foruroligende” og i praksis utilstrækkelig. Beretningen, som blev afleveret til Folketinget den 7. september 2026, er et svar på den stigende forekomst af pesticidrester i dansk drikkevand – i 2025 blev der fundet rester i over halvdelen af drikkevandsboringerne.  \n\nPesticider beskytter afgrøder mod ukrudt, skadedyr og sygdomme, men udgør også en belastning for miljø og sundhed, skriver Statsrevisorerne: “Pesticider bruges til at beskytte planter … men er samtidig en belastning for miljø og sundhed.” Siden 1986 har Danmark haft som mål at begrænse brugen af pesticider, og i 2022 blev der indgået en politisk aftale om styrket kontrol, efterfulgt af ekstra midler i perioden 2022‑2026 og en tillægsaftale i 2025.  \n\nUndersøgelsen peger på flere kritiske mangler. Miljøstyrelsen baserer kontrol næsten udelukkende på virksomhedernes selvangivelser, som kan slettes eller udelades, uden efterprøvning. Siden 2011 er 7.800 ton glyfosat – ca. 40 % af al dansk pesticidindkøb – ikke indberettet, og styrelsen har ikke undersøgt, hvor stoffet er endt. Derudover udvælges virksomheder til kontrol uden risikovurdering, selvom EU‑forordningen kræver dette. I perioden 2022‑2025 søgte styrelsen kun efter fire ulovlige pesticider, på trods af hundredvis af forbudte stoffer.  \n\nResultatet er, at ulovlige eller for store mængder pesticider kan sive ned i grundvandet eller forblive i fødevarer, med potentielle konsekvenser for både miljø og folkesundhed. Styrelsen for Grøn Arealomlægning og Vandmiljø har siden 2020 foreslået krydstjek af køb, forbrug og lagerbeholdning, men Miljøstyrelsen har ikke fulgt op på disse anbefalinger. Beretningen stiller dermed spørgsmålet om, hvorvidt den politiske vilje til at styrke pesticidkontrollen reelt omsættes til handling.",
+  "prompt_tokens": 1777,
+  "completion_tokens": 839,
+  "latency_ms": 3316,
+  "cost_usd": 0.00076995,
+  "created": "2026-11-09T21:17:11.322039Z",
+  "error": null
+}

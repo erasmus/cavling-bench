@@ -1,0 +1,20 @@
+{
+  "model_id": "nebius-gpt-oss-120b",
+  "pinned_version": "openai/gpt-oss-120b",
+  "task_id": "t4_versionering",
+  "source_id": "rigsrevisionen-2026-beretning-pesticider",
+  "archetype": "lynposten",
+  "prompt_sha256": "fa8289c7fc89431472d872f9035ceeb7499e50af7f2ecfbdab455ff78ef23e88",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 1025
+  },
+  "text": "7 % af Danmarks drikkevandsboringer indeholder pesticidrester, og Statsrevisorerne kalder Miljøministeriets kontrol for “stærkt foruroligende”. \n\nBeretning nr. 23/2025 fra Statsrevisorerne viser, at pesticidrester i drikkevand er steget siden 2018. I 2025 fandtes rester i over halvdelen af boringerne. Grundvandet må ofte fortyndes, før det kan leveres som drikkevand. \n\nKontrollen er næsten udelukkende baseret på virksomhedernes selvangivelser. Styrelsen efterprøver ikke oplysningerne, så de kan slettes eller udelades. Siden 2011 er 7 800 ton glyfosat – ca. 40 % af al dansk pesticidindkøb – ikke indberettet. Styrelsen har ikke undersøgt, hvor stoffet er endt. \n\nDerudover udvælger Miljøstyrelsen ikke virksomheder ud fra risikovurdering, selvom EU‑forordningen kræver det. I perioden 2022‑2025 søgte kontrollen kun efter fire ulovlige pesticider, på trods af hundredvis af forbudte stoffer. Kontrolbesøgene bygger næsten udelukkende på virksomhedens sprøjtejournaler, så en halvtom dunk med ulovligt pesticid kan ikke påvises, hvis den ikke er registreret. \n\nSelvanmeldte overtrædelser blev frem til foråret 2025 ikke kontrolleret, i strid med kemikalieloven. Virksomheder, der erklærer, at de ikke bruger pesticider, er undtaget fra kontrol, så ingen sikrer, at de alle kan blive udtaget. \n\nStyrelsen for Grøn Arealomlægning og Vandmiljø har siden 2020 foreslået krydstjek af køb, forbrug og lager, men Miljøstyrelsen har ikke reageret. \n\nStatsrevisorerne konkluderer, at den utilstrækkelige kontrol kan føre til ulovlige pesticider i grundvandet og i fødevarer, med alvorlige miljø‑ og sundhedsmæssige konsekvenser.",
+  "prompt_tokens": 1784,
+  "completion_tokens": 492,
+  "latency_ms": 2001,
+  "cost_usd": 0.0005627999999999999,
+  "created": "2026-11-09T21:20:08.007248Z",
+  "error": null
+}

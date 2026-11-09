@@ -1,0 +1,20 @@
+{
+  "model_id": "nebius-gpt-oss-120b",
+  "pinned_version": "openai/gpt-oss-120b",
+  "task_id": "t5_forkortelse",
+  "source_id": "aarhus-2026-budgetaftale-2027",
+  "archetype": null,
+  "prompt_sha256": "87156675f78b39d0c900b3f3983b3bceaa06e11ffbe12d093ca34547feb5be7b",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 860
+  },
+  "text": "Aarhus Byråd indgik den 17. september en budgetaftale for 2027‑2030. Aftalen prioriterer velfærd med flere penge til socialområdet, flere fagprofessionelle i folkeskolen, indsatser for demente ældre og tidligere anbragte børn samt billigere kollektiv trafik. Samtidig investeres i mobilitet, erhvervslivets vilkår, nemmere erhvervsparkering og en fortsat attraktiv byudvikling.\n\nSocialområdet får et årligt løft på 138 mio. kr. via en solidarisk ”socialprocent” og ekstra tildelinger, mens der i alt afsættes 197 mio. kr. årligt til drift. Derudover er 810 mio. kr. afsat til anlæg, primært for at øge fremkommeligheden for busser, cyklister og andre trafikanter og mindske trængsel. Velfærden løftes samlet med ca. 2 mia. kr. i budgetperioden, og næsten 500 mio. kr. går til flere pædagoger og lavere forældrebetaling i dagtilbud som følge af nationale aftaler.\n\nEt nyt velfærdsbidrag fra 2028 skal reducere administrationen og frigøre midler til nye velfærdsløsninger via bedre arbejdsgange eller teknologi. Kommuneskatten forbliver uændret. Aftalen er vedtaget af et enigt byråd bestående af Socialdemokratiet, SF, Venstre, Enhedslisten, Det Konservative Folkeparti, Radikale Venstre, Liberal Alliance, Danmarksdemokraterne og Dansk Folkeparti. Borgmester Anders Winnerskjold understreger, at budgettet skal mærkes i hverdagen, skabe bedre rammer for virksomheder og sikre stærk velfærd.",
+  "prompt_tokens": 1150,
+  "completion_tokens": 439,
+  "latency_ms": 1856,
+  "cost_usd": 0.00043589999999999997,
+  "created": "2026-11-09T21:20:07.888296Z",
+  "error": null
+}

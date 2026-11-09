@@ -1,0 +1,20 @@
+{
+  "model_id": "nebius-qwen3-235b",
+  "pinned_version": "Qwen/Qwen3-235B-A22B-Instruct-2507",
+  "task_id": "t4_versionering",
+  "source_id": "dst-2026-inflation-september",
+  "archetype": "lynposten",
+  "prompt_sha256": "66c478e9b9ddc4272eb2f487930df438b94ae662985f621c1b5f19729a98670d",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 1025
+  },
+  "text": "Brændstofpriserne skubber inflationen op til 2,2 pct. i september. Stigningen rammer især husholdninger med bil.\n\nDet er især stigende brændstofpriser, der driver inflationen op. I august lå inflationen på 2,0 pct. Transport er den hovedgruppe, der bidrager mest til stigningen. Priserne på brændstof, tøj og flyrejser hævede indekset med 0,46 procentpoint i september.\n\nForbrugerprisindekset ændrede sig ikke fra august til september. Prisfald på sommerhusleje, pakkerejser og fødevarer trak indekset ned med 0,72 procentpoint. Disse fald modvirker delvist effekten af stigende brændstofpriser.\n\nKerneinflationen, som udelukker energi og ikke-forarbejdede fødevarer, faldt til 1,9 pct. i september. I august lå den på 2,2 pct. Stigende husleje er den primære årsag til kerneinflationen.\n\nDanmarks EU-harmoniserede inflation var 2,1 pct. i september. I august var den samlede inflation i EU-landene 3,2 pct. Sverige havde den laveste inflation med 0,3 pct. Rumænien havde den højeste med 6,3 pct.\n\nEU-harmoniserede tal udelukker udgifter til ejerboliger. Derfor afviger de fra det danske forbrugerprisindeks. Eurostat offentliggør de fulde EU-tal for september den 16. oktober.",
+  "prompt_tokens": 1334,
+  "completion_tokens": 401,
+  "latency_ms": 7908,
+  "cost_usd": 0.0005074,
+  "created": "2026-11-09T21:17:37.322693Z",
+  "error": null
+}

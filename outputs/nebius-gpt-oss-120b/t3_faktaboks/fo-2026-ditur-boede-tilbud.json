@@ -1,0 +1,20 @@
+{
+  "model_id": "nebius-gpt-oss-120b",
+  "pinned_version": "openai/gpt-oss-120b",
+  "task_id": "t3_faktaboks",
+  "source_id": "fo-2026-ditur-boede-tilbud",
+  "archetype": null,
+  "prompt_sha256": "9acd68b03ead8241a2e9e3927d588a044e8f367e3d542cefbd040283de6b491b",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 575
+  },
+  "text": "- Ditur.dk ApS har accepteret at betale en bøde på 4,25 millioner kroner.  \n- Forbrugerombudsmanden politianmeldte virksomheden i maj 2026 for 26 overtrædelser af markedsføringsloven.  \n- Overtrædelserne omfattede smykker og ure, der var markeret som tilbud i op til 50 dage.  \n- Normalprisen på en halskæde blev angivet til 599 kr., mens de laveste priser i de foregående 30‑dages perioder var 199 kr. og 179 kr.  \n- Bødens størrelse er fastsat efter bødemodellen, der trådte i kraft 1. januar 2022.",
+  "prompt_tokens": 1766,
+  "completion_tokens": 195,
+  "latency_ms": 920,
+  "cost_usd": 0.00038189999999999996,
+  "created": "2026-11-09T21:20:05.232158Z",
+  "error": null
+}

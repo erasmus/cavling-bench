@@ -1,0 +1,20 @@
+{
+  "model_id": "nebius-gpt-oss-120b",
+  "pinned_version": "openai/gpt-oss-120b",
+  "task_id": "t6_lydmanus",
+  "source_id": "aarhus-2026-budgetaftale-2027",
+  "archetype": "lynposten",
+  "prompt_sha256": "f3b551c5ce948c535931f9a097b664efc7f5caab24cdf594bb28eff7deba1664",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 620
+  },
+  "text": "Aarhus Byråd har torsdag den syttende september indgået en fireårig budgetaftale. Aftalen giver et årligt løft på et hundrede otteogtredive millioner kroner til socialområdet, så de mest udsatte borgere får støtte. Derudover afsættes to hundrede millioner kroner til velfærd og næsten fem hundrede millioner til flere pædagoger og lavere forældrebetaling i dagtilbud. På anlægsfronten investeres otte hundrede ti millioner i bedre fremkommelighed for busser, cyklister og andre trafikanter. Borgmester Anders Winnerskjold siger, at budgettet skal mærkes i hverdagen med flere voksne omkring børnene, billigere kollektiv transport og gode rammer for virksomheder. Ifølge Danmarks Statistik er kommuneskatten holdt i ro.",
+  "prompt_tokens": 1464,
+  "completion_tokens": 233,
+  "latency_ms": 1399,
+  "cost_usd": 0.00035939999999999995,
+  "created": "2026-11-09T21:20:08.205099Z",
+  "error": null
+}

@@ -1,0 +1,20 @@
+{
+  "model_id": "nebius-qwen3-235b",
+  "pinned_version": "Qwen/Qwen3-235B-A22B-Instruct-2507",
+  "task_id": "t3_faktaboks",
+  "source_id": "rigsrevisionen-2026-beretning-pesticider",
+  "archetype": null,
+  "prompt_sha256": "68b5e88b1f0edfdab8b38d9aede131bf2238cd3774c68aeb7c26412e41cddb75",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 575
+  },
+  "text": "- Den 7. september 2026 behandlede Statsrevisorerne Beretning nr. 23/2025 om kontrol med pesticider.  \n- I 2025 blev der fundet pesticidrester i over halvdelen af danske drikkevandsboringer.  \n- Siden 2011 er der indkøbt 7.800 tons glyfosat, som ikke er indberettet som forbrugt til Miljøstyrelsen.  \n- Glyfosat udgør ca. 40 % af alt pesticid, der købes i Danmark.  \n- I perioden 2022-2025 har Miljøstyrelsen kun søgt efter brug af 4 slags ulovlige pesticider ved kontrol.",
+  "prompt_tokens": 1830,
+  "completion_tokens": 183,
+  "latency_ms": 3542,
+  "cost_usd": 0.0004758,
+  "created": "2026-11-09T21:17:29.995622Z",
+  "error": null
+}

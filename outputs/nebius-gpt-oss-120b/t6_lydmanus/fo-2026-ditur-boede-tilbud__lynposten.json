@@ -1,0 +1,20 @@
+{
+  "model_id": "nebius-gpt-oss-120b",
+  "pinned_version": "openai/gpt-oss-120b",
+  "task_id": "t6_lydmanus",
+  "source_id": "fo-2026-ditur-boede-tilbud",
+  "archetype": "lynposten",
+  "prompt_sha256": "c2549273a78997f6b144c5d4ccaf8814fd2145be08121df26011cb4eaf1c4452",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 620
+  },
+  "text": "Fire millioner to hundrede halvtreds tusind kroner betaler Ditur.dk ApS i bøde. Forbrugerombudsmanden politianmeldte virksomheden i maj to‑tusind‑seks for at have overtrådt markedsføringslovens vildledningsforbud og prismærkningsbekendtgørelsen i seksogtyve tilfælde. På hjemmesiderne avile.dk og ditur.dk blev smykker og ure præsenteret som tilbud, selvom den såkaldte normalpris kun var en teoretisk reference. En halskæde blev i femti dage tilbudt i otteogtyve af dagene med en fast normalpris på femhundrede nioghalvfems kroner, mens de laveste priser i de foregående tretti dage var under tohundrede kroner. Forbrugerombudsmand Torben Jensen siger, at sådanne urigtige prisoplysninger vildleder forbrugerne. Bødens størrelse følger den model, der trådte i kraft den første januar to‑tusind‑to.",
+  "prompt_tokens": 2082,
+  "completion_tokens": 313,
+  "latency_ms": 1494,
+  "cost_usd": 0.0005001000000000001,
+  "created": "2026-11-09T21:20:08.991457Z",
+  "error": null
+}

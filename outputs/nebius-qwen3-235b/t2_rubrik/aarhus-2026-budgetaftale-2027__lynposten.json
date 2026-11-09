@@ -1,0 +1,20 @@
+{
+  "model_id": "nebius-qwen3-235b",
+  "pinned_version": "Qwen/Qwen3-235B-A22B-Instruct-2507",
+  "task_id": "t2_rubrik",
+  "source_id": "aarhus-2026-budgetaftale-2027",
+  "archetype": "lynposten",
+  "prompt_sha256": "d8f63e3fcd8f2cef31bfd9e056a0c55ac7a76df269ef964cc64b2f2563b4178c",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 400
+  },
+  "text": "RUBRIK: Aarhus byråd vedtager budget med 138 mio. til velfærd  \nUNDERRUBRIK: Budgettet fra 2027 sikrer flere pædagoger, billigere bus og mere støtte til udsatte borgere. Kommuneskatten holdes uændret.",
+  "prompt_tokens": 1660,
+  "completion_tokens": 76,
+  "latency_ms": 2389,
+  "cost_usd": 0.0003776,
+  "created": "2026-11-09T21:17:16.426665Z",
+  "error": null
+}

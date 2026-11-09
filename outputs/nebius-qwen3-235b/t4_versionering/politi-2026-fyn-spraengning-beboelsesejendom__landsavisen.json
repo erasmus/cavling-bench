@@ -1,0 +1,20 @@
+{
+  "model_id": "nebius-qwen3-235b",
+  "pinned_version": "Qwen/Qwen3-235B-A22B-Instruct-2507",
+  "task_id": "t4_versionering",
+  "source_id": "politi-2026-fyn-spraengning-beboelsesejendom",
+  "archetype": "landsavisen",
+  "prompt_sha256": "b9ca15a4596e27a26eda28972d47d1dfbf2ee9a46847b300237cae26cce03e4c",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 1025
+  },
+  "text": "Tre mænd på 19, 21 og 22 år er fredag 20. februar 2026 idømt 14 års fængsel hver ved Retten i Odense for forsøg på sprængning af en beboelsesejendom på Nyborgvej i december 2023. Dommen er faldet efter en omfattende sag om organiseret kriminalitet, der også omfatter våbenbesiddelse, indførsel af sprængstof og vold mod flere personer. Forsøget på sprængning blev forhindret, da mændene ikke fik adgang til opgangen og blev forstyrret af politiet. På tidspunktet opholdt mellem 19 og 25 personer sig i ejendommen.\n\nUd over sprængstofsagen er de tre dømt for at have planlagt og udført skud mod en bolig i Seden i Odense i marts 2023, hvor en familie med to børn befandt sig. Skuddene skabte nærliggende fare for beboernes liv og sikkerhed. Den 22-årige mand er desuden dømt for grov frihedsberøvelse og mishandling af en mand over en periode på mindst to uger i februar 2023. Offeret blev holdt tilbage under uhygiejniske forhold og udsat for gentagne voldshandlinger, herunder slag, spark og forbrændinger i ansigtet. Under overgrebene blev der filmet og delt videoer via sociale medier, herunder optagelser af en voldtægt under særligt skærpende omstændigheder.\n\nSpecialanklager Daniel Dokkedahl fra Fyns Politi siger: ”Retten har i dag sendt et klart signal om, at denne form for ekstrem og organiseret kriminalitet bliver straffet hårdt. Det er tale om meget alvorlige forhold, hvor både konkrete ofre og helt tilfældige borgere har været i livsfare.” \n\nRetten har besluttet konfiskation af sprængstof, våben og mobiltelefoner samt sletning af de delte videoer. De tre mænd forbliver varetægtsfængslet. Den 22-årige bad om betænkningstid, mens de to andre ankedede dommen umiddelbart efter.",
+  "prompt_tokens": 1447,
+  "completion_tokens": 584,
+  "latency_ms": 26152,
+  "cost_usd": 0.0006397999999999999,
+  "created": "2026-11-09T21:18:03.476104Z",
+  "error": null
+}

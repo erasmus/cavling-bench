@@ -1,0 +1,20 @@
+{
+  "model_id": "nebius-qwen3-235b",
+  "pinned_version": "Qwen/Qwen3-235B-A22B-Instruct-2507",
+  "task_id": "t3_faktaboks",
+  "source_id": "aarhus-2026-budgetaftale-2027",
+  "archetype": null,
+  "prompt_sha256": "79ff93e9773d01d2091f594883a276ca926658aad72d4eec079472784e57f91a",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 575
+  },
+  "text": "- Aarhus Byråd indgik budgetaftale for 2027 torsdag den 17. september.  \n- Socialområdet får et årligt løft på i alt 138 mio. kr. til at imødegå strukturelle udfordringer.  \n- Partierne har prioriteret 197 mio. kr. årligt til drift og 810 mio. kr. til anlæg i budgetperioden.  \n- Budgettet indeholder et samlet velfærdsløft på omkring 2 mia. kr. over fire år.  \n- Borgmester Anders Winnerskjold repræsenterer det enige byråd bag aftalen.",
+  "prompt_tokens": 1325,
+  "completion_tokens": 164,
+  "latency_ms": 5166,
+  "cost_usd": 0.0003634,
+  "created": "2026-11-09T21:17:29.413280Z",
+  "error": null
+}

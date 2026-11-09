@@ -1,0 +1,5 @@
+[     198ms] [ERROR] Failed to load resource: the server responded with a status of 403 () @ https://www.ft.dk/samling/20261/lovforslag/l49/index.htm:1
+[     795ms] [WARNING] No available adapters. @ https://www.ft.dk/samling/20261/lovforslag/l49/index.htm:1
+[     993ms] [ERROR] Failed to load resource: the server responded with a status of 404 () @ https://www.ft.dk/favicon.ico:1
+[    1910ms] [WARNING] No available adapters. @ https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/turnstile/f/av0/rch/9mjc7/0x4AAAAAAADnPIDROrmt1Wwj/light/fbE/new/normal?lang=auto:1
+[    1968ms] [ERROR] Failed to load resource: the server responded with a status of 404 () @ https://www.ft.dk/favicon.ico:1

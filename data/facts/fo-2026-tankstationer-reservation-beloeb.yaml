@@ -1,0 +1,67 @@
+source_id: fo-2026-tankstationer-reservation-beloeb
+facts:
+  - id: f1
+    type: org
+    value: "Forbrugerombudsmanden"
+    canonical: "forbrugerombudsmanden"
+    span: "Forbrugerombudsmanden har gjort en række tankstationskæder opmærksomme på reglerne"
+    critical: true
+  - id: f2
+    type: number
+    value: "950 kroner"
+    canonical: 950
+    unit: DKK
+    span: "Q8 reserverer fortsat 950 kroner"
+    critical: true
+  - id: f3
+    type: number
+    value: "100 kroner"
+    canonical: 100
+    unit: DKK
+    span: "OK har for nuværende ændret reservationsbeløbet til 100 kroner"
+    critical: true
+  - id: f4
+    type: number
+    value: "1.200 kroner"
+    canonical: 1200
+    unit: DKK
+    span: "reservere henholdsvis 1.200 kroner og 1.500 kroner"
+    critical: true
+  - id: f5
+    type: number
+    value: "1.500 kroner"
+    canonical: 1500
+    unit: DKK
+    span: "Shell med at reservere henholdsvis 1.200 kroner og 1.500 kroner var urimelig"
+    critical: false
+  - id: f6
+    type: number
+    value: "850 kroner"
+    canonical: 850
+    unit: DKK
+    span: "reservationer på 950 henholdsvis 850 kroner"
+    critical: false
+  - id: f7
+    type: number
+    value: "11 dage"
+    canonical: 11
+    span: "I nogle tilfælde gik der op til 11 dage"
+    critical: true
+  - id: f8
+    type: org
+    value: "Drivkraft Danmark"
+    canonical: "drivkraft danmark"
+    span: "tankstationskædernes brancheorganisation Drivkraft Danmark i 2023"
+    critical: false
+  - id: f9
+    type: name
+    value: "Torben Jensen"
+    canonical: "torben jensen"
+    span: "Forbrugerombudsmand Torben Jensen siger"
+    critical: false
+  - id: f10
+    type: org
+    value: "Q8"
+    canonical: "q8"
+    span: "har anmodet Q8 og OK om at efterleve reglerne"
+    critical: false

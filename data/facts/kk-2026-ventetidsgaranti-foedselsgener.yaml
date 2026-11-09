@@ -1,0 +1,64 @@
+source_id: kk-2026-ventetidsgaranti-foedselsgener
+facts:
+  - id: f1
+    type: number
+    value: "7 dage"
+    canonical: 7
+    span: "tilbydes første samtale efter maksimalt 7 dage"
+    critical: true
+  - id: f2
+    type: number
+    value: "3 uger"
+    canonical: 3
+    span: "en undersøgelse senest 3 uger senere"
+    critical: true
+  - id: f3
+    type: number
+    value: "12,5 mio. kroner"
+    canonical: 12500000
+    unit: DKK
+    span: "har afsat knap 12,5 mio. kroner til at styrke efterfødselshjælpen"
+    critical: true
+  - id: f4
+    type: org
+    value: "Københavns Kommune"
+    canonical: "københavns kommune"
+    span: "Partierne bag Københavns Kommunes budgetaftale har afsat"
+    critical: true
+  - id: f5
+    type: name
+    value: "Jens-Kristian Lütken"
+    canonical: "jens-kristian lütken"
+    span: "siger sundheds- og omsorgsborgmester Jens-Kristian Lütken (V)"
+    critical: true
+  - id: f6
+    type: number
+    value: "17 dage"
+    canonical: 17
+    span: "I dag er ventetiden 17 dage fra henvisning til visitationssamtale"
+    critical: false
+  - id: f7
+    type: number
+    value: "44 dage"
+    canonical: 44
+    span: "yderligere 44 dage til afklarende samtale og undersøgelse"
+    critical: false
+  - id: f8
+    type: number
+    value: "1.500"
+    canonical: 1500
+    span: "yderligere 500 kvinder i 2027, dvs. 1.500 i alt"
+    critical: false
+  - id: f9
+    type: place
+    value: "Vanløse"
+    canonical: "vanløse"
+    span: "hos det gratis tilbud i Vanløse"
+    critical: false
+  - id: f10
+    type: number
+    value: "19 mio. kroner"
+    canonical: 19000000
+    unit: DKK
+    span: "oven i de knap 19 mio. kroner, der er afsat på tidligere budgetaftaler"
+    critical: false

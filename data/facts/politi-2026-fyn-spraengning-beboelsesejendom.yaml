@@ -1,0 +1,64 @@
+source_id: politi-2026-fyn-spraengning-beboelsesejendom
+facts:
+  - id: f1
+    type: number
+    value: "14 års fængsel"
+    canonical: 14
+    unit: "år"
+    span: "Den 21-årige mand fra Odense Kommune er idømt 14 års fængsel"
+    critical: true
+  - id: f2
+    type: number
+    value: "Tre mænd"
+    canonical: 3
+    span: "Tre mænd på henholdsvis 19, 21 og 22 år"
+    critical: true
+  - id: f3
+    type: date
+    value: "20. februar 2026"
+    canonical: "2026-02-20"
+    span: "i dag fredag den 20. februar 2026 ved Retten i Odense"
+    critical: true
+  - id: f4
+    type: org
+    value: "Retten i Odense"
+    canonical: "retten i odense"
+    span: "ved Retten i Odense blevet dømt for forsøg på sprængning"
+    critical: true
+  - id: f5
+    type: place
+    value: "Nyborgvej"
+    canonical: "nyborgvej"
+    span: "i en opgang på Nyborgvej i Odense i december 2023"
+    critical: true
+  - id: f6
+    type: number
+    value: "fire kilo dynamit"
+    canonical: 4
+    unit: "kg"
+    span: "en bombe med mere end fire kilo dynamit"
+    critical: false
+  - id: f7
+    type: date
+    value: "december 2023"
+    canonical: "2023-12"
+    span: "på Nyborgvej i Odense i december 2023"
+    critical: false
+  - id: f8
+    type: name
+    value: "Daniel Dokkedahl"
+    canonical: "daniel dokkedahl"
+    span: "siger specialanklager Daniel Dokkedahl fra Fyns Politi"
+    critical: false
+  - id: f9
+    type: number
+    value: "fire andre personer"
+    canonical: 4
+    span: "er fire andre personer tidligere blevet idømt lange fængselsstraffe"
+    critical: false
+  - id: f10
+    type: place
+    value: "Seden"
+    canonical: "seden"
+    span: "skud mod en beboelsesejendom i Seden i Odense i marts 2023"
+    critical: false

@@ -1,0 +1,56 @@
+source_id: kefm-2026-akutplan-elnettet-vedtaget
+facts:
+  - id: f1
+    type: name
+    value: "Samira Nawa"
+    canonical: "samira nawa"
+    span: "siger klima-, energi- og forsyningsminister Samira Nawa"
+    critical: true
+  - id: f2
+    type: org
+    value: "Folketinget"
+    canonical: "folketinget"
+    span: "Denne akutplan er netop vedtaget i Folketinget af samme brede flertal"
+    critical: true
+  - id: f3
+    type: org
+    value: "Energinet"
+    canonical: "energinet"
+    span: "hvor Energinet og netvirksomhederne i højere grad får mulighed for at prioritere"
+    critical: true
+  - id: f4
+    type: quote
+    value: "først-til-mølle-princip"
+    canonical: "først-til-mølle-princip"
+    span: "Med akutplanen erstattes det nuværende først-til-mølle-princip af en ny model"
+    critical: true
+  - id: f5
+    type: org
+    value: "Forsyningstilsynet"
+    canonical: "forsyningstilsynet"
+    span: "skal baseres på metoder, der er godkendt af Forsyningstilsynet"
+    critical: false
+  - id: f6
+    type: date
+    value: "2027"
+    canonical: "2027"
+    span: "Ved genbesøget i 2027 skal ministerens mulighed"
+    critical: false
+  - id: f7
+    type: name
+    value: "Jesper Petersen"
+    canonical: "jesper petersen"
+    span: "siger Jesper Petersen (S), klima-, energi- og forsyningsordfører"
+    critical: false
+  - id: f8
+    type: name
+    value: "Mathilde Hjort Bressum"
+    canonical: "mathilde hjort bressum"
+    span: "siger Mathilde Hjort Bressum (V)"
+    critical: false
+  - id: f9
+    type: date
+    value: "2035"
+    canonical: "2035"
+    span: "udbygning af elnettet og Energiinfrastrukturplan 2035"
+    critical: false

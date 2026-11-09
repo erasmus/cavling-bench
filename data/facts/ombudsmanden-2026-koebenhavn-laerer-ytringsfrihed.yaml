@@ -1,0 +1,51 @@
+source_id: ombudsmanden-2026-koebenhavn-laerer-ytringsfrihed
+facts:
+  - id: f1
+    type: org
+    value: "Københavns Kommune"
+    canonical: "københavns kommune"
+    span: "Københavns Kommune indkaldte en lærer til en tilrettevisningssamtale"
+    critical: true
+  - id: f2
+    type: name
+    value: "Christian Britten Lundblad"
+    canonical: "christian britten lundblad"
+    span: "siger Folketingets Ombudsmand, Christian Britten Lundblad"
+    critical: true
+  - id: f3
+    type: number
+    value: "tre måneder"
+    canonical: 3
+    unit: "måneder"
+    span: "bedt kommunen om inden tre måneder at orientere ham"
+    critical: true
+  - id: f4
+    type: quote
+    value: "holde lav profil med hensyn til kontakt med pressen"
+    canonical: "holde lav profil med hensyn til kontakt med pressen"
+    span: "opfordret til at holde lav profil med hensyn til kontakt med pressen"
+    critical: true
+  - id: f5
+    type: quote
+    value: "ikke skete med respekt for"
+    canonical: "ikke skete med respekt for"
+    span: "kommunens håndtering ikke skete med respekt for"
+    critical: true
+  - id: f6
+    type: date
+    value: "1. juli 2025"
+    canonical: "2025-07-01"
+    span: "er med virkning fra den 1. juli 2025 lovfæstet"
+    critical: false
+  - id: f7
+    type: date
+    value: "27. maj 2025"
+    canonical: "2025-05-27"
+    span: "lov nr. 557 af 27. maj 2025 om offentligt ansattes ytringsfrihed"
+    critical: false
+  - id: f8
+    type: org
+    value: "Justitsministeriet"
+    canonical: "justitsministeriet"
+    span: "Justitsministeriet har i den forbindelse udsendt vejledning"
+    critical: false

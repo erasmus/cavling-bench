@@ -1,0 +1,67 @@
+source_id: nationalbanken-2026-digitale-betalinger-beredskab
+facts:
+  - id: f1
+    type: number
+    value: "9 pct."
+    canonical: 9
+    unit: "%"
+    span: "Kontanter blev brugt til 9 pct. af alle betalinger i fysisk handel i 2025"
+    critical: true
+  - id: f2
+    type: number
+    value: "90 pct."
+    canonical: 90
+    unit: "%"
+    span: "Mere end 90 pct. af alle betalinger i Danmark er digitale"
+    critical: true
+  - id: f3
+    type: org
+    value: "Nationalbanken"
+    canonical: "nationalbanken"
+    span: "som Nationalbanken udgiver i dag"
+    critical: true
+  - id: f4
+    type: name
+    value: "Ulrik Nødgaard"
+    canonical: "ulrik nødgaard"
+    span: "siger nationalbankdirektør Ulrik Nødgaard"
+    critical: true
+  - id: f5
+    type: number
+    value: "syv dage"
+    canonical: 7
+    span: "i dagligvarebutikker og apoteker i mindst syv dage"
+    critical: true
+  - id: f6
+    type: number
+    value: "11 pct."
+    canonical: 11
+    unit: "%"
+    span: "mod 11 pct. i 2023 og 23 pct. i 2017"
+    critical: false
+  - id: f7
+    type: number
+    value: "41 pct."
+    canonical: 41
+    unit: "%"
+    span: "41 pct. af borgerne har over 1.000 kr. i kontanter"
+    critical: false
+  - id: f8
+    type: date
+    value: "maj 2026"
+    canonical: "2026-05"
+    span: "ikke mærkede Nets-nedbruddet i maj 2026"
+    critical: false
+  - id: f9
+    type: org
+    value: "Nets"
+    canonical: "nets"
+    span: "har tekniske fejl hos Nets vist"
+    critical: false
+  - id: f10
+    type: number
+    value: "250 kr."
+    canonical: 250
+    unit: DKK
+    span: "et pejlemærke er 250 kr. pr. person i husstanden"
+    critical: false

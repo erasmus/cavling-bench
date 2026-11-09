@@ -1,0 +1,64 @@
+source_id: kk-2026-vandkulturhus-papiroeen
+facts:
+  - id: f1
+    type: date
+    value: "5. december 2026"
+    canonical: "2026-12-05"
+    span: "program for indvielsen den 5. december 2026"
+    critical: true
+  - id: f2
+    type: name
+    value: "KAI"
+    canonical: "kai"
+    span: "Om kort tid indvies KAI - Københavns nye vandkulturhus"
+    critical: true
+  - id: f3
+    type: place
+    value: "Papirøen"
+    canonical: "papirøen"
+    span: "Det nye vandkulturhus på Papirøen udspringer af københavnernes egne ønsker"
+    critical: true
+  - id: f4
+    type: number
+    value: "546 mio. kr."
+    canonical: 546000000
+    unit: DKK
+    span: "Nordea-fonden har støttet projektet med 546 mio. kr."
+    critical: true
+  - id: f5
+    type: org
+    value: "Kengo Kuma & Associates"
+    canonical: "kengo kuma & associates"
+    span: "KAI er tegnet af den japanske tegnestue, Kengo Kuma & Associates"
+    critical: true
+  - id: f6
+    type: number
+    value: "5.800 m2"
+    canonical: 5800
+    span: "ligger det 5.800 m2 nye, store vandkulturhus"
+    critical: false
+  - id: f7
+    type: number
+    value: "10 bassiner"
+    canonical: 10
+    span: "der med sine 10 bassiner inde og ude inviterer københavnere"
+    critical: false
+  - id: f8
+    type: number
+    value: "25 mio. kr."
+    canonical: 25000000
+    unit: DKK
+    span: "hvoraf 25 mio. kr. er øremærket til bæredygtighedstiltag i byggeriet"
+    critical: false
+  - id: f9
+    type: name
+    value: "Sisse Marie Welling"
+    canonical: "sisse marie welling"
+    span: "Overborgmester Sisse Marie Welling (SF) siger"
+    critical: false
+  - id: f10
+    type: date
+    value: "2015"
+    canonical: "2015"
+    span: "I 2015 afholdt Københavns Kommune en idékonkurrence"
+    critical: false

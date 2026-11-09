@@ -1,0 +1,64 @@
+source_id: politi-2026-nsk-cpr-opslag
+facts:
+  - id: f1
+    type: number
+    value: "3 år"
+    canonical: 3
+    unit: "år"
+    span: "er idømt fængsel i 3 år og 6 måneder"
+    critical: true
+  - id: f2
+    type: number
+    value: "6 måneder"
+    canonical: 6
+    unit: "måneder"
+    span: "idømt fængsel i 3 år og 6 måneder for at muliggøre"
+    critical: true
+  - id: f3
+    type: number
+    value: "27-årig"
+    canonical: 27
+    span: "En 27-årig mand fra Storkøbenhavn er idømt"
+    critical: true
+  - id: f4
+    type: org
+    value: "Københavns Byret"
+    canonical: "københavns byret"
+    span: "Det er sket onsdag ved Københavns Byret"
+    critical: true
+  - id: f5
+    type: number
+    value: "34 tilfælde"
+    canonical: 34
+    span: "medvirkede han til 34 tilfælde af forsøg på grov vold"
+    critical: true
+  - id: f6
+    type: org
+    value: "Københavns Kommune"
+    canonical: "københavns kommune"
+    span: "sin stilling som studentermedhjælper i Københavns Kommune"
+    critical: true
+  - id: f7
+    type: date
+    value: "juni 2023"
+    canonical: "2023-06"
+    span: "i en periode fra juni 2023 til juli 2024"
+    critical: false
+  - id: f8
+    type: date
+    value: "juli 2024"
+    canonical: "2024-07"
+    span: "fra juni 2023 til juli 2024 misbrugte sin stilling"
+    critical: false
+  - id: f9
+    type: name
+    value: "Rikke Holm Schønsted"
+    canonical: "rikke holm schønsted"
+    span: "Specialanklager i NSK, Rikke Holm Schønsted, siger"
+    critical: false
+  - id: f10
+    type: name
+    value: "Tine Graakjær"
+    canonical: "tine graakjær"
+    span: "Anklager i NSK, Tine Graakjær, siger"
+    critical: false

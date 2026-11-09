@@ -1,0 +1,50 @@
+source_id: ombudsmanden-2026-lolland-avisabonnement-pression
+facts:
+  - id: f1
+    type: org
+    value: "Lolland Kommune"
+    canonical: "lolland kommune"
+    span: "at Lolland Kommune havde opsagt abonnementer"
+    critical: true
+  - id: f2
+    type: org
+    value: "Lolland-Falsters Folketidende"
+    canonical: "lolland-falsters folketidende"
+    span: "opsagt abonnementer på Lolland-Falsters Folketidende"
+    critical: true
+  - id: f3
+    type: date
+    value: "maj 2026"
+    canonical: "2026-05"
+    span: "Folketingets Ombudsmand indledte i maj 2026 en undersøgelse"
+    critical: true
+  - id: f4
+    type: number
+    value: "to byrådsmedlemmer"
+    canonical: 2
+    span: "tilhørte borgmesteren og to byrådsmedlemmer"
+    critical: true
+  - id: f5
+    type: name
+    value: "Christian Britten Lundblad"
+    canonical: "christian britten lundblad"
+    span: "siger Folketingets Ombudsmand, Christian Britten Lundblad"
+    critical: true
+  - id: f6
+    type: date
+    value: "29. april 2026"
+    canonical: "2026-04-29"
+    span: "Den 29. april 2026 i artiklen"
+    critical: false
+  - id: f7
+    type: org
+    value: "journalisten.dk"
+    canonical: "journalisten.dk"
+    span: "skrev journalisten.dk bl.a., at Lolland Kommune"
+    critical: false
+  - id: f8
+    type: quote
+    value: "som er vred over en kritisk artikel i avisen"
+    canonical: "som er vred over en kritisk artikel i avisen"
+    span: "til borgmesteren, ”som er vred over en kritisk artikel i avisen”"
+    critical: false

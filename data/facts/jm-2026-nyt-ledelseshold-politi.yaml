@@ -1,0 +1,56 @@
+source_id: jm-2026-nyt-ledelseshold-politi
+facts:
+  - id: f1
+    type: name
+    value: "Lasse Boje Nielsen"
+    canonical: "lasse boje nielsen"
+    span: "Lasse Boje Nielsen rokerer fra stillingen som rigsadvokat og udpeges som rigspolitichef"
+    critical: true
+  - id: f2
+    type: name
+    value: "Thorkild Fogde"
+    canonical: "thorkild fogde"
+    span: "Thorkild Fogde rokerer fra stillingen som rigspolitichef"
+    critical: true
+  - id: f3
+    type: org
+    value: "Københavns Vestegns Politi"
+    canonical: "københavns vestegns politi"
+    span: "en stilling som politidirektør i Københavns Vestegns Politi"
+    critical: true
+  - id: f4
+    type: name
+    value: "Nicolai Wammen"
+    canonical: "nicolai wammen"
+    span: "Justitsminister Nicolai Wammen udtaler"
+    critical: true
+  - id: f5
+    type: name
+    value: "Rasmus Kieffer-Kristensen"
+    canonical: "rasmus kieffer-kristensen"
+    span: "Rasmus Kieffer-Kristensen er udnævnt som chef for Politiets Efterretningstjeneste"
+    critical: true
+  - id: f6
+    type: name
+    value: "Finn Borch Andersen"
+    canonical: "finn borch andersen"
+    span: "Finn Borch Andersen er udnævnt som politidirektør i Københavns Politi"
+    critical: false
+  - id: f7
+    type: name
+    value: "Caroline Østergaard Nielsen"
+    canonical: "caroline østergaard nielsen"
+    span: "Caroline Østergaard Nielsen fungerer som rigsadvokat indtil videre"
+    critical: false
+  - id: f8
+    type: date
+    value: "2030"
+    canonical: "2030"
+    span: "stå i spidsen for politi og anklagemyndighed frem mod 2030"
+    critical: false
+  - id: f9
+    type: name
+    value: "Steen Bechmann Jacobsen"
+    canonical: "steen bechmann jacobsen"
+    span: "Steen Bechmann Jacobsen er udnævnt som politidirektør i National enhed for Særlig Kriminalitet"
+    critical: false

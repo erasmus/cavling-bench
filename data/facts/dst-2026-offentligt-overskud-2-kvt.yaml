@@ -1,0 +1,64 @@
+source_id: dst-2026-offentligt-overskud-2-kvt
+facts:
+  - id: f1
+    type: number
+    value: "35,5 mia. kr."
+    canonical: 35500000000
+    unit: DKK
+    span: "overskuddet på de offentlige finanser 35,5 mia. kr."
+    critical: true
+  - id: f2
+    type: number
+    value: "12,3 mia. kr."
+    canonical: 12300000000
+    unit: DKK
+    span: "hvilket er 12,3 mia. kr. højere end i første kvartal 2026"
+    critical: true
+  - id: f3
+    type: number
+    value: "415,3 mia. kr."
+    canonical: 415300000000
+    unit: DKK
+    span: "De offentlige indtægter udgjorde 415,3 mia. kr. i andet kvartal"
+    critical: false
+  - id: f4
+    type: number
+    value: "379,9 mia. kr."
+    canonical: 379900000000
+    unit: DKK
+    span: "De samlede offentlige udgifter udgjorde 379,9 mia. kr. i andet kvartal"
+    critical: false
+  - id: f5
+    type: number
+    value: "871 mia. kr."
+    canonical: 871000000000
+    unit: DKK
+    span: "Dermed udgjorde nettoformuen 871 mia. kr. ved udgangen af kvartalet"
+    critical: true
+  - id: f6
+    type: number
+    value: "859,1 mia. kr."
+    canonical: 859100000000
+    unit: DKK
+    span: "ØMU-gælden steg med 19,4 mia. kr. i andet kvartal 2026 til 859,1 mia. kr."
+    critical: true
+  - id: f7
+    type: number
+    value: "27 pct."
+    canonical: 27
+    unit: "%"
+    span: "ØMU-gælden udgjorde dermed 27 pct. af BNP"
+    critical: false
+  - id: f8
+    type: number
+    value: "23,2 mia. kr."
+    canonical: 23200000000
+    unit: DKK
+    span: "overskuddet i første kvartal 2026 nu opgjort til 23,2 mia. kr. mod 9,3 mia. kr."
+    critical: false
+  - id: f9
+    type: date
+    value: "25. september 2026"
+    canonical: "2026-09-25"
+    span: "25. september 2026"
+    critical: false

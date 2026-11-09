@@ -1,0 +1,62 @@
+source_id: nationalbanken-2026-udsigter-marts
+facts:
+  - id: f1
+    type: number
+    value: "1,8 pct."
+    canonical: 1.8
+    unit: "%"
+    span: "at inflationen bliver 1,8 pct. i år"
+    critical: true
+  - id: f2
+    type: number
+    value: "2,0 pct."
+    canonical: 2.0
+    unit: "%"
+    span: "2,0 pct. i 2027 og 1,9 pct. i 2028"
+    critical: false
+  - id: f3
+    type: number
+    value: "4,5 pct."
+    canonical: 4.5
+    unit: "%"
+    span: "vurderes inflationen i år at kunne ende på 4,5 pct."
+    critical: true
+  - id: f4
+    type: number
+    value: "75 mia. kr."
+    canonical: 75000000000
+    unit: DKK
+    span: "løft af forsvarsudgifterne med 75 mia. kr."
+    critical: true
+  - id: f5
+    type: name
+    value: "Christian Kettel Thomsen"
+    canonical: "christian kettel thomsen"
+    span: "siger nationalbankdirektør Christian Kettel Thomsen"
+    critical: true
+  - id: f6
+    type: org
+    value: "Nationalbanken"
+    canonical: "nationalbanken"
+    span: "vurderer Nationalbanken i sin prognose for dansk økonomi"
+    critical: true
+  - id: f7
+    type: number
+    value: "1,8 pct."
+    canonical: 1.8
+    unit: "%"
+    span: "BNP, ventes at vokse med 1,8 pct. i år og næste år"
+    critical: false
+  - id: f8
+    type: number
+    value: "2,2 pct."
+    canonical: 2.2
+    unit: "%"
+    span: "Kerneinflationen vurderes at være 2,2 pct. i 2026"
+    critical: false
+  - id: f9
+    type: date
+    value: "2027"
+    canonical: "2027"
+    span: "bør i finansloven for 2027 derfor ikke skubbe til efterspørgslen"
+    critical: false

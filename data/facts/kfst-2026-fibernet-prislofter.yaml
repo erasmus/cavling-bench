@@ -1,0 +1,57 @@
+source_id: kfst-2026-fibernet-prislofter
+facts:
+  - id: f1
+    type: org
+    value: "Konkurrence- og Forbrugerstyrelsen"
+    canonical: "konkurrence- og forbrugerstyrelsen"
+    span: "Konkurrence- og Forbrugerstyrelsen er som uafhængig telekonkurrencemyndighed"
+    critical: true
+  - id: f2
+    type: number
+    value: "35 procent"
+    canonical: 35
+    unit: "%"
+    span: "forventeligt være op til 35 procent højere end de prislofter"
+    critical: true
+  - id: f3
+    type: number
+    value: "13 fibernetselskaber"
+    canonical: 13
+    span: "Der vil blive truffet afgørelser om 13 fibernetselskaber"
+    critical: true
+  - id: f4
+    type: org
+    value: "TDC"
+    canonical: "tdc"
+    span: "et enkelt fibernetselskab (TDC) får pålagt forpligtelser"
+    critical: true
+  - id: f5
+    type: number
+    value: "fem år"
+    canonical: 5
+    span: "de endelige prislofter for de kommende fem år"
+    critical: true
+  - id: f6
+    type: number
+    value: "fem fibernetselskaber"
+    canonical: 5
+    span: "fem fibernetselskaber (Aura, BornFiber, EnergiFyn, Fibia og Norlys) bindes til egne tilsagn"
+    critical: false
+  - id: f7
+    type: number
+    value: "syv fibernetselskaber"
+    canonical: 7
+    span: "syv fibernetselskaber (Jysk Energi, RAH, SEF, Thy-Mors Energi, Nordenergi og MES)"
+    critical: false
+  - id: f8
+    type: org
+    value: "Teleklagenævnet"
+    canonical: "teleklagenævnet"
+    span: "indbringe afgørelserne for Teleklagenævnet og domstolene"
+    critical: false
+  - id: f9
+    type: org
+    value: "Europa Kommissionen"
+    canonical: "europa kommissionen"
+    span: "vil de blive sendt til Europa Kommissionen (DG Connect)"
+    critical: false

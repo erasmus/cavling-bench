@@ -1,0 +1,51 @@
+source_id: politi-2026-nsk-tidligere-advokat
+facts:
+  - id: f1
+    type: number
+    value: "seks måneders ubetinget fængsel"
+    canonical: 6
+    unit: "måneder"
+    span: "idømt en 53-årig tidligere advokat seks måneders ubetinget fængsel"
+    critical: true
+  - id: f2
+    type: number
+    value: "53-årig"
+    canonical: 53
+    span: "Retten i Lyngby har onsdag idømt en 53-årig tidligere advokat"
+    critical: true
+  - id: f3
+    type: org
+    value: "Retten i Lyngby"
+    canonical: "retten i lyngby"
+    span: "efter at Retten i Lyngby fandt det bevist"
+    critical: true
+  - id: f4
+    type: org
+    value: "National enhed for Særlig Kriminalitet"
+    canonical: "national enhed for særlig kriminalitet"
+    span: "I en sag ført af National enhed for Særlig Kriminalitet"
+    critical: true
+  - id: f5
+    type: number
+    value: "to konkursboer"
+    canonical: 2
+    span: "trods inhabilitet i to konkursboer"
+    critical: true
+  - id: f6
+    type: quote
+    value: "frakendes retten til at udøve advokatvirksomhed"
+    canonical: "frakendes retten til at udøve advokatvirksomhed"
+    span: "Den dømte frakendes retten til at udøve advokatvirksomhed."
+    critical: true
+  - id: f7
+    type: name
+    value: "Konrad Joe Frank"
+    canonical: "konrad joe frank"
+    span: "Specialanklager i NSK Konrad Joe Frank udtaler"
+    critical: false
+  - id: f8
+    type: quote
+    value: "groft stillingsmisbrug og pligtforsømmelse"
+    canonical: "groft stillingsmisbrug og pligtforsømmelse"
+    span: "ubetinget fængsel for groft stillingsmisbrug og pligtforsømmelse"
+    critical: false

@@ -1,0 +1,66 @@
+source_id: finanstilsynet-2026-danske-bank-boliglaansinspektion
+facts:
+  - id: f1
+    type: org
+    value: "Danske Bank"
+    canonical: "danske bank"
+    span: "Danske Bank har en højere andel af bevillinger"
+    critical: true
+  - id: f2
+    type: org
+    value: "Finanstilsynet"
+    canonical: "finanstilsynet"
+    span: "Finanstilsynet vurderer, at 4 ud af 58 gennemgåede bevillinger"
+    critical: true
+  - id: f3
+    type: number
+    value: "58 bevillinger"
+    canonical: 58
+    span: "Inspektionen omfattede en stikprøve på 58 bevillinger"
+    critical: true
+  - id: f4
+    type: number
+    value: "4 ud af 58"
+    canonical: 4
+    span: "4 ud af 58 gennemgåede bevillinger ikke burde have været bevilget"
+    critical: true
+  - id: f5
+    type: quote
+    value: "fået påbud"
+    canonical: "fået påbud"
+    span: "Danske Bank har på baggrund af ovennævnte konklusioner fået påbud"
+    critical: true
+  - id: f6
+    type: number
+    value: "26 pct."
+    canonical: 26
+    unit: "%"
+    span: "fejl i 6 ud af 23 sager, svarende til 26 pct."
+    critical: false
+  - id: f7
+    type: number
+    value: "37 pct."
+    canonical: 37
+    unit: "%"
+    span: "fejl i 13 ud af 35 sager, svarende til 37 pct."
+    critical: false
+  - id: f8
+    type: number
+    value: "gældsfaktor over 3,5"
+    canonical: 3.5
+    span: "udvalgt blandt kunder med gældsfaktor over 3,5"
+    critical: false
+  - id: f9
+    type: number
+    value: "60 pct."
+    canonical: 60
+    unit: "%"
+    span: "belåningsgrad over 60 pct. og et bankengagement"
+    critical: false
+  - id: f10
+    type: number
+    value: "200.000 kr."
+    canonical: 200000
+    unit: DKK
+    span: "et bankengagement større end 200.000 kr."
+    critical: false

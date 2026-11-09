@@ -1,0 +1,59 @@
+source_id: politi-2026-midtvestsjaelland-idraetsforening
+facts:
+  - id: f1
+    type: number
+    value: "et års fængsel"
+    canonical: 1
+    unit: "år"
+    span: "Retten i Roskilde idømte i dag den 46-årige mand et års fængsel"
+    critical: true
+  - id: f2
+    type: number
+    value: "46-årig"
+    canonical: 46
+    span: "har i dag idømt en 46-årig mand et års fængsel"
+    critical: true
+  - id: f3
+    type: org
+    value: "Retten i Roskilde"
+    canonical: "retten i roskilde"
+    span: "Retten i Roskilde har i dag idømt"
+    critical: true
+  - id: f4
+    type: number
+    value: "42 drenge"
+    canonical: 42
+    span: "ikke færre end 42 drenge blev filmet uden deres viden"
+    critical: true
+  - id: f5
+    type: number
+    value: "12 år"
+    canonical: 12
+    unit: "år"
+    span: "voldtaget en dreng under 12 år ved andet seksuelt forhold end samleje"
+    critical: false
+  - id: f6
+    type: date
+    value: "januar 2022"
+    canonical: "2022-01"
+    span: "i perioden fra januar 2022 til april 2024"
+    critical: false
+  - id: f7
+    type: date
+    value: "april 2024"
+    canonical: "2024-04"
+    span: "fra januar 2022 til april 2024"
+    critical: false
+  - id: f8
+    type: name
+    value: "Pernille Fredin"
+    canonical: "pernille fredin"
+    span: "siger senioranklager Pernille Fredin fra anklagemyndigheden"
+    critical: false
+  - id: f9
+    type: number
+    value: "18 år"
+    canonical: 18
+    unit: "år"
+    span: "frakendt retten til at beskæftige sig med børn og unge under 18 år"
+    critical: true

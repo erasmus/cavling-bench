@@ -1,0 +1,69 @@
+source_id: fm-2026-2035-plan
+facts:
+  - id: f1
+    type: number
+    value: "1,36 pct."
+    canonical: 1.36
+    unit: "%"
+    span: "øget fra 1,36 pct. af BNP i 2022"
+    critical: true
+  - id: f2
+    type: number
+    value: "3,5-procent"
+    canonical: 3.5
+    unit: "%"
+    span: "leve op til 3,5-procent målsætningen"
+    critical: true
+  - id: f3
+    type: number
+    value: "70 mia. kr."
+    canonical: 70000000000
+    unit: DKK
+    span: "afsat ca. 70 mia. kr. under Ukrainefondens militære ramme i 2023-2028"
+    critical: true
+  - id: f4
+    type: number
+    value: "1,2 mia. kr."
+    canonical: 1200000000
+    unit: DKK
+    span: "akutpakke på beredskabsområdet allerede i år på 1,2 mia. kr."
+    critical: false
+  - id: f5
+    type: number
+    value: "82 pct."
+    canonical: 82
+    unit: "%"
+    span: "mindske CO2e-udledningen med 82 pct. i forhold til 1990"
+    critical: true
+  - id: f6
+    type: number
+    value: "15 mia. kr."
+    canonical: 15000000000
+    unit: DKK
+    span: "der afsættes med planen ca. 15 mia. kr. (i 2029-2040)"
+    critical: false
+  - id: f7
+    type: number
+    value: "0,6 pct."
+    canonical: 0.6
+    unit: "%"
+    span: "nyt mellemfristet mål for den strukturelle saldo på -0,6 pct. af BNP i 2035"
+    critical: false
+  - id: f8
+    type: name
+    value: "Nicolai Wammen"
+    canonical: "nicolai wammen"
+    span: "Finansminister Nicolai Wammen siger"
+    critical: true
+  - id: f9
+    type: name
+    value: "Stephanie Lose"
+    canonical: "stephanie lose"
+    span: "Økonomiminister Stephanie Lose siger"
+    critical: false
+  - id: f10
+    type: name
+    value: "Lars Løkke Rasmussen"
+    canonical: "lars løkke rasmussen"
+    span: "Udenrigsminister Lars Løkke Rasmussen siger"
+    critical: false

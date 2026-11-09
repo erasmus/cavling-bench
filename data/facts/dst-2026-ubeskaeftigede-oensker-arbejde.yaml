@@ -1,0 +1,66 @@
+source_id: dst-2026-ubeskaeftigede-oensker-arbejde
+facts:
+  - id: f1
+    type: number
+    value: "905.000 ubeskæftigede"
+    canonical: 905000
+    span: "var der 905.000 ubeskæftigede i alderen 15-64 år"
+    critical: true
+  - id: f2
+    type: number
+    value: "52 pct."
+    canonical: 52
+    unit: "%"
+    span: "Heraf ønskede 52 pct., svarende til 470.000 personer, et arbejde"
+    critical: true
+  - id: f3
+    type: number
+    value: "470.000 ubeskæftigede"
+    canonical: 470000
+    span: "Blandt de 470.000 ubeskæftigede, der i første kvartal 2026 ønskede et arbejde"
+    critical: true
+  - id: f4
+    type: number
+    value: "85.000 personer"
+    canonical: 85000
+    span: "Det er en stigning på 85.000 personer siden første kvartal 2024"
+    critical: false
+  - id: f5
+    type: number
+    value: "236.000 personer"
+    canonical: 236000
+    span: "udgjorde de AKU-ledige 236.000 personer, dvs. omtrent halvdelen"
+    critical: true
+  - id: f6
+    type: number
+    value: "7,5 pct."
+    canonical: 7.5
+    unit: "%"
+    span: "svarer til 7,5 pct. af arbejdsstyrken"
+    critical: true
+  - id: f7
+    type: number
+    value: "0,8 procentpoint"
+    canonical: 0.8
+    unit: pp
+    span: "stigning i AKU-ledighedsprocenten på 0,8 procentpoint"
+    critical: false
+  - id: f8
+    type: number
+    value: "6,2 pct."
+    canonical: 6.2
+    unit: "%"
+    span: "var ledighedsprocenten 6,2 pct. - en stigning på 0,5 procentpoint"
+    critical: false
+  - id: f9
+    type: number
+    value: "435.000 personer"
+    canonical: 435000
+    span: "ønsker de resterende 435.000 personer ikke et arbejde"
+    critical: false
+  - id: f10
+    type: date
+    value: "28. maj 2026"
+    canonical: "2026-05-28"
+    span: "28. maj 2026"
+    critical: false

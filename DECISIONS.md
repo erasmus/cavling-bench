@@ -37,3 +37,15 @@ a trap; `planted_ambiguity: true` marks the 8 texts whose *natural* confusable f
 numbers serve that purpose (described in each file's `notes`). Linter limits noted by curators:
 bare-year dates and compound durations ("et år og seks måneder") are not parsed, so such facts
 were recorded as `quote` or omitted.
+
+## 2026-11-10 00:15 — M1 status
+Done: scaffold per §3; 53 unit tests green; `make smoke` runs the full pipeline on fixtures in ~2 s;
+50 candidates in `sources.yaml`, 40 pass `sources-lint`; facts for all 40 pass `facts-lint`;
+three style guides and six task YAMLs are the spec's exact text; `models.yaml` pinned with prices.
+Not done: "two models end-to-end on 5 sources" — no API keys exist on this machine (`.env` absent,
+no `*_API_KEY` in the environment). Command once keys are in `.env`:
+`uv run danews generate --models anthropic-mid,nebius-gpt-oss-120b --sources <5 ids>` then
+`check`, `judge grounding|tone|fluency`, `report`, `costs`.
+Freeze: data/ and prompts are *ready to freeze* but not frozen; the owner should spot-read the
+facts files (drafted from the texts, not hand-written) and confirm archetype names against the
+Danish media registry (§15) before recording the freeze commit here.

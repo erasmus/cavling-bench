@@ -530,14 +530,20 @@ def _dot_whisker_panels(
     tasks = [t for t in cfg.tasks if t.id in tables and tables[t.id]]
     if not tasks:
         return
+    ncols = min(3, len(tasks))
+    nrows = math.ceil(len(tasks) / ncols)
+    n_models = max(len(tables[t.id]) for t in tasks)
     fig, axes = plt.subplots(
-        1,
-        len(tasks),
-        figsize=(2.6 * len(tasks) + 1.5, 0.38 * max(len(tables[t.id]) for t in tasks) + 1.6),
+        nrows,
+        ncols,
+        figsize=(3.4 * ncols + 1.5, (0.36 * n_models + 1.4) * nrows),
         sharey=True,
+        squeeze=False,
     )
-    axes = np.atleast_1d(axes)
-    for ax, task in zip(axes, tasks, strict=True):
+    flat = axes.ravel()
+    for ax in flat[len(tasks) :]:
+        ax.set_visible(False)
+    for ax, task in zip(flat, tasks, strict=False):
         rows = tables[task.id]
         for i, r in enumerate(rows):
             ci: CI = getattr(r, metric)

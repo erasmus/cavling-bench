@@ -109,7 +109,11 @@ class Config:
 
     @cached_property
     def models_file(self) -> ModelsFile:
-        return ModelsFile.model_validate(yaml.safe_load(self.paths.models_yaml.read_text()))
+        raw = yaml.safe_load(self.paths.models_yaml.read_text())
+        for m in raw.get("models", []):
+            if m.get("api_base"):
+                m["api_base"] = os.path.expandvars(m["api_base"])
+        return ModelsFile.model_validate(raw)
 
     @property
     def models(self) -> list[ModelCfg]:

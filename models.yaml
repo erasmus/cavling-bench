@@ -1,0 +1,227 @@
+# Pinned 2026-11-09. Prices are USD list per 1M tokens on that date (see DECISIONS.md).
+# EU residency: "yes" = vendor documents EU processing by default; "cloud region" = via
+# regional endpoint; "no" = not documented; "self-hosted" = local.
+judges:
+  A: nebius-gpt-oss-120b
+  B: anthropic-mid
+judge_b_sample_fraction: 0.25
+
+models:
+  - id: anthropic-frontier
+    display: "Claude Fable 5.1"
+    family: anthropic
+    tier: frontier_proprietary
+    litellm_model: anthropic/claude-fable-5-1
+    pinned_version: claude-fable-5-1
+    billing: paid
+    api_key_env: ANTHROPIC_API_KEY
+    price_in_per_m: 10.00
+    price_out_per_m: 50.00
+    open_weights: false
+    licence: proprietary
+    eu_residency: "no"
+    supports_seed: false
+    supports_temperature: false
+    notes: "Anthropic API 2026-10-21 removed temperature/top_p/top_k; inference_geo only global/us."
+
+  - id: anthropic-mid
+    display: "Claude Sonnet 5.5"
+    family: anthropic
+    tier: mid_proprietary
+    litellm_model: anthropic/claude-sonnet-5-5
+    pinned_version: claude-sonnet-5-5
+    billing: paid
+    api_key_env: ANTHROPIC_API_KEY
+    price_in_per_m: 2.00
+    price_out_per_m: 10.00
+    open_weights: false
+    licence: proprietary
+    eu_residency: "no"
+    supports_seed: false
+    supports_temperature: false
+    notes: "Judge B."
+
+  - id: openai-frontier
+    display: "GPT-6 Astra"
+    family: openai
+    tier: frontier_proprietary
+    litellm_model: openai/gpt-6-astra
+    pinned_version: gpt-6-astra
+    billing: paid
+    api_key_env: OPENAI_API_KEY
+    price_in_per_m: 10.00
+    price_out_per_m: 50.00
+    open_weights: false
+    licence: proprietary
+    eu_residency: "cloud region"
+    supports_seed: true
+    notes: "EU residency via eu.api.openai.com per secondary sources; vendor page blocked at pin time."
+
+  - id: openai-mid
+    display: "GPT-6 Luna"
+    family: openai
+    tier: mid_proprietary
+    litellm_model: openai/gpt-6-luna
+    pinned_version: gpt-6-luna
+    billing: paid
+    api_key_env: OPENAI_API_KEY
+    price_in_per_m: 0.10
+    price_out_per_m: 0.50
+    open_weights: false
+    licence: proprietary
+    eu_residency: "cloud region"
+    supports_seed: true
+
+  - id: google-frontier
+    display: "Gemini 4 Argon"
+    family: google
+    tier: frontier_proprietary
+    litellm_model: gemini/gemini-4-argon
+    pinned_version: gemini-4-argon
+    billing: paid
+    api_key_env: GEMINI_API_KEY
+    price_in_per_m: 2.00
+    price_out_per_m: 10.00
+    open_weights: false
+    licence: proprietary
+    eu_residency: "no"
+    supports_seed: true
+    notes: "Gemini API (AI Studio) has no region option; price doubles 2026-12-01."
+
+  - id: google-mid
+    display: "Gemini 3.8 Flash"
+    family: google
+    tier: mid_proprietary
+    litellm_model: gemini/gemini-3.8-flash
+    pinned_version: gemini-3.8-flash
+    billing: paid
+    api_key_env: GEMINI_API_KEY
+    price_in_per_m: 0.75
+    price_out_per_m: 3.75
+    open_weights: false
+    licence: proprietary
+    eu_residency: "no"
+    supports_seed: true
+
+  - id: mistral-large
+    display: "Mistral Large 4"
+    family: mistral
+    tier: eu
+    litellm_model: mistral/mistral-large-4
+    pinned_version: mistral-large-4-0
+    billing: credit_mistral
+    api_key_env: MISTRAL_API_KEY
+    price_in_per_m: 0.70
+    price_out_per_m: 2.10
+    open_weights: true
+    licence: "Mistral Ecosystem Open Weight License"
+    eu_residency: "yes"
+    params_b: 1050
+    supports_seed: true
+    notes: "Replaces spec row mistral-medium (Medium 3.5 deprecated 2026-10-31). MoE, 52B active."
+
+  - id: mistral-small
+    display: "Mistral Small 4"
+    family: mistral
+    tier: eu
+    litellm_model: mistral/mistral-small-2603
+    pinned_version: mistral-small-2603
+    billing: credit_mistral
+    api_key_env: MISTRAL_API_KEY
+    price_in_per_m: 0.15
+    price_out_per_m: 0.60
+    open_weights: true
+    licence: Apache-2.0
+    eu_residency: "yes"
+    params_b: 119
+    supports_seed: true
+    notes: "MoE, 6.5B active."
+
+  - id: nebius-gpt-oss-120b
+    display: "gpt-oss-120b (Nebius)"
+    family: openai-oss
+    tier: open_global
+    litellm_model: openai/openai/gpt-oss-120b
+    pinned_version: openai/gpt-oss-120b
+    billing: credit_nebius
+    api_base: https://api.tokenfactory.nebius.com/v1/
+    api_key_env: NEBIUS_API_KEY
+    price_in_per_m: 0.15
+    price_out_per_m: 0.60
+    open_weights: true
+    licence: Apache-2.0
+    eu_residency: "cloud region"
+    params_b: 120
+    max_concurrency: 8
+    supports_seed: false
+    notes: "Judge A and generator. Serverless endpoints are region 'Global'; dedicated endpoints can be EU-pinned."
+
+  - id: nebius-qwen3-235b
+    display: "Qwen3-235B-A22B (Nebius)"
+    family: qwen
+    tier: open_global
+    litellm_model: openai/Qwen/Qwen3-235B-A22B-Instruct-2507
+    pinned_version: Qwen/Qwen3-235B-A22B-Instruct-2507
+    billing: credit_nebius
+    api_base: https://api.tokenfactory.nebius.com/v1/
+    api_key_env: NEBIUS_API_KEY
+    price_in_per_m: 0.20
+    price_out_per_m: 0.60
+    open_weights: true
+    licence: Apache-2.0
+    eu_residency: "cloud region"
+    params_b: 235
+    max_concurrency: 8
+    supports_seed: false
+    notes: "Spec asked for Llama or Qwen; Nebius removed Llama 3.3 70B on 2026-08-31."
+
+  - id: dfm-mimir-1.5
+    display: "DFM Mimir v1.5 (1.8B)"
+    family: dfm
+    tier: open_nordic
+    litellm_model: openai/danish-foundation-models/DFM-Mimir-v1.5
+    pinned_version: danish-foundation-models/DFM-Mimir-v1.5
+    billing: local
+    api_base: ${LOCAL_VLLM_BASE_URL}
+    api_key_env: null
+    open_weights: true
+    licence: Apache-2.0
+    eu_residency: self-hosted
+    params_b: 1.8
+    max_concurrency: 2
+    supports_seed: true
+    notes: "Local OpenAI-compatible server; see docs/serving.md."
+
+  - id: dfm-munin-7b
+    display: "DFM Munin 7B alpha"
+    family: dfm
+    tier: open_nordic
+    litellm_model: openai/danish-foundation-models/munin-7b-alpha
+    pinned_version: danish-foundation-models/munin-7b-alpha
+    billing: local
+    api_base: ${LOCAL_VLLM_BASE_URL}
+    api_key_env: null
+    open_weights: true
+    licence: Apache-2.0
+    eu_residency: self-hosted
+    params_b: 7
+    max_concurrency: 2
+    supports_seed: true
+    notes: "Mistral-7B-v0.1 continued pretrain; vLLM on Nebius GPU or local 4-bit."
+
+  - id: syvai-danskgpt-v4-12b
+    display: "DanskGPT v4 12B"
+    family: syvai
+    tier: open_nordic
+    litellm_model: openai/syvai/danskgpt-v4-12b
+    pinned_version: syvai/danskgpt-v4-12b
+    billing: local
+    api_base: ${LOCAL_VLLM_BASE_URL}
+    api_key_env: null
+    open_weights: true
+    licence: "CC-BY-4.0 (Gemma terms apply)"
+    eu_residency: self-hosted
+    params_b: 12
+    max_concurrency: 2
+    supports_seed: true
+    notes: "QLoRA fine-tune of google/gemma-4-12B-it."

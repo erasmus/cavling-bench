@@ -1,0 +1,476 @@
+# Candidate source registry (50 candidates; 40 are kept after lint). Verified by fetch on 2026-11-09.
+# Reuse terms: dst.dk and nationalbanken.dk have explicit terms; ft.dk permits reproduction with
+# attribution; other authorities have no notice, so the ophavsretslov § 9 public-document exemption
+# is recorded and should be confirmed with each press office before publication.
+sources:
+  # ---------------- politics (9) ----------------
+  - id: regeringen-2026-akutplan-elnettet
+    skip: true  # spare: near-duplicate of kefm akutplan (same spokespersons)
+    title: "Bred politisk opbakning til akutplan for elnettet"
+    publisher: Regeringen
+    domain: politics
+    url: https://regeringen.dk/aktuelt/nyheder/2026/bred-politisk-opbakning-til-akutplan-for-elnettet/
+    published: 2026-07-01
+    licence: "Offentligt aktstykke (ophavsretsloven § 9); ingen særskilte vilkår på regeringen.dk"
+    licence_url: https://danskelove.dk/ophavsretsloven/9
+    notes: "Ten named ordførere plus minister; 4 priority categories, revisit 2027, plan 2035."
+  - id: kefm-2026-akutplan-elnettet-vedtaget
+    title: "Bredt flertal har stemt for akutplanen for elnettet"
+    publisher: Klima-, Energi- og Forsyningsministeriet
+    domain: politics
+    url: https://www.kefm.dk/aktuelt/nyheder/2026/okt/bredt-flertal-har-stemt-for-akutplanen-for-elnettet
+    published: 2026-10-01
+    licence: "Offentligt aktstykke (ophavsretsloven § 9); ingen særskilte vilkår på kefm.dk"
+    licence_url: https://danskelove.dk/ophavsretsloven/9
+    notes: "Same spokespersons as July release, different quotes; law in force 12 Oct 2026."
+  - id: regeringen-2026-grisefirepart
+    title: "Ny grisefirepart skal forene bedre dyrevelfærd med et stærkt erhverv"
+    publisher: Regeringen
+    domain: politics
+    url: https://regeringen.dk/aktuelt/nyheder/2026/ny-grisefirepart-skal-forene-bedre-dyrevelfaerd-med-et-staerkt-erhverv/
+    published: 2026-09-30
+    licence: "Offentligt aktstykke (ophavsretsloven § 9); ingen særskilte vilkår på regeringen.dk"
+    licence_url: https://danskelove.dk/ophavsretsloven/9
+    notes: "Four ministers and six organisations; 95 pct. halekuperede grise, six months to agree."
+  - id: fm-2026-finanslovforslag-2027
+    title: "Finanslovforslag med fokus på tryghed og sikkerhed, løft af velfærden og grøn omstilling"
+    publisher: Finansministeriet
+    domain: politics
+    url: https://fm.dk/nyheder/nyhedsarkiv/2026/oktober/finanslovforslag-med-fokus-paa-tryghed-og-sikkerhed-loeft-af-velfaerden-og-groen-omstilling/
+    published: 2026-10-09
+    licence: "Offentligt aktstykke (ophavsretsloven § 9); ingen særskilte vilkår på fm.dk"
+    licence_url: https://danskelove.dk/ophavsretsloven/9
+    notes: "Dense yearly amounts for 2027/2028 across several areas; four ministers quoted."
+  - id: fm-2026-2035-plan
+    title: "Regeringen præsenterer 2035-plan: Et stærkt Danmark i en usikker verden"
+    publisher: Finansministeriet
+    domain: politics
+    url: https://fm.dk/nyheder/nyhedsarkiv/2026/februar/regeringen-praesenterer-2035-plan-et-staerkt-danmark-i-en-usikker-verden/
+    published: 2026-02-24
+    licence: "Offentligt aktstykke (ophavsretsloven § 9); ingen særskilte vilkår på fm.dk"
+    licence_url: https://danskelove.dk/ophavsretsloven/9
+    notes: "Pre-election ministers; defence 1,36 → 3,5 pct. BNP; saldo 2030/2035 figures."
+  - id: regeringen-2026-kystbeskyttelse-14-9-mia
+    title: "Regeringen afsætter 14,9 mia. kroner til en national plan for kystbeskyttelse af Danmark"
+    publisher: Regeringen
+    domain: politics
+    url: https://regeringen.dk/aktuelt/nyheder/2026/regeringen-afsaetter-14-9-mia-kroner-til-en-national-plan-for-kystbeskyttelse-af-danmark/
+    published: 2026-02-24
+    licence: "Offentligt aktstykke (ophavsretsloven § 9); ingen særskilte vilkår på regeringen.dk"
+    licence_url: https://danskelove.dk/ophavsretsloven/9
+    notes: "14,9 mia. vs 'op til 20 mia. frem mod 2040'; 85/15 pct. split."
+  - id: fm-2026-ok26-statens-overenskomst
+    title: "Parterne på statens område har indgået et treårigt overenskomstforlig"
+    publisher: Finansministeriet
+    domain: politics
+    url: https://fm.dk/nyheder/nyhedsarkiv/2026/februar/parterne-paa-statens-omraade-har-indgaaet-et-treaarigt-overenskomstforlig/
+    published: 2026-02-11
+    licence: "Offentligt aktstykke (ophavsretsloven § 9); ingen særskilte vilkår på fm.dk"
+    licence_url: https://danskelove.dk/ophavsretsloven/9
+    notes: "200.000 ansatte, 8,7 pct. ramme, several similar-sounding pulje amounts."
+  - id: jm-2026-nyt-ledelseshold-politi
+    title: "Holdet, der skal stå i spidsen for dansk politi og anklagemyndighed, er sat"
+    publisher: Justitsministeriet
+    domain: politics
+    url: https://www.justitsministeriet.dk/pressemeddelelse/holdet-der-skal-staa-i-spidsen-for-dansk-politi-og-anklagemyndighed-er-sat/
+    published: 2026-06-30
+    licence: "Offentligt aktstykke (ophavsretsloven § 9); ingen særskilte vilkår på justitsministeriet.dk"
+    licence_url: https://danskelove.dk/ophavsretsloven/9
+    notes: "About 20 named persons with swapped roles; effective 1 Aug 2026."
+  - id: skim-2026-sommeraftale-sundhedsreform
+    title: "Sommeraftale på plads: Regeringen, Danske Regioner og KL tager næste store skridt i sundhedsreformen"
+    publisher: Sundheds- og Kirkeministeriet
+    domain: politics
+    url: https://www.skim.dk/nyheder/2026/juni/sommeraftale-paa-plads_regeringen-danske-regioner-og-kl-tager-naeste-store-skridt-i-sundhedsreformen
+    published: 2026-06-26
+    licence: "Offentligt aktstykke (ophavsretsloven § 9); ingen særskilte vilkår på skim.dk"
+    licence_url: https://danskelove.dk/ophavsretsloven/9
+    notes: "Amounts by year 2027–2030 in 2025-pl; 96 timer, 21 dage, 67 år."
+
+  # ---------------- economy (9) ----------------
+  - id: dst-2026-bnp-2-kvartal-revideret
+    title: "Solid fremgang i dansk økonomi i 2. kvartal"
+    publisher: Danmarks Statistik
+    domain: economy
+    url: https://www.dst.dk/da/Statistik/udgivelser/NytHtml?cid=53768
+    published: 2026-09-30
+    licence: "Frit at gengive med Danmarks Statistik som kilde (svarer til CC BY 4.0)"
+    licence_url: https://www.dst.dk/da/Statistik/brug-statistikken/kildeangivelse
+    notes: "BNP +0,9 pct. revised up from +0,3 pct. in the 20 Aug release — confusable pair."
+  - id: dst-2026-inflation-september
+    title: "Inflationen steg igen i september"
+    publisher: Danmarks Statistik
+    domain: economy
+    url: https://www.dst.dk/da/Statistik/udgivelser/NytHtml?cid=52441
+    published: 2026-10-12
+    licence: "Frit at gengive med Danmarks Statistik som kilde (svarer til CC BY 4.0)"
+    licence_url: https://www.dst.dk/da/Statistik/brug-statistikken/kildeangivelse
+    notes: "Inflation 2,2 pct. up vs kerneinflation 1,9 pct. down — opposite directions."
+  - id: dst-2026-ledighed-september
+    title: "Ledigheden faldt med 200 i september"
+    publisher: Danmarks Statistik
+    domain: economy
+    url: https://www.dst.dk/da/Statistik/udgivelser/NytHtml?cid=52327
+    published: 2026-10-30
+    licence: "Frit at gengive med Danmarks Statistik som kilde (svarer til CC BY 4.0)"
+    licence_url: https://www.dst.dk/da/Statistik/brug-statistikken/kildeangivelse
+    notes: "93.600 fuldtidspersoner, 3,1 pct.; near-identical sibling releases for Aug/Jul."
+  - id: dst-2026-offentligt-overskud-2-kvt
+    title: "Offentligt overskud på 35,5 mia. kr. i 2. kvt. 2026"
+    publisher: Danmarks Statistik
+    domain: economy
+    url: https://www.dst.dk/da/Statistik/udgivelser/NytHtml?cid=52502
+    published: 2026-09-25
+    licence: "Frit at gengive med Danmarks Statistik som kilde (svarer til CC BY 4.0)"
+    licence_url: https://www.dst.dk/da/Statistik/brug-statistikken/kildeangivelse
+    notes: "Aflønning 116,2 vs overførsler 116,9 mia. — near-identical amounts."
+  - id: dst-2026-offentligt-overskud-2025
+    title: "Offentligt overskud i 2025"
+    publisher: Danmarks Statistik
+    domain: economy
+    url: https://www.dst.dk/da/Statistik/udgivelser/NytHtml?cid=52178
+    published: 2026-06-03
+    licence: "Frit at gengive med Danmarks Statistik som kilde (svarer til CC BY 4.0)"
+    licence_url: https://www.dst.dk/da/Statistik/brug-statistikken/kildeangivelse
+    notes: "Overskud 90,9 mia. (2025) vs 123,5 (2024); March release said 88,5 — revision trap."
+  - id: dst-2026-ubeskaeftigede-oensker-arbejde
+    title: "Hver anden ubeskæftiget ønsker et arbejde"
+    publisher: Danmarks Statistik
+    domain: economy
+    url: https://www.dst.dk/da/Statistik/udgivelser/NytHtml?cid=54042
+    published: 2026-05-28
+    licence: "Frit at gengive med Danmarks Statistik som kilde (svarer til CC BY 4.0)"
+    licence_url: https://www.dst.dk/da/Statistik/brug-statistikken/kildeangivelse
+    notes: "AKU-ledighed 7,5 pct. vs registreret 3,1 pct. — definitional trap."
+  - id: dst-2026-offentlig-finansiel-nettoformue
+    skip: true  # spare: overlaps two other offentlige finanser releases
+    title: "Stigning i den offentlige finansielle nettoformue"
+    publisher: Danmarks Statistik
+    domain: economy
+    url: https://www.dst.dk/da/Statistik/udgivelser/NytHtml?cid=51750
+    published: 2026-03-27
+    licence: "Frit at gengive med Danmarks Statistik som kilde (svarer til CC BY 4.0)"
+    licence_url: https://www.dst.dk/da/Statistik/brug-statistikken/kildeangivelse
+    notes: "Saldo negative but nettoformue up; contains a same-day correction notice."
+  - id: nationalbanken-2026-udsigter-marts
+    title: "Udsigterne for dansk økonomi er præget af vedvarende usikkerhed"
+    publisher: Danmarks Nationalbank
+    domain: economy
+    url: https://www.nationalbanken.dk/da/viden-og-nyheder/presse/arkiv/2026/udsigterne-for-dansk-oekonomi-er-praeget-af-vedvarende-usikkerhed-26-03-2026
+    published: 2026-03-26
+    licence: "Kopiering tilladt vederlagsfrit med Danmarks Nationalbank som kilde; indholdet må ikke forvanskes"
+    licence_url: https://www.nationalbanken.dk/da/juridiske-oplysninger/ophavsret
+    notes: "Three near-identical triples (inflation, BNP, kerne 2026–28)."
+  - id: nationalbanken-2026-digitale-betalinger-beredskab
+    title: "Danskerne betaler mere digitalt – det gør offline-betalinger endnu vigtigere som beredskab"
+    publisher: Danmarks Nationalbank
+    domain: economy
+    url: https://www.nationalbanken.dk/da/viden-og-nyheder/presse/arkiv/2026/danskerne-betaler-mere-digitalt-det-goer-offline-betalinger-endnu-vigtigere-som-beredskab-26-06-2026
+    published: 2026-06-26
+    licence: "Kopiering tilladt vederlagsfrit med Danmarks Nationalbank som kilde; indholdet må ikke forvanskes"
+    licence_url: https://www.nationalbanken.dk/da/juridiske-oplysninger/ophavsret
+    notes: "Kontant 23/11/9 pct. (2017/2023/2025); 7 dages offline-beredskab."
+
+  # ---------------- courts (8) ----------------
+  - id: politi-2026-oestjylland-bedrageri-aeldre
+    title: "Idømt fængsel for bedrageri og forsøg på bedrageri af flere end 100 borgere"
+    publisher: Østjyllands Politi
+    domain: courts
+    url: https://politi.dk/oestjyllands-politi/nyhedsliste/idoemt-faengsel-for-bedrageri-og-forsoeg-paa-bedrageri-af-flere-end-100-borgere/2026/10/16
+    published: 2026-10-16
+    licence: "Offentligt aktstykke (ophavsretsloven § 9); ingen særskilte vilkår på politi.dk"
+    licence_url: https://politi.dk/om-hjemmesiden
+    notes: "Retten i Aarhus; 1 år 6 mdr; 48 ofre, ca. 270.000 kr., ca. 150 forsøg."
+  - id: politi-2026-nsk-tidligere-advokat
+    title: "53-årig tidligere advokat idømt seks måneders fængsel"
+    publisher: National enhed for Særlig Kriminalitet
+    domain: courts
+    url: https://politi.dk/national-enhed-for-saerlig-kriminalitet/nyhedsliste/53aarig-tidligere-advokat-idoemt-seks-maaneders-faengsel/2026/10/21
+    published: 2026-10-21
+    licence: "Offentligt aktstykke (ophavsretsloven § 9); ingen særskilte vilkår på politi.dk"
+    licence_url: https://politi.dk/om-hjemmesiden
+    notes: "Retten i Lyngby; may be just under 300 words."
+  - id: politi-2026-midtvestsjaelland-idraetsforening
+    title: "Ansat i idrætsforening idømt et års fængsel for seksuelle overgreb"
+    publisher: Midt- og Vestsjællands Politi
+    domain: courts
+    url: https://politi.dk/midt-og-vestsjaellands-politi/nyhedsliste/ansat-i-idraetsforening-idoemt-faengsel-for-seksuelle-overgreb/2026/10/28
+    published: 2026-10-28
+    licence: "Offentligt aktstykke (ophavsretsloven § 9); ingen særskilte vilkår på politi.dk"
+    licence_url: https://politi.dk/om-hjemmesiden
+    notes: "Retten i Roskilde; 42 forurettede; fully anonymised."
+  - id: politi-2026-fyn-spraengning-beboelsesejendom
+    title: "Tre unge mænd idømt lange fængselsstraffe i forsøg på sprængning i beboelsesejendom"
+    publisher: Fyns Politi
+    domain: courts
+    url: https://politi.dk/fyns-politi/nyhedsliste/3-maend-doemt/2026/02/20
+    published: 2026-02-20
+    licence: "Offentligt aktstykke (ophavsretsloven § 9); ingen særskilte vilkår på politi.dk"
+    licence_url: https://politi.dk/om-hjemmesiden
+    notes: "3 × 14 års fængsel; internal age inconsistency in the text — natural trap."
+  - id: politi-2026-nsk-cpr-opslag
+    title: "27-årig dømt for at muliggøre personfarlig kriminalitet ved CPR-opslag"
+    publisher: National enhed for Særlig Kriminalitet
+    domain: courts
+    url: https://politi.dk/national-enhed-for-saerlig-kriminalitet/nyhedsliste/27aarig-doemt-for-at-muliggoere-personfarlig-kriminalitet-ved-cpropslag/2026/03/18
+    published: 2026-03-18
+    licence: "Offentligt aktstykke (ophavsretsloven § 9); ingen særskilte vilkår på politi.dk"
+    licence_url: https://politi.dk/om-hjemmesiden
+    notes: "Københavns Byret; 3 år 6 mdr; 34 forhold."
+  - id: politi-2026-sydoestjylland-hadforbrydelse
+    title: "Tre unge mænd dømt i sag om vold, grov vold og hadforbrydelse samt overtrædelse af våbenlovgivningen"
+    publisher: Sydøstjyllands Politi
+    domain: courts
+    url: https://politi.dk/sydoestjyllands-politi/nyhedsliste/tre-unge-maend-doemt-i-sag-om-vold-og-hadforbrydelse/2026/08/24
+    published: 2026-08-24
+    licence: "Offentligt aktstykke (ophavsretsloven § 9); ingen særskilte vilkår på politi.dk"
+    licence_url: https://politi.dk/om-hjemmesiden
+    notes: "Three differentiated sentences; udvisning 6 år; dates in Jan 2026."
+  - id: politi-2026-nsk-vaabenlager-40kg-kokain
+    skip: true  # spare: 228 words, under floor
+    title: "26-årig tilstår besiddelse af våbenlager og 40kg kokain"
+    publisher: National enhed for Særlig Kriminalitet
+    domain: courts
+    url: https://politi.dk/national-enhed-for-saerlig-kriminalitet/nyhedsliste/26aarig-tilstaar-besiddelse-af-vaabenlager-og-40kg-kokain/2026/10/13
+    published: 2026-10-13
+    licence: "Offentligt aktstykke (ophavsretsloven § 9); ingen særskilte vilkår på politi.dk"
+    licence_url: https://politi.dk/om-hjemmesiden
+    notes: "Retten i Glostrup; 12 års fængsel; likely under 300 words — spare."
+  - id: anklagemyndigheden-2026-fremme-af-terror-seks-aar
+    skip: true  # spare: 241 words, under floor
+    title: "30-årig mand idømt seks års fængsel for fremme af terror"
+    publisher: Anklagemyndigheden
+    domain: courts
+    url: https://anklagemyndigheden.dk/da/30-aarig-mand-idoemt-seks-aars-faengsel-fremme-af-terror
+    published: 2026-04-20
+    licence: "Offentligt aktstykke (ophavsretsloven § 9); ingen særskilte vilkår på anklagemyndigheden.dk"
+    licence_url: https://anklagemyndigheden.dk/forside/behandling-af-personoplysninger/
+    notes: "Retten i Glostrup; straffelovens § 114 e; udvisning for bestandig."
+
+  # ---------------- consumer (8) ----------------
+  - id: fo-2026-tankstationer-reservation-beloeb
+    title: "Tankstationer må ikke reservere urimeligt høje beløb på forbrugernes konti"
+    publisher: Forbrugerombudsmanden
+    domain: consumer
+    url: https://forbrugerombudsmanden.dk/nyheder/forbrugerombudsmanden/pressemeddelelser/2026/20260416-tankstationer-maa-ikke-reservere-urimeligt-hoeje-beloeb-paa-forbrugernes-konti
+    published: 2026-04-16
+    licence: "Offentligt aktstykke (ophavsretsloven § 9); ingen særskilte vilkår på forbrugerombudsmanden.dk"
+    licence_url: https://forbrugerombudsmanden.dk/om-os/om-hjemmesiden
+    notes: "Reservation amounts per brand (950/850→100/1.200/1.500 kr.); up to 11 days."
+  - id: fo-2026-salling-group-oego-boede
+    title: "Salling Group betaler 10 millioner kroner i bøde for vildledende markedsføring af Nettos ØGO-mærke"
+    publisher: Forbrugerombudsmanden
+    domain: consumer
+    url: https://forbrugerombudsmanden.dk/nyheder/forbrugerombudsmanden/pressemeddelelser/2026/20260312-salling-group-betaler-10-millioner-kroner-i-boede-for-vildledende-markedsfoering-af-nettos-oego-maerke
+    published: 2026-03-12
+    licence: "Offentligt aktstykke (ophavsretsloven § 9); ingen særskilte vilkår på forbrugerombudsmanden.dk"
+    licence_url: https://forbrugerombudsmanden.dk/om-os/om-hjemmesiden
+    notes: "10 mio. kr. bøde; greenwashing vocabulary."
+  - id: fo-2026-ditur-boede-tilbud
+    title: "Ditur betaler 4,25 millioner kroner i bøde for vildledende markedsføring af tilbud"
+    publisher: Forbrugerombudsmanden
+    domain: consumer
+    url: https://forbrugerombudsmanden.dk/pressemeddelelser/2026/20260903-ditur-betaler-4-25-millioner-kroner-i-boede-for-vildledende-markedsfoering-af-tilbud
+    published: 2026-09-03
+    licence: "Offentligt aktstykke (ophavsretsloven § 9); ingen særskilte vilkår på forbrugerombudsmanden.dk"
+    licence_url: https://forbrugerombudsmanden.dk/om-os/om-hjemmesiden
+    notes: "4,25 mio. kr.; 26 forhold; normalpris vs 30-day lowest price."
+  - id: fo-2026-rejsekort-politianmeldelse
+    title: "Forbrugerombudsmanden politianmelder Rejsekort & Rejseplan for vildledende markedsføring"
+    publisher: Forbrugerombudsmanden
+    domain: consumer
+    url: https://forbrugerombudsmanden.dk/nyheder/forbrugerombudsmanden/pressemeddelelser/2026/20260602-forbrugerombudsmanden-politianmelder-rejsekort-rejseplan-for-vildledende-markedsfoering
+    published: 2026-06-02
+    licence: "Offentligt aktstykke (ophavsretsloven § 9); ingen særskilte vilkår på forbrugerombudsmanden.dk"
+    licence_url: https://forbrugerombudsmanden.dk/om-os/om-hjemmesiden
+    notes: "Many transport brands; >35 klager; markedsføringslovens §§ 5–6."
+  - id: fo-2026-bsh-greenwashing
+    skip: true  # spare: shortest consumer text; greenwashing covered by Salling
+    title: "Forbrugerombudsmanden politianmelder BSH Hvidevarer A/S for greenwashing"
+    publisher: Forbrugerombudsmanden
+    domain: consumer
+    url: https://forbrugerombudsmanden.dk/nyheder/forbrugerombudsmanden/pressemeddelelser/2026/20260417-forbrugerombudsmanden-politianmelder-bsh-hvidevarer-as-for-greenwashing
+    published: 2026-04-17
+    licence: "Offentligt aktstykke (ophavsretsloven § 9); ingen særskilte vilkår på forbrugerombudsmanden.dk"
+    licence_url: https://forbrugerombudsmanden.dk/om-os/om-hjemmesiden
+    notes: "Bosch; several channel names; short but concrete."
+  - id: kfst-2026-scandlines-roedby-puttgarden
+    skip: true  # spare: Q&A-structured page, least article-like
+    title: "Scandlines har taget urimeligt høje priser på Rødby-Puttgarden"
+    publisher: Konkurrence- og Forbrugerstyrelsen
+    domain: consumer
+    url: https://kfst.dk/pressemeddelelser/2026/20260624-scandlines-har-taget-urimeligt-hoeje-priser-for-personbiler-paa-roedby-puttgarden
+    published: 2026-06-24
+    licence: "Offentligt aktstykke (ophavsretsloven § 9); ingen særskilte vilkår på kfst.dk"
+    licence_url: https://kfst.dk/om-os/styrelsen-paa-nettet
+    notes: "Long page incl. Q&A; may need trimming to the core release."
+  - id: kfst-2026-fibernet-prislofter
+    title: "Prislofter på fibernet kommer forbrugere og virksomheder til gode"
+    publisher: Konkurrence- og Forbrugerstyrelsen
+    domain: consumer
+    url: https://kfst.dk/pressemeddelelser/2026/20260929-prislofter-paa-fibernet-kommer-forbrugere-og-virksomheder-til-gode
+    published: 2026-09-29
+    licence: "Offentligt aktstykke (ophavsretsloven § 9); ingen særskilte vilkår på kfst.dk"
+    licence_url: https://kfst.dk/om-os/styrelsen-paa-nettet
+    notes: "13 named fibre companies; op til 35 pct.; 5-årig periode."
+  - id: finanstilsynet-2026-danske-bank-boliglaansinspektion
+    title: "Redegørelse om boliglånsinspektion i Danske Bank A/S"
+    publisher: Finanstilsynet
+    domain: consumer
+    url: https://www.finanstilsynet.dk/tilsyn/inspektionsredegoerelser-og-afgoerelser/2026/nov/redegoerelse-om-boliglaansinspektion-i-danske-bank
+    published: 2026-11-03
+    licence: "Offentligt aktstykke (ophavsretsloven § 9); ingen særskilte vilkår på finanstilsynet.dk"
+    licence_url: https://www.finanstilsynet.dk/vores-organisation/information-paa-hjemmesiden
+    notes: "58 stikprøver; 26 %/37 %; gældsfaktor >3,5; dense statistics."
+
+  # ---------------- local (8) ----------------
+  - id: aarhus-2026-budgetaftale-2027
+    title: "Aarhus Byråd indgår budgetaftale for 2027"
+    publisher: Aarhus Kommune
+    domain: local
+    url: https://aarhus.dk/nyt/borgmesterens-afdeling/2026/september/aarhus-byraad-indgaar-budgetaftale-for-2027
+    published: 2026-09-18
+    licence: "Offentligt aktstykke (ophavsretsloven § 9); ingen særskilte vilkår på aarhus.dk"
+    licence_url: https://aarhus.dk/om-kommunen/databeskyttelse/om-hjemmesiden/ansvar-og-indhold
+    notes: "Unanimous budget deal; 138 mio. kr. social, 197 mio. kr./år drift, 810 mio. kr. anlæg."
+  - id: kk-2026-ventetidsgaranti-foedselsgener
+    title: "København indfører ventetidsgaranti til kvinder med fødselsgener"
+    publisher: Københavns Kommune
+    domain: local
+    url: https://www.kk.dk/nyheder/koebenhavn-indfoerer-ventetidsgaranti-til-kvinder-med-foedselsgener
+    published: 2026-09-16
+    licence: "Offentligt aktstykke (ophavsretsloven § 9); ingen særskilte vilkår på kk.dk"
+    licence_url: https://www.kk.dk/om-hjemmesiden
+    notes: "12,5 mio. kr. over four years; 7-day/3-week guarantees."
+  - id: kk-2026-vandkulturhus-papiroeen
+    title: "Spektakulært vandkulturhus på Papirøen åbner den 5. december 2026"
+    publisher: Københavns Kommune
+    domain: local
+    url: https://www.kk.dk/nyheder/spektakulaert-vandkulturhus-paa-papiroeen-aabner-den-5-december-2026
+    published: 2026-10-22
+    licence: "Offentligt aktstykke (ophavsretsloven § 9); ingen særskilte vilkår på kk.dk"
+    licence_url: https://www.kk.dk/om-hjemmesiden
+    notes: "989 mio. kr. total split 546/443; 5.800 m²; dates 2015–2027."
+  - id: kk-2026-paragraf-18-frivillige-projekter
+    skip: true  # spare: third Københavns Kommune text
+    title: "13,8 millioner kroner til frivillige projekter i København"
+    publisher: Københavns Kommune
+    domain: local
+    url: https://www.kk.dk/nyheder/138-millioner-kroner-til-frivillige-projekter-i-koebenhavn
+    published: 2026-11-09
+    licence: "Offentligt aktstykke (ophavsretsloven § 9); ingen særskilte vilkår på kk.dk"
+    licence_url: https://www.kk.dk/om-hjemmesiden
+    notes: "Dull § 18 decision: 13,8 mio. kr. to 196 projects; several grant sizes."
+  - id: odense-2026-skolefravaer-95-mio
+    title: "Odense styrker indsatsen mod ufrivilligt skolefravær med 9,5 millioner kroner"
+    publisher: Odense Kommune
+    domain: local
+    url: https://www.odense.dk/presse/pressemeddelelser/pressemeddelelser-2026/odense-styrker-indsatsen-mod-ufrivilligt-skolefravaer-med-95-millioner-kroner
+    published: 2026-10-06
+    licence: "Offentligt aktstykke (ophavsretsloven § 9); ingen særskilte vilkår på odense.dk"
+    licence_url: https://www.odense.dk/om-kommunen/om-hjemmesiden
+    notes: "9,5 mio. kr./år; 'knap hver femte elev'; hotline 2027."
+  - id: odense-2026-legepladser-40-mio
+    skip: true  # spare: second Odense text
+    title: "Nye legepladsredskaber på vej til cirka 100 børnehuse"
+    publisher: Odense Kommune
+    domain: local
+    url: https://www.odense.dk/presse/pressemeddelelser/pressemeddelelser-2026/nye-legepladsredskaber-paa-vej-til-cirka-100-boernehuse-boern-og-medarbejdere-bliver-inddraget-i-pro
+    published: 2026-04-15
+    licence: "Offentligt aktstykke (ophavsretsloven § 9); ingen særskilte vilkår på odense.dk"
+    licence_url: https://www.odense.dk/om-kommunen/om-hjemmesiden
+    notes: "40 mio. kr. split 16,8 + 23,2; ca. 100 børnehuse, 18 in 2026."
+  - id: aalborg-2025-omlaegningsplan-trepart
+    title: "Aalborg Byråd har vedtaget en ambitiøs omlægningsplan for Aalborg Kommune"
+    publisher: Aalborg Kommune
+    domain: local
+    url: https://www.aalborg.dk/se-alt-nyt/aalborg-byraad-har-vedtaget-en-ambitioes-omlaegningsplan-for-aalborg-kommune-378727176056508/
+    published: 2025-12-16
+    licence: "Offentligt aktstykke (ophavsretsloven § 9); ingen særskilte vilkår på aalborg.dk"
+    licence_url: https://www.aalborg.dk/om-kommunen/kommunikation-og-presse/web-og-digitalisering/hjemmesider-i-aalborg-kommune/
+    notes: "94 projekter (77/13/3); 20 % beskyttet natur by 2030; no kr. amounts."
+  - id: rm-2026-kultur-sundhed-pulje-78-mio
+    title: "Ny pulje på 7,8 mio. kr. skal styrke sundheden med kultur"
+    publisher: Region Midtjylland
+    domain: local
+    url: https://www.ru.rm.dk/om-os/presse-og-nyheder/nyheder/nyheder-2026/ny-pulje-paa-78-mio-kr-skal-styrke-sundheden-med-kultur/
+    published: 2026-05-06
+    licence: "Offentligt aktstykke (ophavsretsloven § 9); ingen særskilte vilkår på rm.dk"
+    licence_url: https://www.rm.dk/om-os/info-til-borgerne/privatlivspolitik/
+    notes: "Pulje 7,8 mio. kr.; min. 200.000 kr.; 25 % medfinansiering; deadline 26 Aug 2026."
+
+  # ---------------- oversight (8) ----------------
+  - id: rigsrevisionen-2026-beretning-pesticider
+    title: "Beretning om kontrol med pesticider"
+    publisher: Rigsrevisionen
+    domain: oversight
+    url: https://www.rigsrevisionen.dk/revisionssager-arkiv/2026/sep/beretning-om-kontrol-med-pesticider
+    published: 2026-09-07
+    licence: "Offentligt aktstykke (ophavsretsloven § 9); ingen særskilte vilkår på rigsrevisionen.dk"
+    licence_url: https://www.rigsrevisionen.dk/
+    notes: "Beretning 23/2025 summary plus Statsrevisorernes bemærkning; hedged prose."
+  - id: rigsrevisionen-2026-beretning-energinet-elnettet
+    title: "Beretning om Energinets udbygning af elnettet"
+    publisher: Rigsrevisionen
+    domain: oversight
+    url: https://www.rigsrevisionen.dk/revisionssager-arkiv/2026/apr/beretning-om-energinets-udbygning-af-elnettet
+    published: 2026-04-09
+    licence: "Offentligt aktstykke (ophavsretsloven § 9); ingen særskilte vilkår på rigsrevisionen.dk"
+    licence_url: https://www.rigsrevisionen.dk/
+    notes: "Dense numbers (ca. 70 % forsinkede, >10 mia. kr., 206 af 490 km)."
+  - id: statsrevisorerne-2026-demensudredning-ventetider
+    skip: true  # spare: ft.dk returns 403 (bot challenge)
+    title: "Regionernes ventetider på demensudredning får skarp kritik fra Statsrevisorerne"
+    publisher: Statsrevisorerne
+    domain: oversight
+    url: https://www.ft.dk/da/statsrevisorerne/nyheder/2026/10/regionernes-ventetider-paa-demensudredning-faar-skarp-kritik-fra-statsrevisorerne
+    published: 2026-10-05
+    licence: "Folketinget – fri gengivelse med kildeangivelse, ingen selvstændig kommerciel udnyttelse"
+    licence_url: https://www.ft.dk/da/aktuelt/presse-og-kommunikation
+    notes: "30 dage lovkrav; ~25.000 patienter; 23 af 33 enheder. ft.dk is behind a bot challenge."
+  - id: ombudsmanden-2026-koebenhavn-laerer-ytringsfrihed
+    title: "Københavns Kommune handlede ikke med respekt for folkeskolelærers ytringsfrihed"
+    publisher: Folketingets Ombudsmand
+    domain: oversight
+    url: https://www.ombudsmanden.dk/find-viden/nyheder/2026/koebenhavns-kommune-handlede-ikke-med-respekt-for-folkeskolelaerers-ytringsfrihed
+    published: 2026-02-04
+    licence: "Offentligt aktstykke (ophavsretsloven § 9); ingen særskilte vilkår på ombudsmanden.dk"
+    licence_url: https://www.ombudsmanden.dk/om-ombudsmanden/kontakt
+    notes: "Strongly hedged legal wording; FOB 2026-4; 3-month henstilling."
+  - id: ombudsmanden-2026-lolland-avisabonnement-pression
+    title: "En myndigheds opsigelse af avisabonnement må ikke ske som pression eller straffeaktion"
+    publisher: Folketingets Ombudsmand
+    domain: oversight
+    url: https://www.ombudsmanden.dk/find-viden/nyheder/2026/en-myndigheds-opsigelse-af-avisabonnement-maa-ikke-ske-som-pression-eller-straffeaktion
+    published: 2026-07-02
+    licence: "Offentligt aktstykke (ophavsretsloven § 9); ingen særskilte vilkår på ombudsmanden.dk"
+    licence_url: https://www.ombudsmanden.dk/om-ombudsmanden/kontakt
+    notes: "Lolland Kommune; saglighed/lighedsgrundsætning prose."
+  - id: datatilsynet-2026-faaborg-midtfyn-ai-aeldrepleje
+    title: "Alvorlig kritik af kommunes brug af AI i ældreplejen"
+    publisher: Datatilsynet
+    domain: oversight
+    url: https://www.datatilsynet.dk/presse-og-nyheder/nyhedsarkiv/2026/nov/alvorlig-kritik-af-kommunes-brug-af-ai-i-aeldreplejen
+    published: 2026-11-05
+    licence: "Offentligt aktstykke (ophavsretsloven § 9); ingen særskilte vilkår på datatilsynet.dk"
+    licence_url: https://www.datatilsynet.dk/om-hjemmesiden
+    notes: "18 beboere; 6-month trial; Faaborg-Midtfyn Kommune."
+  - id: datatilsynet-2026-skatteforvaltningen-indsigt-kritik
+    skip: true  # spare: second Datatilsynet text
+    title: "Skatteforvaltningen får igen alvorlig kritik"
+    publisher: Datatilsynet
+    domain: oversight
+    url: https://www.datatilsynet.dk/presse-og-nyheder/nyhedsarkiv/2026/aug/skatteforvaltningen-faar-igen-alvorlig-kritik
+    published: 2026-08-21
+    licence: "Offentligt aktstykke (ophavsretsloven § 9); ingen særskilte vilkår på datatilsynet.dk"
+    licence_url: https://www.datatilsynet.dk/om-hjemmesiden
+    notes: "Sagsbehandlingstid ~100 → ~59 dage; earlier afgørelse 30 Sep 2025."
+  - id: ankestyrelsen-2026-langeland-tilsynssager-afsluttet
+    title: "Ankestyrelsen afslutter tilsynssager mod Langeland Kommune"
+    publisher: Ankestyrelsen
+    domain: oversight
+    url: https://www.ast.dk/nyhedsarkiv/2026/maj/ankestyrelsen-afslutter-tilsynssager-mod-langeland-kommune
+    published: 2026-05-06
+    licence: "Offentligt aktstykke (ophavsretsloven § 9); ingen særskilte vilkår på ast.dk"
+    licence_url: https://www.ast.dk/
+    notes: "295 sager; 4 love overtrådt; taskforce maj 2026–jan 2028."

@@ -20,3 +20,12 @@ munin-7b-alpha, syvai/danskgpt-v4-12b via a local OpenAI-compatible endpoint.
 Anthropic API (2026-10-21) no longer accepts temperature; those rows run with vendor defaults and
 `supports_temperature: false` is recorded in each output's params. Anthropic documents no EU
 inference geo, so eu_residency = "no". Estimated paid spend at these prices: ~USD 39 (within G4).
+
+## 2026-11-09 22:30 — 50 candidates collected, 40 selected, boilerplate stripped by script
+Collected 49/50 (ft.dk returns 403 to non-browser clients; domstol.dk likewise, so courts are
+police/prosecution releases). Boilerplate (press-contact blocks, phone numbers, "Øvrige nyheder"/
+"Pressemeddelelse" headers, newsletter and related-link lists) removed by `scripts/clean_sources.py`,
+not by hand, so the step is reproducible. 10 spares marked `skip: true` in `data/sources.yaml`
+with the reason inline. Reuse terms: explicit for dst.dk and nationalbanken.dk; all other
+authorities carry the ophavsretslov § 9 public-document reading — to confirm with press offices
+before the repo goes public.

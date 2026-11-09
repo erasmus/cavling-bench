@@ -76,3 +76,28 @@ def test_judges_end_to_end_on_fixtures(fixture_cfg):
     for cf in cache_files:
         rec = json.loads(cf.read_text())
         assert "fake-echo" not in rec["text"] or "RUBRIK" in rec["text"]
+
+
+def test_unreachable_judge_is_skipped_and_error_records_are_retried(fixture_cfg, monkeypatch):
+    from danews.judge import _append_jsonl
+
+    run_generate(fixture_cfg, models=["fake-echo"])
+    # A judge whose key is missing is skipped with a notice, not recorded as 27 errors.
+    monkeypatch.setattr(
+        "danews.judge.model_is_reachable",
+        lambda m: "DANEWS_TEST_MISSING_KEY not set" if m.id == "fake-judge-b" else None,
+    )
+    g = run_grounding(fixture_cfg)
+    assert g["fake-judge-a"] == 27
+    assert "fake-judge-b" not in g
+    assert g["fake-judge-b_skipped"] == "DANEWS_TEST_MISSING_KEY not set"
+    # An existing error record does not count as done.
+    path = fixture_cfg.paths.scores / "grounding.jsonl"
+    recs = _lines(path, GroundingRecord)
+    bad = recs[0].model_copy(update={"error": "RuntimeError: boom", "claims": []})
+    path.write_text("".join(r.model_dump_json() + "\n" for r in recs[1:]))
+    _append_jsonl(path, [bad])
+    g2 = run_grounding(fixture_cfg)
+    assert g2["fake-judge-a"] == 1
+    a_recs = [r for r in _lines(path, GroundingRecord) if r.judge_id == "fake-judge-a"]
+    assert all(r.error is None for r in a_recs)

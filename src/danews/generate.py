@@ -3,7 +3,6 @@
 from __future__ import annotations
 
 import asyncio
-import os
 from collections.abc import Iterable
 from dataclasses import dataclass
 from datetime import UTC, datetime
@@ -12,7 +11,7 @@ from jinja2 import Environment, StrictUndefined
 from rich.console import Console
 
 from .config import Config
-from .llm import LLMClient, Message, ensure_parent, prompt_sha256
+from .llm import LLMClient, Message, ensure_parent, model_is_reachable, prompt_sha256
 from .schemas import GenParams, ModelCfg, Output, Source, Task, slot_name
 
 console = Console(stderr=True)
@@ -55,17 +54,6 @@ def render_messages(cfg: Config, slot: Slot) -> list[Message]:
 
 def output_path(cfg: Config, model: ModelCfg, slot: Slot):
     return cfg.paths.outputs / model.id / slot.task.id / f"{slot.name}.json"
-
-
-def model_is_reachable(model: ModelCfg) -> str | None:
-    """Return a reason to skip, or None if the model can be called."""
-    if model.litellm_model.startswith("fake/"):
-        return None
-    if model.api_key_env and not os.environ.get(model.api_key_env):
-        return f"{model.api_key_env} not set"
-    if model.api_base and "${" in model.api_base:
-        return f"api_base env var unset ({model.api_base})"
-    return None
 
 
 async def _generate_one(

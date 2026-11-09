@@ -76,6 +76,31 @@ def log_cost(paths: Paths, stage: str, cfg: ModelCfg, res: LLMResult) -> None:
         f.write(rec.model_dump_json() + "\n")
 
 
+def model_is_reachable(model: ModelCfg) -> str | None:
+    """Return a reason to skip, or None if the model can be called."""
+    if model.litellm_model.startswith(FAKE_PREFIX):
+        return None
+    if model.api_key_env and not os.environ.get(model.api_key_env):
+        return f"{model.api_key_env} not set"
+    if model.api_base and "${" in model.api_base:
+        return f"api_base env var unset ({model.api_base})"
+    return None
+
+
+class EmptyCompletion(RuntimeError):
+    """The model returned no visible text, typically because hidden reasoning used max_tokens."""
+
+
+def finalise_text(content: str | None, finish_reason: str | None) -> str:
+    text = (content or "").strip()
+    if not text:
+        raise EmptyCompletion(
+            f"empty completion (finish_reason={finish_reason}); "
+            "for reasoning models raise reasoning_budget_tokens in models.yaml"
+        )
+    return text
+
+
 def _is_retryable(exc: BaseException) -> bool:
     name = type(exc).__name__
     if any(
@@ -135,11 +160,13 @@ class LLMClient:
     def effective_params(
         cfg: ModelCfg, temperature: float, max_tokens: int, seed: int | None
     ) -> dict[str, Any]:
-        params: dict[str, Any] = {"max_tokens": max_tokens}
+        params: dict[str, Any] = {"max_tokens": max_tokens + cfg.reasoning_budget_tokens}
         if cfg.supports_temperature:
             params["temperature"] = temperature
         if cfg.supports_seed and seed is not None:
             params["seed"] = seed
+        if cfg.reasoning_effort:
+            params["reasoning_effort"] = cfg.reasoning_effort
         return params
 
     # Internals ---------------------------------------------------------------
@@ -184,7 +211,7 @@ class LLMClient:
         resp = await litellm.acompletion(**kwargs)
         latency_ms = int((time.perf_counter() - t0) * 1000)
         choice = resp.choices[0]
-        text = (choice.message.content or "").strip()
+        text = finalise_text(choice.message.content, getattr(choice, "finish_reason", None))
         usage = resp.usage
         return LLMResult(
             text=text,

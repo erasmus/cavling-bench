@@ -154,7 +154,9 @@ models:
     params_b: 120
     max_concurrency: 8
     supports_seed: false
-    notes: "Judge A and generator. Serverless endpoints are region 'Global'; dedicated endpoints can be EU-pinned."
+    reasoning_effort: low
+    reasoning_budget_tokens: 1500
+    notes: "Judge A and generator. Reasoning model: hidden thinking is billed as completion tokens, so a budget is added on top of each task's max_tokens. Serverless endpoints are region 'Global'; dedicated endpoints can be EU-pinned."
 
   - id: nebius-qwen3-235b
     display: "Qwen3-235B-A22B (Nebius)"

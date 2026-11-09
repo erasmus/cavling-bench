@@ -49,3 +49,19 @@ no `*_API_KEY` in the environment). Command once keys are in `.env`:
 Freeze: data/ and prompts are *ready to freeze* but not frozen; the owner should spot-read the
 facts files (drafted from the texts, not hand-written) and confirm archetype names against the
 Danish media registry (§15) before recording the freeze commit here.
+
+## 2026-11-09 22:10 — gpt-oss-120b is a reasoning model; reasoning budget added
+First Nebius run: 40 of 45 gpt-oss-120b outputs came back empty with no error, because hidden
+reasoning consumed the whole task `max_tokens`. `models.yaml` rows now accept `reasoning_effort`
+and `reasoning_budget_tokens`; gpt-oss-120b is pinned at `low` / 1500 extra tokens (observed
+completions 114–860 tokens afterwards). An empty completion is now recorded as an error, and judge
+stages skip a judge whose key is unset instead of writing error records; error records are retried
+on the next run. Qwen3-235B median latency 14 s vs 1.5 s for gpt-oss (both serverless).
+
+## 2026-11-09 22:15 — M1 end-to-end run done (Nebius only)
+`generate → check → judge → report → site` ran on 5 sources × 2 models (nebius-gpt-oss-120b,
+nebius-qwen3-235b): 90/90 outputs, 90 grounding + 90 fluency records from Judge A, 0 tone pairs
+(both generators are judged only by Judge B under the cross-family rule, and no Anthropic key is
+set yet). Credit spend USD 0.19, paid USD 0.00. Nebius catalogue checked via `/v1/models`: both
+pinned ids are served; DeepSeek-V4-Pro / V4.1-Flash, Kimi-K3 and MiniMax-M3 are also available.
+Decision on adding any of them is open (owner).

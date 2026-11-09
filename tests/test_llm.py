@@ -1,5 +1,7 @@
 import json
 
+import pytest
+
 from danews.config import Paths
 from danews.llm import LLMClient, cache_key, cost_for, fake_complete, read_costs
 from danews.schemas import ModelCfg
@@ -86,3 +88,17 @@ def test_effective_params_drop_unsupported():
     assert p == {"max_tokens": 10}
     p = LLMClient.effective_params(_cfg(supports_seed=True), 0.0, 10, 42)
     assert p == {"max_tokens": 10, "temperature": 0.0, "seed": 42}
+
+
+def test_effective_params_reasoning_budget_and_effort():
+    cfg = _cfg(reasoning_effort="low", reasoning_budget_tokens=1500)
+    p = LLMClient.effective_params(cfg, 0.0, 400, None)
+    assert p == {"max_tokens": 1900, "temperature": 0.0, "reasoning_effort": "low"}
+
+
+def test_empty_truncated_completion_is_an_error():
+    from danews.llm import EmptyCompletion, finalise_text
+
+    assert finalise_text("  svar  ", "stop") == "svar"
+    with pytest.raises(EmptyCompletion):
+        finalise_text("", "length")

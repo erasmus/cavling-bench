@@ -1,6 +1,6 @@
 Read DECISIONS.md before doing anything. It is the running log of scope, pins, cuts and
 freezes. Schemas live in src/danews/schemas.py, pipeline stages in src/danews/cli.py, prompts
-under data/. Do not invent requirements; if something is ambiguous, ask or pick the simplest
+under tasks/, prompts/ and styleguides/. Do not invent requirements; if something is ambiguous, ask or pick the simplest
 option and note it in DECISIONS.md.
 
 Rules:

@@ -150,3 +150,8 @@ nine `outputs/google-mid/` records with their nine rows in `scores/checks.jsonl`
 rate-limit errors from the free-tier Gemini key, never scored; `generate` recreates them when the
 model is actually run). `danews report` output is byte-identical before and after apart from the
 `generated` timestamp. All of it remains in git history (last present in d909451).
+
+## 2026-11-10 14:20 — costs.jsonl untracked
+`costs.jsonl` is a local working log that `danews report` does not read; it is now git-ignored and
+stays on disk, where `danews costs` and the USD 45 ceiling still use it. The spend history up to
+this point remains in git history (last tracked in 4160dd8) and in the entries above.

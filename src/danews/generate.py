@@ -137,7 +137,13 @@ async def _run(
             console.print(f"[yellow]skip {model.id}: {reason}[/]")
             continue
         if dry_run:
-            pending = [s for s in slots if force or not output_path(cfg, model, s).exists()]
+            pending = [
+                s
+                for s in slots
+                if force
+                or not output_path(cfg, model, s).exists()
+                or _has_error(output_path(cfg, model, s))
+            ]
             counts[model.id] = len(pending)
             console.print(f"{model.id}: {len(pending)} outputs to generate")
             continue

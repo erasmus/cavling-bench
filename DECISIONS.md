@@ -141,3 +141,12 @@ for its planted 2,2 pct. trap) and the `anthropic-frontier` outputs for T1–T6,
 Finding surfaced while writing it: the T6 prompt cites "ifølge Danmarks Statistik" as an example,
 but the grounding judges see only the source body, which does not name the publisher, so a model
 that attributes the release correctly is marked unsupported. Not fixed (prompts are pinned); open.
+
+## 2026-11-10 14:10 — Repo trimmed to what replicating the figures needs
+The public repo is for replicating the published figures (`uv run danews report` from committed
+`outputs/` + `scores/`), not for building the benchmark. Removed: `docs/design/` (site mockups A–C,
+superseded by `site/`), `.github/workflows/rerun.yml` (paid rerun with maintainer secrets), and the
+nine `outputs/google-mid/` records with their nine rows in `scores/checks.jsonl` (all 429
+rate-limit errors from the free-tier Gemini key, never scored; `generate` recreates them when the
+model is actually run). `danews report` output is byte-identical before and after apart from the
+`generated` timestamp. All of it remains in git history (last present in d909451).

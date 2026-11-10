@@ -54,15 +54,42 @@
   .trade .card { border-top:4px solid var(--good); } .trade .card.w { border-top-color:var(--warn); }
   .trade ul { margin:.4rem 0 0; padding-left:1.1rem; font-size:.93rem; } .trade li { margin:.45rem 0; }
   .trade li span { display:block; color:var(--ink-2); font-size:.85rem; }
+  /* worked example */
+  .example { display:grid; grid-template-columns:minmax(0,1fr) minmax(0,1.35fr); gap:1.25rem; align-items:start; }
+  .srccard { background:var(--panel); border:1px solid var(--line); border-radius:8px; padding:1.1rem; position:sticky; top:1rem; }
+  .srccard .meta { font-size:.8rem; color:var(--ink-2); margin:0; }
+  .srcbody { max-height:24rem; overflow:auto; font-size:.88rem; border-top:1px solid var(--line); border-bottom:1px solid var(--line); margin:.6rem 0; padding:.2rem .4rem .2rem 0; }
+  .srcbody:focus-visible { outline:3px solid var(--accent); outline-offset:2px; }
+  .srcbody p { margin:.6rem 0; } .srcbody .sh { font-weight:600; margin-bottom:-.3rem; }
+  mark { background:color-mix(in srgb, var(--warn) 30%, transparent); color:inherit; padding:0 .15em; border-radius:3px; }
+  .trap { font-size:.88rem; background:var(--soft); border-radius:6px; padding:.6rem .75rem; margin:0 0 .6rem; }
+  .hl { font-weight:700; font-size:1.05rem; line-height:1.3; margin:.4rem 0 .2rem; } .shl { margin:0; color:var(--ink-2); }
+  .extabs { display:grid; grid-template-columns:repeat(6,1fr); border:1px solid var(--line); border-radius:8px 8px 0 0; overflow:hidden; }
+  .extabs button { all:unset; cursor:pointer; padding:.6rem .7rem; background:var(--panel); border-right:1px solid var(--line); }
+  .extabs button:last-child { border-right:none; }
+  .extabs button[aria-selected="true"] { background:var(--accent); color:#fff; } .extabs button[aria-selected="true"] small { color:#fff; }
+  .extabs button:focus-visible { outline:3px solid var(--accent); outline-offset:-3px; }
+  .extabs small { display:block; font-size:.72rem; color:var(--ink-2); font-family:ui-monospace, monospace; } .extabs strong { font-size:.88rem; }
+  .expanel { background:var(--panel); border:1px solid var(--line); border-top:none; border-radius:0 0 8px 8px; padding:1.1rem; }
+  .expanel .ask { margin:0 0 1rem; font-size:.92rem; color:var(--ink-2); }
+  .expanel h3 { margin:1.3rem 0 .5rem; font-size:.72rem; text-transform:uppercase; letter-spacing:.08em; color:var(--ink-2); }
+  .exout { display:grid; gap:.75rem; }
+  .variant { border-left:3px solid var(--accent); padding:.1rem 0 .1rem .9rem; font-size:.93rem; }
+  .variant p { margin:.45rem 0; } .variant ul { margin:.4rem 0; padding-left:1.1rem; } .variant li { margin:.3rem 0; }
+  .arch { font-size:.72rem; font-weight:600; text-transform:uppercase; letter-spacing:.06em; color:var(--accent); }
+  .meas { list-style:none; margin:0; padding:0; display:grid; gap:.5rem; font-size:.9rem; }
+  .meas li { padding:.55rem .75rem; border-radius:6px; background:var(--soft); border-left:4px solid var(--line); }
+  .meas li.ok { border-left-color:var(--good); } .meas li.bad { border-left-color:var(--warn); } .meas li.note { border-left-color:var(--accent); }
+  .meas b { margin-right:.25rem; }
   .results { margin:3.5rem 0 4rem; padding:2rem; border-radius:12px; background:var(--soft); display:flex; justify-content:space-between; align-items:center; gap:2rem; }
   .results p { margin:.3rem 0 0; color:var(--ink-2); max-width:60ch; }
   .btn { background:var(--accent); color:#fff; text-decoration:none; padding:.8rem 1.3rem; border-radius:8px; font-weight:600; white-space:nowrap; }
-  @media (max-width:860px) { .hero, .trade, .judges { grid-template-columns:1fr; } .flow { grid-template-columns:1fr 1fr; } .flow button { border:1px solid var(--line) !important; border-radius:0 !important; } .flow button::after { display:none; } .detail { grid-template-columns:1fr 1fr; } .results { flex-direction:column; align-items:flex-start; } }
+  @media (max-width:860px) { .example { grid-template-columns:1fr; } .srccard { position:static; } .extabs { grid-template-columns:repeat(3,1fr); } .extabs button { border-bottom:1px solid var(--line); } .hero, .trade, .judges { grid-template-columns:1fr; } .flow { grid-template-columns:1fr 1fr; } .flow button { border:1px solid var(--line) !important; border-radius:0 !important; } .flow button::after { display:none; } .detail { grid-template-columns:1fr 1fr; } .results { flex-direction:column; align-items:flex-start; } }
 </style>
 </head>
 <body>
 <div class="wrap">
-  <div class="top"><a href="../" style="color:inherit;text-decoration:none"><b>Cavling-bench</b></a><nav><a href="#pipeline">Pipeline</a><a href="#opgaver">Opgaver</a><a href="#dommere">Bedømmelse</a><a href="#afvejninger">Styrker og svagheder</a><a href="#resultater">Resultater</a></nav></div>
+  <div class="top"><a href="../" style="color:inherit;text-decoration:none"><b>Cavling-bench</b></a><nav><a href="#pipeline">Pipeline</a><a href="#opgaver">Opgaver</a><a href="#eksempel">Eksempel</a><a href="#dommere">Bedømmelse</a><a href="#afvejninger">Styrker og svagheder</a><a href="#resultater">Resultater</a></nav></div>
 
   <section class="hero">
     <div>
@@ -104,6 +131,75 @@
     </tbody>
   </table>
   <p class="legend"><span class="dot"></span> dommermodel eller regel &nbsp; <span class="dot m"></span> mekanisk tjek mod håndskreven faktaliste</p>
+
+  <h2 id="eksempel">Et eksempel: én kildetekst, seks opgaver</h2>
+  <p class="sub">Sådan ser det ud i praksis. Kildeteksten er Danmarks Statistiks udgivelse om inflationen i september. Teksterne er rå, uredigerede output fra én model, Claude Fable 5.1, og under hver tekst står, hvad mekaniske tjek og dommere fandt.</p>
+  <div class="example">
+    <div class="srccard">
+      <p class="meta">Kildetekst · Danmarks Statistik · 12. oktober 2026 · 311 ord</p>
+      <p class="hl">Inflationen steg igen i september</p>
+      <div class="srcbody" tabindex="0" role="region" aria-label="Kildetekst">
+<p>I september steg det samlede forbrugerprisindeks med <mark>2,2 pct.</mark> i forhold til samme måned året før. I august var den tilsvarende stigning 2,0 pct. Det er hovedgruppen transport, der bidrager mest til inflationen i september. Under nævnte hovedgruppe er det især prisstigninger på brændstof, der bidrager til inflationen. Forbrugerprisindekset ekskl. energi og ikke-forarbejdede fødevarer (kerneinflationen) havde en årsstigning på 1,9 pct. i september, hvilket primært skyldes prisstigninger på husleje. I august havde kerneinflationen en årsstigning på <mark>2,2 pct.</mark></p>
+<p class='sh'>Især brændstof trak indekset op den seneste måned</p>
+<p>Fra august til september var forbrugerprisindekset uændret. Isoleret set trak prisstigninger på især brændstof, tøj og flyrejser indekset op med 0,46 procentpoint. Modsat trak prisfald på bl.a. leje af sommerhus, pakkerejser og fødevarer indekset ned med 0,72 procentpoint.</p>
+<p class='sh'>Vækstbidrag for forbrugerprisindekset (FPI) i procentpoint</p>
+<p class='sh'>Sverige havde den laveste EU-harmoniserede inflation i august</p>
+<p>Danmarks EU-harmoniserede inflation lå på 2,1 pct. i september. Tallene for september er endnu ikke offentliggjort på europæisk niveau, men i august steg den EU-harmoniserede inflation samlet for de 27 EU-lande til 3,2 pct. fra 3,0 pct. i juli. EU-landene med lavest EU-harmoniseret inflation i august var Sverige med 0,3 pct., Estland med 1,3 pct. og Tjekkiet med 1,5 pct. EU-landene med højst EU-harmoniseret inflation i august var Rumænien med 6,3 pct., Litauen med 5,6 pct. og Cypern med 5,2 pct.</p>
+<p>Det EU-harmoniserede forbrugerprisindeks (HICP) opgøres på en måde, der sikrer, at tallene er sammenlignelige på tværs af landene. Forskellen mellem det danske forbrugerprisindeks og HICP er, at udgifter til ejerboliger ikke indgår i HICP. Eurostat offentliggør de samlede inflationstal for de 27 EU-lande én gang månedligt. Tallene for september udkommer 16. oktober 2026. De kan ses på Eurostats hjemmeside: Inflation in the euro area og i Eurostats database: Harmonised indices of consumer prices.</p>
+<p class='sh'>Forbrugerprisindeks, nettoprisindeks og det EU-harmoniserede forbrugerprisindeks (HICP)</p>
+<p class='sh'>Forbruger- og nettoprisindeks september 2026</p>
+      </div>
+      <p class="trap"><b>Indbygget fælde.</b> <mark>2,2 pct.</mark> står to gange: som den samlede inflation i september og som kerneinflationen i august. Den samlede inflation stiger, mens kerneinflationen falder.</p>
+      <p class="meta">Faktaliste: 10 håndskrevne fakta, heraf 4 kritiske (2,2 pct., 2,0 pct., 1,9 pct. og 12. oktober 2026). Mekaniske tjek ser efter dem i T1, T3 og T5.</p>
+    </div>
+    <div>
+      <div class="extabs" role="tablist" aria-label="Opgaver i eksemplet">
+    <button role="tab" id="ex-tab-0" aria-controls="ex-panel-0" aria-selected="true" tabindex="0"><small>T1</small><strong>Nyhedstelegram</strong></button>
+    <button role="tab" id="ex-tab-1" aria-controls="ex-panel-1" aria-selected="false" tabindex="-1"><small>T2</small><strong>Rubrik</strong></button>
+    <button role="tab" id="ex-tab-2" aria-controls="ex-panel-2" aria-selected="false" tabindex="-1"><small>T3</small><strong>Faktaboks</strong></button>
+    <button role="tab" id="ex-tab-3" aria-controls="ex-panel-3" aria-selected="false" tabindex="-1"><small>T4</small><strong>Versionering</strong></button>
+    <button role="tab" id="ex-tab-4" aria-controls="ex-panel-4" aria-selected="false" tabindex="-1"><small>T5</small><strong>Forkortelse</strong></button>
+    <button role="tab" id="ex-tab-5" aria-controls="ex-panel-5" aria-selected="false" tabindex="-1"><small>T6</small><strong>Lydmanus</strong></button>
+      </div>
+  <div class="expanel" role="tabpanel" id="ex-panel-0" aria-labelledby="ex-tab-0">
+    <p class="ask"><b>Opgaven:</b> 90–120 ord, ét afsnit, det vigtigste nye i første sætning.</p>
+    <div class="exout"><div class="variant"><span class="arch">Ingen stilguide</span><p>Inflationen steg til 2,2 pct. i september mod 2,0 pct. i august, viser tal offentliggjort 12. oktober 2026. Det er hovedgruppen transport, der bidrager mest, især på grund af prisstigninger på brændstof. Kerneinflationen, der er renset for energi og ikke-forarbejdede fødevarer, lå på 1,9 pct. i september mod 2,2 pct. i august og skyldes primært stigende husleje. Fra august til september var forbrugerprisindekset uændret: Brændstof, tøj og flyrejser trak op med 0,46 procentpoint, mens leje af sommerhus, pakkerejser og fødevarer trak ned med 0,72 procentpoint. Danmarks EU-harmoniserede inflation var 2,1 pct. i september. I august lå den samlede inflation for de 27 EU-lande på 3,2 pct., lavest i Sverige med 0,3 pct. og højest i Rumænien med 6,3 pct. Eurostats septembertal udkommer 16. oktober.</p></div></div>
+    <h3>Hvad blev målt</h3>
+    <ul class="meas"><li class="bad"><b>Format</b> 124 ord – fire over grænsen. Tæller som dumpet, selv om teksten ellers er god.</li><li class="ok"><b>Fakta</b> 4 af 4 kritiske fakta bevaret: 2,2 pct., 2,0 pct., 1,9 pct. og 12. oktober 2026.</li><li class="ok"><b>Kildetroskab</b> 15 påstande, alle understøttet af kilden (dommer A).</li><li class="ok"><b>Sprog</b> 5 af 5 (dommer A).</li></ul>
+  </div>
+  <div class="expanel" role="tabpanel" id="ex-panel-1" aria-labelledby="ex-tab-1" hidden>
+    <p class="ask"><b>Opgaven:</b> Rubrik på højst 60 tegn og underrubrik på højst 160 tegn, i tre avisers stil.</p>
+    <div class="exout"><div class="variant"><span class="arch">Lynposten</span><p class="hl">Inflationen stiger til 2,2 procent i september</p><p class="shl">Brændstof trækker priserne op. Forbrugerpriserne steg 2,2 pct. på et år mod 2,0 pct. i august. Fra august til september var indekset uændret.</p></div><div class="variant"><span class="arch">Landsavisen</span><p class="hl">Inflationen steg til 2,2 procent i september</p><p class="shl">Højere brændstofpriser trak forbrugerpriserne op fra 2,0 procent i august, mens kerneinflationen faldt til 1,9 procent drevet af husleje.</p></div><div class="variant"><span class="arch">Erhvervsnyt</span><p class="hl">Inflationen steg til 2,2 pct. i september</p><p class="shl">Forbrugerpriserne steg 2,2 pct. på et år mod 2,0 pct. i august. Brændstof trak op, mens kerneinflationen faldt til 1,9 pct.</p></div></div>
+    <h3>Hvad blev målt</h3>
+    <ul class="meas"><li class="ok"><b>Format</b> Alle tre holder sig inden for tegngrænserne og svarer i det krævede RUBRIK/UNDERRUBRIK-format.</li><li class="ok"><b>Kildetroskab</b> Alle påstande understøttet, hos begge dommere.</li><li class="note"><b>Sprog</b> Landsavisen-versionen får 5 hos dommer A, men kun 3 hos dommer B. Begge peger på «drevet af husleje». Den slags uenighed er grunden til, at dommerenigheden offentliggøres.</li><li class="note"><b>Tone</b> Måles parvis: rubrikken stilles op mod en anden models rubrik til samme avis. Mod Qwen3 vandt Landsavisen-versionen, fordi den skriver «procent» ud, hvor stilguiden advarer mod uforklarede forkortelser.</li></ul>
+  </div>
+  <div class="expanel" role="tabpanel" id="ex-panel-2" aria-labelledby="ex-tab-2" hidden>
+    <p class="ask"><b>Opgaven:</b> Præcis fem punkter, hvert én sætning på højst 25 ord med én verificerbar oplysning.</p>
+    <div class="exout"><div class="variant"><span class="arch">Ingen stilguide</span><ul><li>Forbrugerprisindekset steg i september 2026 med 2,2 pct. i forhold til samme måned året før.</li><li>Kerneinflationen havde en årsstigning på 1,9 pct. i september mod 2,2 pct. i august.</li><li>Fra august til september var forbrugerprisindekset uændret.</li><li>Danmarks EU-harmoniserede inflation lå på 2,1 pct. i september.</li><li>Sverige havde i august den laveste EU-harmoniserede inflation med 0,3 pct., mens Rumænien havde den højeste med 6,3 pct.</li></ul></div></div>
+    <h3>Hvad blev målt</h3>
+    <ul class="meas"><li class="ok"><b>Format</b> Fem punkter, alle under 25 ord.</li><li class="bad"><b>Fakta</b> 2 af 4 kritiske fakta bevaret. Augusttallet 2,0 pct. og udgivelsesdatoen 12. oktober 2026 er fravalgt.</li><li class="ok"><b>Kildetroskab</b> Fem påstande, alle understøttet.</li><li class="note"><b>Afvejning</b> Fem punkter tvinger modellen til at vælge. Mekanikken straffer fravalg af kritiske fakta, også når valget kan forsvares redaktionelt.</li></ul>
+  </div>
+  <div class="expanel" role="tabpanel" id="ex-panel-3" aria-labelledby="ex-tab-3" hidden>
+    <p class="ask"><b>Opgaven:</b> Samme nyhed som artikel på 225–275 ord, skrevet til to forskellige aviser.</p>
+    <div class="exout"><div class="variant"><span class="arch">Landsavisen · 270 ord</span><p>Inflationen i Danmark steg i september til 2,2 pct. målt i forhold til samme måned året før, viser den nyeste opgørelse af forbrugerprisindekset, offentliggjort den 12. oktober 2026. I august var den tilsvarende stigning 2,0 pct. Det er anden måned i træk, at kilden omtaler en stigning i inflationen.</p><p>Det er hovedgruppen transport, der bidrager mest til inflationen i september, og inden for denne gruppe er det især prisstigninger på brændstof, der trækker op.</p><p>Kerneinflationen, altså forbrugerprisindekset uden energi og ikke-forarbejdede fødevarer, bevægede sig derimod den modsatte vej. Den havde en årsstigning på 1,9 pct. i september mod 2,2 pct. i august. Stigningen i kerneinflationen skyldes primært højere husleje.</p><p>Fra august til september var forbrugerprisindekset samlet set uændret. Isoleret set trak prisstigninger på især brændstof, tøj og flyrejser indekset op med 0,46 procentpoint. Modsat trak prisfald på blandt andet leje af sommerhus, pakkerejser og fødevarer indekset ned med 0,72 procentpoint.</p><p>Danmarks EU-harmoniserede inflation lå på 2,1 pct. i september. Det harmoniserede indeks, der forkortes HICP, opgøres på en måde, som sikrer, at tallene kan sammenlignes på tværs af landene. Forskellen fra det danske forbrugerprisindeks er, at udgifter til ejerboliger ikke indgår i HICP.</p><p>De samlede europæiske tal for september er endnu ikke offentliggjort. I august steg den EU-harmoniserede inflation for de 27 EU-lande til 3,2 pct. fra 3,0 pct. i juli. Lavest lå Sverige med 0,3 pct., Estland med 1,3 pct. og Tjekkiet med 1,5 pct. Højest lå Rumænien med 6,3 pct., Litauen med 5,6 pct. og Cypern med 5,2 pct.</p><p>Eurostat offentliggør de samlede inflationstal for EU-landene én gang om måneden. Tallene for september udkommer den 16. oktober 2026.</p></div><div class="variant"><span class="arch">Lynposten · 239 ord</span><p>Inflationen steg til 2,2 procent i september. Det viser nye tal for forbrugerprisindekset, offentliggjort 12. oktober 2026. I august lå stigningen på 2,0 procent.</p><p>Det er især brændstof, der trækker priserne op. Hovedgruppen transport bidrager mest til inflationen i september. Her er det prisstigninger på brændstof, der vejer tungest.</p><p>Fra august til september var forbrugerprisindekset uændret. Men bag det stabile tal gemmer sig store udsving. Brændstof, tøj og flyrejser trak indekset op med 0,46 procentpoint. Omvendt trak prisfald på leje af sommerhus, pakkerejser og fødevarer indekset ned med 0,72 procentpoint.</p><p>Kerneinflationen gik den modsatte vej. Den måler priserne uden energi og ikke-forarbejdede fødevarer. Her var årsstigningen 1,9 procent i september mod 2,2 procent i august. Stigningen i september skyldes primært højere husleje.</p><p>Danmarks EU-harmoniserede inflation lå på 2,1 procent i september. Den opgøres uden udgifter til ejerboliger, så tallene kan sammenlignes på tværs af lande.</p><p>De europæiske tal for september er endnu ikke klar. De udkommer 16. oktober 2026 hos Eurostat. I august steg den samlede inflation i de 27 EU-lande til 3,2 procent fra 3,0 procent i juli.</p><p>Sverige havde den laveste inflation i EU i august med 0,3 procent. Derefter fulgte Estland med 1,3 procent og Tjekkiet med 1,5 procent.</p><p>I den anden ende lå Rumænien med 6,3 procent. Litauen havde 5,6 procent, og Cypern havde 5,2 procent.</p><p>Danmark lå dermed i august under EU-gennemsnittet. Om det også gælder for september, viser Eurostats tal om få dage.</p></div></div>
+    <h3>Hvad blev målt</h3>
+    <ul class="meas"><li class="ok"><b>Format</b> Begge versioner inden for 225–275 ord.</li><li class="bad"><b>Kildetroskab</b> Landsavisen: «Det er anden måned i træk …» markeres som udokumenteret af begge dommere – kilden siger det ikke. Lynposten: «Danmark lå dermed i august under EU-gennemsnittet» er også udokumenteret (dommer A), for kilden giver kun det danske tal for september.</li><li class="note"><b>Dommerfejl</b> Dommer A kalder «Kerneinflationen … bevægede sig derimod den modsatte vej» for <i>modsagt</i> og påstår, at kerneinflationen steg. Det er forkert: den faldt fra 2,2 til 1,9 pct. Det er præcis fælden i kilden, og her går dommeren i den, ikke modellen.</li><li class="note"><b>Tone</b> Lynposten-versionen har korte sætninger og en afsluttende fremadskuende linje; Landsavisen forklarer HICP. Tonen afgøres parvis mod andre modellers version.</li></ul>
+  </div>
+  <div class="expanel" role="tabpanel" id="ex-panel-4" aria-labelledby="ex-tab-4" hidden>
+    <p class="ask"><b>Opgaven:</b> Kilden forkortet til 180–220 ord. Alle tal, datoer og navne skal bevares.</p>
+    <div class="exout"><div class="variant"><span class="arch">Ingen stilguide</span><p>I september steg det samlede forbrugerprisindeks med 2,2 pct. i forhold til samme måned året før, mod 2,0 pct. i august. Hovedgruppen transport bidrager mest til inflationen i september, især på grund af prisstigninger på brændstof. Kerneinflationen (forbrugerprisindekset ekskl. energi og ikke-forarbejdede fødevarer) havde en årsstigning på 1,9 pct. i september, primært som følge af prisstigninger på husleje. I august var kerneinflationen 2,2 pct.</p><p>Fra august til september var forbrugerprisindekset uændret. Prisstigninger på især brændstof, tøj og flyrejser trak isoleret set indekset op med 0,46 procentpoint, mens prisfald på bl.a. leje af sommerhus, pakkerejser og fødevarer trak det ned med 0,72 procentpoint.</p><p>Danmarks EU-harmoniserede inflation lå på 2,1 pct. i september. Tallene for september er endnu ikke offentliggjort på europæisk niveau, men i august steg den EU-harmoniserede inflation for de 27 EU-lande samlet til 3,2 pct. fra 3,0 pct. i juli. Lavest lå Sverige med 0,3 pct., Estland med 1,3 pct. og Tjekkiet med 1,5 pct. Højest lå Rumænien med 6,3 pct., Litauen med 5,6 pct. og Cypern med 5,2 pct.</p><p>Det EU-harmoniserede forbrugerprisindeks (HICP) opgøres, så tallene er sammenlignelige på tværs af lande; forskellen til det danske forbrugerprisindeks er, at udgifter til ejerboliger ikke indgår i HICP. Eurostat offentliggør de samlede tal for de 27 EU-lande månedligt. Tallene for september udkommer 16. oktober 2026.</p></div></div>
+    <h3>Hvad blev målt</h3>
+    <ul class="meas"><li class="ok"><b>Format</b> 215 ord.</li><li class="note"><b>Fakta</b> 9 af 10 fakta bevaret. Kun udgivelsesdatoen 12. oktober 2026 mangler, og her tæller alle fakta, ikke kun de kritiske.</li><li class="ok"><b>Kildetroskab</b> 13 påstande, alle understøttet.</li><li class="ok"><b>Sprog</b> 5 af 5.</li></ul>
+  </div>
+  <div class="expanel" role="tabpanel" id="ex-panel-5" aria-labelledby="ex-tab-5" hidden>
+    <p class="ask"><b>Opgaven:</b> 100–140 ord til oplæsning: tal som ord, ingen forkortelser, kilder nævnt mundtligt.</p>
+    <div class="exout"><div class="variant"><span class="arch">Lynposten · 135 ord</span><p>Inflationen stiger igen. I september steg forbrugerpriserne med to komma to procent sammenlignet med samme måned sidste år. Det viser nye tal fra Danmarks Statistik. I august var stigningen to komma nul procent.</p><p>Det er især brændstof, der trækker priserne op. Transport er den gruppe, der bidrager mest til inflationen i september.</p><p>Kerneinflationen, altså priserne uden energi og uforarbejdede fødevarer, steg med en komma ni procent. Her er det huslejen, der trækker op.</p><p>Fra august til september var priserne samlet set uændrede. Brændstof, tøj og flyrejser blev dyrere. Til gengæld faldt priserne på leje af sommerhus, pakkerejser og fødevarer.</p><p>I Europa havde Sverige den laveste inflation i august med nul komma tre procent. Rumænien lå højest med seks komma tre procent. For de syvogtyve EU-lande samlet steg inflationen til tre komma to procent i august.</p></div></div>
+    <h3>Hvad blev målt</h3>
+    <ul class="meas"><li class="ok"><b>Format</b> 135 ord; tal skrevet med bogstaver («to komma to procent», «syvogtyve»).</li><li class="bad"><b>Kildetroskab</b> «Det viser nye tal fra Danmarks Statistik» markeres som udokumenteret af begge dommere, for afsenderen står ikke i den brødtekst, dommerne ser.</li><li class="note"><b>Afvejning</b> Opgaveprompten bruger selv «ifølge Danmarks Statistik» som eksempel. Modellen følger altså instruksen og bliver straffet for det. Det er en kendt svaghed ved opsætningen, ikke ved modellen.</li><li class="ok"><b>Sprog</b> 5 af 5 hos begge dommere.</li></ul>
+  </div>
+    </div>
+  </div>
+
 
   <h2 id="dommere">Hvem bedømmer?</h2>
   <p class="sub">Tre lag, der kontrollerer hinanden. Enigheden mellem dem offentliggøres; er den for lav, mærkes tabellen <i>vejledende</i>.</p>
@@ -156,6 +252,18 @@ function show(i) {
 }
 tabs.forEach(t => t.addEventListener('click', () => show(t.dataset.i)));
 show(0);
+const exTabs = [...document.querySelectorAll('.extabs [role=tab]')];
+function exShow(i, focus) {
+  exTabs.forEach((t, j) => { const on = j === i; t.setAttribute('aria-selected', on); t.tabIndex = on ? 0 : -1; document.getElementById(t.getAttribute('aria-controls')).hidden = !on; });
+  if (focus) exTabs[i].focus();
+}
+exTabs.forEach((t, i) => {
+  t.addEventListener('click', () => exShow(i));
+  t.addEventListener('keydown', e => {
+    const n = exTabs.length, k = { ArrowRight: (i + 1) % n, ArrowLeft: (i - 1 + n) % n, Home: 0, End: n - 1 }[e.key];
+    if (k !== undefined) { e.preventDefault(); exShow(k, true); }
+  });
+});
 </script>
 </body>
 </html>

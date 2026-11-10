@@ -33,6 +33,4 @@ llama-server -hf danish-foundation-models/DFM-Mimir-v1.5-GGUF --alias danish-fou
 For Munin/DanskGPT locally, use the Q4_K_M GGUF quantisations with llama.cpp and the same
 `--alias <hf repo id>` trick so the served name matches `models.yaml`.
 
-Open item: decide by Tuesday noon whether Munin and DanskGPT run locally
-(4-bit) or on a Nebius GPU hour, based on laptop RAM (58 GB RAM available, no NVIDIA GPU detected
-on 2026-11-09 — 4-bit CPU inference will be slow; a GPU hour is the realistic choice).
+Open item: decide whether Munin and DanskGPT run locally (4-bit) or on a Nebius GPU hour, based on laptop RAM (58 GB RAM available, no NVIDIA GPU detected on 2026-11-09 — 4-bit CPU inference will be slow; a GPU hour is the realistic choice).

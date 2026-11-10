@@ -1,5 +1,0 @@
-[     306ms] [ERROR] Failed to load resource: the server responded with a status of 403 () @ https://www.domstol.dk/hoejesteret/aktuelt/2026/1/udvisning-af-eu-statsborger-for-bestandig/:1
-[     770ms] [WARNING] No available adapters. @ https://www.domstol.dk/hoejesteret/aktuelt/2026/1/udvisning-af-eu-statsborger-for-bestandig/:1
-[     813ms] [ERROR] Failed to load resource: the server responded with a status of 403 () @ https://www.domstol.dk/favicon.ico:1
-[    1859ms] [WARNING] No available adapters. @ https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/turnstile/f/av0/rch/tha6p/0x4AAAAAAADnPIDROrmt1Wwj/light/fbE/new/normal?lang=auto:1
-[    1896ms] [ERROR] Failed to load resource: the server responded with a status of 403 () @ https://www.domstol.dk/favicon.ico:1

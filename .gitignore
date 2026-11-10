@@ -12,3 +12,5 @@ site/resultater/figures/
 
 # Spec stays out of version control
 REQUIREMENTS.md
+
+.playwright-mcp/

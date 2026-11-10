@@ -119,3 +119,9 @@ grounding, 1439 fluency, 774 tone pairs. Judge B: 372 grounding, 363 fluency, 41
 Spend: paid USD 21.49 (Fable 5.1 came in under the USD 22 estimate), Nebius credit USD 7.98.
 Anthropic account held USD 42.89 before this run. Munin/DanskGPT: owner will create an L40S VM
 in Nebius AI Cloud (eu-north1) and serve with vLLM per docs/serving.md.
+
+## 2026-11-10 08:00 — GitHub Pages via Actions; live before final results
+Pages cannot serve a `site/` folder from a branch (only `/` or `/docs`), so `.github/workflows/pages.yml`
+runs `danews site` and deploys `site/` as a Pages artifact on pushes to `main` (and on demand).
+Owner chose to go live now with partial results (4 of 13 generators); URL follows the user site's
+custom domain: erasmus.fyi/cavling-bench/.

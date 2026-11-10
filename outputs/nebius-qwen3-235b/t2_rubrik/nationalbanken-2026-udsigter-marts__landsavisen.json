@@ -1,0 +1,21 @@
+{
+  "model_id": "nebius-qwen3-235b",
+  "pinned_version": "Qwen/Qwen3-235B-A22B-Instruct-2507",
+  "task_id": "t2_rubrik",
+  "source_id": "nationalbanken-2026-udsigter-marts",
+  "archetype": "landsavisen",
+  "prompt_sha256": "f2bddfb710e8a7ed853f3dd569b7728652f32c186f8652e8c3eb97301091eea2",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 400,
+    "reasoning_effort": null
+  },
+  "text": "RUBRIK: Nationalbanken advarer om inflationstrussel fra energipriser  \nUNDERRUBRIK: Trods lav forventet inflation peger Nationalbanken på risiko for op til 4,5 pct. stigning, hvis olie- og gasforsyningen fra Den Persiske Golf bliver ramt.",
+  "prompt_tokens": 1460,
+  "completion_tokens": 77,
+  "latency_ms": 1795,
+  "cost_usd": 0.0003382,
+  "created": "2026-11-10T05:39:59.748576Z",
+  "error": null
+}

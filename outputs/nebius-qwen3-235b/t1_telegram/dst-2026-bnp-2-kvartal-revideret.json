@@ -1,0 +1,21 @@
+{
+  "model_id": "nebius-qwen3-235b",
+  "pinned_version": "Qwen/Qwen3-235B-A22B-Instruct-2507",
+  "task_id": "t1_telegram",
+  "source_id": "dst-2026-bnp-2-kvartal-revideret",
+  "archetype": null,
+  "prompt_sha256": "63306dcc1fc78ed5d4f1e592f9c57d1b066f11e97f8eaa952d0d607edf3df39d",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 560,
+    "reasoning_effort": null
+  },
+  "text": "Bruttonationalproduktet (BNP) steg med 0,9 pct. i andet kvartal 2026, revideret op med 0,6 procentpoint fra den første opgørelse, viser tal fra Danmarks Statistik offentliggjort 30. september 2026. Væksten drevs af medicinalindustrien, hvor bruttoværditilvæksten steg 1,1 pct., mens den var 0,7 pct. eksklusiv branchen. Den offentlige sektor og øvrig industri bidrog også positivt. De faste bruttoinvesteringer voksede 1,5 pct., især pga. opjustering af intellektuelle rettigheder, der gik fra et fald på 1,2 pct. til en stigning på 1,5 pct. Beskæftigelsen steg med 7.800 personer, og BNP i første halvår 2026 var 6,0 pct. højere end samme periode året før.",
+  "prompt_tokens": 2661,
+  "completion_tokens": 253,
+  "latency_ms": 5968,
+  "cost_usd": 0.000684,
+  "created": "2026-11-10T05:38:52.040684Z",
+  "error": null
+}

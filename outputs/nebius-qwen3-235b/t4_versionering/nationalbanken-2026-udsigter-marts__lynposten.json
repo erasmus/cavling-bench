@@ -1,0 +1,21 @@
+{
+  "model_id": "nebius-qwen3-235b",
+  "pinned_version": "Qwen/Qwen3-235B-A22B-Instruct-2507",
+  "task_id": "t4_versionering",
+  "source_id": "nationalbanken-2026-udsigter-marts",
+  "archetype": "lynposten",
+  "prompt_sha256": "3c82118e0a740e22706ae4881349aaada3b3884844f600ab6f593a3e3a04bc67",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 1025,
+    "reasoning_effort": null
+  },
+  "text": "Christian Kettel Thomsen: Dansk økonomi i god form – men energipriserne er en trussel.  \n\nNationalbanken forventer stabil vækst og lav inflation i Danmark de kommende år. Men stigende energipriser peger på stor usikkerhed.  \n\nDanmarks BNP vokser med 1,8 pct. i år og igen i 2027. I 2028 stiger det med 2 pct. Beskæftigelsen er høj. Ledigheden er lav. Økonomien er grundlæggende i balance.  \n\nInflationen forventes at ligge på 1,8 pct. i år. I 2027 når den 2,0 pct. I 2028 falder den til 1,9 pct. Kerneinflationen er 2,2 pct. i 2026. Derefter falder den gradvist.  \n\nRisikoen for høj inflation er dog til stede. Krigen i Mellemøsten kan skubbe energipriserne kraftigt og varigt op. I et værste fald-scenarie kan inflationen i år nå 4,5 pct.  \n\n”Trods de nuværende stigninger i energipriserne forventer vi ikke, at vi ser ind i en inflationskrise, som den vi oplevede efter Ruslands invasion af Ukraine,” siger nationalbankdirektør Christian Kettel Thomsen.  \n\nHan advarer mod at øge efterspørgslen yderligere. Produktionen har begrænset kapacitet. Hvis lønninger stiger for hurtigt, kan inflationen skubbe op.  \n\n”Den nye regering bør i finansloven for 2027 derfor ikke skubbe til efterspørgslen ud over det, der allerede er lagt op til i den tidligere regerings 2035-plan,” siger Christian Kettel Thomsen.  \n\nRåderummet er smallere. Forsvarsudgifterne er steget permanent med 75 mia. kr. efter Ruslands invasion af Ukraine. Der skal også findes penge til klima og en aldrende befolkning.  \n\n”Det er vigtigt at holde sig for øje, at råderummet kan ændre sig med nye skøn for den fremadrettede økonomiske udvikling,” siger han.  \n\nDen kommende regering bør udvise forsigtighed. Især når det gælder at bruge hele råderummet eller svække den strukturelle saldo.",
+  "prompt_tokens": 1447,
+  "completion_tokens": 607,
+  "latency_ms": 37283,
+  "cost_usd": 0.0006536000000000001,
+  "created": "2026-11-10T05:43:03.164622Z",
+  "error": null
+}

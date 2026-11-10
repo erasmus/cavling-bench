@@ -1,0 +1,21 @@
+{
+  "model_id": "anthropic-frontier",
+  "pinned_version": "claude-fable-5-1",
+  "task_id": "t1_telegram",
+  "source_id": "dst-2026-inflation-september",
+  "archetype": null,
+  "prompt_sha256": "1c34324828ae78616a012db331749906e38c0e62f2c372194186c0c10678b3ee",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 3560,
+    "reasoning_effort": "low"
+  },
+  "text": "Inflationen steg til 2,2 pct. i september mod 2,0 pct. i august, viser tal offentliggjort 12. oktober 2026. Det er hovedgruppen transport, der bidrager mest, især på grund af prisstigninger på brændstof. Kerneinflationen, der er renset for energi og ikke-forarbejdede fødevarer, lå på 1,9 pct. i september mod 2,2 pct. i august og skyldes primært stigende husleje. Fra august til september var forbrugerprisindekset uændret: Brændstof, tøj og flyrejser trak op med 0,46 procentpoint, mens leje af sommerhus, pakkerejser og fødevarer trak ned med 0,72 procentpoint. Danmarks EU-harmoniserede inflation var 2,1 pct. i september. I august lå den samlede inflation for de 27 EU-lande på 3,2 pct., lavest i Sverige med 0,3 pct. og højest i Rumænien med 6,3 pct. Eurostats septembertal udkommer 16. oktober.",
+  "prompt_tokens": 1287,
+  "completion_tokens": 367,
+  "latency_ms": 5531,
+  "cost_usd": 0.03122,
+  "created": "2026-11-10T07:18:59.930006Z",
+  "error": null
+}

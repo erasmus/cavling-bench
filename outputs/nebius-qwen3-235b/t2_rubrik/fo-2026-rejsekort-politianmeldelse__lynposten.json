@@ -1,0 +1,21 @@
+{
+  "model_id": "nebius-qwen3-235b",
+  "pinned_version": "Qwen/Qwen3-235B-A22B-Instruct-2507",
+  "task_id": "t2_rubrik",
+  "source_id": "fo-2026-rejsekort-politianmeldelse",
+  "archetype": "lynposten",
+  "prompt_sha256": "bd60da396dbddd92e155886c287b96de4eed3f9a248ae46e2d7f8e53a00481aa",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 400,
+    "reasoning_effort": null
+  },
+  "text": "RUBRIK: Forbrugerombudsmanden politianmelder Rejsekort & Rejseplan  \nUNDERRUBRIK: Rejsekort & Rejseplan har vildledt forbrugerne om lukning af det fysiske rejsekort, vurderer Forbrugerombudsmanden. Kampagnen skjulte, at der stadig findes et ikke-digitalt alternativ.",
+  "prompt_tokens": 2254,
+  "completion_tokens": 97,
+  "latency_ms": 2176,
+  "cost_usd": 0.000509,
+  "created": "2026-11-10T05:39:42.881606Z",
+  "error": null
+}

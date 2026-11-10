@@ -1,0 +1,21 @@
+{
+  "model_id": "anthropic-mid",
+  "pinned_version": "claude-sonnet-5-5",
+  "task_id": "t4_versionering",
+  "source_id": "dst-2026-ubeskaeftigede-oensker-arbejde",
+  "archetype": "lynposten",
+  "prompt_sha256": "f842e27bc57dc370a4c56004d6fbdce6a37f8b8f4b1983ae411f3d569e9e11be",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 4025,
+    "reasoning_effort": "low"
+  },
+  "text": "470.000 ubeskæftigede danskere ønsker et arbejde. Det svarer til 52 procent af de 905.000 ubeskæftigede mellem 15 og 64 år i første kvartal 2026. Det viser Arbejdskraftundersøgelsen.\n\nTallet er steget med 85.000 siden første kvartal 2024. Dengang var andelen 45 procent.\n\nAndelen er lavest blandt de 55-64-årige. Her ønsker 28 procent et arbejde. Den er højest blandt de 25-34-årige, hvor 66 procent vil have et job.\n\nDe resterende 435.000 ønsker ikke et arbejde. Det er 41.000 færre end i første kvartal 2024. Blandt de 15-24-årige nævner fire ud af fem uddannelse som årsag. Blandt de 55-64-årige nævner syv ud af ti pension mv. Det dækker blandt andet efterløn, fleksydelse og førtidspension. Meget få nævner familien.\n\n236.000 er AKU-ledige. De søger aktivt arbejde og kan starte med det samme. Det er omtrent halvdelen af dem, der ønsker et job. AKU-ledigheden ligger på 7,5 procent af arbejdsstyrken. Det er 0,8 procentpoint mere end sidste år.\n\nMange AKU-ledige er studerende. De søger typisk deltidsjob med få timer eller i bestemte brancher. Uden de studerende er ledigheden 6,2 procent. Det er 0,5 procentpoint mere end sidste år.\n\nDanmarks Statistik peger på mange opsigelser i andet halvår af 2025.\n\nYderligere 81.000 søger arbejde, men kan ikke starte med det samme. 40.000 søger ikke, men kan starte med det samme. Sammen med de AKU-ledige udgør de 356.000 personer. Med de deltidsansatte, der vil have flere timer, udgør de arbejdskraftreserven.",
+  "prompt_tokens": 2539,
+  "completion_tokens": 682,
+  "latency_ms": 5041,
+  "cost_usd": 0.011898,
+  "created": "2026-11-10T07:16:19.481318Z",
+  "error": null
+}

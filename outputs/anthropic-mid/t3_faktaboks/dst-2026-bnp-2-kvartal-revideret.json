@@ -1,0 +1,21 @@
+{
+  "model_id": "anthropic-mid",
+  "pinned_version": "claude-sonnet-5-5",
+  "task_id": "t3_faktaboks",
+  "source_id": "dst-2026-bnp-2-kvartal-revideret",
+  "archetype": null,
+  "prompt_sha256": "056fcf6b416463768e368deb4d506f8c5e836861615c35af129f0b264892a52e",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 3575,
+    "reasoning_effort": "low"
+  },
+  "text": "- BNP steg med 0,9 pct. i andet kvartal 2026, korrigeret for prisudvikling og sæsonbevægelser, og er revideret op med 0,6 procentpoint.\n- BNP i første halvår af 2026 er 6,0 pct. højere end i samme periode året før.\n- Beskæftigelsen steg med 0,2 pct. i andet kvartal, svarende til 7.800 personer.\n- De faste bruttoinvesteringer steg med 1,5 pct. i andet kvartal, en opjustering på 0,7 procentpoint i forhold til første opgørelse.\n- Husholdningernes forbrug af varer faldt med 0,8 pct. i andet kvartal, mens forbruget af tjenester steg med 0,8 pct.",
+  "prompt_tokens": 3420,
+  "completion_tokens": 266,
+  "latency_ms": 2328,
+  "cost_usd": 0.0095,
+  "created": "2026-11-10T07:15:41.232319Z",
+  "error": null
+}

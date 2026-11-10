@@ -1,0 +1,21 @@
+{
+  "model_id": "nebius-qwen3-235b",
+  "pinned_version": "Qwen/Qwen3-235B-A22B-Instruct-2507",
+  "task_id": "t2_rubrik",
+  "source_id": "kk-2026-ventetidsgaranti-foedselsgener",
+  "archetype": "erhvervsnyt",
+  "prompt_sha256": "e7ef7b2559aae035d1247dac8076c431fb44fe8f9231b9e286bd850db32b4ad6",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 400,
+    "reasoning_effort": null
+  },
+  "text": "RUBRIK: 12,5 mio. kr. til ventetidsgaranti for efterfødselshjælp  \nUNDERRUBRIK: Københavns Kommune sikrer kvinder adgang til samtale inden for 7 dage og undersøgelse inden for 3 uger – ellers tilbydes hjælp via private leverandører.",
+  "prompt_tokens": 2317,
+  "completion_tokens": 89,
+  "latency_ms": 22171,
+  "cost_usd": 0.0005168000000000001,
+  "created": "2026-11-10T05:40:18.476736Z",
+  "error": null
+}

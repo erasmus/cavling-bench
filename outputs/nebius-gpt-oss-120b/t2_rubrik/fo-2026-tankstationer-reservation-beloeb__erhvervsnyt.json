@@ -1,0 +1,21 @@
+{
+  "model_id": "nebius-gpt-oss-120b",
+  "pinned_version": "openai/gpt-oss-120b",
+  "task_id": "t2_rubrik",
+  "source_id": "fo-2026-tankstationer-reservation-beloeb",
+  "archetype": "erhvervsnyt",
+  "prompt_sha256": "c57109b34fcee6357dcc65a35ae2012cc5b814c950c681b8464793366a09b16b",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 1900,
+    "reasoning_effort": "low"
+  },
+  "text": "RUBRIK: Shell, Uno‑X og OK sænker reservationsbeløb til forbrugerne  \nUNDERRUBRIK: Efter Forbrugerombudsmandens indgriben har Shell, Uno‑X og OK nu ladet kunder vælge eller begrænse reservationsbeløbet, mens Q8 fortsat reserverer 950 kr og arbejder på en løsning.",
+  "prompt_tokens": 2418,
+  "completion_tokens": 303,
+  "latency_ms": 1184,
+  "cost_usd": 0.0005445,
+  "created": "2026-11-10T05:38:06.988064Z",
+  "error": null
+}

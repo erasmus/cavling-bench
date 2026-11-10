@@ -1,0 +1,21 @@
+{
+  "model_id": "anthropic-mid",
+  "pinned_version": "claude-sonnet-5-5",
+  "task_id": "t4_versionering",
+  "source_id": "dst-2026-offentligt-overskud-2025",
+  "archetype": "lynposten",
+  "prompt_sha256": "bc8ff6f4407a1df54e6b13eed86b79c4d064e93e2c878cd22867d0140cfc4795",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 4025,
+    "reasoning_effort": "low"
+  },
+  "text": "Overskuddet på de offentlige finanser faldt i 2025 til 90,9 mia. kr. Året før var det på 123,5 mia. kr. Det viser tal fra 3. juni 2026.\n\nUdgifterne steg med 85,0 mia. kr. til 1.472,8 mia. kr. Indtægterne steg med 52,4 mia. kr. til 1.563,8 mia. kr. Udgifterne voksede altså hurtigere end indtægterne.\n\nPensionsafkastskatten gav 47,0 mia. kr. i 2025. Det er lidt mere end sidste år. Højere personskatter og selskabsskatter bidrog også til de større indtægter.\n\nPå udgiftssiden trak tre områder op: socialområdet, sundhedsområdet og forsvaret.\n\nSocial beskyttelse er den største post. Den tager 41 pct. af alle udgifter. Sundhedsvæsenet følger med 17 pct. Uddannelse og generelle offentlige tjenester udgør tilsammen 12 pct. Fordelingen har været nogenlunde stabil gennem årene. Forsvaret er dog vokset de seneste år og udgør nu 5 pct.\n\nUdgifterne til sociale ydelser steg med 18,8 mia. kr. til 438,4 mia. kr. Generelle pensioner står for 11,8 mia. kr. af stigningen. Der er flere pensionister, og satserne er steget. Mange andre ydelser steg også en smule.\n\nTallene er rettet siden den seneste offentliggørelse. Saldoen for 2025 er opjusteret med 2,5 mia. kr. Saldoen for 2024 er nedjusteret med 7,0 mia. kr. Saldoen for 2023 er opjusteret med 1,9 mia. kr. Revisionen skyldes hovedsageligt nye tal fra Skattestyrelsen og ændringer i forbrugsudgiften.\n\nDen offentlige forbrugsudgift er opjusteret med 5,9 mia. kr. i 2025. Opgørelsen indeholder nu endelige regnskaber fra kommuner og regioner.",
+  "prompt_tokens": 1924,
+  "completion_tokens": 736,
+  "latency_ms": 4987,
+  "cost_usd": 0.011208,
+  "created": "2026-11-10T07:16:17.692282Z",
+  "error": null
+}

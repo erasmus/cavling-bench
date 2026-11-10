@@ -1,0 +1,21 @@
+{
+  "model_id": "anthropic-mid",
+  "pinned_version": "claude-sonnet-5-5",
+  "task_id": "t4_versionering",
+  "source_id": "jm-2026-nyt-ledelseshold-politi",
+  "archetype": "lynposten",
+  "prompt_sha256": "5455fcf40c775cb09dba64aa944c2cc42fe168ec29f777842629b55072cc9e76",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 4025,
+    "reasoning_effort": "low"
+  },
+  "text": "Lasse Boje Nielsen bliver ny rigspolitichef. Han kommer fra posten som rigsadvokat. Justitsminister Nicolai Wammen har sat et nyt ledelseshold for politi og anklagemyndighed. Holdet skal lede frem mod 2030.\n\nÅremålene for en stor del af de øverste chefer udløber. Derfor rokerer ministeriet på tværs af landet.\n\nThorkild Fogde forlader posten som rigspolitichef. Han bliver politidirektør i Københavns Vestegns Politi. Caroline Østergaard Nielsen fungerer som rigsadvokat indtil videre. Hun er i dag statsadvokat ved Rigsadvokaten.\n\nRasmus Kieffer-Kristensen bliver chef for Politiets Efterretningstjeneste. Han kommer fra FN-missionen i New York, hvor han var ministerråd. Hans forgænger, Finn Borch Andersen, bliver politidirektør i Københavns Politi.\n\nSteen Bechmann Jacobsen bliver politidirektør i National enhed for Særlig Kriminalitet. Frits Villy Kjeldsen flytter fra Syd- og Sønderjylland til Østjylland. Lene Frank overtager i Syd- og Sønderjylland.\n\nHenriette Rosenborg Larsen skifter til Sydsjællands- og Lolland-Falsters Politi. Brian Sølvberg Fussing rykker op i Sydøstjyllands Politi. Lars Kirkegaard bliver direktør på Fyn. Andreas Langsted overtager Midt- og Vestsjælland.\n\nFire direktører fortsætter: Anne Marie Roum Svendsen i Nordjylland, Bjørn Tegner Bay i Grønland, Helle Kyndesen i Midt- og Vestjylland og Martin Preisz Gravesen på Bornholm. Marie Bindslev bliver statsadvokat i København. Jens-Christian Bülow fortsætter som statsadvokat for Særlig Kriminalitet.\n\nWammen siger:\n\n– Det er holdet, som jeg vurderer bedst vil kunne lede politi og anklagemyndighed i de kommende år.\n\nHan takker Fogde og de øvrige, der forlader deres stillinger.",
+  "prompt_tokens": 2671,
+  "completion_tokens": 802,
+  "latency_ms": 5200,
+  "cost_usd": 0.013362,
+  "created": "2026-11-10T07:16:41.256423Z",
+  "error": null
+}

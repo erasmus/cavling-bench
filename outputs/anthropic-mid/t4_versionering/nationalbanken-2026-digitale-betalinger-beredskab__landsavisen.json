@@ -1,0 +1,21 @@
+{
+  "model_id": "anthropic-mid",
+  "pinned_version": "claude-sonnet-5-5",
+  "task_id": "t4_versionering",
+  "source_id": "nationalbanken-2026-digitale-betalinger-beredskab",
+  "archetype": "landsavisen",
+  "prompt_sha256": "d12b3da773f51b25f9a03035ae8c7d04c1968d9d5247580e03008f6660d58890",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 4025,
+    "reasoning_effort": "low"
+  },
+  "text": "Nationalbanken har i dag udgivet to analyser, der viser, at mere end 90 procent af alle betalinger i Danmark nu er digitale. Samtidig opfatter flere borgere kontanter som et beredskab, hvis de ikke kan betale digitalt. Analyserne kommer efter tekniske fejl hos Nets i juli 2025 og maj 2026, som begge gjorde, at en eller flere betalingsløsninger ikke virkede som normalt.\n\nKontanter blev i 2025 brugt til 9 procent af betalingerne i fysisk handel. I 2023 var andelen 11 procent, og i 2017 var den 23 procent. Wallet-betalinger, for eksempel med Apple Pay og Google Pay, udgør nu hver tredje betaling i fysisk handel. Straksbetalinger, for eksempel via Mobilepay, udgør mindre end 5 procent.\n\nSamtidig har 41 procent af borgerne over 1.000 kroner i kontanter, mod 33 procent i 2023. Syv ud af ti med en kontantbeholdning betragter den som et beredskab.\n\nNationalbanken, detailhandlen, den finansielle sektor og de øvrige medlemmer af Betalingsrådet har lanceret et offline-kortberedskab. Det skal sikre, at borgere over 18 år kan betale med kort og wallets på mobilen i dagligvarebutikker og apoteker i mindst syv dage, selv om kortinfrastrukturen ikke virker. Andre butikker kan tilslutte sig den samme tekniske løsning.\n\n“Offline-kortberedskabet sørgede for, at mange kunder i dagligvarehandlen ikke mærkede Nets-nedbruddet i maj 2026,” siger nationalbankdirektør Ulrik Nødgaard. Han peger på, at flere butikker bør overveje løsningen, og at straksbetalinger bør udbredes mere.\n\nNationalbanken anbefaler borgerne at have mindst to fysiske betalingskort fra forskellige mærker med pinkoder, et mindre kontantbeløb, med et pejlemærke på 250 kroner pr. person i husstanden, samt en mobilløsning til kontooverførsler. Detailhandlen opfordres til at have konkrete planer og instruktioner til personalet.",
+  "prompt_tokens": 2787,
+  "completion_tokens": 806,
+  "latency_ms": 5332,
+  "cost_usd": 0.013634,
+  "created": "2026-11-10T07:16:57.432118Z",
+  "error": null
+}

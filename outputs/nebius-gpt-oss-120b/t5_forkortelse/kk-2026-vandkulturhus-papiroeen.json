@@ -1,0 +1,21 @@
+{
+  "model_id": "nebius-gpt-oss-120b",
+  "pinned_version": "openai/gpt-oss-120b",
+  "task_id": "t5_forkortelse",
+  "source_id": "kk-2026-vandkulturhus-papiroeen",
+  "archetype": null,
+  "prompt_sha256": "0ce7849500ef9540baf46f91b51b69d6bd547a6b10ae247fd6c6bbb24f900c07",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 2360,
+    "reasoning_effort": "low"
+  },
+  "text": "Spektakulært vandkulturhus på Papirøen åbner den 5. december 2026. KAI – Københavns nye vandkulturhus på havnekajen er 5.800 m² med 10 bassiner inde og ude, og henvender sig til borgere, svømmeforeninger, kulturbrugere og gæster. Bygningen er tegnet af Kengo Kuma & Associates, med ansvarlig arkitekt Yuki Ikeguchi, og skal blive et arkitektonisk fyrtårn på havnefronten, hvor vand, kultur og fællesskab mødes. Overborgmester Sisse Marie Welling (SF) fremhæver byens pressede svømmekapacitet og de nye bassiner for både voksne og børn. I 2015 afholdt Københavns Kommune en idékonkurrence, hvor 160 forslag – flest med ønske om svømmefaciliteter og foreningsmødested – førte til projektet. Kultur‑, fritids‑ og borgerserviceborgmester Christopher Røhl (R) beskriver KAI som en ny perle i havnen med legebassin, motionsbassin, terapibassin og udendørs bassiner med havudsigt. Nordea‑fonden har bidraget med 546 mio. kr., hvoraf 25 mio. kr. er øremærket til bæredygtighed, herunder lodret jordpumpevarme via 10 boringer på 250 m. Bassinerne fordeles på flere etager: stueetagen har 25‑metersbassin, undervisningsbassin og tre legebassiner med direkte adgang til havnen; første etage rummer Dalbassin og Onsen under åben himmel. Bygherre Ejendomsfonden Vandkulturhuset Papirøen, formand Erik Jæger, udtaler, at samarbejdet har skabt en funktionel og unik bygning. Navnet KAI betyder “hav” på japansk og refererer til husets placering. KAI vil også fungere som kulturhus med program om vand, herunder kulturtårnet i husets højeste teglstubbe. Yderligere information findes på www.kai.kk.dk; indvielsesprogram offentliggøres senere.",
+  "prompt_tokens": 2061,
+  "completion_tokens": 549,
+  "latency_ms": 1866,
+  "cost_usd": 0.00063855,
+  "created": "2026-11-10T05:38:37.444758Z",
+  "error": null
+}

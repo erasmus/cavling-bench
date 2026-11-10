@@ -1,0 +1,21 @@
+{
+  "model_id": "nebius-qwen3-235b",
+  "pinned_version": "Qwen/Qwen3-235B-A22B-Instruct-2507",
+  "task_id": "t3_faktaboks",
+  "source_id": "jm-2026-nyt-ledelseshold-politi",
+  "archetype": null,
+  "prompt_sha256": "0440d225d2d19a3a60b99f2cd2db2ec298d75fa95079fb8a80d43ae5994c1c86",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 575,
+    "reasoning_effort": null
+  },
+  "text": "- Lasse Boje Nielsen er udpeget som ny rigspolitichef og rokerer fra stillingen som rigsadvokat.  \n- Thorkild Fogde rokerer fra rigspolitichef til politidirektør i Københavns Vestegns Politi.  \n- Rasmus Kieffer-Kristensen er udnævnt som ny chef for Politiets Efterretningstjeneste.  \n- Caroline Østergaard Nielsen fungerer som rigsadvokat indtil videre og er i dag statsadvokat ved Rigsadvokaten.  \n- Justitsminister Nicolai Wammen har annonceret en større ledelsesrokade for politi og anklagemyndighed frem mod 2030.",
+  "prompt_tokens": 1621,
+  "completion_tokens": 175,
+  "latency_ms": 9796,
+  "cost_usd": 0.0004292,
+  "created": "2026-11-10T05:40:39.708458Z",
+  "error": null
+}

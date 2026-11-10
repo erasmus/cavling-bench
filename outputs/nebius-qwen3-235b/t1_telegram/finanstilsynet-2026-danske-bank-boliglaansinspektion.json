@@ -1,0 +1,21 @@
+{
+  "model_id": "nebius-qwen3-235b",
+  "pinned_version": "Qwen/Qwen3-235B-A22B-Instruct-2507",
+  "task_id": "t1_telegram",
+  "source_id": "finanstilsynet-2026-danske-bank-boliglaansinspektion",
+  "archetype": null,
+  "prompt_sha256": "3b72233b9fa917a61c523dca041fe0b54f7ad350a8e1f2e1c01831a41dfb2e0f",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 560,
+    "reasoning_effort": null
+  },
+  "text": "Finanstilsynet har påbudt Danske Bank at rette op på alvorlige mangler i boliglånsbevillinger efter en inspektion af 58 sager med kunder, der havde en gældsfaktor over 3,5, belåningsgrad over 60 pct. og et engagement på mere end 200.000 kr. I alt 17 sager – svarende til 37 pct. af de øvrige kunder og 26 pct. af en særskilt kundegruppe – viste væsentlige fejl, og i 4 af de 58 sager vurderer myndigheden, at lånene ikke burde være bevilget. Fejl omfattede manglende dokumentation af rådighedsbeløb, opsparingsevne og forbrugstilpasning. Finanstilsynet kræver, at banken sikrer et bedre dokumenteret og gennemsigtigt bevillingsgrundlag, der reelt afspejler kundens økonomiske robusthed og gældsserviceringsevne.",
+  "prompt_tokens": 1637,
+  "completion_tokens": 264,
+  "latency_ms": 5964,
+  "cost_usd": 0.00048580000000000004,
+  "created": "2026-11-10T05:38:57.828414Z",
+  "error": null
+}

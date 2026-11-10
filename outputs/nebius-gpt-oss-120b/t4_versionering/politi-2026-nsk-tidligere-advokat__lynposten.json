@@ -1,0 +1,21 @@
+{
+  "model_id": "nebius-gpt-oss-120b",
+  "pinned_version": "openai/gpt-oss-120b",
+  "task_id": "t4_versionering",
+  "source_id": "politi-2026-nsk-tidligere-advokat",
+  "archetype": "lynposten",
+  "prompt_sha256": "26c4e40be42f711cac19bd9f1ae5eb61dc5b92f95fdac27dae9bf011d3b7c1cd",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 2525,
+    "reasoning_effort": "low"
+  },
+  "text": "53-årig tidligere advokat idømt seks måneders ubetinget fængsel. Retten i Lyngby fandt ham skyldig i groft stillingsmisbrug og pligtforsømmelse. Han udpegede sig selv som kurator i to konkursboer, selvom han var inhabil efter tidligere rådgivning. Han afgav urigtige erklæringer til skifteretten for at blive udpeget. Efter udnævnelsen undlod han at videregive væsentlige oplysninger om kriminelle forhold i selskaberne. Retten fastslog, at hans handlinger forsinkede politiefterforskning, skattemæssig undersøgelse og konkursbehandling. Han frakendes retten til at udøve advokatvirksomhed indtil videre.\n\nSagen blev ført af National enhed for Særlig Kriminalitet. Specialanklager i NSK, Konrad Joe Frank, udtaler: “I NSK har vi et vedvarende fokus på at sætte ind over for professionelle rådgivere, der med deres handlinger eller undladelser gør det lettere at være kriminel. Derfor er jeg tilfreds med dommen i dag.” Han tilføjer, at dommen viser, at retten strengt ser på, når en advokat og kurator tilsidesætter sine forpligtelser, og understreger tillidens betydning for systemet.\n\nDen tidligere advokat havde før udnævnelsen rådgivet ejeren og direktøren i de to selskaber. Rådgivningen skulle sikre en overfladisk og kortvarig konkursbehandling. Retten konkluderer, at hans misbrug af stillingen havde til formål at skaffe sig eller andre en fordel. Dommen markerer et klart signal til juridiske rådgivere om, at overtrædelser af deres etiske forpligtelser vil blive straffet hårdt.",
+  "prompt_tokens": 1144,
+  "completion_tokens": 432,
+  "latency_ms": 1601,
+  "cost_usd": 0.00043079999999999995,
+  "created": "2026-11-10T05:38:29.753877Z",
+  "error": null
+}

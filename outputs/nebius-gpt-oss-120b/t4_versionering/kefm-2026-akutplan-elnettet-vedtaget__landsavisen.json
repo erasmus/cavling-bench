@@ -1,0 +1,21 @@
+{
+  "model_id": "nebius-gpt-oss-120b",
+  "pinned_version": "openai/gpt-oss-120b",
+  "task_id": "t4_versionering",
+  "source_id": "kefm-2026-akutplan-elnettet-vedtaget",
+  "archetype": "landsavisen",
+  "prompt_sha256": "fac7f24b636ff2ee6b717e2d65cb4178fa74aadfe39f1071334f4cc0f06c75ac",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 2525,
+    "reasoning_effort": "low"
+  },
+  "text": "Et bredt flertal i Folketinget har netop vedtaget en akutplan for elnettet, som svar på den nuværende knaphed på netkapacitet. Planen erstatter det hidtidige først‑til‑mølle‑princip med en prioriteringsmodel, der giver Energinet og netvirksomhederne større mulighed for at vælge, hvilke projekter der får adgang til den begrænsede plads. Loven træder i kraft den 12. oktober, hvorefter de nye regler kan anvendes ved den efterfølgende kapacitetsfordeling i efteråret.\n\nKlima‑, energi‑ og forsyningsminister Samira Nawa udtaler: “Situationen i vores elnet er dybt alvorlig. Pladsen i elnettet er blevet en knap ressource, og det kan bremse både elektrificeringen og den grønne omstilling. Derfor er jeg rigtig glad for, at et bredt flertal nu har stemt for akutplanen.” Hun understreger, at planen kun er første skridt i en bredere genopretningsstrategi, som skal prioritere, bygge, optimere og gentænke elnettet.\n\nFlere partiforskere støtter beslutningen. Jesper Petersen (S) påpeger, at “det er positivt, at den politiske forståelse om en akutplan nu bliver til en egentlig politisk aftale.” Nanna Bonde (SF) advarer om, at uden korrekt prioritering kan globale tech‑datacentre blokere for fælles grønne løsninger som kollektiv transport og fjernvarme. Mathilde Hjort Bressum (V) understreger, at prioriteringsmodellen skal forblive et midlertidigt styringsværktøj og ikke blive den nye normal.\n\nAnders Storgaard (K) fremhæver, at planen indeholder “tydelige kriterier for netvenlighed” og giver kollektive netselskaber et år til at udvikle nye netprodukter, med et genbesøg i 2027. Samtidig vil de kommende drøftelser om udbygning af transmissionsnettet og Energiinfrastrukturplan 2035 blive åbnet for de partier, der har stemt for lovforslaget. Akutplanen markerer således et politisk konsensuspunkt i en tid, hvor kapacitetsknapheden truer både forsyningssikkerhed og den grønne omstilling.",
+  "prompt_tokens": 2730,
+  "completion_tokens": 549,
+  "latency_ms": 1986,
+  "cost_usd": 0.0007389,
+  "created": "2026-11-10T05:38:25.175426Z",
+  "error": null
+}

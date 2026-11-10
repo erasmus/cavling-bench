@@ -1,0 +1,21 @@
+{
+  "model_id": "anthropic-mid",
+  "pinned_version": "claude-sonnet-5-5",
+  "task_id": "t5_forkortelse",
+  "source_id": "fo-2026-ditur-boede-tilbud",
+  "archetype": null,
+  "prompt_sha256": "c1314e2e76fe074e3c93c8f79b5e7faf7f4f30558fdd83b6fa190a0c11c63dfc",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 3860,
+    "reasoning_effort": "low"
+  },
+  "text": "Ditur.dk ApS har accepteret at betale en bøde på 4,25 millioner kroner for vildledende markedsføring af tilbud. Forbrugerombudsmanden politianmeldte i maj 2026 virksomheden for i 26 tilfælde at overtræde markedsføringslovens vildledningsforbud og prismærkningsbekendtgørelsen.\n\nOmbudsmanden overvågede i fem måneder priserne på tilfældigt udvalgte varer på avile.dk og ditur.dk. Vurderingen var, at smykker og ure blev markedsført som tilbud så længe, at der reelt ikke længere var tale om tilbud. Når produkter er nedsat så længe, bliver normalprisen mere teoretisk end faktisk, og tilbudsprisen må anses for den egentlige normalpris. De oplyste normalpriser kunne derfor vildlede forbrugerne og få tilbuddene til at fremstå bedre, end de var.\n\nEfter prismærkningsbekendtgørelsens § 9 a skal normalprisen være den laveste pris, virksomheden har brugt i mindst 30 dage forud for prisnedsættelsen. I et eksempel var en halskæde på tilbud i 28 af 50 dage og blev markedsført med en fast normalpris på 599 kroner, selvom de laveste priser i de to foregående 30-dages perioder var 199 kroner og 179 kroner. Besparelserne var dermed ikke så store, som de gav udtryk for.\n\nDitur.dk ApS har erkendt alle sagens forhold og vedtaget bøden, som er udmålt efter den bødemodel, der trådte i kraft 1. januar 2022 for at skærpe bødeniveauet.\n\nForbrugerombudsmand Torben Jensen siger, at der har været en del sager med normalpriser, der ikke var retvisende, og at det både er vildledende og i strid med prismærkningsbekendtgørelsen. Han understreger vigtigheden af, at virksomheder følger reglerne, og at typen af overtrædelser kan skade forbrugernes tillid og virksomhedernes mulighed for at konkurrere på lige vilkår.\n\nMarkedsføringslovens §§ 5 og 6 forbyder vildledning, og vildledning kan straffes med bøde efter § 37, stk. 3.",
+  "prompt_tokens": 2652,
+  "completion_tokens": 808,
+  "latency_ms": 5502,
+  "cost_usd": 0.013384,
+  "created": "2026-11-10T05:23:59.004530Z",
+  "error": null
+}

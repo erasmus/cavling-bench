@@ -1,0 +1,21 @@
+{
+  "model_id": "nebius-qwen3-235b",
+  "pinned_version": "Qwen/Qwen3-235B-A22B-Instruct-2507",
+  "task_id": "t2_rubrik",
+  "source_id": "aalborg-2025-omlaegningsplan-trepart",
+  "archetype": "lynposten",
+  "prompt_sha256": "45205b97323cc675d1b72c3287f39ecd5e5c40c294614bf4aa33c395e75dbd83",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 400,
+    "reasoning_effort": null
+  },
+  "text": "RUBRIK: Aalborg vedtager plan for 94 grønne projekter  \nUNDERRUBRIK: Byrådet godkender ambitiøs omlægningsplan med fokus på klima, drikkevand og natur. Nu skal 94 projekter forhandles med lodsejere.",
+  "prompt_tokens": 2163,
+  "completion_tokens": 78,
+  "latency_ms": 2392,
+  "cost_usd": 0.00047940000000000005,
+  "created": "2026-11-10T05:39:17.306949Z",
+  "error": null
+}

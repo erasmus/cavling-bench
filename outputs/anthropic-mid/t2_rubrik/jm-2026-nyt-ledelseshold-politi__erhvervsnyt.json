@@ -1,0 +1,21 @@
+{
+  "model_id": "anthropic-mid",
+  "pinned_version": "claude-sonnet-5-5",
+  "task_id": "t2_rubrik",
+  "source_id": "jm-2026-nyt-ledelseshold-politi",
+  "archetype": "erhvervsnyt",
+  "prompt_sha256": "430a153eeb66849cae8acf89f5a52f6e0b5a9d85748a8f625c249850a2fe1b2d",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 3400,
+    "reasoning_effort": "low"
+  },
+  "text": "RUBRIK: Wammen rokerer: Boje Nielsen ny rigspolitichef\nUNDERRUBRIK: Justitsministeren sætter nyt ledelseshold for politi og anklagemyndighed frem mod 2030. Thorkild Fogde bliver politidirektør i Københavns Vestegns Politi.",
+  "prompt_tokens": 2675,
+  "completion_tokens": 117,
+  "latency_ms": 1237,
+  "cost_usd": 0.00652,
+  "created": "2026-11-10T07:15:14.558587Z",
+  "error": null
+}

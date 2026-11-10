@@ -1,0 +1,21 @@
+{
+  "model_id": "nebius-gpt-oss-120b",
+  "pinned_version": "openai/gpt-oss-120b",
+  "task_id": "t5_forkortelse",
+  "source_id": "fo-2026-rejsekort-politianmeldelse",
+  "archetype": null,
+  "prompt_sha256": "58a3fa895aa68917ef89169643d13d5252e3ec7aae2fad5a7ea64fb7ee1a405c",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 2360,
+    "reasoning_effort": "low"
+  },
+  "text": "Forbrugerombudsmanden politianmelder Rejsekort & Rejseplan A/S for vildledende markedsføring, fordi virksomheden har givet indtryk af, at forbrugerne skal bruge en billet‑app, når det fysiske rejsekort lukkes, uden at tydeligt oplyse, at et ikke‑digitalt alternativ fortsat findes. Kampagnen blev udbredt på sociale medier, reklameskilte på stationer, informationsskærme i busser og tog samt med hætter over tjek‑ind‑standere fra oktober 2025. Eksempler på vildledende udsagn er: videoen “Dit fysiske kort lukker – Hent Rejsekort‑appen” på Nordjyllands Trafikselskabs Facebook og i en bus, hvor alternativet kun fremgik ved “se mere”; videoen “Har du sagt farvel til dit Rejsekort? Skift til appen” på Fynbus, Midttrafik og Sydtrafiks YouTube‑kanal uden klar information om et fysisk kort; hætter med “Rejs med digitalt. Det fysiske rejsekort lukker. Brug i stedet en af disse billet‑apps” på tjek‑ind‑standere, også vist i en DSB‑video; opslag i metroen med “RIP fysisk Rejsekort og DOT‑app” og store reklameskilte med “Det fysiske Rejsekort checker snart ud”. Over 35 forbrugerklager er modtaget. Rejsekort & Rejseplan afviser, at der er tale om vildledning. Forbrugerombudsmand Torben Jensen udtaler, at kampagnen bevidst udelader væsentlige oplysninger og dermed forhindrer forbrugerne i at træffe et informeret valg. Vildledende handlinger er forbudt i markedsføringslovens §§ 5 stk. 1 og 6 stk. 1.",
+  "prompt_tokens": 1698,
+  "completion_tokens": 454,
+  "latency_ms": 1735,
+  "cost_usd": 0.0005270999999999999,
+  "created": "2026-11-10T05:38:36.054683Z",
+  "error": null
+}

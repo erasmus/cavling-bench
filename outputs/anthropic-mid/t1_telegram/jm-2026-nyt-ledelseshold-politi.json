@@ -1,0 +1,21 @@
+{
+  "model_id": "anthropic-mid",
+  "pinned_version": "claude-sonnet-5-5",
+  "task_id": "t1_telegram",
+  "source_id": "jm-2026-nyt-ledelseshold-politi",
+  "archetype": null,
+  "prompt_sha256": "74d7df920e087e24ca771cdcf4aef83e26bbe59d4b283c3ab9241fc6b9249472",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 3560,
+    "reasoning_effort": "low"
+  },
+  "text": "Justitsminister Nicolai Wammen har gennemført en større rokade i toppen af dansk politi og anklagemyndighed, hvor rigsadvokat Lasse Boje Nielsen udpeges som ny rigspolitichef og afløser Thorkild Fogde, der bliver politidirektør i Københavns Vestegns Politi. Caroline Østergaard Nielsen fungerer indtil videre som rigsadvokat. Rasmus Kieffer-Kristensen bliver chef for PET, mens Finn Borch Andersen, der kommer fra chefposten i PET, bliver politidirektør i Københavns Politi. Rokaden sker, fordi en række åremålsansættelser udløber, og det nye ledelseshold skal ifølge ministeren lede politi og anklagemyndighed frem mod 2030. Fire politidirektører er udnævnt på ny, ligesom Jens-Christian Bülow er det som statsadvokat for Særlig Kriminalitet.",
+  "prompt_tokens": 2201,
+  "completion_tokens": 342,
+  "latency_ms": 3104,
+  "cost_usd": 0.007822,
+  "created": "2026-11-10T07:14:42.842905Z",
+  "error": null
+}

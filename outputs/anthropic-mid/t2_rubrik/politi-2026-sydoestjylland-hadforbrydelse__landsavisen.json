@@ -1,0 +1,21 @@
+{
+  "model_id": "anthropic-mid",
+  "pinned_version": "claude-sonnet-5-5",
+  "task_id": "t2_rubrik",
+  "source_id": "politi-2026-sydoestjylland-hadforbrydelse",
+  "archetype": "landsavisen",
+  "prompt_sha256": "b9ff70ded400f292d4e3463074ca76411fa4d62ae1243e119d32ff6e855d5522",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 3400,
+    "reasoning_effort": "low"
+  },
+  "text": "RUBRIK: Tre unge dømt i Horsens for vold og hadforbrydelse\nUNDERRUBRIK: To 18-årige og en 17-årig fik fængsel for vold og våbenbesiddelse i januar 2026. Retten fandt, at overfald på to kvinder ved banegården var en hadforbrydelse.",
+  "prompt_tokens": 1810,
+  "completion_tokens": 118,
+  "latency_ms": 1824,
+  "cost_usd": 0.0048,
+  "created": "2026-11-10T07:15:32.243987Z",
+  "error": null
+}

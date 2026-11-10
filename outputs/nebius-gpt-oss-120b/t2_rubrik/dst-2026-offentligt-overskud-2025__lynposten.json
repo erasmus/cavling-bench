@@ -1,0 +1,21 @@
+{
+  "model_id": "nebius-gpt-oss-120b",
+  "pinned_version": "openai/gpt-oss-120b",
+  "task_id": "t2_rubrik",
+  "source_id": "dst-2026-offentligt-overskud-2025",
+  "archetype": "lynposten",
+  "prompt_sha256": "578558cb94ec8804d73e10102a71cc48d93153b9cd4ef56180cec9983070a598",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 1900,
+    "reasoning_effort": "low"
+  },
+  "text": "RUBRIK: Offentlige finanser viser 90,9 mia. kr overskud i 2025  \nUNDERRUBRIK: Udgifterne steg med 85 mia. kr til 1,473 mia. kr, mens indtægterne kun steg med 52 mia. kr; social beskyttelse udgør 41 % af udgifterne.",
+  "prompt_tokens": 1356,
+  "completion_tokens": 365,
+  "latency_ms": 1076,
+  "cost_usd": 0.00042239999999999997,
+  "created": "2026-11-10T05:38:03.911297Z",
+  "error": null
+}

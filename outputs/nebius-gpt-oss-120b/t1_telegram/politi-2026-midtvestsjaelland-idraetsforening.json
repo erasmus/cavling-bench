@@ -1,0 +1,21 @@
+{
+  "model_id": "nebius-gpt-oss-120b",
+  "pinned_version": "openai/gpt-oss-120b",
+  "task_id": "t1_telegram",
+  "source_id": "politi-2026-midtvestsjaelland-idraetsforening",
+  "archetype": null,
+  "prompt_sha256": "4b3af25b0e8ed5f9ba97841491058913c0973a44b909136d4564af6ed2505da5",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 2060,
+    "reasoning_effort": "low"
+  },
+  "text": "Roskilde Ret har i dag idømt en 46‑årig mand, ansat i en lokal idrætsforening, et års fængsel for seksuelle overgreb og blufærdighedskrænkelser mod et stort antal drenge, herunder voldtægt af en dreng under 12 år. Manden har tilstået, at mindst 42 drenge blev filmet uden deres viden, og at han i perioden januar 2022 til april 2024 ulovligt optog materiale på et ikke frit tilgængeligt sted. Politiet fandt på hans telefon omfattende børnepornografisk billed‑ og videomateriale. Dommen medfører også, at han fraskes retten til at arbejde med børn og unge under 18 år. Senioranklager Pernille Fredin udtaler, at sagen har været langvarig pga. vurdering af den dømtes mentale tilstand, og håber dommen kan give drengene og deres familier en følelse af retfærdighed.",
+  "prompt_tokens": 838,
+  "completion_tokens": 239,
+  "latency_ms": 789,
+  "cost_usd": 0.00026910000000000004,
+  "created": "2026-11-10T05:38:00.085691Z",
+  "error": null
+}

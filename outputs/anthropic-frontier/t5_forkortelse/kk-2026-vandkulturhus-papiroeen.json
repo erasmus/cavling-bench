@@ -1,0 +1,21 @@
+{
+  "model_id": "anthropic-frontier",
+  "pinned_version": "claude-fable-5-1",
+  "task_id": "t5_forkortelse",
+  "source_id": "kk-2026-vandkulturhus-papiroeen",
+  "archetype": null,
+  "prompt_sha256": "0ce7849500ef9540baf46f91b51b69d6bd547a6b10ae247fd6c6bbb24f900c07",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 3860,
+    "reasoning_effort": "low"
+  },
+  "text": "Københavns nye vandkulturhus KAI på Papirøen indvies den 5. december 2026. Huset på 5.800 m2 har 10 bassiner inde og ude og er tegnet af den japanske tegnestue Kengo Kuma & Associates.\n\nOverborgmester Sisse Marie Welling (SF) påpeger, at København er presset på svømmekapacitet, og håber, huset bliver byens nye samlingssted.\n\nIdéen stammer fra en idékonkurrence, Københavns Kommune afholdt i 2015, hvor københavnerne indsendte 160 forslag, de fleste med ønske om en svømmefacilitet. Kultur-, fritids- og borgerserviceborgmester Christopher Røhl (R) nævner KAI sammen med Bryggen, Den Sorte Diamant og Operaen og fremhæver legebassin, motionsbassin, terapibassin og udendørs bassiner.\n\nNordea-fonden har støttet projektet med 546 mio. kr., heraf 25 mio. kr. til bæredygtighedstiltag, bl.a. lodret jordpumpevarme med 10 boringer til 250 meters dybde, der opvarmer udebassinerne på første etage. Adm. direktør Henrik Lehmann Andersen ser KAI som et muligt nyt vartegn.\n\nArkitekt Yuki Ikeguchi kalder huset et pejlemærke i havnens transformation fra industri- til kulturhavn. Stueetagen rummer 25-metersbassin, undervisningsbassin og tre legebassiner samt adgang til havnen med udsigt til Skuespilhuset og Operaparken. På første etage ligger Dalbassinet mellem husets fem teglstubbe og bassinet Onsen under åben himmel.\n\nBygherre er Ejendomsfonden Vandkulturhuset Papirøen med bestyrelsesformand Erik Jæger. KAI betyder hav på japansk. Kulturtårnet i den højeste teglstub huser kulturlokaler. Mere information på www.kai.kk.dk; programmet for indvielsen offentliggøres senere.",
+  "prompt_tokens": 3046,
+  "completion_tokens": 2004,
+  "latency_ms": 21009,
+  "cost_usd": 0.13066,
+  "created": "2026-11-10T07:26:13.084075Z",
+  "error": null
+}

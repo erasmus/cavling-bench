@@ -1,0 +1,21 @@
+{
+  "model_id": "anthropic-mid",
+  "pinned_version": "claude-sonnet-5-5",
+  "task_id": "t4_versionering",
+  "source_id": "nationalbanken-2026-udsigter-marts",
+  "archetype": "landsavisen",
+  "prompt_sha256": "47b9beae0b1c1665402bc7f4458726f2089898d74979136a0f3c2eb73c3fc279",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 4025,
+    "reasoning_effort": "low"
+  },
+  "text": "Nationalbanken vurderer, at dansk økonomi grundlæggende er i god balance, men at udviklingen i energipriserne som følge af krigen i Mellemøsten udgør en betydelig risiko for inflationen. Det fremgår af bankens nye prognose for dansk økonomi, som blev offentliggjort i dag. Prognosen er samtidig et grundlag for to anbefalinger til den kommende finanspolitik.\n\nIfølge Nationalbanken er beskæftigelsen høj og ledigheden lav. Udsigterne for dansk og global økonomi er dog præget af vedvarende geopolitisk usikkerhed, handelskonflikter og stigende energipriser. Banken venter, at inflationen bliver 1,8 pct. i år, 2,0 pct. i 2027 og 1,9 pct. i 2028. Kerneinflationen ventes at lande på 2,2 pct. i 2026, 2,1 pct. i 2027 og 1,7 pct. i 2028. Bruttonationalproduktet, BNP, ventes at vokse med 1,8 pct. i år og næste år og med 2 pct. i 2028.\n\nNationalbanken har også opstillet et risikoscenarie, hvor olie- og gasforsyningen fra Den Persiske Golf begrænses i de kommende år, og hvor priserne ligger betydeligt og langvarigt over de nuværende markedspriser. I så fald kan inflationen i år ende på 4,5 pct.\n\n”Trods de nuværende stigninger i energipriserne forventer vi ikke, at vi ser ind i en inflationskrise, som den vi oplevede efter Ruslands invasion af Ukraine,” siger nationalbankdirektør Christian Kettel Thomsen.\n\nDen første anbefaling gælder finansloven for 2027. ”Vi vurderer, at der kun er begrænset ledig kapacitet til at øge produktionen uden at skubbe til lønstigningerne og inflationen. Den nye regering bør i finansloven for 2027 derfor ikke skubbe til efterspørgslen ud over det, der allerede er lagt op til i den tidligere regerings 2035‑plan,” siger Christian Kettel Thomsen.\n\nDen anden anbefaling handler om råderummet. Danmark står over for store udgifter til blandt andet forsvar, klima og den demografiske udvikling. Det permanente løft af forsvarsudgifterne på 75 mia. kr. betyder ifølge Nationalbanken, at rummet for yderligere prioriteringer er væsentligt mindre. Banken anbefaler forsigtighed med at udmønte hele råderummet eller øge det gennem svækkelser af den strukturelle saldo.",
+  "prompt_tokens": 1899,
+  "completion_tokens": 941,
+  "latency_ms": 5959,
+  "cost_usd": 0.013208,
+  "created": "2026-11-10T07:17:01.083533Z",
+  "error": null
+}

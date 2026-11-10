@@ -1,0 +1,21 @@
+{
+  "model_id": "anthropic-mid",
+  "pinned_version": "claude-sonnet-5-5",
+  "task_id": "t2_rubrik",
+  "source_id": "kk-2026-vandkulturhus-papiroeen",
+  "archetype": "landsavisen",
+  "prompt_sha256": "623e12e44f8776c9a6bbb422f29627cd67c86cf05ec088719c4d7602d54e8d8e",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 3400,
+    "reasoning_effort": "low"
+  },
+  "text": "RUBRIK: KAI åbner 5. december 2026 efter ønske fra københavnerne\nUNDERRUBRIK: Vandkulturhuset på Papirøen har ti bassiner og er tegnet af Kengo Kuma & Associates. Nordea-fonden har givet 546 mio. kr. til projektet.",
+  "prompt_tokens": 3495,
+  "completion_tokens": 114,
+  "latency_ms": 1429,
+  "cost_usd": 0.00813,
+  "created": "2026-11-10T07:15:18.371244Z",
+  "error": null
+}

@@ -1,0 +1,21 @@
+{
+  "model_id": "anthropic-mid",
+  "pinned_version": "claude-sonnet-5-5",
+  "task_id": "t5_forkortelse",
+  "source_id": "rigsrevisionen-2026-beretning-energinet-elnettet",
+  "archetype": null,
+  "prompt_sha256": "1a851480cfa794380688098ea3d9dab47cbc07c95a533d7a2d39db07c6f3669d",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 3860,
+    "reasoning_effort": "low"
+  },
+  "text": "Den 9. april 2026 behandlede Statsrevisorerne Beretning nr. 12/2025 om Energinets udbygning af elnettet og afgav den til Folketinget. Elnettet omfatter i dag ca. 9.000 km jordkabler og luftledninger. Energinet, der ejes af staten via Klima-, Energi- og Forsyningsministeriet, forventer at etablere yderligere ca. 2.700 km elnet frem mod 2030 og 3.000-4.000 km frem mod 2050. Udbygningen er en forudsætning for den vedvarende energi, som Klimaaftale om grøn strøm og varme fra juni 2022 skal udbygge.\n\nStatsrevisorerne finder styringen kritisabel: Ca. 70 % af de igangsatte projekter er forsinkede, og Energinet har kun delvist overblik over årsagerne. De ikke-forsinkede projekter er generelt nystartede. De forsinkede tager i gennemsnit ca. 80 % længere tid end forventet, og udbygningen er foreløbigt blevet mere end 10 mia. kr. dyrere end planlagt. Energinet har systematisk undervurderet projekternes tidsforbrug, og forklaringerne er ikke entydige.\n\nUdbygningstakten skal mere end fordobles fra 120 km til 250 km årligt for at nå 2050-målet. Siden planen fra maj 2024 er 206 km af de 490 km, der var behov for pr. 1. januar 2026, færdiggjort.\n\nMinisteriet er siden starten af 2023 gentagne gange gjort opmærksom på forsinkelserne, men reagerede for sent. Først primo februar 2026 igangsatte det en ekstern analyse af rammerne for Energinet. Ministeriet har ikke beregnet forsinkelsernes betydning for CO2-udledningen eller tilslutningen af nye sol- og vindparker. Statsrevisorerne støtter Rigsrevisionens anbefaling om nærmere undersøgelse af konsekvenserne for klimamålet frem mod 2030.",
+  "prompt_tokens": 1945,
+  "completion_tokens": 725,
+  "latency_ms": 4846,
+  "cost_usd": 0.01114,
+  "created": "2026-11-10T07:18:14.744083Z",
+  "error": null
+}

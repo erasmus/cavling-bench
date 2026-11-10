@@ -1,0 +1,21 @@
+{
+  "model_id": "anthropic-mid",
+  "pinned_version": "claude-sonnet-5-5",
+  "task_id": "t4_versionering",
+  "source_id": "politi-2026-midtvestsjaelland-idraetsforening",
+  "archetype": "landsavisen",
+  "prompt_sha256": "fe2e061346fb7a3704cf603ac5440094f7c1c0ebb8610a5d8fec584ab5f668bc",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 4025,
+    "reasoning_effort": "low"
+  },
+  "text": "Retten i Roskilde har i dag idømt en 46-årig mand et års fængsel for seksuelle overgreb og blufærdighedskrænkelser mod et stort antal drenge. Manden var ansat i en idrætsforening i Roskilde, og alle de forurettede drenge på nær én var tilknyttet foreningen. Dommen følger efter en sag, der ifølge anklagemyndigheden har været længe undervejs.\n\nManden har tilstået forholdene. Han har erkendt at have udsat et større antal drenge for blufærdighedskrænkelser og at have voldtaget en dreng under 12 år ved andet seksuelt forhold end samleje. Nogle af drengene blev udsat for befølinger. Ikke færre end 42 drenge blev filmet uden deres viden, og manden er i den forbindelse også dømt for uberettiget at have filmet på et ikke frit tilgængeligt sted i perioden fra januar 2022 til april 2024.\n\nEfter anholdelsen fik politiet adgang til mandens telefon. Her blev der fundet en større mængde seksuelt billed- og videomateriale med personer under 18 år. Materialet fordelte sig på alle tre kategorier af seksuelt overgrebsmateriale med børn.\n\nUd over fængselsstraffen blev manden frakendt retten til at beskæftige sig med børn og unge under 18 år.\n\n\"Der er tale om en meget alvorlig sag, hvor et stort antal drenge er blevet udsat for seksuelle krænkelser af en voksen, som de burde kunne have tillid til. Det er et groft tillidsbrud, som kan have store konsekvenser for de berørte,\" siger senioranklager Pernille Fredin fra anklagemyndigheden hos Midt- og Vestsjællands Politi.\n\nHun forklarer, at sagens længde blandt andet skyldes, at der har skullet foretages en vurdering af den dømtes mentale tilstand.\n\n\"Jeg håber, at dommen nu kan være med til at give drengene og deres familier en følelse af retfærdighed og den afklaring, de har ventet på,\" siger senioranklager Pernille Fredin.\n\nDen 46-årige har taget betænkningstid i forhold til anke.",
+  "prompt_tokens": 1613,
+  "completion_tokens": 769,
+  "latency_ms": 4655,
+  "cost_usd": 0.010916,
+  "created": "2026-11-10T07:17:10.676561Z",
+  "error": null
+}

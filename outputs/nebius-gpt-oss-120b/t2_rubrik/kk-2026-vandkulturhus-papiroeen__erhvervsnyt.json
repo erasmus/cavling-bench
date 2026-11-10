@@ -1,0 +1,21 @@
+{
+  "model_id": "nebius-gpt-oss-120b",
+  "pinned_version": "openai/gpt-oss-120b",
+  "task_id": "t2_rubrik",
+  "source_id": "kk-2026-vandkulturhus-papiroeen",
+  "archetype": "erhvervsnyt",
+  "prompt_sha256": "61e34a14373891573f081726faac67bc26a84c7c9973c99a8de084cecbc7d947",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 1900,
+    "reasoning_effort": "low"
+  },
+  "text": "RUBRIK: KAI åbner 5. december – nyt vandkulturhus på Papirøen  \nUNDERRUBRIK: Nordea-fonden bidrager med 546 mio. kr., herunder 25 mio. til bæredygtighed; huset byder på 10 bassiner, indendørs og udendørs, og skal afhjælpe byens svømmekapacitet.",
+  "prompt_tokens": 2338,
+  "completion_tokens": 249,
+  "latency_ms": 919,
+  "cost_usd": 0.0005001000000000001,
+  "created": "2026-11-10T05:38:08.170703Z",
+  "error": null
+}

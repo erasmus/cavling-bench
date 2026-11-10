@@ -1,0 +1,21 @@
+{
+  "model_id": "anthropic-frontier",
+  "pinned_version": "claude-fable-5-1",
+  "task_id": "t2_rubrik",
+  "source_id": "kefm-2026-akutplan-elnettet-vedtaget",
+  "archetype": "landsavisen",
+  "prompt_sha256": "c2ad23f4a8d488f5f56268bffa179f7d81517aae4e0681fc90ee7e5c3c01428b",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 3400,
+    "reasoning_effort": "low"
+  },
+  "text": "RUBRIK: Folketinget vedtager akutplan: Først-til-mølle i elnettet afskaffes\nUNDERRUBRIK: Et bredt flertal har stemt for en model, hvor Energinet og netvirksomheder kan prioritere adgangen til det pressede elnet. Loven ventes at træde i kraft 12. oktober.",
+  "prompt_tokens": 4257,
+  "completion_tokens": 123,
+  "latency_ms": 3441,
+  "cost_usd": 0.04872,
+  "created": "2026-11-10T07:20:25.726848Z",
+  "error": null
+}

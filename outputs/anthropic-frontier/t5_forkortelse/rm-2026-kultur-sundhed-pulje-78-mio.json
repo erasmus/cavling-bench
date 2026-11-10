@@ -1,0 +1,21 @@
+{
+  "model_id": "anthropic-frontier",
+  "pinned_version": "claude-fable-5-1",
+  "task_id": "t5_forkortelse",
+  "source_id": "rm-2026-kultur-sundhed-pulje-78-mio",
+  "archetype": null,
+  "prompt_sha256": "7447ae506cfbd69bc95b6d92cc12716aee109f9ebc21fc22c831f87d207d48b0",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 3860,
+    "reasoning_effort": "low"
+  },
+  "text": "Region Midtjylland åbner en pulje på 7,8 mio. kr., der skal omsætte viden om kulturens sundhedseffekter til konkrete tilbud for borgere og patienter i hele regionen. Puljen skal styrke samarbejdet mellem kulturaktører, kommuner, hospitaler og andre aktører i de fem sundhedsråds geografier.\n\n- Vi ved, at kulturen kan spille en afgørende rolle for vores sundhed og trivsel. Det viser vores erfaringer de seneste ti år, siger Per Møller Jensen (S), formand for Region Midtjyllands Udvalg for Regional Udvikling.\n\nPuljen støtter projekter i brede regionale partnerskaber inden for fire temaer: forebyggelse og øget trivsel, særligt blandt børn og unge; lindring af symptomer under behandling eller sygdom; mestring, rehabilitering og recovery ved psykisk eller kronisk sygdom; samt samarbejde mellem midtjyske kommuner og hospitaler eller socialområdet.\n\nKulturaktører kan søge i samarbejde med partnere fra sundhedsområdet.\n\n- Puljen skal løfte projekter med kvalitet og gennemslagskraft, siger Vivi Altenburg (DD), næstformand for udvalget.\n\nPuljen er del af regionens indsats for sundhed og kultur; regionsrådet præsenterede i december sidste år landets første regionale politik på området.\n\nProjekter kan vare op til tre år. Der skal søges mindst 200.000 kr. med medfinansiering på mindst 25 procent af budgettet. Ansøgningsfrist er 26. august 2026 kl. 12.00, og ansøgninger behandles i november 2026. Et fysisk dialogmøde holdes på Godsbanen i Aarhus 21. maj kl. 10-13, et digitalt 2. juni kl. 13-14.30.",
+  "prompt_tokens": 1862,
+  "completion_tokens": 668,
+  "latency_ms": 8163,
+  "cost_usd": 0.05202,
+  "created": "2026-11-10T07:26:58.800782Z",
+  "error": null
+}

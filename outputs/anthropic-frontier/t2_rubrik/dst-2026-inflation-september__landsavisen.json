@@ -1,0 +1,21 @@
+{
+  "model_id": "anthropic-frontier",
+  "pinned_version": "claude-fable-5-1",
+  "task_id": "t2_rubrik",
+  "source_id": "dst-2026-inflation-september",
+  "archetype": "landsavisen",
+  "prompt_sha256": "101f8bb639fd89b09fa38a0bf845b1573f545bcb8dc3330e392544ceef02c0bd",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 3400,
+    "reasoning_effort": "low"
+  },
+  "text": "RUBRIK: Inflationen steg til 2,2 procent i september\nUNDERRUBRIK: Højere brændstofpriser trak forbrugerpriserne op fra 2,0 procent i august, mens kerneinflationen faldt til 1,9 procent drevet af husleje.",
+  "prompt_tokens": 1754,
+  "completion_tokens": 100,
+  "latency_ms": 3156,
+  "cost_usd": 0.02254,
+  "created": "2026-11-10T07:19:55.019844Z",
+  "error": null
+}

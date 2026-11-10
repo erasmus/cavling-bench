@@ -1,0 +1,21 @@
+{
+  "model_id": "anthropic-frontier",
+  "pinned_version": "claude-fable-5-1",
+  "task_id": "t1_telegram",
+  "source_id": "nationalbanken-2026-digitale-betalinger-beredskab",
+  "archetype": null,
+  "prompt_sha256": "abbf6322fc2cde707ca58293d06cd94339fdcb5c6406e97ed73dbc098fd33282",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 3560,
+    "reasoning_effort": "low"
+  },
+  "text": "Kontanter blev brugt til 9 pct. af alle betalinger i fysisk handel i 2025 mod 11 pct. i 2023 og 23 pct. i 2017, viser to analyser, som Nationalbanken udgiver i dag. Mere end 90 pct. af alle betalinger i Danmark er digitale, og wallet-betalinger med fx Apple Pay og Google Pay udgør nu hver tredje betaling i fysisk handel. Samtidig har 41 pct. af borgerne over 1.000 kr. i kontanter mod 33 pct. i 2023, og 7 ud af 10 med en kontantbeholdning betragter den som et beredskab. Nationalbankdirektør Ulrik Nødgaard peger på, at tekniske fejl hos Nets i juli 2025 og maj 2026 viser behovet for et betalingsberedskab. Han opfordrer flere butikker til at modtage digitale betalinger offline og til større udbredelse af straksbetalinger via fx MobilePay. Nationalbanken anbefaler, at husstanden har mindst to betalingskort, kontanter på omkring 250 kr. pr. person og en mobil betalingsløsning til kontooverførsler.",
+  "prompt_tokens": 2337,
+  "completion_tokens": 420,
+  "latency_ms": 15666,
+  "cost_usd": 0.04437,
+  "created": "2026-11-10T07:19:33.069970Z",
+  "error": null
+}

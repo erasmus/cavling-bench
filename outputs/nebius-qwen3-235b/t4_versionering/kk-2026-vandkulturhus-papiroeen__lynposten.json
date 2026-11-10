@@ -1,0 +1,21 @@
+{
+  "model_id": "nebius-qwen3-235b",
+  "pinned_version": "Qwen/Qwen3-235B-A22B-Instruct-2507",
+  "task_id": "t4_versionering",
+  "source_id": "kk-2026-vandkulturhus-papiroeen",
+  "archetype": "lynposten",
+  "prompt_sha256": "9ffa1b6a712396b9fe579016a0bb1dea8ca1d61a8cdbc8b068d4243482d2ed48",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 1025,
+    "reasoning_effort": null
+  },
+  "text": "KAI åbner 5. december 2026 på Papirøen. Københavnerne får et nyt samlingssted, hvor svømning, kultur og arkitektur mødes ved havnen.\n\nVandkulturhuset dækker 5.800 kvadratmeter og har 10 bassiner inde og ude. Det er tegnet af den japanske arkitektfirma Kengo Kuma & Associates. Bygningen står som et nyt fyrtårn på havnefronten.\n\nOverborgmester Sisse Marie Welling (SF) kalder projektet supervigtigt. København mangler svømmekapacitet. Nu kommer der nye bassiner til voksne og legebassiner til børn.\n\nIdéen til KAI kom fra københavnere. I 2015 indsendte de 160 forslag til ny fritidsfacilitet på Papirøen. De fleste ønskede et svømmested med plads til ro og fællesskab.\n\nKulturborgmester Christopher Røhl (R) siger, at KAI er en ny perle blandt byens markante steder. Som Bryggen, Den Sorte Diamant og Operaen. Huset bygger på københavnernes egne ønsker og erfaringer fra havneaktivering.\n\nNordea-fonden har givet 546 millioner kroner til projektet. Heraf 25 millioner til bæredygtighed. Der er blandt andet sat 10 boringer 250 meter ned for at varme udendørs bassiner med jordvarme.\n\nArkitekt Yuki Ikeguchi fra Kengo Kuma & Associates siger, at KAI er en del af havnens forvandling fra industri til kultur. Huset er åbent for alle og skaber rammer for trivsel i hverdagen.\n\nPå stueetagen ligger et 25-metersbassin, undervisningsbassin og tre legebassiner. Der er direkte adgang til havnen via en træbrygge. Øverst er Dalbassinet og Onsen – begge under åben himmel.\n\nNavnet KAI betyder hav på japansk. Det peger også på husets placering ved havnekajen. Det fortsætter traditionen med korte kultur-navne.\n\nKAI bliver også kulturhus. I kulturtårnet i den højeste teglstube arrangeres bevægelses- og kulturaktiviteter. Borgere kan selv indsende idéer til vandtemaer.\n\nBestyrelsesformand Erik Jæger kalder KAI en funktionalt og arkitektonisk unik bygning. Han glæder sig til, at huset fyldes med liv.\n\nWebsitet www.kai.kk.dk opdateres med information om kulturprogram og indvielse.",
+  "prompt_tokens": 2670,
+  "completion_tokens": 676,
+  "latency_ms": 11496,
+  "cost_usd": 0.0009396,
+  "created": "2026-11-10T05:42:21.519261Z",
+  "error": null
+}

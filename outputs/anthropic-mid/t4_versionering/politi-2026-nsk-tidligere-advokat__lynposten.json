@@ -1,0 +1,21 @@
+{
+  "model_id": "anthropic-mid",
+  "pinned_version": "claude-sonnet-5-5",
+  "task_id": "t4_versionering",
+  "source_id": "politi-2026-nsk-tidligere-advokat",
+  "archetype": "lynposten",
+  "prompt_sha256": "26c4e40be42f711cac19bd9f1ae5eb61dc5b92f95fdac27dae9bf011d3b7c1cd",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 4025,
+    "reasoning_effort": "low"
+  },
+  "text": "En 53-årig tidligere advokat skal i fængsel i seks måneder. Retten i Lyngby idømte ham onsdag ubetinget fængsel for groft stillingsmisbrug og pligtforsømmelse. Han er samtidig frakendt retten til at udøve advokatvirksomhed.\n\nSagen er ført af National enhed for Særlig Kriminalitet, NSK.\n\nRetten fandt det bevist, at manden afgav urigtige erklæringer til skifteretten. Han ville udpeges som kurator. Han var inhabil på grund af tidligere rådgivning.\n\nManden blev kurator i to konkursboer. Før da havde han rådgivet ejeren og direktøren af selskaberne. Han vejledte om, hvordan denne med fordel kunne forholde sig. Målet var en relativt overfladisk og kortvarig konkursbehandling.\n\nSom kurator gav han ikke væsentlige oplysninger videre. Det gjaldt kriminelle forhold i selskaberne. Retten fandt, at han dermed misbrugte sin stilling og svigtede sin pligt som advokat og kurator.\n\nRetten fandt også, at han ville skaffe sig selv eller andre en fordel.\n\nHandlingerne gjorde politiets efterforskning sværere og langsommere. Det samme gælder den skattemæssige undersøgelse og konkursbehandlingen. Det lagde retten til grund.\n\nSpecialanklager Konrad Joe Frank fra NSK er tilfreds med dommen.\n\n– I NSK har vi et vedvarende fokus på at sætte ind over for professionelle rådgivere, der med deres handlinger eller undladelser gør det lettere at være kriminel, siger han.\n\nHan peger på dommens signal. Retten ser ifølge ham strengt på advokater og kuratorer, der tilsidesætter deres forpligtelser. Dommen understreger, hvor afgørende tilliden til kuratorer er for systemet, siger specialanklageren.",
+  "prompt_tokens": 1707,
+  "completion_tokens": 686,
+  "latency_ms": 5322,
+  "cost_usd": 0.010274,
+  "created": "2026-11-10T07:17:13.774919Z",
+  "error": null
+}

@@ -1,0 +1,21 @@
+{
+  "model_id": "anthropic-mid",
+  "pinned_version": "claude-sonnet-5-5",
+  "task_id": "t4_versionering",
+  "source_id": "fm-2026-2035-plan",
+  "archetype": "lynposten",
+  "prompt_sha256": "3a77c7e0bfc94c94b66585ce9b8702934ee2cdb9991f3cc21f0ad072950b3129",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 4025,
+    "reasoning_effort": "low"
+  },
+  "text": "Danmark bruger 3½ procent af BNP på forsvar i år, mod 1,36 procent i 2022. Det fremgår af regeringens 2035-plan, som regeringen præsenterer i dag. Regeringen vil nå målet om 3,5 procent i NATO allerede i 2030.\n\nDer er afsat ca. 70 mia. kr. til Ukrainefondens militære ramme i 2023-2028. Regeringen vil løfte forsvar og sikkerhed yderligere.\n\nBeredskabet får 1,2 mia. kr. i en akutpakke allerede i år. I 2035 svarer løftet til 5 mia. kr.\n\nKlimaet får 4 mia. kr. årligt. Målet i 2035 er at skære CO2e-udledningen med 82 pct. i forhold til 1990. Kysterne får ca. 15 mia. kr. i 2029-2040 til beskyttelse mod stormflod.\n\nRegeringen har også indgået aftale om en fødevarecheck. Den går til grupper, som høje fødevarepriser rammer særligt hårdt.\n\nØkonomien er i bedring, fastslår regeringen. Staten har overskud for niende år i træk. De seneste seks år har overskuddet været det højeste i EU.\n\nMen der er en pris. Finansminister Nicolai Wammen siger: \"Vi bliver nødt til at prioritere skarpt.\" Økonomiminister Stephanie Lose siger, at planen begrænser rummet til andre prioriteringer frem mod 2030.\n\nUdenrigsminister Lars Løkke Rasmussen er mere direkte. \"Når regningerne er betalt, er kassen så godt som tom,\" siger han. Han peger på store strukturelle udfordringer efter 2035, som planen ikke løser.\n\nPlanen fastholder målet for den strukturelle saldo på -0,5 pct. af BNP i 2030. For 2035 er det nye mål -0,6 pct. Den offentlige gæld forbliver lav, lover regeringen.",
+  "prompt_tokens": 3035,
+  "completion_tokens": 691,
+  "latency_ms": 5077,
+  "cost_usd": 0.01298,
+  "created": "2026-11-10T07:16:24.968454Z",
+  "error": null
+}

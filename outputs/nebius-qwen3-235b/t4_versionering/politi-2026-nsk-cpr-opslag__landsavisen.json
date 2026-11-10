@@ -1,0 +1,21 @@
+{
+  "model_id": "nebius-qwen3-235b",
+  "pinned_version": "Qwen/Qwen3-235B-A22B-Instruct-2507",
+  "task_id": "t4_versionering",
+  "source_id": "politi-2026-nsk-cpr-opslag",
+  "archetype": "landsavisen",
+  "prompt_sha256": "71921153734ca9c057ce893dee898e716a054598571b57e27fa9f317e2e108d7",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 1025,
+    "reasoning_effort": null
+  },
+  "text": "En 27-årig mand fra Storkøbenhavn er idømt 3 år og 6 måneders fængsel for at have muliggjort personfarlig kriminalitet ved at udnytte sin adgang til CPR-registret. Dommen blev afsagt onsdag ved Københavns Byret efter en efterforskning foretaget af National enhed for Særlig Kriminalitet (NSK). Den dømte stod til ansættelse som studentermedhjælper på Københavns Kommunes vielseskontor, hvilket gav ham adgang til følsomme personoplysninger, som han misbrugte i en periode fra juni 2023 til juli 2024.\n\nGennem sin stilling kunne han foretage uberettigede opslag i Det Centrale Personregister og herved få adgang til data om bopælsadresser og familienetværk for konkrete personer. Disse oplysninger solgte han videre til personer i det kriminelle miljø. Ifølge retten medvirkede han dermed til 34 tilfælde af forsøg på grov vold. Han er dømt for både at have misbrugt sin offentligt betroede stilling og for at have videregivet personfølsomme oplysninger mod betaling.\n\nSpecialanklager Rikke Holm Schønsted fra NSK siger: ”Den dømte har haft forsæt til at facilitere, at personfarlig kriminalitet kunne planlægges mod konkrete forurettede, og det er selvsagt alvorligt. Jeg er godt tilfreds med, at retten med sin afgørelse har vurderet, at den dømte, ved at sælge oplysningerne, kan straffes for at medvirke til forsøg på personfarlig kriminalitet.”\n\nAnklager Tine Graakjær fra NSK tilføjer, at sagen er særlig, da der ikke findes tidligere retspraksis på det præcise område. Retten har dog vurderet, at den dømte måtte have været klar over, at oplysningerne ville blive brugt til kriminelle formål. Den 27-årige har taget betænkningstid vedrørende eventuel appel.",
+  "prompt_tokens": 1694,
+  "completion_tokens": 568,
+  "latency_ms": 17252,
+  "cost_usd": 0.0006796,
+  "created": "2026-11-10T05:43:05.351636Z",
+  "error": null
+}

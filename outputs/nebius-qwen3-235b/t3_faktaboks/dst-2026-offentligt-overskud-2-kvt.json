@@ -1,0 +1,21 @@
+{
+  "model_id": "nebius-qwen3-235b",
+  "pinned_version": "Qwen/Qwen3-235B-A22B-Instruct-2507",
+  "task_id": "t3_faktaboks",
+  "source_id": "dst-2026-offentligt-overskud-2-kvt",
+  "archetype": null,
+  "prompt_sha256": "3f8b38ea77630fd7c32a606d712ce3f12a74a0dd51f86c2c33afc7a68fb62648",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 575,
+    "reasoning_effort": null
+  },
+  "text": "- Offentligt overskud var 35,5 mia. kr. i 2. kvartal 2026.  \n- De offentlige udgifter udgjorde 379,9 mia. kr. i 2. kvartal 2026.  \n- Indkomstoverførsler til husholdningerne var 116,9 mia. kr. i 2. kvartal 2026.  \n- Den offentlige finansielle nettoformue faldt med 11 mia. kr. i 2. kvartal 2026.  \n- ØMU-gælden steg med 19,4 mia. kr. i 2. kvartal 2026.",
+  "prompt_tokens": 1218,
+  "completion_tokens": 177,
+  "latency_ms": 26474,
+  "cost_usd": 0.0003498,
+  "created": "2026-11-10T05:40:48.361871Z",
+  "error": null
+}

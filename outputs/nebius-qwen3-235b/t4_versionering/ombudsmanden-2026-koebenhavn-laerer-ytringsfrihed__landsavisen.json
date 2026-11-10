@@ -1,0 +1,21 @@
+{
+  "model_id": "nebius-qwen3-235b",
+  "pinned_version": "Qwen/Qwen3-235B-A22B-Instruct-2507",
+  "task_id": "t4_versionering",
+  "source_id": "ombudsmanden-2026-koebenhavn-laerer-ytringsfrihed",
+  "archetype": "landsavisen",
+  "prompt_sha256": "0cecc115f86e978841f2d54203dd59824c5a257bed3e0f123dfaaf6ba342d453",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 1025,
+    "reasoning_effort": null
+  },
+  "text": "Københavns Kommune har handlet i strid med reglerne for offentligt ansattes ytringsfrihed, efter at en folkeskolelærer blev indkaldt til en tilrettevisningssamtale, kort efter hun havde givet et interview til en avis. I interviewet, der handlede om voldelig elevadfærd og hendes egne oplevelser som lærer, udtalte hun sig på egne vegne. Samtalen med kommunen resulterede i en tilrettevisning, og hun blev blandt andet opfordret til at holde lav profil over for pressen. Ombudsmanden, Christian Britten Lundblad, konkluderer nu, at kommunens håndtering ikke skete med respekt for lærerens ytringsfrihed.\n\nIfølge Ombudsmanden har offentligt ansatte en lovfæstet ret til at deltage i den offentlige debat uden frygt for negative reaktioner fra ledelsen. ”Udtalelserne fremstår klart som fremsat på egne vegne og må anses at være i kerneområdet for offentligt ansattes ytringsfrihed,” siger han. Kommunen argumenterede for, at samtalen handlede om et pressefoto, som læreren ikke havde tilladelse til at få taget, men Ombudsmanden finder, at hele forløbet kan opfattes som en negativ reaktion på hendes udtalelser. Han peger også på, at skolelederen ikke havde vejledt hende om fotografering på skolen, selvom hun havde orienteret om interviewet på forhånd.\n\nOmbudsmanden kritiserer desuden, at kommunens pressemedarbejdere efterfølgende kontaktede flere medier om lærerens udtalelser, hvilket han betegner som ”meget uheldigt”. Han har derfor bedt Københavns Kommune om at genoptage sagen og inden tre måneder orientere om, hvilke konsekvenser henstillingen får.",
+  "prompt_tokens": 2055,
+  "completion_tokens": 500,
+  "latency_ms": 7742,
+  "cost_usd": 0.000711,
+  "created": "2026-11-10T05:42:48.098973Z",
+  "error": null
+}

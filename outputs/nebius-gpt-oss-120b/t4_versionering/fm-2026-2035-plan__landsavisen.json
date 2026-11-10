@@ -1,0 +1,21 @@
+{
+  "model_id": "nebius-gpt-oss-120b",
+  "pinned_version": "openai/gpt-oss-120b",
+  "task_id": "t4_versionering",
+  "source_id": "fm-2026-2035-plan",
+  "archetype": "landsavisen",
+  "prompt_sha256": "589852bf1699ea6622c837ebfd3f2ae2f8f9d513fe26a83aff8af2a49a7d846a",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 2525,
+    "reasoning_effort": "low"
+  },
+  "text": "Regeringen har i dag præsenteret sin 2035‑plan, som skal sikre Danmarks velfærd, sikkerhed og grønne omstilling i en verden, der ifølge statsministeriet er blevet mere usikker. Planen fastlægger de finanspolitiske rammer frem til 2035, hvor den strukturelle saldo skal ligge på –0,6 % af BNP, mens målet på –0,5 % i 2030 bevares. Samtidig vil den offentlige gæld forblive lav, og de sunde offentlige finanser, som har givet overskud i ni år i træk, skal fortsætte.\n\nEt centralt element i planen er en markant styrkelse af forsvaret. Forsvarsudgifterne forventes at stige fra 1,36 % af BNP i 2022 til 3,5 % i år, hvilket gør Danmark til et af de første NATO‑lande, der når målsætningen. Der er afsat ca. 70 mia. kr. til Ukrainefondens militære ramme 2023‑2028, og en akutpakke på 1,2 mia. kr. til beredskab er planlagt allerede i år med et samlet løft på 5 mia. kr. i 2035.\n\nPå klimaområdet forpligter regeringen sig til at reducere CO₂‑udledningen med 82 % i 2035 i forhold til 1990. Der afsættes 4 mia. kr. årligt til dette mål, og yderligere 15 mia. kr. i perioden 2029‑2040 skal gå til statslig medfinansiering af kystbeskyttelse mod stormflod. Samtidig fortsætter arbejdet med at nå klimamålet for 2030.\n\nFinansminister Nicolai Wammen understreger, at de massive investeringer i forsvar, sikkerhed og grøn omstilling kan gennemføres “på grund af ansvarlige økonomiske beslutninger”. Økonomiminister Stephanie Lose tilføjer, at planen også skal gøre det “lettere at drive virksomhed i Danmark og billigere at være dansker”. Udenrigsminister Lars Løkke Rasmussen advarer dog om, at de strukturelle udfordringer efter 2035 kræver fortsat reformarbejde, selvom de nuværende regnskaber er solide.",
+  "prompt_tokens": 1988,
+  "completion_tokens": 546,
+  "latency_ms": 2122,
+  "cost_usd": 0.0006257999999999999,
+  "created": "2026-11-10T05:38:22.174412Z",
+  "error": null
+}

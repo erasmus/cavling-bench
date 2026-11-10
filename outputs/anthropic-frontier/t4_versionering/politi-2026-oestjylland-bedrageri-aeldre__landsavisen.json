@@ -1,0 +1,21 @@
+{
+  "model_id": "anthropic-frontier",
+  "pinned_version": "claude-fable-5-1",
+  "task_id": "t4_versionering",
+  "source_id": "politi-2026-oestjylland-bedrageri-aeldre",
+  "archetype": "landsavisen",
+  "prompt_sha256": "e18eb8437414f2700c123ac412d8c994ce187e53228f6bf495dac95b5895f7a7",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 4025,
+    "reasoning_effort": "low"
+  },
+  "text": "En 32-årig mand fra Tilst er ved Retten i Aarhus idømt et år og seks måneders fængsel for bankbudsbedragerier mod 48 ældre borgere rundt om i landet. Dommen falder efter en efterforskning i Østjyllands Politis afdeling for Økonomisk Kriminalitet, hvor flere medgerningsmænd også er anholdt. Ofrene blev samlet svindlet for 270.000 kroner.\n\nSvindlen blev ifølge anklageskriftet begået i forening med flere medgerningsmænd. Den 32-årige havde i de fleste tilfælde rollen som bankbud: Han kørte ud til de ældre borgere, hentede deres kort og koder og misbrugte dem efterfølgende til kontanthævninger. Kun i få tilfælde ringede han selv ud til borgerne som bagmand.\n\nManden erkendte sig delvist skyldig i de 48 gennemførte bedragerier. Derudover tilstod han at have forsøgt at svindle omkring 150 andre borgere via telefonen.\n\n\"De mange forhold vidner om, at den 32-årige over en længere periode har haft et helt klart formål om at svindle så mange mennesker som muligt, men noget tyder heldigvis også på, at mange efterhånden har fået øjnene op for, at man med det samme skal smække røret på, når en ukendt person ringer én op og udgiver sig for at være fra banken,\" siger anklager Jakob Christensen fra Anklagemyndigheden ved Østjyllands Politi.\n\nManden blev anholdt den 28. januar i Højbjerg, efter politiet havde modtaget anmeldelse om bedragerier mod ældre, blandt andet mod en kvinde i det centrale Aarhus, der fik hævet 15.000 kroner. Den 18. februar anholdt politiet yderligere fem medgerningsmænd. Nogle af dem har allerede fået dom, mens efterforskningen fortsat pågår.\n\nDen 32-årige blev desuden dømt til at betale erstatning til de forurettede. Han modtog dommen og skal forblive varetægtsfængslet frem mod afsoningen. Kendelsen om fortsat varetægtsfængsling blev kæret til landsretten.",
+  "prompt_tokens": 2541,
+  "completion_tokens": 782,
+  "latency_ms": 10238,
+  "cost_usd": 0.06451,
+  "created": "2026-11-10T07:24:38.240788Z",
+  "error": null
+}

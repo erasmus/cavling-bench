@@ -1,0 +1,21 @@
+{
+  "model_id": "anthropic-mid",
+  "pinned_version": "claude-sonnet-5-5",
+  "task_id": "t2_rubrik",
+  "source_id": "aalborg-2025-omlaegningsplan-trepart",
+  "archetype": "landsavisen",
+  "prompt_sha256": "6c3a0135ad1a3f965342da33814217cee1e0eb86e49058f521ad66292e58cca1",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 3400,
+    "reasoning_effort": "low"
+  },
+  "text": "RUBRIK: Aalborg Byråd vedtager plan med 94 grønne projekter\nUNDERRUBRIK: Principvedtagelsen følger af aftalen om en grøn trepart. Projekterne kan kun gennemføres, hvis kommunen opnår enighed med de berørte lodsejere.",
+  "prompt_tokens": 2819,
+  "completion_tokens": 110,
+  "latency_ms": 1256,
+  "cost_usd": 0.006738,
+  "created": "2026-11-10T07:14:56.643315Z",
+  "error": null
+}

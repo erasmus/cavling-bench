@@ -1,0 +1,21 @@
+{
+  "model_id": "anthropic-mid",
+  "pinned_version": "claude-sonnet-5-5",
+  "task_id": "t6_lydmanus",
+  "source_id": "rigsrevisionen-2026-beretning-pesticider",
+  "archetype": "lynposten",
+  "prompt_sha256": "36e0d099508d2a19784cfd8cd72c2c4a58780378294e14b7e00a40faf10374fe",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 3620,
+    "reasoning_effort": "low"
+  },
+  "text": "Syv tusind og otte hundrede tons glyfosat er købt siden 2011, men aldrig meldt forbrugt. Det svarer til knap halvdelen af alt indkøb i perioden. Miljøstyrelsen har ikke undersøgt, hvor stoffet er blevet af.\n\nStatsrevisorerne kalder Miljøministeriets kontrol med pesticider stærkt foruroligende. Kontrollen er helt utilstrækkelig, siger de. Den bygger næsten kun på virksomhedernes egne oplysninger. Virksomhederne kan slette, rette eller udelade tal.\n\nKontrollen følger heller ikke risiko. Styrelsen har kun ledt efter fire slags ulovlige pesticider. Der er hundredvis af forbudte.\n\nStatsrevisorerne skriver også, at styrelsen i flere tilfælde har handlet i strid med kemikalieloven.\n\nI 2025 blev der fundet pesticidrester i over halvdelen af drikkevandsboringerne.",
+  "prompt_tokens": 2929,
+  "completion_tokens": 355,
+  "latency_ms": 3243,
+  "cost_usd": 0.009408,
+  "created": "2026-11-10T05:24:05.785468Z",
+  "error": null
+}

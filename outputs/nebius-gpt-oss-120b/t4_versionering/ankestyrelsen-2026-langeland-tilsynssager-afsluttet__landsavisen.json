@@ -1,0 +1,21 @@
+{
+  "model_id": "nebius-gpt-oss-120b",
+  "pinned_version": "openai/gpt-oss-120b",
+  "task_id": "t4_versionering",
+  "source_id": "ankestyrelsen-2026-langeland-tilsynssager-afsluttet",
+  "archetype": "landsavisen",
+  "prompt_sha256": "abc9a7106761b61d6f5a1fea5511cd59c95ad82ed71a3bb4cbbcfc9709a01d81",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 2525,
+    "reasoning_effort": "low"
+  },
+  "text": "Ankestyrelsens tilsyn har i dag meddelt, at opfølgningen på to tilsynssager mod Langeland Kommune afsluttes. Beslutningen er et svar på Ankestyrelsens tidligere kritik af kommunens Familieafdeling, som i november 2022 blev pålagt at gennemgå samtlige igangværende og afsluttede sager for at vurdere, om der var grundlag for genoptagelse. Kommunen identificerede 295 relevante sager og har i den efterfølgende periode foretaget en konkret og individuel vurdering af hver enkelt. I marts 2025 indsendte Langeland Kommune en slutorientering efter en fornyet gennemgang af en stor del af sagerne, hvorefter tilsynet vurderer, at sagen kan lukkes.\n\nAnkechef Hanne Østergaard, Tilsyn og Underretning i Ankestyrelsen, udtaler: “Det er derfor vores vurdering i dag, at kommunen har fulgt op på vores udtalelse fra november 2022 og gennemført de fornødne tiltag i Familieafdelingen. På den baggrund mener vi ikke, at der grundlag for, at tilsynet foretager sig mere i sagen.” \n\nDen anden sag, indledt i 2024 efter en henvendelse fra Taskforce på børneområdet, blev afsluttet i august sidste år, da tilsynet fandt, at der ikke var grund til at rejse en ny sag, men lovede fortsat opfølgning. Langeland Kommune har siden omorganiseret og opnormeret Familieafdelingen, hvilket ifølge kommunen giver en mere ensartet sagsbehandling. Samarbejdet med taskforcen genoptages nu fra maj 2026 til januar 2028 med fokus på lovmedholdelighed og socialfaglig kvalitet. Østergaard konkluderer: “Samarbejdet med taskforcen for børn og unge i udsatte positioner bliver nu genoptaget … Tilsynet foretager sig derfor ikke mere i sagen.”",
+  "prompt_tokens": 1466,
+  "completion_tokens": 481,
+  "latency_ms": 1567,
+  "cost_usd": 0.0005085,
+  "created": "2026-11-10T05:38:18.024542Z",
+  "error": null
+}

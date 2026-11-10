@@ -1,0 +1,21 @@
+{
+  "model_id": "anthropic-frontier",
+  "pinned_version": "claude-fable-5-1",
+  "task_id": "t5_forkortelse",
+  "source_id": "fm-2026-finanslovforslag-2027",
+  "archetype": null,
+  "prompt_sha256": "bcd79be6afefb7445f903727e59ca98b0eb6bd3dc88336c57ec2223ac5c84175",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 3860,
+    "reasoning_effort": "low"
+  },
+  "text": "Regeringen præsenterer i dag sit forslag til finanslov for 2027 med fokus på tryghed, velfærd og grøn omstilling. Fordi Rusland fortsat er en trussel mod Danmarks sikkerhed, afsættes midler til at løfte forsvarsudgifterne til 3,5 pct. af BNP i 2030.\n\nFolkeskolen og dagtilbud tilføres 1,2 mia. kr. i 2027 og 1,1 mia. kr. årligt i 2028-2030. Som første skridt mod vederlagsfri tandpleje for hele befolkningen i 2035 afsættes 0,6 mia. kr. i 2027 og 0,9 mia. kr. årligt fra 2028 til førtidspensionister og udsatte grupper. Folkepensionister med mindst får et permanent løft på godt 1.600 kr. om måneden, svarende til 1.000 kr. efter skat.\n\nTil elektrificering og omstilling væk fra fossile brændsler afsættes 650 mio. kr. i 2027 og 850 mio. kr. årligt i 2028-2030. Gratis kollektiv transport for unge under 22 år påbegyndes med 800 mio. kr. i 2027 og 1.000 mio. kr. i helårsniveau. Regeringen vil desuden styrke erhvervslivets produktivitet og konkurrenceevne.\n\nFinansminister Peter Hummelgaard fremhæver investeringer i tryghed, grøn omstilling og en håndsrækning til pensionister med mindst. Økonomi- og indenrigsminister Pia Olsen Dyhr peger på 900 mio. kr. til folkeskolen, målrettet de 100 skoler med størst udfordringer, flere pædagoger samt et styrket demensområde frem mod 2030. Skatte- og vækstminister Jakob Engel-Schmidt fremhæver skattelettelser og lavere mellemskat, mens erhvervs- og konkurrencekraftsminister Martin Lidegaard peger på investeringer i børn, unge, uddannelse og elektrificering.",
+  "prompt_tokens": 2586,
+  "completion_tokens": 1896,
+  "latency_ms": 19053,
+  "cost_usd": 0.12066,
+  "created": "2026-11-10T07:25:49.699225Z",
+  "error": null
+}

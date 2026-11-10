@@ -1,0 +1,21 @@
+{
+  "model_id": "anthropic-frontier",
+  "pinned_version": "claude-fable-5-1",
+  "task_id": "t2_rubrik",
+  "source_id": "dst-2026-inflation-september",
+  "archetype": "lynposten",
+  "prompt_sha256": "eaf7099bd7376a065db6f6b693ed7ce990500b4896e2a61bde4a3feadc368f79",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 3400,
+    "reasoning_effort": "low"
+  },
+  "text": "RUBRIK: Inflationen stiger til 2,2 procent i september\nUNDERRUBRIK: Brændstof trækker priserne op. Forbrugerpriserne steg 2,2 pct. på et år mod 2,0 pct. i august. Fra august til september var indekset uændret.",
+  "prompt_tokens": 1774,
+  "completion_tokens": 102,
+  "latency_ms": 1502,
+  "cost_usd": 0.02284,
+  "created": "2026-11-10T07:19:53.145359Z",
+  "error": null
+}

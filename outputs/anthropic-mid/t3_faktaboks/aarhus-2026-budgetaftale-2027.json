@@ -1,0 +1,21 @@
+{
+  "model_id": "anthropic-mid",
+  "pinned_version": "claude-sonnet-5-5",
+  "task_id": "t3_faktaboks",
+  "source_id": "aarhus-2026-budgetaftale-2027",
+  "archetype": null,
+  "prompt_sha256": "79ff93e9773d01d2091f594883a276ca926658aad72d4eec079472784e57f91a",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 3575,
+    "reasoning_effort": "low"
+  },
+  "text": "- Aarhus Byråd indgik torsdag den 17. september en enig aftale om kommunens budget for de kommende fire år.\n- Socialområdet får med en \"socialprocent\" og ekstra tildelinger et årligt løft på i alt 138 mio. kr.\n- Partierne har prioriteret i alt 197 mio. kr. årligt til drift i budgetperioden.\n- Der er afsat 810 mio. kr. til anlæg, blandt andet til øget fremkommelighed for busser, cyklister og andre trafikanter.\n- Et nyt velfærdsbidrag skal fra 2028 blandt andet frigøre penge til investeringer i nye velfærdsløsninger.",
+  "prompt_tokens": 1786,
+  "completion_tokens": 239,
+  "latency_ms": 1754,
+  "cost_usd": 0.005962,
+  "created": "2026-11-10T05:23:41.143546Z",
+  "error": null
+}

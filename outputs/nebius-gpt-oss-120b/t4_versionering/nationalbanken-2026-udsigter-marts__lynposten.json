@@ -1,0 +1,21 @@
+{
+  "model_id": "nebius-gpt-oss-120b",
+  "pinned_version": "openai/gpt-oss-120b",
+  "task_id": "t4_versionering",
+  "source_id": "nationalbanken-2026-udsigter-marts",
+  "archetype": "lynposten",
+  "prompt_sha256": "3c82118e0a740e22706ae4881349aaada3b3884844f600ab6f593a3e3a04bc67",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 2525,
+    "reasoning_effort": "low"
+  },
+  "text": "1 % inflation i år og 2 % i 2027 forventer Nationalbanken, men usikkerheden forbliver høj. Den danske økonomi er i god balance med høj beskæftigelse og lav ledighed, men geopolitisk uro og stigende energipriser truer stabiliteten.\n\nNationalbankdirektør Christian Kettel Thomsen siger, at krigen i Mellemøsten kan påvirke energipriserne og dermed inflationen. ”Trods de nuværende stigninger i energipriserne forventer vi ikke, at vi ser ind i en inflationskrise, som den vi oplevede efter Ruslands invasion af Ukraine,” udtaler han.\n\nHvis olie‑ og gasforsyningen fra Den Persiske Golf begrænses, kan inflationen nå 4,5 % i år, ifølge Nationalbankens risikoscenarie. I et mere normalt forløb forventes inflationen på 1,8 % i 2024, 2,0 % i 2027 og 1,9 % i 2028.\n\nBNP‑væksten skal ligge på 1,8 % i både 2024 og 2025 og stige til 2 % i 2028. Kerneinflationen anslås til 2,2 % i 2026, 2,1 % i 2027 og 1,7 % i 2028.\n\nNationalbanken advarer også om begrænset produktionskapacitet. ”Den nye regering bør i finansloven for 2027 derfor ikke skubbe til efterspørgslen ud over det, der allerede er lagt op til i den tidligere regerings 2035‑plan,” siger Thomsen.\n\nStørre udgifter til forsvar, klima og demografi reducerer råderummet for nye prioriteringer. ”Det permanente løft af forsvarsudgifterne med 75 mia. kr. betyder, at rummet for yderligere prioriteringer nu er væsentligt mindre,” forklarer han.\n\nNationalbanken har også udgivet analyser om privatforbruget og monetære tendenser på www.nationalbanken.dk.",
+  "prompt_tokens": 1252,
+  "completion_tokens": 492,
+  "latency_ms": 1456,
+  "cost_usd": 0.000483,
+  "created": "2026-11-10T05:38:26.956395Z",
+  "error": null
+}

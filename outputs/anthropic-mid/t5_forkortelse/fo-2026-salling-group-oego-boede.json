@@ -1,0 +1,21 @@
+{
+  "model_id": "anthropic-mid",
+  "pinned_version": "claude-sonnet-5-5",
+  "task_id": "t5_forkortelse",
+  "source_id": "fo-2026-salling-group-oego-boede",
+  "archetype": null,
+  "prompt_sha256": "d605ec538860f1911a74dc38c335a765890c5a53039c3eaa6e1c85e77a3ed2c1",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 3860,
+    "reasoning_effort": "low"
+  },
+  "text": "Salling Group A/S har accepteret at betale en bøde på 10 millioner kroner for vildledende markedsføring af Nettos økologiske produktserie ØGO. Forbrugerombudsmanden politianmeldte selskabet i september 2025.\n\nSalling Group har markedsført ØGO som det fjerde mest bæredygtige mærke i Danmark. Udsagnet byggede på en spørgeundersøgelse blandt 10.000 danske forbrugere, gennemført af den private virksomhed SB Insight, som står bag Sustainable Brand Index. Kåringen udtrykte alene forbrugernes opfattelse af mærket og dokumenterede ikke produkternes faktiske bæredygtighed.\n\nMarkedsføringen fremgik af Nettos opslag på sociale medier og af en tilbudsmail fra Netto+, hvor der stod: ”ØGO indtager igen 4. pladsen blandt Danmarks mest bæredygtige brands”.\n\nForbrugerombudsmanden vurderede, at markedsføringen kunne give forbrugerne et fejlagtigt indtryk af produkternes reelle klima- og miljøbelastning og dermed overtrådte markedsføringslovens forbud mod vildledning. At ØGO-produkterne er økologiske, kan ifølge ombudsmanden ikke begrunde, at serien markedsføres som bæredygtig. Virksomheder må ikke bruge bæredygtighedsudsagn, medmindre de kan dokumentere, at udsagnene er korrekte. Markedsføringen kan i urimelig grad påvirke forbrugernes adfærd, fordi mange lægger vægt på produkter, der bidrager til den grønne omstilling.\n\nSalling Group fjernede opslagene efter ombudsmandens henvendelse.\n\nBøden er udmålt efter den bødemodel, der gælder fra 1. januar 2022, og som skærper bødeniveauet for overtrædelser af markedsføringsloven.\n\nForbrugerombudsmand Torben Jensen siger, at virksomheder skal være meget varsomme med udsagn i markedsføringen, og at der er en væsentlig forskel på, om produkter er bæredygtige, eller om forbrugerne opfatter dem som det.",
+  "prompt_tokens": 2159,
+  "completion_tokens": 783,
+  "latency_ms": 4901,
+  "cost_usd": 0.012148,
+  "created": "2026-11-10T07:17:51.585871Z",
+  "error": null
+}

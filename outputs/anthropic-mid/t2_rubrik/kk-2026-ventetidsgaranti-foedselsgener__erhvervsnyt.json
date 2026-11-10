@@ -1,0 +1,21 @@
+{
+  "model_id": "anthropic-mid",
+  "pinned_version": "claude-sonnet-5-5",
+  "task_id": "t2_rubrik",
+  "source_id": "kk-2026-ventetidsgaranti-foedselsgener",
+  "archetype": "erhvervsnyt",
+  "prompt_sha256": "e7ef7b2559aae035d1247dac8076c431fb44fe8f9231b9e286bd850db32b4ad6",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 3400,
+    "reasoning_effort": "low"
+  },
+  "text": "RUBRIK: København lover første samtale om efterfødselsgener på 7 dage\nUNDERRUBRIK: Ventetiden er i dag 17 dage til visitation og 44 dage til undersøgelse. Ny budgetaftale afsætter knap 12,5 mio. kr. over fire år og åbner for private leverandører.",
+  "prompt_tokens": 3001,
+  "completion_tokens": 117,
+  "latency_ms": 1996,
+  "cost_usd": 0.007172,
+  "created": "2026-11-10T07:15:20.368386Z",
+  "error": null
+}

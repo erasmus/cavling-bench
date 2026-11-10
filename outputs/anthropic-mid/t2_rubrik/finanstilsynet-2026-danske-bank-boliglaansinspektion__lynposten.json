@@ -1,0 +1,21 @@
+{
+  "model_id": "anthropic-mid",
+  "pinned_version": "claude-sonnet-5-5",
+  "task_id": "t2_rubrik",
+  "source_id": "finanstilsynet-2026-danske-bank-boliglaansinspektion",
+  "archetype": "lynposten",
+  "prompt_sha256": "52b6da0151c3f72844b8611f9d23af74f3e2c42a2f6e04309fcfc6eea9ca1036",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 3400,
+    "reasoning_effort": "low"
+  },
+  "text": "RUBRIK: Tilsyn: 4 af 58 boliglån i Danske Bank burde ikke bevilges\nUNDERRUBRIK: Finanstilsynet giver Danske Bank påbud. Banken har ikke dokumenteret, at kunderne kan betale. I 19 af 58 sager fandt tilsynet væsentlige fejl.",
+  "prompt_tokens": 2642,
+  "completion_tokens": 126,
+  "latency_ms": 1445,
+  "cost_usd": 0.006544,
+  "created": "2026-11-10T07:15:05.922194Z",
+  "error": null
+}

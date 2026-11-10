@@ -1,0 +1,21 @@
+{
+  "model_id": "nebius-qwen3-235b",
+  "pinned_version": "Qwen/Qwen3-235B-A22B-Instruct-2507",
+  "task_id": "t4_versionering",
+  "source_id": "ombudsmanden-2026-koebenhavn-laerer-ytringsfrihed",
+  "archetype": "lynposten",
+  "prompt_sha256": "bdf76e3eca15dd4220b93de650318b1b00bb3e9370b18debb742986f26ad934b",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 1025,
+    "reasoning_effort": null
+  },
+  "text": "Københavns Kommune fratog lærer ytringsfrihed efter presseinterview. Det viser en undersøgelse fra Folketingets Ombudsmand.\n\nLæreren fortalte i et interview til en avis om voldelig elevadfærd på sin tidligere skole. Hun beskrev oplevelser som at være i en krigszone. Interviewet indeholdt også et pressefoto, som hun ikke havde indhentet tilladelse til at tage.\n\nKommunen indkaldte hende til en tilrettevisningssamtale efter artiklens offentliggørelse. Her fik hun en tilrettevisning og blev opfordret til at holde lav profil over for pressen.\n\nOmbudsmanden, Christian Britten Lundblad, siger, at offentligt ansatte har ret til at ytre sig på egne vegne. Det gælder også om forhold ved deres arbejde. Udtalelserne var klart fremsat på egne vegne. De falder ind under kerneområdet for ytringsfrihed.\n\nKommunen sagde, at samtalen kun handlede om fotoet. Men ombudsmanden konkluderer, at hele forløbet kan opfattes som en negativ reaktion på hendes ytringer. Det er i strid med reglerne.\n\nLæreren havde forinden orienteret sin skoleleder om interviewet. Skolelederen spurgte ikke til fotoet eller gav vejledning. Ombudsmanden peger på, at kommunen ikke har rettet op på sagen over for hende.\n\nHan mener også, at kommunens pressemedarbejdere handlede uheldigt, da de senere kontaktede flere medier om sagen.\n\nOmbudsmanden har derfor bedt Københavns Kommune om at genoptage sagen. Kommunen skal inden tre måneder oplyse, hvad henstillingen fører til.",
+  "prompt_tokens": 2056,
+  "completion_tokens": 460,
+  "latency_ms": 10431,
+  "cost_usd": 0.0006872,
+  "created": "2026-11-10T05:42:48.095264Z",
+  "error": null
+}

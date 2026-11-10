@@ -1,0 +1,21 @@
+{
+  "model_id": "anthropic-mid",
+  "pinned_version": "claude-sonnet-5-5",
+  "task_id": "t4_versionering",
+  "source_id": "finanstilsynet-2026-danske-bank-boliglaansinspektion",
+  "archetype": "landsavisen",
+  "prompt_sha256": "ed4c690e1c1abbc36384fd8cfe7c29770d094b6f1682fe8be74bfbeb62ebf4bb",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 4025,
+    "reasoning_effort": "low"
+  },
+  "text": "Finanstilsynet har givet Danske Bank et påbud om at sikre, at bankens bevillingsgrundlag for boligfinansiering er korrekt, tilstrækkeligt dokumenteret og understøtter en individuel og konkret vurdering af kundens økonomiske robusthed og gældsserviceringsevne. Påbuddet følger af en inspektion, hvor tilsynet vurderede bankens risikoappetit ved finansiering af privatkunders køb af ejerboliger.\n\nInspektionen omfattede en stikprøve på 58 bevillinger. Sagerne var udvalgt blandt kunder med gældsfaktor over 3,5, belåningsgrad over 60 procent og et bankengagement større end 200.000 kroner. Der var derfor tale om sager med højere risiko end gennemsnittet.\n\nFinanstilsynet vurderer, at 4 af de 58 bevillinger ikke burde have været givet på det foreliggende grundlag. Ifølge tilsynet havde banken ikke tilstrækkeligt analyseret væsentlige risikoforhold som høj gældsætning, høj belåning, store fald i rådighedsbeløb, usikkert indkomstgrundlag og begrænset likvid buffer.\n\nTilsynet fandt konkrete, væsentlige fejl i 6 af 23 sager, svarende til 26 procent, for en særskilt kundegruppe, som banken har defineret som særlig robust, og for hvilken den bruger en forenklet kreditproces. For øvrige kunder var tallet 13 af 35 sager, svarende til 37 procent. Tilsynet understreger, at fejltallet for den særlige gruppe ikke afspejler det reelle niveau af svagheder, fordi processen ikke sikrer tilstrækkelig vurdering af forbrug, opsparingsevne og forbrugstilpasning.\n\nFinanstilsynet anerkender principielt arbejdet med kundesegmentering, men kræver, at segmentet er forsigtigt afgrænset, og at banken kan dokumentere, at kunderne har en utvivlsomt robust økonomi. Tilsynet pegede også på svagheder i et af bankens kreditindstillingsformater.\n\nDanske Bank har en højere andel af bevillinger med høj gældsfaktor og belåningsgrad end de øvrige institutter i temaundersøgelsen. Bankens data vedrører dog en senere periode. Inspektionen gav ikke anledning til ændring af bankens solvensbehov.",
+  "prompt_tokens": 2605,
+  "completion_tokens": 869,
+  "latency_ms": 5377,
+  "cost_usd": 0.0139,
+  "created": "2026-11-10T07:16:24.859909Z",
+  "error": null
+}

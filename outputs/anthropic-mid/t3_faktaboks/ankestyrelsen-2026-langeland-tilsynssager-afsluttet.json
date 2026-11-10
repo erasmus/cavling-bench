@@ -1,0 +1,21 @@
+{
+  "model_id": "anthropic-mid",
+  "pinned_version": "claude-sonnet-5-5",
+  "task_id": "t3_faktaboks",
+  "source_id": "ankestyrelsen-2026-langeland-tilsynssager-afsluttet",
+  "archetype": null,
+  "prompt_sha256": "28912c2898bc280a7349116e59da0cd8319df3fd0c25991a6a7015daa8e838b3",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 3575,
+    "reasoning_effort": "low"
+  },
+  "text": "- Langeland Kommune identificerede og vurderede, at 295 sager i Familieafdelingen var relevante at gennemgå efter tilsynets udtalelse fra november 2022.\n- Ankestyrelsens tilsyn modtog i marts 2025 Langeland Kommunes slutorientering efter en fornyet gennemgang af en stor del af sagerne.\n- Den første tilsynssag blev lukket, fordi tilsynet vurderede, at kommunen havde fulgt op på udtalelsen fra november 2022.\n- Den anden tilsynssag, fra 2024, blev indledt efter en henvendelse fra Taskforcen på børneområdet, hvis arbejde blev sat på pause.\n- Samarbejdet med taskforcen genoptages i et forløb fra maj 2026 til januar 2028, oplyser ankechef Hanne Østergaard.",
+  "prompt_tokens": 1838,
+  "completion_tokens": 303,
+  "latency_ms": 2686,
+  "cost_usd": 0.006706,
+  "created": "2026-11-10T07:15:40.731384Z",
+  "error": null
+}

@@ -1,0 +1,21 @@
+{
+  "model_id": "nebius-gpt-oss-120b",
+  "pinned_version": "openai/gpt-oss-120b",
+  "task_id": "t6_lydmanus",
+  "source_id": "ombudsmanden-2026-koebenhavn-laerer-ytringsfrihed",
+  "archetype": "lynposten",
+  "prompt_sha256": "e56c0a3bab2698e1b72ca706c6c6ef6f1c36f67069f5852c3af91e118acbff57",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 2120,
+    "reasoning_effort": "low"
+  },
+  "text": "Tre lærerindkaldt til tilrettevisning efter interview om vold i klasseværelset. Læreren havde fortalt om hjernerystelse og blå mærker i en avis. Kommunen sagde, at samtalen handlede om et foto uden tilladelse. Ombudsmanden har undersøgt sagen. Han konkluderer, at kommunens handling ikke viste respekt for lærerens ytringsfrihed. Han påpeger, at offentligt ansatte har lovfæstet ret til at deltage i den offentlige debat på egne vegne. Han kritiserer også kommunens pressekontakt, som han kalder meget uheldig. Ombudsmanden har bedt kommunen genoptage sagen og give svar inden tre måneder. Ifølge Folketingets Ombudsmand er dette en negativ ledelsesreaktion på lærerens udtalelser.",
+  "prompt_tokens": 1815,
+  "completion_tokens": 257,
+  "latency_ms": 1112,
+  "cost_usd": 0.00042645,
+  "created": "2026-11-10T05:38:44.039680Z",
+  "error": null
+}

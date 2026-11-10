@@ -1,0 +1,21 @@
+{
+  "model_id": "nebius-qwen3-235b",
+  "pinned_version": "Qwen/Qwen3-235B-A22B-Instruct-2507",
+  "task_id": "t6_lydmanus",
+  "source_id": "politi-2026-oestjylland-bedrageri-aeldre",
+  "archetype": "lynposten",
+  "prompt_sha256": "5405c52a7d965b7f45620d23d33bad10e9b19fe9e2da2c11500916b23db897c3",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 620,
+    "reasoning_effort": null
+  },
+  "text": "En 32-årig mand er idømt et år og seks måneders fængsel. Han svindlede 48 ældre borgere for i alt to hundrede og sytti tusind kroner. Det skete ved, at han udgav sig for at være bankbud. Han hentede deres kort og koder og hævede penge. Det viser dommen fra Retten i Aarhus. Manden erkendte også forsøg på at bedrage omkring et hundrede og halvtreds ældre borgere. Han ringede til dem og løj om, at han var fra deres bank. Anklager Jakob Christensen fra Anklagemyndigheden ved Østjyllands Politi kalder det grov kriminalitet. Han siger, at ofrene ofte er svage eller udsatte. Den 32-årige blev anholdt den otteogtyvende januar. Han sad i en bil, som politiet havde sporet. I bilen fandt de kontanter og værdigenstande. De formodes at stamme fra svindlen. Han har siddet varetægtsfængslet siden da. Domstolen besluttede, at han skal blive det. Han skal også betale erstatning til ofrene. Kendelsen er anket til landsretten.",
+  "prompt_tokens": 2033,
+  "completion_tokens": 315,
+  "latency_ms": 10616,
+  "cost_usd": 0.0005956000000000001,
+  "created": "2026-11-10T05:45:34.030901Z",
+  "error": null
+}

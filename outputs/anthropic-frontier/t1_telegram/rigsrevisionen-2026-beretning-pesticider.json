@@ -1,0 +1,21 @@
+{
+  "model_id": "anthropic-frontier",
+  "pinned_version": "claude-fable-5-1",
+  "task_id": "t1_telegram",
+  "source_id": "rigsrevisionen-2026-beretning-pesticider",
+  "archetype": null,
+  "prompt_sha256": "bd736bff3602e30237ec72ef7d91e72cdf67c13f383a7f67b2afbec7724cf592",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 3560,
+    "reasoning_effort": "low"
+  },
+  "text": "Statsrevisorerne finder Miljøministeriets kontrol med brug af pesticider \"stærkt foruroligende\" og \"helt utilstrækkelig\" i en beretning, som blev behandlet den 7. september 2026 og afgivet til Folketinget. Kontrollen er ifølge Statsrevisorerne næsten udelukkende baseret på virksomhedernes egne selvangivelser, som Miljøstyrelsen ikke efterprøver, og virksomhederne udvælges ikke til kontrol ud fra en risikovurdering. Siden 2011 er der indkøbt 7.800 tons glyfosat, som ikke er indberettet som forbrugt – knap halvdelen af det samlede indkøb – uden at styrelsen har undersøgt, hvor det er blevet af. Statsrevisorerne kritiserer desuden, at Miljøstyrelsen i flere tilfælde har forvaltet i strid med kemikalieloven, blandt andet ved frem til foråret 2025 at undlade at kontrollere selvanmeldte overtrædelser. I 2025 blev der fundet pesticidrester i over halvdelen af drikkevandsboringerne.",
+  "prompt_tokens": 2410,
+  "completion_tokens": 407,
+  "latency_ms": 4385,
+  "cost_usd": 0.04445,
+  "created": "2026-11-10T07:19:40.870307Z",
+  "error": null
+}

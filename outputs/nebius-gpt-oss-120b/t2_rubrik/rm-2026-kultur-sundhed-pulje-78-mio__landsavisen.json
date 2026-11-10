@@ -1,0 +1,21 @@
+{
+  "model_id": "nebius-gpt-oss-120b",
+  "pinned_version": "openai/gpt-oss-120b",
+  "task_id": "t2_rubrik",
+  "source_id": "rm-2026-kultur-sundhed-pulje-78-mio",
+  "archetype": "landsavisen",
+  "prompt_sha256": "ce3fbc5a81ca21975ff9374a4a0be90d0a035c6f513f2c562af0ff3558fb005f",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 1900,
+    "reasoning_effort": "low"
+  },
+  "text": "RUBRIK: Region Midtjylland åbner 7,8 mio. kr. pulje til kultur‑sundhedsprojekter  \nUNDERRUBRIK: Puljen skal styrke samarbejdet mellem kultur‑ og sundhedssektoren og støtte konkrete indsatser inden for forebyggelse, symptomlindring, rehabilitering og tværkommunalt samarbejde.",
+  "prompt_tokens": 1493,
+  "completion_tokens": 108,
+  "latency_ms": 471,
+  "cost_usd": 0.00028875,
+  "created": "2026-11-10T05:38:12.491847Z",
+  "error": null
+}

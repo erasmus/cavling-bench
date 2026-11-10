@@ -1,0 +1,21 @@
+{
+  "model_id": "anthropic-mid",
+  "pinned_version": "claude-sonnet-5-5",
+  "task_id": "t1_telegram",
+  "source_id": "kk-2026-ventetidsgaranti-foedselsgener",
+  "archetype": null,
+  "prompt_sha256": "b23dad9dda06871c1bd4096a289f72295a2f1bf9c8a31549ea5b5e8166339f68",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 3560,
+    "reasoning_effort": "low"
+  },
+  "text": "København Kommune indfører en ventetidsgaranti for kvinder med fødselsgener: Fremover skal de tilbydes en første samtale efter højst 7 dage og en undersøgelse senest 3 uger senere. I dag er ventetiden 17 dage til visitationssamtale og yderligere 44 dage til undersøgelse. Kan kommunen ikke overholde garantien, tilbydes et forløb hos en privat leverandør. Budgetaftalen afsætter knap 12,5 mio. kroner over fire år, oveni knap 19 mio. kroner fra tidligere aftaler. Kommunen forventer at kunne hjælpe 1.500 kvinder fra næste år mod omtrent 800 i år. Af de 500 nye forløb tager kommunen selv 320, mens 180 ventes varetaget af private. Sundheds- og omsorgsborgmester Jens-Kristian Lütken (V) kalder garantien Danmarks mest ambitiøse.",
+  "prompt_tokens": 2527,
+  "completion_tokens": 339,
+  "latency_ms": 2870,
+  "cost_usd": 0.008444,
+  "created": "2026-11-10T07:14:45.713967Z",
+  "error": null
+}

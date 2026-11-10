@@ -1,0 +1,21 @@
+{
+  "model_id": "anthropic-frontier",
+  "pinned_version": "claude-fable-5-1",
+  "task_id": "t2_rubrik",
+  "source_id": "finanstilsynet-2026-danske-bank-boliglaansinspektion",
+  "archetype": "erhvervsnyt",
+  "prompt_sha256": "1354a1e276f14db3cf568b4bbab8a416cda94da01bb936a782025af763d3d4a7",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 3400,
+    "reasoning_effort": "low"
+  },
+  "text": "RUBRIK: Finanstilsynet giver Danske Bank påbud om boliglån\nUNDERRUBRIK: 4 ud af 58 gennemgåede boliglån burde ikke være bevilget, vurderer tilsynet. Fejl i 19 sager, men solvensbehovet ændres ikke.",
+  "prompt_tokens": 2629,
+  "completion_tokens": 111,
+  "latency_ms": 3405,
+  "cost_usd": 0.03184,
+  "created": "2026-11-10T07:20:06.424608Z",
+  "error": null
+}

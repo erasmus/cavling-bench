@@ -1,0 +1,21 @@
+{
+  "model_id": "anthropic-mid",
+  "pinned_version": "claude-sonnet-5-5",
+  "task_id": "t4_versionering",
+  "source_id": "aarhus-2026-budgetaftale-2027",
+  "archetype": "landsavisen",
+  "prompt_sha256": "1bb9487084ce6086f8713574dd18e3d902d3186d42b43ecd79f9c93a7388a3b3",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 4025,
+    "reasoning_effort": "low"
+  },
+  "text": "Et enigt Aarhus Byråd har torsdag den 17. september indgået aftale om kommunens budget for de kommende fire år. Aftalen skal blandt andet styrke velfærden og imødegå et betydeligt udgiftspres på socialområdet.\n\nBag aftalen står Socialdemokratiet, SF, Venstre, Enhedslisten, Det Konservative Folkeparti, Radikale Venstre, Liberal Alliance, Danmarksdemokraterne og Dansk Folkeparti. Kommuneskatten holdes i ro.\n\nSocialområdet får et årligt løft på i alt 138 mio. kr. Beløbet består af en \"socialprocent\", som byrådet står sammen om på tværs af afdelinger, samt ekstra tildelinger. Pengene skal imødegå områdets strukturelle udfordringer. Partierne har desuden prioriteret flere fagprofessionelle i folkeskolen, indsatser for demente ældre og tidligere anbragte børn samt bedre og billigere kollektiv trafik.\n\nI alt har partierne afsat 197 mio. kr. årligt til drift i budgetperioden. Hertil kommer 810 mio. kr. til anlæg, som blandt andet skal give bedre fremkommelighed for busser, cyklister og andre trafikanter og mindre trængsel. Forligspartierne investerer også i vilkår for erhvervslivet og nemmere erhvervsparkering.\n\nBudgetmodellerne giver et samlet velfærdsløft på omkring 2 mia. kr. over perioden. Dertil kommer knap 500 mio. kr. som følge af nationale aftaler, blandt andet til flere pædagoger og lavere forældrebetaling i dagtilbud.\n\nFra 2028 indføres et nyt velfærdsbidrag, der blandt andet skal frigøre penge til nye velfærdsløsninger, for eksempel gennem nye arbejdsgange eller teknologi.\n\nBorgmester Anders Winnerskjold siger: \"Et godt budget skal kunne mærkes i aarhusianernes hverdag. Derfor investerer vi i flere voksne omkring børnene, bedre og billigere kollektiv transport og bedre fremkommelighed.\"\n\nHan tilføjer, at kommunen ikke kan gennemføre alle ønsker på én gang, men at forliget er \"et solidt skridt fremad\".",
+  "prompt_tokens": 2218,
+  "completion_tokens": 830,
+  "latency_ms": 5407,
+  "cost_usd": 0.012736,
+  "created": "2026-11-10T05:23:47.800124Z",
+  "error": null
+}

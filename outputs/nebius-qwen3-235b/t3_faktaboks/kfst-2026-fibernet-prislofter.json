@@ -1,0 +1,21 @@
+{
+  "model_id": "nebius-qwen3-235b",
+  "pinned_version": "Qwen/Qwen3-235B-A22B-Instruct-2507",
+  "task_id": "t3_faktaboks",
+  "source_id": "kfst-2026-fibernet-prislofter",
+  "archetype": null,
+  "prompt_sha256": "4404edab87f2a2f3813ebf20441851896253f18e1e8f7e12f69bc680e054cade",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 575,
+    "reasoning_effort": null
+  },
+  "text": "- Konkurrence- og Forbrugerstyrelsen fastsætter prislofter på fibernet i områder, hvor netejeren har monopollignende status.  \n- Prislofterne tager højde for omkostninger til beskyttelse af fibernettet mod fysiske og virtuelle angreb.  \n- For TDC gælder prislofterne kun en mindre del af forretningen, ikke mobilområdet eller fiberleje uden for hovedstadsområdet.  \n- De nye prislofter træder i kraft fra årsskiftet og kan revideres, hvis der opstår markante ændringer i forudsætningerne.  \n- De ventede prislofter kan blive op til 35 procent højere end de nuværende på grund af stigende omkostninger og højere tilladt forrentning.",
+  "prompt_tokens": 1822,
+  "completion_tokens": 210,
+  "latency_ms": 12010,
+  "cost_usd": 0.0004904,
+  "created": "2026-11-10T05:40:42.229418Z",
+  "error": null
+}

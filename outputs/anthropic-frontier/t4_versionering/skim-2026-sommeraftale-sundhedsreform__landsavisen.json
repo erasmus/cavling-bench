@@ -1,0 +1,21 @@
+{
+  "model_id": "anthropic-frontier",
+  "pinned_version": "claude-fable-5-1",
+  "task_id": "t4_versionering",
+  "source_id": "skim-2026-sommeraftale-sundhedsreform",
+  "archetype": "landsavisen",
+  "prompt_sha256": "8521cab405f7124bad2a2246c759a90e3f0b6c002b05645c408ff523fa999180",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 4025,
+    "reasoning_effort": "low"
+  },
+  "text": "Regeringen, Danske Regioner og KL er blevet enige om en ny sommeraftale om implementeringen af sundhedsreformen. Aftalen er den anden fælles implementeringsaftale og bygger videre på forårsaftalen fra 2025. Den omsætter flere af reformens centrale initiativer til konkrete forbedringer, som patienter og borgere gradvist vil opleve fra 2027.\n\nAftalen giver sundhedsvæsenet et løft på knap 800 millioner kroner i 2027, og bevillingen stiger til 1,1 milliarder kroner årligt fra 2030 og frem, opgjort i 2025-priser.\n\nDe første kronikerpakker træder i kraft fra 2027 for patienter med KOL og kroniske lænderygsmerter. Patienterne får ret til en behandlingsplan og tilbud om opstart på relevante forebyggelsestilbud inden for 21 dage efter henvisning fra egen læge. Senere følger patienter med type 2-diabetes, hjertesygdom og kompleks multisygdom.\n\nSamtidig udvides ordningen med 96 timers behandlingsansvar efter udskrivelse. Ældre medicinske patienter, som har haft ophold på en akutmodtagelse, og visse psykiatriske patienter sikres, at sygehuslægen har behandlingsansvaret i 96 timer efter udskrivelse. Målet er at forebygge unødige genindlæggelser og skabe bedre overgange mellem hospitaler, kommuner og almen praksis.\n\nSundhedsminister Ida Auken siger: \"Vi udvider også sygehusets behandlingsansvar, så flere patienter – også ældre medicinske patienter og patienter fra psykiatrien – kan opleve en mere tryg overgang fra hospital til eget hjem.\"\n\nAftalen indebærer desuden et kvalitetsløft af de nye regionale sundheds- og omsorgspladser, hvor ophold er uden egenbetaling. Der indføres frit valg, og borgerne får ret til befordring på samme måde som ved sygehusbehandling.\n\nParterne bakker op om Sundhedsstyrelsens oplæg til den første nationale sundhedsplan for 2027-2030, som sundhedsministeren fastlægger. Loftet over speciallægestillinger på hospitaler i de store byer videreføres og justeres, og 128 millioner kroner udmøntes i 2027 til at nedbringe ventetider hos praktiserende speciallæger.\n\nFormand for Danske Regioner Mads Duedahl siger: \"Sundhedsreformen bliver først en succes, når patienterne mærker den i deres hverdag.\"",
+  "prompt_tokens": 3611,
+  "completion_tokens": 925,
+  "latency_ms": 8908,
+  "cost_usd": 0.08236,
+  "created": "2026-11-10T07:25:12.874219Z",
+  "error": null
+}

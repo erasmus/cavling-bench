@@ -1,0 +1,21 @@
+{
+  "model_id": "nebius-gpt-oss-120b",
+  "pinned_version": "openai/gpt-oss-120b",
+  "task_id": "t6_lydmanus",
+  "source_id": "rigsrevisionen-2026-beretning-energinet-elnettet",
+  "archetype": "lynposten",
+  "prompt_sha256": "23acc347734617d44956cbed36b14218f0872e8d7bd6c960b3310f8664c8b230",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 2120,
+    "reasoning_effort": "low"
+  },
+  "text": "Syvti procent af de igangsatte elnetudvidelser er forsinkede, og de tager i gennemsnit firs procent længere tid end planlagt, siger Statsrevisorerne. De kritiserer, at Energinet kun delvist har overblik over årsagerne til forsinkelserne, og at Klima‑, Energi‑ og Forsyningsministeriet har reageret for sent. Ifølge beretningen fra den niende april to‑og‑seks‑tyve er udbygningen af elnettet allerede ti milliarder kroner dyrere end forventet. Energinet skal ifølge deres seneste plan bygge yderligere to‑tusind‑syv hundrede kilometer inden to‑og‑tretti, og tre‑tusind‑fire‑tusind kilometer inden to‑og‑femti. Hastigheden skal mere end fordobles fra et hundrede‑og‑tyve til to‑hundrede‑og‑halvtreds kilometer om året for at nå målet. Ifølge Danmarks Statistik er den grønne omstilling truet af de fortsatte forsinkelser.",
+  "prompt_tokens": 1620,
+  "completion_tokens": 275,
+  "latency_ms": 1201,
+  "cost_usd": 0.000408,
+  "created": "2026-11-10T05:38:45.461192Z",
+  "error": null
+}

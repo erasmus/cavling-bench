@@ -1,0 +1,21 @@
+{
+  "model_id": "anthropic-mid",
+  "pinned_version": "claude-sonnet-5-5",
+  "task_id": "t3_faktaboks",
+  "source_id": "datatilsynet-2026-faaborg-midtfyn-ai-aeldrepleje",
+  "archetype": null,
+  "prompt_sha256": "7a09e3eb877c3c63a70ec8e809000b8830ac3a905f749d7f62ae333bee8436de",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 3575,
+    "reasoning_effort": "low"
+  },
+  "text": "- Datatilsynet indledte i januar 2026 af egen drift en sag om Faaborg-Midtfyn Kommunes brug af et AI-baseret monitoreringssystem på et plejehjem.\n- Kommunen brugte løsningen over for 18 beboere i en afgrænset prøveperiode på seks måneder.\n- Kommunen havde vurderet samtlige trusler i sin risikovurdering til at udgøre en lav risiko uden nærmere begrundelse.\n- Datatilsynet vurderer, at kommunen skulle have gennemført en konsekvensanalyse, inden løsningen blev taget i brug.\n- Datatilsynet vurderer, at servicelovens og ældrelovens generelle bestemmelser ikke alene kan danne retsgrundlag for behandlingen ved brug af AI-løsningen.",
+  "prompt_tokens": 1666,
+  "completion_tokens": 290,
+  "latency_ms": 1992,
+  "cost_usd": 0.006232,
+  "created": "2026-11-10T07:15:40.051126Z",
+  "error": null
+}

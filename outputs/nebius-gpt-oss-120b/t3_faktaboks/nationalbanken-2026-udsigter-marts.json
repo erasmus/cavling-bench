@@ -1,0 +1,21 @@
+{
+  "model_id": "nebius-gpt-oss-120b",
+  "pinned_version": "openai/gpt-oss-120b",
+  "task_id": "t3_faktaboks",
+  "source_id": "nationalbanken-2026-udsigter-marts",
+  "archetype": null,
+  "prompt_sha256": "c8a53826a36cac90b19c0cbdc9c10a538368a99e760126bf36c2a8e9334238af",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 2075,
+    "reasoning_effort": "low"
+  },
+  "text": "- Nationalbanken forventer, at inflationen bliver 1,8 % i 2024.  \n- I et risikoscenarie kan inflationen i 2024 nå 4,5 % ved vedvarende høje olie‑ og gaspriser.  \n- BNP‑væksten i Danmark anslås til 1,8 % i både 2024 og 2025.  \n- Forsvarsudgifterne løftes permanent med 75 mia. kr. i forhold til niveauet før Ruslands invasion af Ukraine.  \n- Nationalbankdirektør Christian Kettel Thomsen siger, at den nye regering bør holde finansloven for 2027 inden for den tidligere regerings 2035‑plan.",
+  "prompt_tokens": 971,
+  "completion_tokens": 184,
+  "latency_ms": 1049,
+  "cost_usd": 0.00025605,
+  "created": "2026-11-10T05:38:15.586849Z",
+  "error": null
+}

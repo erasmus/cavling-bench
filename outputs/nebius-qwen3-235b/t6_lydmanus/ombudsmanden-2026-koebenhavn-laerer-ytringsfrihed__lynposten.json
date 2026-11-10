@@ -1,0 +1,21 @@
+{
+  "model_id": "nebius-qwen3-235b",
+  "pinned_version": "Qwen/Qwen3-235B-A22B-Instruct-2507",
+  "task_id": "t6_lydmanus",
+  "source_id": "ombudsmanden-2026-koebenhavn-laerer-ytringsfrihed",
+  "archetype": "lynposten",
+  "prompt_sha256": "e56c0a3bab2698e1b72ca706c6c6ef6f1c36f67069f5852c3af91e118acbff57",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 620,
+    "reasoning_effort": null
+  },
+  "text": "En lærer i København fik en tilrettevisningssamtale efter et interview om vold i skolen. I artiklen fortalte hun om at have fået hjernerystelse og blå mærker af et elevangreb. Hun kaldte skolemiljøet for at være i en krigszone. Københavns Kommune sagde, det var et pressefoto uden tilladelse, der var problemet. Men ombudsmanden ser det anderledes. Folketingets Ombudsmand, Christian Britten Lundblad, siger, at læreren talte på egne vegne. Hendes ytringer lå i kerneområdet for ytringsfrihed. Kommunen handlede ikke med respekt for den ret. Hun blev opfordret til at holde lav profil over for pressen. Det kalder ombudsmanden beklageligt. Han peger på, at hun havde orienteret sin leder om interviewet. Ombudsmanden henstiller, at kommunen genoptager sagen. Han forventer svar om tre måneder. Han kalder også kommunens pressekontakt til medierne for uheldig. Offentligt ansatte har lov til at ytre sig uden forudgående godkendelse. Det gælder også på deres arbejdsområde.",
+  "prompt_tokens": 2095,
+  "completion_tokens": 311,
+  "latency_ms": 18804,
+  "cost_usd": 0.0006056,
+  "created": "2026-11-10T05:45:30.180231Z",
+  "error": null
+}

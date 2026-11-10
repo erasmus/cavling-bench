@@ -1,0 +1,21 @@
+{
+  "model_id": "anthropic-mid",
+  "pinned_version": "claude-sonnet-5-5",
+  "task_id": "t4_versionering",
+  "source_id": "rigsrevisionen-2026-beretning-pesticider",
+  "archetype": "lynposten",
+  "prompt_sha256": "fa8289c7fc89431472d872f9035ceeb7499e50af7f2ecfbdab455ff78ef23e88",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 4025,
+    "reasoning_effort": "low"
+  },
+  "text": "7.800 tons glyfosat er købt i Danmark siden 2011 uden at være indberettet som brugt. Det svarer til knap halvdelen af det samlede indkøb i perioden. Miljøstyrelsen har ikke undersøgt, hvor de 7.800 tons er blevet af.\n\nStatsrevisorerne kalder Miljøministeriets kontrol med pesticider \"stærkt foruroligende\" og \"helt utilstrækkelig\". Beretningen blev behandlet den 7. september 2026.\n\nKontrollen bygger næsten kun på virksomhedernes egne selvangivelser. Virksomhederne kan slette, rette eller udelade oplysninger. Styrelsen efterprøver dem ikke og ved derfor ikke, om de passer.\n\nKontrollen følger heller ikke en risikovurdering af den enkelte virksomhed. Det kræver EU's kontrolforordning. Styrelsen har ellers oplysninger fra virksomheder, der selv har meldt ulovligt forbrug.\n\nI 2022-2025 søgte styrelsen kun efter fire slags ulovlige pesticider. Der er hundredvis af forbudte midler.\n\nVed kontrolbesøg bruger styrelsen næsten kun virksomhedens sprøjtejournal. Finder en kontrollør en halvtom dunk med ulovligt middel, kan han ikke påvise ulovligt forbrug. Det kræver, at virksomheden selv har noteret midlet.\n\nVirksomheder, der oplyser, at de ikke bruger pesticider, er helt undtaget fra kontrol.\n\nStyrelsen undlod frem til foråret 2025 at kontrollere selvanmeldte overtrædelser. Det var i strid med kemikalieloven. Statsrevisorerne finder det foruroligende, at styrelsen ikke kendte lovgrundlaget.\n\nStyrelsen for Grøn Arealomlægning og Vandmiljø har siden 2020 foreslået at krydstjekke køb, forbrug og lager. Miljøstyrelsen har ikke forholdt sig til forslagene.\n\nDer blev i 2025 fundet pesticidrester i over halvdelen af drikkevandsboringerne. Indholdet har været stigende siden 2018.",
+  "prompt_tokens": 2880,
+  "completion_tokens": 784,
+  "latency_ms": 5212,
+  "cost_usd": 0.0136,
+  "created": "2026-11-10T05:23:53.013317Z",
+  "error": null
+}

@@ -1,0 +1,21 @@
+{
+  "model_id": "nebius-gpt-oss-120b",
+  "pinned_version": "openai/gpt-oss-120b",
+  "task_id": "t3_faktaboks",
+  "source_id": "politi-2026-sydoestjylland-hadforbrydelse",
+  "archetype": null,
+  "prompt_sha256": "2005c022571aa89d41ce796683a1ce0b3612396d500214a1da255416b9887061",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 2075,
+    "reasoning_effort": "low"
+  },
+  "text": "- De tre unge mænd er 18, 18 og 17 år gamle.  \n- Overfaldet i Vitus Beringsparken fandt sted den 2. januar 2026.  \n- Hadforbrydelsen skete den 17. januar 2026 kl. 02.10 ved banegården i Horsens.  \n- Den 18‑årige, der blev dømt for hadforbrydelsen, fik et år og tre måneders fængsel.  \n- Den 17‑årige mand blev idømt 10 måneders fængsel.",
+  "prompt_tokens": 971,
+  "completion_tokens": 144,
+  "latency_ms": 508,
+  "cost_usd": 0.00023205,
+  "created": "2026-11-10T05:38:16.030166Z",
+  "error": null
+}

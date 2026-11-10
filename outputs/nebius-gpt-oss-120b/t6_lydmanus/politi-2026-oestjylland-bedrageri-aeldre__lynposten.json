@@ -1,0 +1,21 @@
+{
+  "model_id": "nebius-gpt-oss-120b",
+  "pinned_version": "openai/gpt-oss-120b",
+  "task_id": "t6_lydmanus",
+  "source_id": "politi-2026-oestjylland-bedrageri-aeldre",
+  "archetype": "lynposten",
+  "prompt_sha256": "5405c52a7d965b7f45620d23d33bad10e9b19fe9e2da2c11500916b23db897c3",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 2120,
+    "reasoning_effort": "low"
+  },
+  "text": "Treoghalvfems år gammel mand fra Tilst er idømt et år og seks måneders fængsel i Aarhus Ret. Han har svindlet fireoghalvfems ældre borgere for flere hundrede tusinde kroner ved at udgive sig for at være bankbud. Han indsamlede kort og koder og foretog kontanthævninger. Samtidig har han tilstået at have forsøgt at bedrage omkring et hundrede og halvtreds yderligere ældre via telefonen. Anklager Jakob Christensen fra Østjyllands Politi understreger, at sådanne bedragerier rammer sårbare mennesker. Den dømte har siden januar siddet i varetægt og skal fortsat forblive i fængsel, indtil dommen afsones. Ifølge anklageskriftet var flere medgerningsmænd også involveret.",
+  "prompt_tokens": 1752,
+  "completion_tokens": 240,
+  "latency_ms": 1058,
+  "cost_usd": 0.0004068,
+  "created": "2026-11-10T05:38:44.786443Z",
+  "error": null
+}

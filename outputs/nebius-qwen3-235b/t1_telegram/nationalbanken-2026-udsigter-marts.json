@@ -1,0 +1,21 @@
+{
+  "model_id": "nebius-qwen3-235b",
+  "pinned_version": "Qwen/Qwen3-235B-A22B-Instruct-2507",
+  "task_id": "t1_telegram",
+  "source_id": "nationalbanken-2026-udsigter-marts",
+  "archetype": null,
+  "prompt_sha256": "a82cdbc4a4ee949d7b27d02535aca61994e616ac9082463d27f416c96aac3521",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 560,
+    "reasoning_effort": null
+  },
+  "text": "Nationalbanken forventer, at inflationen i Danmark vil ligge på 1,8 pct. i 2026, 2,0 pct. i 2027 og 1,9 pct. i 2028, men advarer om, at en begrænsning af olie- og gasforsyningen fra Den Persiske Golf kan føre til en inflation på 4,5 pct. i år. I sin nye økonomiprognose, offentliggjort torsdag, vurderer banken, at dansk økonomi er i god balance med lav ledighed, mens BNP forventes at vokse med 1,8 pct. i 2026 og 2027 og 2,0 pct. i 2028. Nationalbankdirektør Christian Kettel Thomsen understreger, at der er begrænset kapacitet til at øge produktionen uden at skubbe til løn og inflation, og anbefaler derfor, at den nye regering ikke skubber til efterspørgslen ud over det planlagte i finansloven for 2027. Han peger også på, at det permanente løft i forsvarsudgifter med 75 mia. kr. siden Ruslands invasion af Ukraine mindsker råderummet for nye prioriteringer.",
+  "prompt_tokens": 1105,
+  "completion_tokens": 316,
+  "latency_ms": 4032,
+  "cost_usd": 0.0004106,
+  "created": "2026-11-10T05:39:03.544344Z",
+  "error": null
+}

@@ -1,0 +1,21 @@
+{
+  "model_id": "nebius-gpt-oss-120b",
+  "pinned_version": "openai/gpt-oss-120b",
+  "task_id": "t6_lydmanus",
+  "source_id": "kfst-2026-fibernet-prislofter",
+  "archetype": "lynposten",
+  "prompt_sha256": "498e4bf1b34fa2bf386d206b87cff2410a6ca148856f71cbf4b50ebc790c037e",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 2120,
+    "reasoning_effort": "low"
+  },
+  "text": "Tretten fibernetselskaber får nye prislofter fra årsskiftet, og både forbrugere og mindre virksomheder vil mærke dem, ifølge Konkurrence- og Forbrugerstyrelsen. Prislofterne gælder kun i områder, hvor netejeren har monopollignende status, så andre udbydere ikke kan betale ubegrænsede lejepriser. Reglerne skal sikre, at der er penge til at beskytte fibernettet mod fysiske og virtuelle angreb, men de må ikke dække beskyttelse af mobilnettet. De nye loftpriser kan blive op til femogtredive procent højere end i dag, fordi udstyrspriser, renteniveauet og sikkerhedsinvesteringer er steget. TDC får kun begrænsede forpligtelser, mens fem andre selskaber bindes til egne tilsagn, og syv sælger kun fibernet engros. Afgørelserne skal godkendes af Europa Kommissionen, ifølge Konkurrence- og Forbrugerstyrelsen.",
+  "prompt_tokens": 1853,
+  "completion_tokens": 339,
+  "latency_ms": 1550,
+  "cost_usd": 0.00048135,
+  "created": "2026-11-10T05:38:43.434330Z",
+  "error": null
+}

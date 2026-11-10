@@ -1,0 +1,21 @@
+{
+  "model_id": "nebius-gpt-oss-120b",
+  "pinned_version": "openai/gpt-oss-120b",
+  "task_id": "t4_versionering",
+  "source_id": "finanstilsynet-2026-danske-bank-boliglaansinspektion",
+  "archetype": "lynposten",
+  "prompt_sha256": "048073112fbb6bfd46b68a3cb449b0a72262ab77764a1a84ca9da6ab85d014e1",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 2525,
+    "reasoning_effort": "low"
+  },
+  "text": "58 boliglånsbevillinger i Danske Bank er blevet inspiceret af Finanstilsynet. Inspektionen har vist, at fire af dem ikke burde have fået lån på det foreliggende grundlag. Sagerne omfatter kunder med gældsfaktor over 3,5, belåningsgrad over 60 % og bankengagement over 200.000 kr., altså højere risiko end gennemsnittet.\n\nFinanstilsynet peger på, at Danske Bank har en større andel af lån med høj gældsfaktor og belåningsgrad end andre banker i samme undersøgelse. Selvom bankens data dækker en senere periode, ændrer det ikke på, at mange lån er givet til kunder med forhøjet følsomhed. En højere risikoprofil kræver strengere kreditvurdering, dokumentation og kontrol.\n\nFor den særlige kundegruppe, som banken har klassificeret som “særligt robuste”, blev der fundet væsentlige fejl i seks af 23 sager – 26 %. Finanstilsynet vurderer, at én af disse sager ikke burde have været bevilget. For øvrige kunder blev der konstateret fejl i 13 af 35 sager – 37 %, hvoraf tre sager ifølge tilsynet ikke burde have fået lån.\n\nFejlene omfatter utilstrækkelig analyse af høj gældsætning, fald i rådighedsbeløb, usikkert indkomstgrundlag og manglende dokumentation af kundens økonomiske robusthed. Finanstilsynet kritiserer også bankens kreditindstillingsformat, som ikke giver tilstrækkelig gennemsigtighed i udgifter, beregninger og rådgiverens faglige vurdering.\n\nSom følge af konklusionerne pålægger tilsynet Danske Bank at sikre, at boliglånsbevillinger er korrekt dokumenterede og baseret på en konkret vurdering af hver kundes økonomi. Banken får påbud om at tilpasse den forenklede kreditproces, så den dokumenterer rådighedsbeløb, opsparingsevne og forbrugstilpasning. Inspektionen påvirker ikke bankens solvensbehov.",
+  "prompt_tokens": 1675,
+  "completion_tokens": 496,
+  "latency_ms": 1884,
+  "cost_usd": 0.0005488499999999999,
+  "created": "2026-11-10T05:38:21.180952Z",
+  "error": null
+}

@@ -1,0 +1,21 @@
+{
+  "model_id": "nebius-gpt-oss-120b",
+  "pinned_version": "openai/gpt-oss-120b",
+  "task_id": "t4_versionering",
+  "source_id": "ombudsmanden-2026-koebenhavn-laerer-ytringsfrihed",
+  "archetype": "lynposten",
+  "prompt_sha256": "bdf76e3eca15dd4220b93de650318b1b00bb3e9370b18debb742986f26ad934b",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 2525,
+    "reasoning_effort": "low"
+  },
+  "text": "3 000 kr. i erstatning og en påtale til Københavns Kommune efter Ombudsmandens kritik af håndteringen af en lærers ytringsfrihed.\n\nEn folkeskolelærer i København gav et interview om voldelige elevadfærd. Artiklen beskrev hendes oplevelser med hjernerystelse og blå mærker efter et slag. Efter interviewet indkaldte kommunen læreren til en tilrettevisningssamtale. På mødet fik hun en tilrettevisning og blev opfordret til at holde lav profil i pressen.\n\nOmbudsmanden har undersøgt sagen. Han konkluderer, at kommunens handlinger ikke viste respekt for lærerens ytringsfrihed. “Offentligt ansatte har en nu lovfæstet ret til at gøre brug af deres ytringsfrihed … uden at blive udsat for negative reaktioner fra ledelsen,” siger Folketingets Ombudsmand Christian Britten Lundblad.\n\nKommunen hævder, at samtalen skyldtes et pressefoto, som læreren ikke havde givet tilladelse til. Ombudsmanden afviser dette som hovedårsag. Han påpeger, at læreren allerede havde orienteret sin skoleleder om interviewet, og at lederen ikke havde spurgt om fotoet.\n\nOmbudsmanden pålægger kommunen at genoptage sagen og inden tre måneder give en opdatering. Han kritiserer også kommunens pressemedarbejderes efterfølgende kontakt til flere medier som “meget uheldig”.\n\nReglerne om offentligt ansattes ytringsfrihed er lovfæstet fra 1. juli 2025. De beskytter ansatte mod negative ansættelsesretlige reaktioner for udtalelser på egne vegne. Kommunen må nu rette op på fejlen og sikre, at læreren får korrekt information om sin personalemæssige situation.",
+  "prompt_tokens": 1780,
+  "completion_tokens": 437,
+  "latency_ms": 1695,
+  "cost_usd": 0.0005292000000000001,
+  "created": "2026-11-10T05:38:28.073629Z",
+  "error": null
+}

@@ -1,0 +1,21 @@
+{
+  "model_id": "nebius-qwen3-235b",
+  "pinned_version": "Qwen/Qwen3-235B-A22B-Instruct-2507",
+  "task_id": "t2_rubrik",
+  "source_id": "dst-2026-ledighed-september",
+  "archetype": "landsavisen",
+  "prompt_sha256": "dd6100cc4cda349d84fa02101189c82d4ef8294e8d147fe8e9240805414f19c1",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 400,
+    "reasoning_effort": null
+  },
+  "text": "RUBRIK: Ledigheden faldt let i september  \nUNDERRUBRIK: Antallet af ledige faldt med 200 til 93.600 fuldtidspersoner, mens ledighedsprocenten holdt sig på 3,1 pct. Faldet skete især blandt aktiverede ledige og i Københavns omegn.",
+  "prompt_tokens": 1437,
+  "completion_tokens": 92,
+  "latency_ms": 4154,
+  "cost_usd": 0.00034260000000000003,
+  "created": "2026-11-10T05:39:29.601910Z",
+  "error": null
+}

@@ -1,0 +1,21 @@
+{
+  "model_id": "nebius-gpt-oss-120b",
+  "pinned_version": "openai/gpt-oss-120b",
+  "task_id": "t3_faktaboks",
+  "source_id": "kk-2026-ventetidsgaranti-foedselsgener",
+  "archetype": null,
+  "prompt_sha256": "a5f913e65424e2a73c2a1f09edfe75655a544d2262f87258d25a7c2bf01aae33",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 2075,
+    "reasoning_effort": "low"
+  },
+  "text": "- Ventetiden er i dag 17 dage til visitationssamtale og yderligere 44 dage til afklarende samtale og undersøgelse.  \n- Den nye ventetidsgaranti skal sikre første samtale inden maks. 7 dage og undersøgelse senest 3 uger efter henvendelse.  \n- I 2026 kan Sundheds‑ og Omsorgsforvaltningen hjælpe omkring 800 kvinder, og i 2027 forventes 1 000 kvinder.  \n- Kommunen har afsat knap 12,5 millioner kroner til udvidelsen af efterfødselshjælpen i de næste fire år.  \n- 320 af de nye forløb i 2027 vil kommunen selv stå for, mens 180 forløb forventes leveret af private udbydere.",
+  "prompt_tokens": 1654,
+  "completion_tokens": 203,
+  "latency_ms": 893,
+  "cost_usd": 0.0003699,
+  "created": "2026-11-10T05:38:15.357462Z",
+  "error": null
+}

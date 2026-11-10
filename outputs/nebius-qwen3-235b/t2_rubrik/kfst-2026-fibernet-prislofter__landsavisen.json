@@ -1,0 +1,21 @@
+{
+  "model_id": "nebius-qwen3-235b",
+  "pinned_version": "Qwen/Qwen3-235B-A22B-Instruct-2507",
+  "task_id": "t2_rubrik",
+  "source_id": "kfst-2026-fibernet-prislofter",
+  "archetype": "landsavisen",
+  "prompt_sha256": "f859c0f7e274a7b4c788b2a119b2d409eddd7f28eff08932aa37109f09fef5c4",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 400,
+    "reasoning_effort": null
+  },
+  "text": "RUBRIK: Prislofter på fibernet fastsættes efter to års forberedelse  \nUNDERRUBRIK: Konkurrence- og Forbrugerstyrelsen indfører prisbegrænsninger for 13 selskaber, hvoraf TDC får særlige forpligtelser, mens andre binder sig selv.",
+  "prompt_tokens": 2156,
+  "completion_tokens": 83,
+  "latency_ms": 1542,
+  "cost_usd": 0.00048100000000000004,
+  "created": "2026-11-10T05:39:53.008100Z",
+  "error": null
+}

@@ -1,0 +1,21 @@
+{
+  "model_id": "anthropic-frontier",
+  "pinned_version": "claude-fable-5-1",
+  "task_id": "t4_versionering",
+  "source_id": "rigsrevisionen-2026-beretning-energinet-elnettet",
+  "archetype": "lynposten",
+  "prompt_sha256": "88756b28cc266abc840a4b819ce1d256a96861e65b4f063e7177f36f0997430f",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 4025,
+    "reasoning_effort": "low"
+  },
+  "text": "Syv ud af ti af Energinets projekter til udbygning af elnettet er forsinkede. Regningen er foreløbig vokset med mere end 10 mia. kr. Det fremgår af en ny beretning fra Statsrevisorerne.\n\nStatsrevisorerne behandlede beretningen den 9. april 2026. De kalder styringen af udbygningen kritisabel. Ca. 70 % af de igangsatte projekter er forsinkede. De projekter, der ikke er forsinkede, er generelt nystartede.\n\nDe forsinkede projekter tager i gennemsnit ca. 80 % længere tid end forventet. Energinet har systematisk undervurderet, hvor lang tid projekterne tager. Selskabet har kun delvist overblik over årsagerne. Energinet peger både på interne og eksterne forhold. Forklaringerne er ifølge Statsrevisorerne ikke entydige. De viser ikke, hvordan nye forsinkelser kan undgås.\n\nKonsekvensen er, at den grønne omstilling bliver forsinket. Elnettet er i dag på ca. 9.000 km. Energinet forventer at bygge yderligere ca. 2.700 km frem mod 2030. Frem mod 2050 skal der komme 3.000-4.000 km mere. Det kræver, at tempoet mere end fordobles. I dag bygges 120 km om året. Der skal bygges 250 km.\n\nTallene halter allerede. Siden den seneste plan fra maj 2024 er der færdiggjort 206 km elnet. Planen krævede 490 km pr. 1. januar 2026.\n\nStatsrevisorerne kritiserer også Klima-, Energi- og Forsyningsministeriet. Ministeriet ejer Energinet på statens vegne. Det er siden starten af 2023 gentagne gange blevet gjort opmærksom på store og stigende forsinkelser. Men det reagerede for sent. Først i februar 2026 satte ministeriet en ekstern analyse af rammerne for Energinet i gang.\n\nMinisteriet har ikke beregnet, hvad forsinkelserne betyder for CO2-udledningen. Det har heller ikke regnet på konsekvenserne for nye solcelle- og vindmølleparker. Statsrevisorerne anbefaler, at ministeriet undersøger det nærmere. Målet er et overblik over, hvordan forsinkelserne rammer klimamålet frem mod 2030.",
+  "prompt_tokens": 2397,
+  "completion_tokens": 846,
+  "latency_ms": 11182,
+  "cost_usd": 0.06627,
+  "created": "2026-11-10T07:24:59.386677Z",
+  "error": null
+}

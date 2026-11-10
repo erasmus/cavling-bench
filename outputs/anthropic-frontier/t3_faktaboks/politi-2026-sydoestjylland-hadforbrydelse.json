@@ -1,0 +1,21 @@
+{
+  "model_id": "anthropic-frontier",
+  "pinned_version": "claude-fable-5-1",
+  "task_id": "t3_faktaboks",
+  "source_id": "politi-2026-sydoestjylland-hadforbrydelse",
+  "archetype": null,
+  "prompt_sha256": "2005c022571aa89d41ce796683a1ce0b3612396d500214a1da255416b9887061",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 3575,
+    "reasoning_effort": "low"
+  },
+  "text": "- Tre mænd på 18, 18 og 17 år blev i dag idømt fængselsstraffe ved Retten i Horsens.\n- Den 18-årige, der blev kendt skyldig i hadforbrydelsen, fik et år og tre måneders fængsel samt udvisning med indrejseforbud i seks år.\n- Den 17-årige blev idømt 10 måneders fængsel.\n- Den anden 18-årige blev idømt tre måneders fængsel samt en advarsel om udvisning.\n- Hadforbrydelsen fandt sted den 17. januar 2026 omkring kl. 02.10 ved banegården i Horsens.",
+  "prompt_tokens": 1361,
+  "completion_tokens": 224,
+  "latency_ms": 2366,
+  "cost_usd": 0.02481,
+  "created": "2026-11-10T07:21:41.902795Z",
+  "error": null
+}

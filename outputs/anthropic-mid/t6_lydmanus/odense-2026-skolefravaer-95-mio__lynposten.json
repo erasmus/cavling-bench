@@ -1,0 +1,21 @@
+{
+  "model_id": "anthropic-mid",
+  "pinned_version": "claude-sonnet-5-5",
+  "task_id": "t6_lydmanus",
+  "source_id": "odense-2026-skolefravaer-95-mio",
+  "archetype": "lynposten",
+  "prompt_sha256": "dd9228249cec0ea904d0e48093b7c87037026a736d77090c9aee81f0bb35b3fa",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 3620,
+    "reasoning_effort": "low"
+  },
+  "text": "Knap hver femte elev i Odense har et bekymrende skolefravær. Det er mere end ti procent. Odense Kommune sætter nu ni komma fem millioner kroner af hvert år til en styrket indsats.\n\nBørn- og Ungeudvalget besluttede det på sit møde i dag. Pengene kom med budgetaftalen for 2026.\n\nI starten af 2027 åbner en ny fraværslinje. Her kan forældre få råd og vejledning. Familier med særligt bekymrende fravær kan få en fast tovholder. Skolerne får flere ressourcer. Medarbejdere, der hjælper børn med komplekse fraværsudfordringer, får flere timer. Kommunen vil også finde børnene tidligere.\n\n\"Det er katastrofalt, når en elev ikke kommer i skole,\" siger Brian Dybro. Han er børn- og ungerådmand for SF.\n\nIfølge kommunen gemmer der sig ofte mistrivsel bag fraværet.",
+  "prompt_tokens": 2588,
+  "completion_tokens": 342,
+  "latency_ms": 3369,
+  "cost_usd": 0.008596,
+  "created": "2026-11-10T07:18:35.945153Z",
+  "error": null
+}

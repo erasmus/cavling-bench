@@ -1,0 +1,21 @@
+{
+  "model_id": "nebius-qwen3-235b",
+  "pinned_version": "Qwen/Qwen3-235B-A22B-Instruct-2507",
+  "task_id": "t1_telegram",
+  "source_id": "politi-2026-sydoestjylland-hadforbrydelse",
+  "archetype": null,
+  "prompt_sha256": "10bbbf3769e2d96423a9bfbc30a414cc0243aebb1779901afc33fd58d705f99f",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 560,
+    "reasoning_effort": null
+  },
+  "text": "Tre unge mænd på 18, 18 og 17 år er fredag ved Retten i Horsens dømt for vold, grov vold som hadforbrydelse og våbenlovgivningsbrud begået i januar 2026. Den ene 18-årige er idømt et år og tre måneders fængsel, seks måneders opholdsforbud i nattelivet og udvisning med seks års indrejseforbud efter blandt andet at have begået grov vold mod to kvinder ved Horsens banegård den 17. januar 2026 kl. 02.10, hvor han og den 17-årige råbte homofobiske skældsord og slog kvinderne med en totenschlæger og brugte peberspray. Den 17-årige fik 10 måneders fængsel, mens den anden 18-årige fik tre måneders fængsel og en advarsel om udvisning. Den sidstnævnte modtog dommen, mens de to andre udbad sig betænkningstid.",
+  "prompt_tokens": 1073,
+  "completion_tokens": 283,
+  "latency_ms": 2846,
+  "cost_usd": 0.00038439999999999997,
+  "created": "2026-11-10T05:39:14.327330Z",
+  "error": null
+}

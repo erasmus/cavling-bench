@@ -1,0 +1,21 @@
+{
+  "model_id": "nebius-gpt-oss-120b",
+  "pinned_version": "openai/gpt-oss-120b",
+  "task_id": "t2_rubrik",
+  "source_id": "fo-2026-salling-group-oego-boede",
+  "archetype": "lynposten",
+  "prompt_sha256": "282d49744909c7263a04e45c632075820f12bab63042a755ada5831d7aae6980",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 1900,
+    "reasoning_effort": "low"
+  },
+  "text": "RUBRIK: Salling Group betaler 10 millioner i bøde  \nUNDERRUBRIK: Forbrugerombudsmanden har pålagt Salling Group 10 millioner kroner for vildledende markedsføring af Nettos ØGO som bæredygtigt mærke.",
+  "prompt_tokens": 1731,
+  "completion_tokens": 118,
+  "latency_ms": 482,
+  "cost_usd": 0.00033045,
+  "created": "2026-11-10T05:38:05.790789Z",
+  "error": null
+}

@@ -1,0 +1,21 @@
+{
+  "model_id": "anthropic-mid",
+  "pinned_version": "claude-sonnet-5-5",
+  "task_id": "t5_forkortelse",
+  "source_id": "kk-2026-ventetidsgaranti-foedselsgener",
+  "archetype": null,
+  "prompt_sha256": "0cdced6abddeb3fc3c3b9e00e16b6ba274d58bed85606a350bbcca49243af060",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 3860,
+    "reasoning_effort": "low"
+  },
+  "text": "København indfører ventetidsgaranti for kvinder med efterfødselsgener. Siden Københavns Kommunes gratis tilbud i Vanløse åbnede i foråret 2025, har efterspørgslen været stor. I dag er ventetiden 17 dage fra henvisning til visitationssamtale og yderligere 44 dage til afklarende samtale og undersøgelse. Det er for længe, mener politikerne bag budgetaftalen.\n\nFremover skal kvinder tilbydes første samtale efter maksimalt 7 dage og en undersøgelse senest 3 uger senere. Kan kommunen ikke overholde garantien, tilbydes et forløb hos en privat leverandør. Første samtale varetages af gynækologisk obstetriske fysioterapeuter, som giver konkret rådgivning, bl.a. om øvelser derhjemme.\n\nSundheds- og omsorgsborgmester Jens-Kristian Lütken (V) kalder det \"Danmarks mest ambitiøse garanti\". Overborgmester Sisse Marie Welling (SF) siger, at kommunen tager næste skridt efter at have åbnet Danmarks første offentlige efterfødselstilbud. Alexander Ryle, gruppeformand for Liberal Alliance, understreger, at det handler om at \"sætte mennesket før systemet\".\n\nI år kan omtrent 800 kvinder få hjælp, næste år godt 1.000. Fremskrivninger viser behov for yderligere 500 i 2027, i alt 1.500. Kommunen tager 320 af de nye forløb, mens 180 forventes varetaget af private, som kommunen fører tilsyn med.\n\nBudgetaftalen afsætter knap 12,5 mio. kroner over fire år oven i knap 19 mio. kroner fra tidligere aftaler. Målgruppen udvides: I 2026 kan kvinder, der har født for 3 år siden, få hjælp, fra 2027 gælder 5 år, og fra 2028 er der intet loft.",
+  "prompt_tokens": 2545,
+  "completion_tokens": 698,
+  "latency_ms": 4996,
+  "cost_usd": 0.01207,
+  "created": "2026-11-10T07:17:59.458108Z",
+  "error": null
+}

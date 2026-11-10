@@ -1,0 +1,21 @@
+{
+  "model_id": "nebius-qwen3-235b",
+  "pinned_version": "Qwen/Qwen3-235B-A22B-Instruct-2507",
+  "task_id": "t6_lydmanus",
+  "source_id": "fo-2026-tankstationer-reservation-beloeb",
+  "archetype": "lynposten",
+  "prompt_sha256": "93eb9931eed4a77282e06624e1616770e76cd27a472a6a46a572799880a0b347",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 620,
+    "reasoning_effort": null
+  },
+  "text": "Ni hundrede femoghalvtreds kroner. Så meget reserverer Q8 stadig på forbrugerens konto, når de tanker. Forbrugerombudsmanden kalder det urimeligt. Især for små biler og minibiler. Shell, Uno-X og OK har allerede ændret deres praksis. Nu kan kunderne selv vælge, hvor meget der reserveres. Eller beløbet er sat ned til højest 100 kroner. Q8 arbejder på en løsning, siger de. Men indtil videre står de fast i 950 kroner. Forbrugerombudsmanden har også kritik af manglende samtykke. Kunder skal tydeligt godkende reservationen i skærmflowet. Det sker ikke altid. Især ikke ved betaling med Apple Pay og Google Pay. Desuden frigives reserverede beløb for sent hos flere kæder. Op til elleve dage har det taget. Forbrugerombudsmand Torben Jensen siger, at forbrugere mister rådighed over deres penge, når der reserveres. Derfor skal beløbet være rimeligt. Og frigives hurtigt. Ifølge Forbrugerombudsmanden er reglerne klare.",
+  "prompt_tokens": 2903,
+  "completion_tokens": 307,
+  "latency_ms": 7648,
+  "cost_usd": 0.0007647999999999999,
+  "created": "2026-11-10T05:45:01.997444Z",
+  "error": null
+}

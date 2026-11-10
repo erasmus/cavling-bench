@@ -1,0 +1,21 @@
+{
+  "model_id": "nebius-gpt-oss-120b",
+  "pinned_version": "openai/gpt-oss-120b",
+  "task_id": "t1_telegram",
+  "source_id": "finanstilsynet-2026-danske-bank-boliglaansinspektion",
+  "archetype": null,
+  "prompt_sha256": "3b72233b9fa917a61c523dca041fe0b54f7ad350a8e1f2e1c01831a41dfb2e0f",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 2060,
+    "reasoning_effort": "low"
+  },
+  "text": "Finanstilsynet har pålagt Danske Bank at sikre, at boliglånsbevillinger fremover er korrekt dokumenterede og underbygger en konkret vurdering af kundernes økonomiske robusthed, efter at fire af 58 gennemgåede sager – svarende til 6,9 % – blev vurderet som ubegrundede. Inspektionen, som omfattede 58 lånebevillinger med gældsfaktor over 3,5, belåningsgrad over 60 % og engagement over 200.000 kr., viste, at banken har en højere andel af risikable lån end andre institutter. For den særskilte kundegruppe blev væsentlige fejl konstateret i 6 af 23 sager (26 %) og for øvrige kunder i 13 af 35 sager (37 %). Finanstilsynet påpeger også svagheder i bankens kreditindstillingsformat, som hæmmer gennemsigtigheden, men bemærker, at inspektionen ikke påvirker bankens solvensbehov.",
+  "prompt_tokens": 1380,
+  "completion_tokens": 291,
+  "latency_ms": 1171,
+  "cost_usd": 0.0003816,
+  "created": "2026-11-10T05:37:58.354422Z",
+  "error": null
+}

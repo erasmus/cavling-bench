@@ -1,0 +1,21 @@
+{
+  "model_id": "nebius-gpt-oss-120b",
+  "pinned_version": "openai/gpt-oss-120b",
+  "task_id": "t2_rubrik",
+  "source_id": "fm-2026-finanslovforslag-2027",
+  "archetype": "lynposten",
+  "prompt_sha256": "1e619664f7036bdfd11f2ed5600a9560a1abb10dac07f889e7d16087c8bb6837",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 1900,
+    "reasoning_effort": "low"
+  },
+  "text": "RUBRIK: Regeringen løfter velfærd og grøn omstilling i 2027‑budgettet  \nUNDERRUBRIK: Finanslovforslaget afsætter 1,2 mia. kr. til skole, 0,6 mia. kr. til tandpleje, løfter pensionister med 1.600 kr., satser på 3,5 % BNP i forsvar og 650 mio. kr. i elektrificering samt gratis transport for unge.",
+  "prompt_tokens": 1979,
+  "completion_tokens": 592,
+  "latency_ms": 1777,
+  "cost_usd": 0.0006520499999999999,
+  "created": "2026-11-10T05:38:06.186542Z",
+  "error": null
+}

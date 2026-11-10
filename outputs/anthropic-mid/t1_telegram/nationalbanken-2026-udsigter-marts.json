@@ -1,0 +1,21 @@
+{
+  "model_id": "anthropic-mid",
+  "pinned_version": "claude-sonnet-5-5",
+  "task_id": "t1_telegram",
+  "source_id": "nationalbanken-2026-udsigter-marts",
+  "archetype": null,
+  "prompt_sha256": "a82cdbc4a4ee949d7b27d02535aca61994e616ac9082463d27f416c96aac3521",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 3560,
+    "reasoning_effort": "low"
+  },
+  "text": "Nationalbanken vurderer, at dansk økonomi trods geopolitisk usikkerhed og stigende energipriser er i god balance, og at et inflationschok som efter Ruslands invasion af Ukraine ikke venter forude. Det fremgår af bankens prognose, som blev offentliggjort torsdag. Inflationen ventes at lande på 1,8 pct. i år, 2,0 pct. i 2027 og 1,9 pct. i 2028, mens BNP ventes at vokse 1,8 pct. i år og næste år og 2 pct. i 2028. Begrænses olie- og gasforsyningen fra Den Persiske Golf, kan inflationen i år nå 4,5 pct. Nationalbanken opfordrer den nye regering til ikke at øge efterspørgslen ud over 2035-planen i finansloven for 2027 og til at udvise forsigtighed med råderummet. Det permanente løft af forsvarsudgifterne på 75 mia. kr. har indsnævret rummet for nye prioriteringer, siger nationalbankdirektør Christian Kettel Thomsen.",
+  "prompt_tokens": 1449,
+  "completion_tokens": 384,
+  "latency_ms": 3155,
+  "cost_usd": 0.006738,
+  "created": "2026-11-10T07:14:48.059670Z",
+  "error": null
+}

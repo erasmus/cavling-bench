@@ -1,0 +1,21 @@
+{
+  "model_id": "anthropic-mid",
+  "pinned_version": "claude-sonnet-5-5",
+  "task_id": "t6_lydmanus",
+  "source_id": "politi-2026-oestjylland-bedrageri-aeldre",
+  "archetype": "lynposten",
+  "prompt_sha256": "5405c52a7d965b7f45620d23d33bad10e9b19fe9e2da2c11500916b23db897c3",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 3620,
+    "reasoning_effort": "low"
+  },
+  "text": "To hundrede og halvfjerds tusind kroner. Så meget har en toogtredive-årig mand fra Tilst svindlet af otteogfyrre ældre borgere. Retten i Aarhus har i dag idømt ham et år og seks måneders fængsel.\n\nManden udgav sig for at være bankbud. Han hentede kort og koder hos de ældre. Bagefter hævede han kontanter. Han erkendte også, at han har forsøgt at svindle omkring et hundrede og halvtreds andre borgere over telefonen.\n\nAnklager Jakob Christensen fra Anklagemyndigheden ved Østjyllands Politi siger: \"Jeg er ganske tilfreds med, at manden nu kan se frem til at skulle i fængsel.\"\n\nManden skal betale erstatning til de forurettede. Han skal forblive varetægtsfængslet. Han modtog dommen. Kendelsen om fortsat fængsling er kæret til landsretten.",
+  "prompt_tokens": 2610,
+  "completion_tokens": 332,
+  "latency_ms": 3413,
+  "cost_usd": 0.00854,
+  "created": "2026-11-10T07:18:40.702065Z",
+  "error": null
+}

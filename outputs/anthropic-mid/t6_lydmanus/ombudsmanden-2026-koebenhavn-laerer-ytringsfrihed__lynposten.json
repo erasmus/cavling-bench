@@ -1,0 +1,21 @@
+{
+  "model_id": "anthropic-mid",
+  "pinned_version": "claude-sonnet-5-5",
+  "task_id": "t6_lydmanus",
+  "source_id": "ombudsmanden-2026-koebenhavn-laerer-ytringsfrihed",
+  "archetype": "lynposten",
+  "prompt_sha256": "e56c0a3bab2698e1b72ca706c6c6ef6f1c36f67069f5852c3af91e118acbff57",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 3620,
+    "reasoning_effort": "low"
+  },
+  "text": "Ombudsmanden kritiserer Københavns Kommune. Kommunen indkaldte en lærer til samtale, efter at hun havde givet et interview til en avis. Det handlede om vold på hendes tidligere skole.\n\nUnder samtalen fik hun en tilrettevisning. Hun blev også opfordret til at holde lav profil over for pressen. Kommunen kalder opfordringen yderst beklagelig.\n\nKommunen siger, at samtalen skyldtes et pressefoto. Hun havde ikke indhentet tilladelse til at tage det. Ombudsmanden mener alligevel, at forløbet berettiget kunne opfattes som en negativ reaktion på hendes udtalelser.\n\nIfølge ombudsmand Christian Britten Lundblad ligger udtalelserne i kerneområdet for offentligt ansattes ytringsfrihed. Han beder kommunen genoptage sagen. Kommunen har tre måneder til at svare.",
+  "prompt_tokens": 2802,
+  "completion_tokens": 333,
+  "latency_ms": 2841,
+  "cost_usd": 0.008934,
+  "created": "2026-11-10T07:18:36.863411Z",
+  "error": null
+}

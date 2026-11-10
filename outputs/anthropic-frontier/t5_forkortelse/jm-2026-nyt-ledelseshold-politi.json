@@ -1,0 +1,21 @@
+{
+  "model_id": "anthropic-frontier",
+  "pinned_version": "claude-fable-5-1",
+  "task_id": "t5_forkortelse",
+  "source_id": "jm-2026-nyt-ledelseshold-politi",
+  "archetype": null,
+  "prompt_sha256": "cc9cf5d90e64b0e59d81925622d8eb3a5cd8c6d4dcd0b58be74b94b796b8f7f0",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 3860,
+    "reasoning_effort": "low"
+  },
+  "text": "Justitsministeriet gennemfører en større ledelsesmæssig rokade, fordi åremålsansættelserne for en betydelig del af de øverste chefer udløber. Justitsminister Nicolai Wammen siger, at det nye ledelseshold skal stå i spidsen for politi og anklagemyndighed frem mod 2030, og takker Thorkild Fogde og de øvrige, der forlader deres hidtidige stillinger.\n\nThorkild Fogde rokerer fra rigspolitichef til politidirektør i Københavns Vestegns Politi. Lasse Boje Nielsen rokerer fra rigsadvokat til rigspolitichef; han har tidligere været politidirektør for National enhed for Særlig Kriminalitet og har erfaring fra Danmarks Fængsler, Justitsministeriet og Beskæftigelsesministeriet. Caroline Østergaard Nielsen, statsadvokat ved Rigsadvokaten, fungerer som rigsadvokat indtil videre.\n\nRasmus Kieffer-Kristensen, ministerråd ved Danmarks Faste Mission ved FN i New York, bliver chef for Politiets Efterretningstjeneste; han har bl.a. været juridisk chef i PET, statsadvokat ved Rigsadvokaten, konstitueret landsdommer og forsvarsadvokat. Finn Borch Andersen går fra PET-chef til politidirektør i Københavns Politi. Steen Bechmann Jacobsen, statsadvokat ved Rigsadvokaten, bliver politidirektør i National enhed for Særlig Kriminalitet.\n\nFrits Villy Kjeldsen flytter fra Syd- og Sønderjyllands Politi til Østjyllands Politi; Lene Frank fra Sydsjællands- og Lolland-Falsters Politi til Syd- og Sønderjyllands Politi; Henriette Rosenborg Larsen fra Sydøstjyllands Politi til Sydsjællands- og Lolland-Falsters Politi. Brian Sølvberg Fussing, chefpolitiinspektør, bliver politidirektør i Sydøstjyllands Politi. Lars Kirkegaard, stabschef i Midt- og Vestjyllands Politi, bliver politidirektør i Fyns Politi. Andreas Langsted, økonomidirektør i Rigspolitiet, bliver politidirektør i Midt- og Vestsjællands Politi.\n\nAnne Marie Roum Svendsen (Nordjylland), Bjørn Tegner Bay (Grønland), Helle Kyndesen (Midt- og Vestjylland) og Martin Preisz Gravesen (Bornholm) udnævnes på ny. Marie Bindslev, chefanklager i Sydsjællands- og Lolland-Falster Politi, bliver statsadvokat i København. Jens-Christian Bülow udnævnes på ny som statsadvokat for Særlig Kriminalitet.",
+  "prompt_tokens": 2219,
+  "completion_tokens": 1036,
+  "latency_ms": 9432,
+  "cost_usd": 0.07399,
+  "created": "2026-11-10T07:25:55.584161Z",
+  "error": null
+}

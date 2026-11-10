@@ -1,0 +1,21 @@
+{
+  "model_id": "anthropic-mid",
+  "pinned_version": "claude-sonnet-5-5",
+  "task_id": "t4_versionering",
+  "source_id": "dst-2026-bnp-2-kvartal-revideret",
+  "archetype": "lynposten",
+  "prompt_sha256": "20292ae37f60f9d02864a534e0d015f9a20ac67a6787664a303eea20def82655",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 4025,
+    "reasoning_effort": "low"
+  },
+  "text": "Danmarks BNP steg med 0,9 procent i andet kvartal 2026. Tallet er korrigeret for priser og sæsonudsving. Væksten er skrevet 0,6 procentpoint op fra første opgørelse.\n\nMedicinalindustrien trækker op. Hele økonomiens bruttoværditilvækst steg med 1,1 procent. Uden medicinalindustrien var den på 0,7 procent. Også den øvrige industri og den offentlige sektor bidrog positivt.\n\nI første halvår er BNP 6,0 procent højere end på samme tid sidste år.\n\n7.800 flere er i job. Beskæftigelsen steg med 0,2 procent. De præsterede timer steg med 0,3 procent.\n\nInvesteringerne stiger 1,5 procent. Det er 0,7 procentpoint mere end i første opgørelse. Et patentkøb i udlandet løfter tallet. Investeringer i intellektuelle rettigheder går fra et fald på 1,2 procent til en stigning på 1,5 procent. Andet byggeri og anlæg bidrager også positivt. Transportmidler og maskiner faldt kraftigt.\n\nDanskernes forbrug står stille. Både husholdningernes og det offentlige forbrug lå på 0,0 procent. Forbruget af tjenester steg med 0,8 procent. Forbruget af varer faldt med 0,8 procent. Køb af køretøjer faldt med 1,8 procent. I første kvartal steg de med 12,7 procent.\n\nImporten steg med 1,8 procent. Eksporten steg med 1,5 procent. Vareeksporten voksede med 2,8 procent, drevet af maskiner. Tjenesteeksporten faldt med 0,5 procent.\n\nFørste kvartals vækst er nu 1,7 procent. Det er 0,2 procentpoint mere end før. Lagrene svinger kraftigt. Derfor skal vækstbidraget fra dem læses med stor påpasselighed.",
+  "prompt_tokens": 3872,
+  "completion_tokens": 686,
+  "latency_ms": 5162,
+  "cost_usd": 0.014604,
+  "created": "2026-11-10T07:16:08.879790Z",
+  "error": null
+}

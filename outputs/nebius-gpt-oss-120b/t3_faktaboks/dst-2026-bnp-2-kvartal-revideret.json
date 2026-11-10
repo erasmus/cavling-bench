@@ -1,0 +1,21 @@
+{
+  "model_id": "nebius-gpt-oss-120b",
+  "pinned_version": "openai/gpt-oss-120b",
+  "task_id": "t3_faktaboks",
+  "source_id": "dst-2026-bnp-2-kvartal-revideret",
+  "archetype": null,
+  "prompt_sha256": "056fcf6b416463768e368deb4d506f8c5e836861615c35af129f0b264892a52e",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 2075,
+    "reasoning_effort": "low"
+  },
+  "text": "- BNP steg med 0,9 % i andet kvartal 2026 efter pris‑ og sæsonkorrektion.  \n- Medicinalindustrien løftede BVT med 1,1 %, mens uden den var væksten 0,7 %.  \n- Faste bruttoinvesteringer steg 1,5 % i andet kvartal, primært på grund af intellektuelle rettigheder.  \n- Beskæftigelsen steg med 0,2 % i andet kvartal, svarende til 7.800 personer.  \n- Samlet import steg 1,8 % og eksport 1,5 % i andet kvartal 2026.",
+  "prompt_tokens": 2252,
+  "completion_tokens": 172,
+  "latency_ms": 732,
+  "cost_usd": 0.000441,
+  "created": "2026-11-10T05:38:13.687676Z",
+  "error": null
+}

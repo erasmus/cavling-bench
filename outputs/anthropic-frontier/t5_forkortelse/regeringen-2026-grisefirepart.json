@@ -1,0 +1,21 @@
+{
+  "model_id": "anthropic-frontier",
+  "pinned_version": "claude-fable-5-1",
+  "task_id": "t5_forkortelse",
+  "source_id": "regeringen-2026-grisefirepart",
+  "archetype": null,
+  "prompt_sha256": "a6d27bbd41265002bc62d696b22f4847df08ed451d336b0e8da80d798d8b4d3d",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 3860,
+    "reasoning_effort": "low"
+  },
+  "text": "Regeringen nedsætter en firepart for fremtidens griseproduktion med målet om bedre dyrevelfærd og en mere bæredygtig produktion. Når fireparten begynder arbejdet efter nytår, deltager Landbrug & Fødevarer, Dyrenes Beskyttelse, Fødevareforbundet NNF, Danmarks Naturfredningsforening, Dansk Erhverv, Dansk Industri og regeringen.\n\nParterne skal finde løsninger, der løfter dyrevelfærden og samtidig sikrer en stærk, bæredygtig griseproduktion, herunder mere økologi, lavere antibiotikaforbrug og en placering højere i værdikæden.\n\nMinisteren for natur og dyrevelfærd, Christian Rabjerg Madsen, siger, at effektivitet aldrig må ske på bekostning af det gode dyreliv. Mange grise har for lidt plads, omkring 95 procent får klippet en del af halen af, og millioner af pattegrise dør hvert år. Danmark skal primært opdrætte de grise, der spises herhjemme eller eksporteres som forædlede produkter.\n\nUdenrigsminister Lars Løkke Rasmussen peger på, at antallet af slagtninger og slagteriarbejdere i Danmark er faldet med omtrent en tredjedel på 15 år, mens eksporten af smågrise er mere end tidoblet. Derfor nedsættes et ekspertpanel, hvis rådgivning bliver grundlæggende for firepartens arbejde.\n\nErhvervs- og konkurrencekraftsminister Martin Lidegaard kalder fireparten et vigtigt skridt mod en ambitiøs national fødevarestrategi.\n\nMiljøminister Maria Reumert Gjerding fremhæver, at svineproduktionen belaster fjorde, kystvande, natur og naboer, og at erfaringerne fra den grønne trepart bygges videre på.",
+  "prompt_tokens": 1897,
+  "completion_tokens": 679,
+  "latency_ms": 7914,
+  "cost_usd": 0.05292,
+  "created": "2026-11-10T07:26:50.636702Z",
+  "error": null
+}

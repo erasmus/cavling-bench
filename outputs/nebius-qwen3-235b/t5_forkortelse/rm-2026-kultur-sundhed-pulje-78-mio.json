@@ -1,0 +1,21 @@
+{
+  "model_id": "nebius-qwen3-235b",
+  "pinned_version": "Qwen/Qwen3-235B-A22B-Instruct-2507",
+  "task_id": "t5_forkortelse",
+  "source_id": "rm-2026-kultur-sundhed-pulje-78-mio",
+  "archetype": null,
+  "prompt_sha256": "7447ae506cfbd69bc95b6d92cc12716aee109f9ebc21fc22c831f87d207d48b0",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 860,
+    "reasoning_effort": null
+  },
+  "text": "Region Midtjylland åbner en pulje på 7,8 mio. kr. til at styrke sundhed gennem kultur. Pengene skal omsætte viden og erfaringer til konkrete tilbud for borgere og patienter i hele regionen og styrke samarbejdet mellem kultur- og sundhedsaktører. Formålet er at skabe bæredygtige samarbejder mellem kulturaktører, kommuner, hospitaler og andre relevante parter i de fem sundhedsråds geografier. Per Møller Jensen (S), formand for Region Midtjyllands Udvalg for Regional Udvikling, peger på, at kultur kan styrke sundhed og trivsel, og at puljen skal sikre, at flere effektive løsninger når ud til dem, der har brug for dem. Puljen fokuserer på fire temaer: forebyggelse af sygdom og øget trivsel, særligt blandt børn og unge; lindring af symptomer under sygdom; mestring, rehabilitering og recovery, herunder liv med psykisk eller kronisk sygdom; samt samarbejde mellem midtjyske kommuner, hospitaler eller socialområdet. Kulturaktører kan ansøge i samarbejde med sundhedsaktører. Vivi Altenburg (DD), næstformand, understreger, at puljen skal løfte projekter med kvalitet og gennemslagskraft. Projekter kan have en varighed på op til tre år, og der skal søges mindst 200.000 kr. Medfinansiering skal være mindst 25 procent. Ansøgningsfrist er 26. august 2026 kl. 12.00. Ansøgninger behandles i november 2026. Der afholdes et fysisk dialogmøde på Godsbanen i Aarhus 21. maj kl. 10-13 og et digitalt 2. juni kl. 13-14.30.",
+  "prompt_tokens": 1424,
+  "completion_tokens": 504,
+  "latency_ms": 41937,
+  "cost_usd": 0.0005872000000000001,
+  "created": "2026-11-10T05:45:10.866848Z",
+  "error": null
+}

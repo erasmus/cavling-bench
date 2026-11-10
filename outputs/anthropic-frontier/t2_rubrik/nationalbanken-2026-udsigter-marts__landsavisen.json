@@ -1,0 +1,21 @@
+{
+  "model_id": "anthropic-frontier",
+  "pinned_version": "claude-fable-5-1",
+  "task_id": "t2_rubrik",
+  "source_id": "nationalbanken-2026-udsigter-marts",
+  "archetype": "landsavisen",
+  "prompt_sha256": "f2bddfb710e8a7ed853f3dd569b7728652f32c186f8652e8c3eb97301091eea2",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 3400,
+    "reasoning_effort": "low"
+  },
+  "text": "RUBRIK: Nationalbanken: Dansk økonomi i balance trods usikkerhed\nUNDERRUBRIK: Nationalbanken venter lav inflation og vækst på 1,8 pct., men advarer om energipriser og maner til forsigtighed i finansloven for 2027.",
+  "prompt_tokens": 1916,
+  "completion_tokens": 104,
+  "latency_ms": 1802,
+  "cost_usd": 0.02436,
+  "created": "2026-11-10T07:20:35.145057Z",
+  "error": null
+}

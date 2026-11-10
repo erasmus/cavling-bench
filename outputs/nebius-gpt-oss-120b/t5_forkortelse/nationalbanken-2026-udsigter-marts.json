@@ -1,0 +1,21 @@
+{
+  "model_id": "nebius-gpt-oss-120b",
+  "pinned_version": "openai/gpt-oss-120b",
+  "task_id": "t5_forkortelse",
+  "source_id": "nationalbanken-2026-udsigter-marts",
+  "archetype": null,
+  "prompt_sha256": "26c9697f4a3da91108af378dabe74e9ae733e3a41f2d3229e36e135f91b9d341",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 2360,
+    "reasoning_effort": "low"
+  },
+  "text": "Udsigterne for dansk og global økonomi er præget af vedvarende geopolitisk usikkerhed, handelskonflikter og stigende energipriser, men dansk økonomi er i god balance med høj beskæftigelse og lav ledighed, ifølge Nationalbankens prognose offentliggjort i dag. Nationalbanken forventer, at inflationen vil være lav de kommende år, men energipriserne som følge af krigen i Mellemøsten udgør en væsentlig risiko. ”Trods de nuværende stigninger i energipriserne forventer vi ikke, at vi ser ind i en inflationskrise, som den vi oplevede efter Ruslands invasion af Ukraine,” siger nationalbankdirektør Christian Kettel Thomsen. Inflationstallet forventes til 1,8 % i år, 2,0 % i 2027 og 1,9 % i 2028. I et risikoscenarie med begrænset olie‑ og gasforsyning fra Den Persiske Golf kan inflationen nå 4,5 % i år. Nationalbanken anbefaler, at den nye regering i finansloven for 2027 ikke øger efterspørgslen ud over den tidligere regerings 2035‑plan, da ledig kapacitet er begrænset. Store udgifter til forsvar (+ 75 mia. kr.), klima og demografi reducerer råderummet for nye prioriteringer. BNP‑væksten forventes til 1,8 % i år og næste år og 2 % i 2028. Kerneinflationen anslås til 2,2 % i 2026, 2,1 % i 2027 og 1,7 % i 2028. Nationalbanken har også udgivet analyser om privatforbruget og monetære og finansielle tendenser på www.nationalbanken.dk.",
+  "prompt_tokens": 973,
+  "completion_tokens": 434,
+  "latency_ms": 1307,
+  "cost_usd": 0.00040635,
+  "created": "2026-11-10T05:38:37.362606Z",
+  "error": null
+}

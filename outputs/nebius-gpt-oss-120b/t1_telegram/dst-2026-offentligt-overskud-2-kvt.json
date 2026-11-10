@@ -1,0 +1,21 @@
+{
+  "model_id": "nebius-gpt-oss-120b",
+  "pinned_version": "openai/gpt-oss-120b",
+  "task_id": "t1_telegram",
+  "source_id": "dst-2026-offentligt-overskud-2-kvt",
+  "archetype": null,
+  "prompt_sha256": "c4b831cabdb76efc1fcb1edbd62a971cd22da805b1dc46fcda515a8eb47a05a9",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 2060,
+    "reasoning_effort": "low"
+  },
+  "text": "Offentligt overskud på 35,5 mia. kr. i andet kvartal 2026, 12,3 mia. kr. højere end i første kvartal, rapporteres den 25. september. De samlede offentlige udgifter lå på 379,9 mia. kr., domineret af lønninger (116,2 mia. kr.) og indkomstoverførsler til husholdninger (116,9 mia. kr.), mens indtægterne nåede 415,3 mia. kr. Nettoformuen faldt med 11 mia. kr. til 871 mia. kr. på grund af negative omvurderinger af aktier på 14,1 mia. kr., men steg samlet 98,1 mia. kr. år‑til‑år. ØMU‑gælden steg 19,4 mia. kr. til 859,1 mia. kr., svarende til 27 % af BNP. Revisionen af første‑kvartals‑saldoen løftede den fra 9,3 mia. kr. til 23,2 mia. kr. efter en opjustering af pensionsafkastskatten på 10,9 mia. kr.",
+  "prompt_tokens": 1027,
+  "completion_tokens": 309,
+  "latency_ms": 1151,
+  "cost_usd": 0.00033945,
+  "created": "2026-11-10T05:37:57.256792Z",
+  "error": null
+}

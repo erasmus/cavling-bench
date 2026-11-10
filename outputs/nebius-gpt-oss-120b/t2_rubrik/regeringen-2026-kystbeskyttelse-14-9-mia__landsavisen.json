@@ -1,0 +1,21 @@
+{
+  "model_id": "nebius-gpt-oss-120b",
+  "pinned_version": "openai/gpt-oss-120b",
+  "task_id": "t2_rubrik",
+  "source_id": "regeringen-2026-kystbeskyttelse-14-9-mia",
+  "archetype": "landsavisen",
+  "prompt_sha256": "7a39078847720f2324785d35c7a696d8a612faecaa569f63fb6f18a32ca7a4ed",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 1900,
+    "reasoning_effort": "low"
+  },
+  "text": "RUBRIK: Regeringen afsætter 14,9 mia. kr. til national kystbeskyttelse  \nUNDERRUBRIK: Klimatilpasningsplan II giver staten 85 % medfinansiering og muliggør investeringer på op til 20 mia. kr. frem mod 2040 for at beskytte 1 million danskere langs kysten.",
+  "prompt_tokens": 1641,
+  "completion_tokens": 421,
+  "latency_ms": 1138,
+  "cost_usd": 0.00049875,
+  "created": "2026-11-10T05:38:12.565608Z",
+  "error": null
+}

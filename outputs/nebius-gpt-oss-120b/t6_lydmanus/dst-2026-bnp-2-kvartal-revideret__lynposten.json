@@ -1,0 +1,21 @@
+{
+  "model_id": "nebius-gpt-oss-120b",
+  "pinned_version": "openai/gpt-oss-120b",
+  "task_id": "t6_lydmanus",
+  "source_id": "dst-2026-bnp-2-kvartal-revideret",
+  "archetype": "lynposten",
+  "prompt_sha256": "5f705b47c0d4e6fcbb98c97fd4a0a7866528825b8be1ad01a8718f9803e0ea10",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 2120,
+    "reasoning_effort": "low"
+  },
+  "text": "Femti‑seks procent vækst i dansk bruttonationalprodukt i andet kvartal rammer både virksomheder og lønmodtagere, siger Danmarks Statistik. BNP steg med nul komma ni procent efter pris‑ og sæsonkorrektion, en opjustering på nul komma seks procentpoint siden den første opgørelse. Medicinalindustrien løftede bruttoværditilvæksten med en procent og en tiendedel, mens øvrig industri og den offentlige sektor også bidrog positivt. Beskæftigelsen steg med nul komma to procent, svarende til syv tusinde otte hundrede nye job, og de præsterede timer voksede med nul komma tre procent. Investeringerne i faste aktiver steg med en og en halv procent, især på grund af intellektuelle rettigheder og byggeri. Ifølge Danmarks Statistik er den samlede import oppe med en og en otte procent, mens eksporten voksede med en og en halv procent.",
+  "prompt_tokens": 2568,
+  "completion_tokens": 260,
+  "latency_ms": 1331,
+  "cost_usd": 0.0005412,
+  "created": "2026-11-10T05:38:40.928355Z",
+  "error": null
+}

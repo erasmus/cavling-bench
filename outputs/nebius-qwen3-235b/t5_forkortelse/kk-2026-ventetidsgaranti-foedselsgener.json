@@ -1,0 +1,21 @@
+{
+  "model_id": "nebius-qwen3-235b",
+  "pinned_version": "Qwen/Qwen3-235B-A22B-Instruct-2507",
+  "task_id": "t5_forkortelse",
+  "source_id": "kk-2026-ventetidsgaranti-foedselsgener",
+  "archetype": null,
+  "prompt_sha256": "0cdced6abddeb3fc3c3b9e00e16b6ba274d58bed85606a350bbcca49243af060",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 860,
+    "reasoning_effort": null
+  },
+  "text": "Siden Københavns Kommunes efterfødselstilbud åbnede i foråret 2025, har efterspørgslen været høj. Ventetiden er i dag 17 dage til visitationssamtale og yderligere 44 dage til undersøgelse. Derfor indfører kommunen en ventetidsgaranti: kvinder skal tilbydes første samtale senest 7 dage efter henvisning og undersøgelse senest 3 uger senere. Hvis kommunen ikke kan overholde det, tilbydes hjælp hos privat leverandør. Sundheds- og omsorgsborgmester Jens-Kristian Lütken (V) kalder det Danmarks mest ambitiøse garanti. Overborgmester Sisse Marie Welling (SF) og Liberal Alliances gruppeformand Alexander Ryle fremhæver, at det handler om hurtig, kvalitetsfuld hjælp – uanset om den ydes offentligt eller privat. Første samtale foregår hos gynækologisk obstetriske fysioterapeuter og inkluderer personlig rådgivning og hjemmeøvelser. I 2026 kan kommunen hjælpe 800 kvinder, i 2027 forventes 1.500 årligt. 320 forløb står kommunen selv for, 180 varetages af private. Kvaliteten følges løbende op. Partierne bag budgetaftalen har afsat knap 12,5 mio. kr. til udvidelsen frem til 2028, oven i de knap 19 mio. kr. fra tidligere aftaler. Politisk opbakning kom allerede i efteråret 2024. I 2025 og 2026 blev der tilført flere midler, og målgruppen er udvidet: i 2026 til kvinder, der har født for 3 år siden, i 2027 for 5 år, og fra 2028 intet loft. En ventetidsgaranti blev besluttet i forbindelse med Overførselssagen i foråret 2026.",
+  "prompt_tokens": 1977,
+  "completion_tokens": 538,
+  "latency_ms": 6905,
+  "cost_usd": 0.0007182,
+  "created": "2026-11-10T05:43:56.303438Z",
+  "error": null
+}

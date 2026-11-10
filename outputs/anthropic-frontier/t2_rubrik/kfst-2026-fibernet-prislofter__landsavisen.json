@@ -1,0 +1,21 @@
+{
+  "model_id": "anthropic-frontier",
+  "pinned_version": "claude-fable-5-1",
+  "task_id": "t2_rubrik",
+  "source_id": "kfst-2026-fibernet-prislofter",
+  "archetype": "landsavisen",
+  "prompt_sha256": "f859c0f7e274a7b4c788b2a119b2d409eddd7f28eff08932aa37109f09fef5c4",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 3400,
+    "reasoning_effort": "low"
+  },
+  "text": "RUBRIK: Nye prislofter på fibernet kan stige op til 35 procent\nUNDERRUBRIK: Konkurrence- og Forbrugerstyrelsen fastsætter til december prislofter for 13 fibernetselskaber; højere udstyrspriser, renter og sikring af nettet driver prisen op.",
+  "prompt_tokens": 2795,
+  "completion_tokens": 115,
+  "latency_ms": 3514,
+  "cost_usd": 0.0337,
+  "created": "2026-11-10T07:20:28.095217Z",
+  "error": null
+}

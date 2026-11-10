@@ -1,0 +1,21 @@
+{
+  "model_id": "nebius-qwen3-235b",
+  "pinned_version": "Qwen/Qwen3-235B-A22B-Instruct-2507",
+  "task_id": "t4_versionering",
+  "source_id": "politi-2026-nsk-tidligere-advokat",
+  "archetype": "lynposten",
+  "prompt_sha256": "26c4e40be42f711cac19bd9f1ae5eb61dc5b92f95fdac27dae9bf011d3b7c1cd",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 1025,
+    "reasoning_effort": null
+  },
+  "text": "53-årig tidligere advokat idømt seks måneders fængsel for groft stillingsmisbrug og pligtforsømmelse.\n\nRetten i Lyngby har idømt manden ubetinget fængsel. Han er også frakendt retten til at udøve advokatvirksomhed.\n\nManden lod sig udpege som kurator i to konkursboer, trods at han var inhabil. Det skyldtes, at han tidligere havde rådgivet ejeren og direktøren af selskaberne. Han videregav ikke oplysninger om kriminelle forhold i selskaberne.\n\nRetten fandt, at han med vilje undlod at handle som krævet. Han afgav urigtige oplysninger til skifteretten for at blive udpeget. Han havde til hensigt at skaffe sig selv eller andre en fordel.\n\nHans handlinger forsinkede politiefterforskning, skattemæssig undersøgelse og konkursbehandling. Retten betragter det som groft misbrug af hans stilling.\n\nSagen blev ført af National enhed for Særlig Kriminalitet. Specialanklager Konrad Joe Frank siger:\n\n\"Vi har et vedvarende fokus på at sætte ind over for professionelle rådgivere, der gør det lettere at være kriminel. Jeg er tilfreds med dommen. Den viser, at retten ser strengt på, når en advokat og kurator tilsidesætter sine forpligtelser. Tilliden til kuratorer er afgørende for systemet.\"",
+  "prompt_tokens": 1314,
+  "completion_tokens": 389,
+  "latency_ms": 3534,
+  "cost_usd": 0.0004962,
+  "created": "2026-11-10T05:42:53.406030Z",
+  "error": null
+}

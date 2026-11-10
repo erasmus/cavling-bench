@@ -1,0 +1,21 @@
+{
+  "model_id": "nebius-qwen3-235b",
+  "pinned_version": "Qwen/Qwen3-235B-A22B-Instruct-2507",
+  "task_id": "t3_faktaboks",
+  "source_id": "aalborg-2025-omlaegningsplan-trepart",
+  "archetype": null,
+  "prompt_sha256": "6f35ce24f92d64e8c0c8184bff6649d199d010758aa921f48a3bd15005605b29",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 575,
+    "reasoning_effort": null
+  },
+  "text": "- Aalborg Byråd vedtog omlægningsplanen for Grøn trepart på byrådsmødet den 15. december.  \n- Omlægningsplanen omfatter 94 projekter, heraf 77 lavbundsprojekter, fordelt over hele Aalborg Kommune.  \n- Aftalen om et Grønt Danmark blev indgået i 2024 mellem regeringen, landbruget og Danmarks Naturfredningsforening.  \n- Tre af projekterne fokuserer på at etablere større sammenhængende naturområder ved Hals og Ulsted Rimmer, Lundby Bakker-Gistrup-Poulstrup og Halkær Bredning-Halkær Sø.  \n- I 2026 skal der påbegyndes dialog med de berørte lodsejere om gennemførelsen af de 94 projekter.",
+  "prompt_tokens": 1828,
+  "completion_tokens": 220,
+  "latency_ms": 10156,
+  "cost_usd": 0.0004976000000000001,
+  "created": "2026-11-10T05:40:30.218645Z",
+  "error": null
+}

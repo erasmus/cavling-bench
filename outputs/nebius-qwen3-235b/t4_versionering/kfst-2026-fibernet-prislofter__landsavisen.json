@@ -1,0 +1,21 @@
+{
+  "model_id": "nebius-qwen3-235b",
+  "pinned_version": "Qwen/Qwen3-235B-A22B-Instruct-2507",
+  "task_id": "t4_versionering",
+  "source_id": "kfst-2026-fibernet-prislofter",
+  "archetype": "landsavisen",
+  "prompt_sha256": "709ae06599a54d581f3744aa9c3b6088b029e93a35f226f0e24397f8f9f1b8ef",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 1025,
+    "reasoning_effort": null
+  },
+  "text": "Konkurrence- og Forbrugerstyrelsen fastsætter prislofter på fibernet i områder med begrænset konkurrence, hvor netejere har en dominerende position. Målet er at sikre, at forbrugere og mindre virksomheder ikke overbelastes økonomisk, når andre udbydere skal leje adgang til nettet. De nye rammer gælder for 13 fibernetselskaber og trædes i kraft ved årsskiftet.\n\nPrislofterne bygger på en række faktorer, herunder dækning af omkostninger til udrulning, drift og beskyttelse af fibernettet mod fysiske og cybermæssige trusler. Dog finansieres beskyttelse af andre net, som mobilnet, ikke gennem disse regler. En ekstern analyse, udarbejdet med input fra berørte virksomheder, har bekræftet, at ekstraomkostninger til netrobusthed skal medregnes. Det betyder, at prislofterne bliver højere, end de ellers ville være.\n\nForventningen er, at de nye prislofter kan blive op til 35 procent højere end de nuvældende, primært på grund af stigende udstyrspriser, højere tilladt forrentning på investeringer og behovet for at dække beskyttelsesinvesteringer. Afgørelserne bygger på omfattende analyser og har været i høring hos interessenter, herunder netejere. Endelige beslutninger sendes til Europa-Kommissionen (DG Connect) for kontrol med EU-regler.\n\nFem selskaber, herunder Aura og Norlys, vil blive bundet af egne tilsagn, mens TDC får pålagt forpligtelser, da dets tilsagn ikke er acceptabelt. Syv andre selskaber, som kun opererer i engroset, får forpligtelser om at holde net åbne for konkurrenter. Afgørelserne kan ankes til Teleklagenævnet og domstolene.",
+  "prompt_tokens": 2142,
+  "completion_tokens": 513,
+  "latency_ms": 31166,
+  "cost_usd": 0.0007362,
+  "created": "2026-11-10T05:42:40.355599Z",
+  "error": null
+}

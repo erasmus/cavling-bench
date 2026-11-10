@@ -1,0 +1,21 @@
+{
+  "model_id": "nebius-gpt-oss-120b",
+  "pinned_version": "openai/gpt-oss-120b",
+  "task_id": "t5_forkortelse",
+  "source_id": "fm-2026-2035-plan",
+  "archetype": null,
+  "prompt_sha256": "72fe56f89919949d56b729a1c6042be086c03ee674e89d789a409e2c02ef0371",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 2360,
+    "reasoning_effort": "low"
+  },
+  "text": "Verden er på kort tid blevet mere usikker, og Danmark møder nye udfordringer inden for forsvar, sikkerhed, global handel, klima og Europas position. Regeringen prioriterer i 2035‑planen både velfærd og de kommende udfordringer. Danmark har stærke økonomiske grundlag: høj levestandard, sunde offentlige finanser, lav gæld og offentlige overskud i ni år i træk, de seneste seks med det højeste overskud i EU. Forsvarsudgifterne er steget fra 1,36 % af BNP i 2022 til forventet 3,5 % i år, med ca. 70 mia. kr. afsat til Ukrainefondens militære ramme 2023‑2028. Regeringen vil gøre Danmark til et af de første NATO‑lande, der lever op til 3,5 %‑målsætningen allerede i 2030. Velfærden styrkes lokalt, og der er indgået aftale om fødevarecheck til grupper ramt af høje fødevarepriser. Totalberedskabet får en akutpakke på 1,2 mia. kr. i år og et løft til 5 mia. kr. i 2035. Klimamålet for 2035 er en CO₂e‑reduktion på 82 % i forhold til 1990, med 4 mia. kr. årligt og ca. 15 mia. kr. (2029‑2040) til kystbeskyttelse. Finansminister Nicolai Wammen, økonomiminister Stephanie Lose og udenrigsminister Lars Løkke Rasmussen understreger, at de massive investeringer i forsvar, grøn omstilling og velfærd er mulige takket være ansvarlig økonomi. De finanspolitiske rammer fastsætter en strukturel saldo på –0,5 % af BNP i 2030 og –0,6 % i 2035, så gælden forbliver lav og politikken forbliver sund på langt sigt.",
+  "prompt_tokens": 1716,
+  "completion_tokens": 482,
+  "latency_ms": 1661,
+  "cost_usd": 0.0005466,
+  "created": "2026-11-10T05:38:35.262716Z",
+  "error": null
+}

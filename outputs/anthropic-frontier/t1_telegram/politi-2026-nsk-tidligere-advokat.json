@@ -1,0 +1,21 @@
+{
+  "model_id": "anthropic-frontier",
+  "pinned_version": "claude-fable-5-1",
+  "task_id": "t1_telegram",
+  "source_id": "politi-2026-nsk-tidligere-advokat",
+  "archetype": null,
+  "prompt_sha256": "6e8b8ff062420140aea76f73bdb68eccce469c3fe01332096fa6a121c392af73",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 3560,
+    "reasoning_effort": "low"
+  },
+  "text": "En 53-årig tidligere advokat er onsdag ved Retten i Lyngby idømt seks måneders ubetinget fængsel for groft stillingsmisbrug og pligtforsømmelse og frakendt retten til at udøve advokatvirksomhed indtil videre. Retten fandt det bevist, at manden afgav urigtige erklæringer til skifteretten for at blive udpeget som kurator i to konkursboer, selv om han var inhabil, fordi han forinden havde rådgivet selskabernes ejer og direktør om, hvordan konkursbehandlingen kunne blive overfladisk og kortvarig. Som kurator undlod han desuden at videregive væsentlige oplysninger om kriminelle forhold i selskaberne, hvilket ifølge retten vanskeliggjorde politiefterforskning, skattemæssig undersøgelse og konkursbehandling. Sagen blev ført af National enhed for Særlig Kriminalitet, hvor specialanklager Konrad Joe Frank erklærer sig tilfreds med dommen.",
+  "prompt_tokens": 1237,
+  "completion_tokens": 367,
+  "latency_ms": 5484,
+  "cost_usd": 0.03072,
+  "created": "2026-11-10T07:19:35.492020Z",
+  "error": null
+}

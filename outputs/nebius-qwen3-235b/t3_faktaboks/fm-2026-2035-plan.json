@@ -1,0 +1,21 @@
+{
+  "model_id": "nebius-qwen3-235b",
+  "pinned_version": "Qwen/Qwen3-235B-A22B-Instruct-2507",
+  "task_id": "t3_faktaboks",
+  "source_id": "fm-2026-2035-plan",
+  "archetype": null,
+  "prompt_sha256": "ac21ec2da54fea9f777223cb596084d95b743790970645d7c84012fca0acff0e",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 575,
+    "reasoning_effort": null
+  },
+  "text": "- Danmarks forsvarsudgifter stiger fra 1,36 pct. af BNP i 2022 til forventet 3,5 pct. af BNP i 2024.  \n- Regeringen har afsat ca. 70 mia. kr. under Ukrainefondens militære ramme i perioden 2023-2028.  \n- Danmark vil leve op til NATO’s 3,5-procent målsætning for forsvarsudgifter allerede i 2030.  \n- Regeringen prioriterer en akutpakke på 1,2 mia. kr. til beredskab allerede i 2024.  \n- Der afsættes ca. 15 mia. kr. i perioden 2029-2040 til statslig medfinansiering i Klimatilpasningsplan II.",
+  "prompt_tokens": 2031,
+  "completion_tokens": 209,
+  "latency_ms": 3936,
+  "cost_usd": 0.0005316,
+  "created": "2026-11-10T05:40:28.935894Z",
+  "error": null
+}

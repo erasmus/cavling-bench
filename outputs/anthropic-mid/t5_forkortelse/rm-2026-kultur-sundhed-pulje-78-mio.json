@@ -1,0 +1,21 @@
+{
+  "model_id": "anthropic-mid",
+  "pinned_version": "claude-sonnet-5-5",
+  "task_id": "t5_forkortelse",
+  "source_id": "rm-2026-kultur-sundhed-pulje-78-mio",
+  "archetype": null,
+  "prompt_sha256": "7447ae506cfbd69bc95b6d92cc12716aee109f9ebc21fc22c831f87d207d48b0",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 3860,
+    "reasoning_effort": "low"
+  },
+  "text": "Region Midtjylland åbner en pulje på 7,8 mio. kr., der skal omsætte erfaringer og viden om kulturens betydning for sundhed til konkrete tilbud for borgere og patienter i hele regionen. Forskning viser, at kulturaktiviteter blandt andet kan forebygge sygdom, lindre symptomer og øge trivsel. Puljen skal styrke samarbejdet mellem kultur- og sundhedsaktører og skabe bæredygtige samarbejder mellem kulturaktører, kommuner, hospitaler og andre aktører i de fem sundhedsråds geografier.\n\nPer Møller Jensen (S), formand for Region Midtjyllands Udvalg for Regional Udvikling, siger, at erfaringerne fra de seneste ti år viser kulturens rolle for sundhed og trivsel, og at puljen skal sikre, at flere indsatser udvikles og når ud til dem, der har brug for dem.\n\nPuljen støtter projekter i brede regionale partnerskaber, der udvikler eller videreudvikler og forankrer metoder og tilbud. Fire temaer efterspørges: forebyggelse og trivsel, særligt blandt børn og unge; lindring af symptomer og gener; mestring, rehabilitering og recovery ved psykisk eller kronisk sygdom; samt samarbejde mellem midtjyske kommuner og hospitaler eller socialområdet.\n\nKulturaktører kan ansøge sammen med partnere fra sundhedsområdet. Næstformand Vivi Altenburg (DD) ønsker løsninger, der virker i hverdagen på tværs af kommuner og institutioner.\n\nRegionsrådet præsenterede i december sidste år landets første regionale politik for sundhed og kultur.\n\nProjekter kan vare op til tre år. Der skal søges om mindst 200.000 kr., og medfinansieringen skal være mindst 25 procent af budgettet. Fristen er 26. august 2026 kl. 12.00, og ansøgninger behandles i november 2026. Dialogmøder afholdes på Godsbanen i Aarhus 21. maj kl. 10-13 og digitalt 2. juni kl. 13-14.30.",
+  "prompt_tokens": 1862,
+  "completion_tokens": 768,
+  "latency_ms": 4630,
+  "cost_usd": 0.011404,
+  "created": "2026-11-10T07:18:15.359166Z",
+  "error": null
+}

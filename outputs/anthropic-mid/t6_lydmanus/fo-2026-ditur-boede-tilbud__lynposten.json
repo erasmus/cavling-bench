@@ -1,0 +1,21 @@
+{
+  "model_id": "anthropic-mid",
+  "pinned_version": "claude-sonnet-5-5",
+  "task_id": "t6_lydmanus",
+  "source_id": "fo-2026-ditur-boede-tilbud",
+  "archetype": "lynposten",
+  "prompt_sha256": "c2549273a78997f6b144c5d4ccaf8814fd2145be08121df26011cb4eaf1c4452",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 3620,
+    "reasoning_effort": "low"
+  },
+  "text": "Ditur betaler fire komma to fem millioner kroner i bøde. Virksomheden har vildledt kunder med falske tilbud på smykker og ure.\n\nForbrugerombudsmanden politianmeldte Ditur i maj 2026. Det gjaldt seksogtyve tilfælde. Ditur har erkendt alle forhold.\n\nOmbudsmanden overvågede priserne på to hjemmesider i fem måneder. Tilbuddene løb så længe, at de ikke længere var tilbud.\n\nEt eksempel er en halskæde. Den var på tilbud i otteogtyve af halvtreds dage. Normalprisen var femhundrede og nioghalvfems kroner. De laveste priser i de to foregående perioder på tredive dage var hundrede og nioghalvfems og hundrede og niogfirs kroner. Besparelsen var altså mindre, end kunderne fik at vide.\n\nForbrugerombudsmand Torben Jensen siger: \"Vi ser med stor alvor på denne type overtrædelser.\"",
+  "prompt_tokens": 3153,
+  "completion_tokens": 357,
+  "latency_ms": 3550,
+  "cost_usd": 0.009876,
+  "created": "2026-11-10T05:24:02.959674Z",
+  "error": null
+}

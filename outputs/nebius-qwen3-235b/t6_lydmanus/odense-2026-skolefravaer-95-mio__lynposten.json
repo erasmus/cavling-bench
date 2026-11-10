@@ -1,0 +1,21 @@
+{
+  "model_id": "nebius-qwen3-235b",
+  "pinned_version": "Qwen/Qwen3-235B-A22B-Instruct-2507",
+  "task_id": "t6_lydmanus",
+  "source_id": "odense-2026-skolefravaer-95-mio",
+  "archetype": "lynposten",
+  "prompt_sha256": "dd9228249cec0ea904d0e48093b7c87037026a736d77090c9aee81f0bb35b3fa",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 620,
+    "reasoning_effort": null
+  },
+  "text": "Ni millioner fem hundrede tusind kroner. Så meget sætter Odense Kommune af til at tackle ufrivilligt skolefravær. Pengene skal hjælpe børn og unge tilbage i skole. Og gøre det nemmere for forældre at få støtte.\n\nKnap hver femte elev i Odense har mere end ti procent fravær. Det er ofte et tegn på mistrivsel. Ikke manglende lyst. Fraværet rammer hele familien. Og klassefællesskabet.\n\nDerfor åbner kommunen en ny fraværslinje i starten af to tusen syv og tyve. Forældre kan ringe og få råd og vejledning. Familier med særligt bekymrende fravær får en fast tovholder. Den person koordinerer hjælpen og skaber overblik.\n\nBrian Dybro, børn og ungerådmand fra SF, siger, det er katastrofalt, når et barn ikke kommer i skole. Han siger, hjælpen skal komme tidligere. Og tage udgangspunkt i familiens behov.\n\nDer er også flere ressourcer til skolerne. Og mere kapacitet til medarbejdere, der arbejder med komplekse sager. Ifølge Kristian Fahnøe Munksgaard fra Familie- og Forebyggelsesafdelingen er tværfagligt samarbejde afgørende. Så familier ikke står alene.",
+  "prompt_tokens": 2010,
+  "completion_tokens": 363,
+  "latency_ms": 21814,
+  "cost_usd": 0.0006198,
+  "created": "2026-11-10T05:45:32.681997Z",
+  "error": null
+}

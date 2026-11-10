@@ -1,0 +1,21 @@
+{
+  "model_id": "anthropic-mid",
+  "pinned_version": "claude-sonnet-5-5",
+  "task_id": "t6_lydmanus",
+  "source_id": "kk-2026-ventetidsgaranti-foedselsgener",
+  "archetype": "lynposten",
+  "prompt_sha256": "031347694f614a41e2a0d70ce1d4b7577f3f68879a59f2fec1003ad6d3cccde8",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 3620,
+    "reasoning_effort": "low"
+  },
+  "text": "Syv dage. Så længe skal kvinder med fødselsgener i København højst vente på en første samtale.\n\nKommunen indfører en ventetidsgaranti. Undersøgelsen skal ske senest tre uger efter. I dag venter kvinderne syvogtyve dage mere, end politikerne vil acceptere: sytten dage til visitationssamtale og fireogfyrre dage til undersøgelse.\n\nKan kommunen ikke overholde garantien, tilbydes kvinden et forløb hos en privat leverandør.\n\nSundheds- og omsorgsborgmester Jens-Kristian Lütken fra Venstre siger: \"Efterfødselsgener skal ikke længere være noget, som bliver overset.\"\n\nTilbuddet i Vanløse åbnede i foråret 2025. Efterspørgslen har været enorm.\n\nPartierne har afsat knap tolv komma fem millioner kroner over fire år. Næste år kan kommunen hjælpe femtenhundrede kvinder. Tre hundrede og tyve forløb driver kommunen selv. Ét hundrede og firs forventes at gå til private.",
+  "prompt_tokens": 3046,
+  "completion_tokens": 388,
+  "latency_ms": 3914,
+  "cost_usd": 0.009972,
+  "created": "2026-11-10T07:18:34.179111Z",
+  "error": null
+}

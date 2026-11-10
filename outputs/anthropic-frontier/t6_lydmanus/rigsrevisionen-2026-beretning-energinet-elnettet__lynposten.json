@@ -1,0 +1,21 @@
+{
+  "model_id": "anthropic-frontier",
+  "pinned_version": "claude-fable-5-1",
+  "task_id": "t6_lydmanus",
+  "source_id": "rigsrevisionen-2026-beretning-energinet-elnettet",
+  "archetype": "lynposten",
+  "prompt_sha256": "23acc347734617d44956cbed36b14218f0872e8d7bd6c960b3310f8664c8b230",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 3620,
+    "reasoning_effort": "low"
+  },
+  "text": "Syv ud af ti af Energinets projekter til udbygning af elnettet er forsinkede. Det viser en ny beretning fra Statsrevisorerne. De kalder styringen kritisabel.\n\nDe forsinkede projekter tager i gennemsnit omkring firs procent længere tid end planlagt. Udbygningen er foreløbigt blevet mere end ti milliarder kroner dyrere end planlagt. Energinet har kun delvist overblik over årsagerne.\n\nStatsrevisorerne kritiserer også Klima-, Energi- og Forsyningsministeriet. Ministeriet ejer Energinet på statens vegne. Det har kendt til forsinkelserne siden starten af 2023. Alligevel reagerede ministeriet for sent.\n\nIfølge Energinet skal der bygges omkring to tusinde syv hundrede kilometer elnet frem mod 2030. Tempoet skal mere end fordobles, fra et hundrede tyve til to hundrede halvtreds kilometer om året.\n\nMinisteriet har ikke beregnet, hvad forsinkelserne betyder for CO2-udledningen. Det bør det nu undersøge, lyder anbefalingen.",
+  "prompt_tokens": 2446,
+  "completion_tokens": 411,
+  "latency_ms": 5381,
+  "cost_usd": 0.04501,
+  "created": "2026-11-10T07:27:55.821735Z",
+  "error": null
+}

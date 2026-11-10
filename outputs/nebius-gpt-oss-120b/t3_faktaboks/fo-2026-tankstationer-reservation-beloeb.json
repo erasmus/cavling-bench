@@ -1,0 +1,21 @@
+{
+  "model_id": "nebius-gpt-oss-120b",
+  "pinned_version": "openai/gpt-oss-120b",
+  "task_id": "t3_faktaboks",
+  "source_id": "fo-2026-tankstationer-reservation-beloeb",
+  "archetype": null,
+  "prompt_sha256": "ed314c5bd2e0cda0b375b120c55b7b37688a38739b949c8bad98864fcf689992",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 2075,
+    "reasoning_effort": "low"
+  },
+  "text": "- Forbrugerombudsmanden har anmodet Q8 og OK om at efterleve reglerne om reservationsbeløb.  \n- Uno‑X og Shell har ændret praksis, så forbrugeren kan vælge reservationsbeløbets størrelse på skærmen.  \n- OK har sat reservationsbeløbet til 100 kroner, mens Q8 fortsat reserverer 950 kroner.  \n- Forbrugerombudsmanden vurderede, at Uno‑X reserverede 1.200 kroner og Shell 1.500 kroner, hvilket var urimeligt.  \n- I enkelte sager blev reserverede beløb først frigivet op til 11 dage efter betalingen.",
+  "prompt_tokens": 2139,
+  "completion_tokens": 165,
+  "latency_ms": 755,
+  "cost_usd": 0.00041985,
+  "created": "2026-11-10T05:38:14.865037Z",
+  "error": null
+}

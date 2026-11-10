@@ -1,0 +1,21 @@
+{
+  "model_id": "nebius-qwen3-235b",
+  "pinned_version": "Qwen/Qwen3-235B-A22B-Instruct-2507",
+  "task_id": "t2_rubrik",
+  "source_id": "odense-2026-skolefravaer-95-mio",
+  "archetype": "erhvervsnyt",
+  "prompt_sha256": "d15106408c9173922024924632f182ea7057dc3d02afb9f2144bfaf9b8beef3d",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 400,
+    "reasoning_effort": null
+  },
+  "text": "RUBRIK: 9,5 mio. kr. til at mindske ufrivilligt skolefravær i Odense  \nUNDERRUBRIK: Odense Kommune investerer i fraværslinje, tovholdere og styrket skoleindsats for at hjælpe børn og familier med komplekse fraværsudfordringer fra 2027",
+  "prompt_tokens": 1987,
+  "completion_tokens": 94,
+  "latency_ms": 1832,
+  "cost_usd": 0.0004538,
+  "created": "2026-11-10T05:40:00.957902Z",
+  "error": null
+}

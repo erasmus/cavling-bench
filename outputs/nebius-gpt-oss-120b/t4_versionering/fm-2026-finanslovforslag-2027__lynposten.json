@@ -1,0 +1,21 @@
+{
+  "model_id": "nebius-gpt-oss-120b",
+  "pinned_version": "openai/gpt-oss-120b",
+  "task_id": "t4_versionering",
+  "source_id": "fm-2026-finanslovforslag-2027",
+  "archetype": "lynposten",
+  "prompt_sha256": "e0991b27517b2c74a254e396f579882948cfef045fd7df53ed2c68aaf33473d2",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 2525,
+    "reasoning_effort": "low"
+  },
+  "text": "1 mrd. kr. afsættes til børne‑ og ungeområdet i 2027, mens pensionister får en permanent løft på 1 600 kr. om måneden, melder regeringen i dag. Samtidig vil forsvarsbudgettet nå 3,5 % af BNP i 2030, og den grønne omstilling får ekstra 650 mio. kr. i 2027.\n\nFinansminister Peter Hummelgaard siger: “Vi investerer milliarder i danskernes tryghed og i den grønne omstilling.” Han fremhæver også den ekstra håndsrækning til de mindst stillede pensionister. Økonomi‑ og indenrigsminister Pia Olsen Dyhr understreger: “Børnene skal have en tryg start på livet og en skole med plads til dem.” Hun peger på 1,2 mrd. kr. til folkeskolen og dagtilbud i 2027 samt målrettet støtte til 100 skoler med store udfordringer.\n\nSkatte‑ og vækstminister Jakob Engel‑Schmidt lover lavere skat og mere vækst. “Sygeplejersken, ingeniøren og VVS’eren skal ikke straffes med en mellemskat,” siger han. Han fremhæver, at de nye skattelettelser skal gøre ekstra arbejdstimer mere lønnet.\n\nErhvervs‑ og konkurrencekraftsminister Martin Lidegaard fokuserer på elektrificering. “Vi giver Danmark en stærkere, grønnere og rigere fremtid,” udtaler han. Regeringen afsætter 850 mio. kr. årligt fra 2028 til elektrificering og 1 mrd. kr. til gratis kollektiv transport for unge under 22 år.\n\nForslaget indeholder også 0,6 mrd. kr. i 2027 til vederlagsfri tandpleje for førtidspensionister og udsatte grupper, med en årlig ramme på 0,9 mrd. kr. fra 2028. Samlet set vil finansloven 2027 løfte velfærden, styrke sikkerheden og sætte fart på Danmarks grønne omstilling.",
+  "prompt_tokens": 1964,
+  "completion_tokens": 521,
+  "latency_ms": 1764,
+  "cost_usd": 0.0006071999999999999,
+  "created": "2026-11-10T05:38:22.343762Z",
+  "error": null
+}

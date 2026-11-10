@@ -1,0 +1,21 @@
+{
+  "model_id": "anthropic-mid",
+  "pinned_version": "claude-sonnet-5-5",
+  "task_id": "t2_rubrik",
+  "source_id": "dst-2026-bnp-2-kvartal-revideret",
+  "archetype": "landsavisen",
+  "prompt_sha256": "c697505550a179d5b0f7477cbf978d1ee486657d2924dab6609e0b23d83930fa",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 3400,
+    "reasoning_effort": "low"
+  },
+  "text": "RUBRIK: BNP voksede 0,9 pct. i andet kvartal efter opjustering\nUNDERRUBRIK: Væksten er revideret op med 0,6 procentpoint på nye kildedata. Uden medicinalindustrien steg bruttoværditilvæksten 0,7 pct. mod 1,1 pct. for hele økonomien.",
+  "prompt_tokens": 3869,
+  "completion_tokens": 126,
+  "latency_ms": 1414,
+  "cost_usd": 0.008998,
+  "created": "2026-11-10T07:14:59.693082Z",
+  "error": null
+}

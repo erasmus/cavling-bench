@@ -1,0 +1,21 @@
+{
+  "model_id": "anthropic-frontier",
+  "pinned_version": "claude-fable-5-1",
+  "task_id": "t4_versionering",
+  "source_id": "fo-2026-tankstationer-reservation-beloeb",
+  "archetype": "lynposten",
+  "prompt_sha256": "427307f2dc944fabf0cad261f004aafb88351c91c47389704eff3421e14df506",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 4025,
+    "reasoning_effort": "low"
+  },
+  "text": "Fire tankstationskæder har reserveret alt for høje beløb på kundernes konti. Det slår Forbrugerombudsmanden fast. Det gælder Q8, OK, Shell og Uno-X. Nu har de fleste ændret praksis.\n\nShell reserverede 1.500 kroner, før kunden tankede. Uno-X reserverede 1.200 kroner. Q8 tog 950 kroner, og OK tog 850 kroner. Forbrugerombudsmanden vurderer, at beløbene var urimelige. De stod ikke i rimeligt forhold til det, de fleste kunder tanker for. For Q8 og OK gælder det især små biler og mindre køretøjer.\n\nProblemet rammer kundens økonomi direkte. Når et beløb er reserveret, kan kunden ikke bruge pengene. I nogle tilfælde gik der op til 11 dage, før pengene blev frigivet. Det viser klager over OK, Uno-X og Shell. Forsinkelserne skyldes ofte tekniske fejl hos banken.\n\n\"Det er derfor urimeligt, når tankstationer reserverer omkring 900 kroner eller mere hos kunder, der skal tanke et mindre køretøj,\" siger forbrugerombudsmand Torben Jensen.\n\nUno-X og Shell har nu lavet om. Kunden vælger selv beløbet på standerens skærm. Det svarer til det, man maksimalt kan tanke for. OK har sat beløbet ned til 100 kroner. Kæden venter en anden løsning senere. Q8 reserverer fortsat 950 kroner, men arbejder på en løsning.\n\nQ8 og OK har også haft problemer med samtykket. Kunder hos de to kæder fik ikke tydelig besked om reservationen. Q8 indfører samtykke i skærmflowet senest i midten af 2026. Både Q8 og OK mangler stadig en løsning for kunder, der betaler med Apple Pay eller Google Pay. De ser ikke teksten på skærmen.\n\nForbrugerombudsmanden afslutter sagerne mod alle fire kæder. Q8 og OK er bedt om at følge reglerne.",
+  "prompt_tokens": 3802,
+  "completion_tokens": 753,
+  "latency_ms": 9873,
+  "cost_usd": 0.07567,
+  "created": "2026-11-10T07:23:18.304956Z",
+  "error": null
+}

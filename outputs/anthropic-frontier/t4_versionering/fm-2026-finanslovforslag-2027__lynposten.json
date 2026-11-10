@@ -1,0 +1,21 @@
+{
+  "model_id": "anthropic-frontier",
+  "pinned_version": "claude-fable-5-1",
+  "task_id": "t4_versionering",
+  "source_id": "fm-2026-finanslovforslag-2027",
+  "archetype": "lynposten",
+  "prompt_sha256": "e0991b27517b2c74a254e396f579882948cfef045fd7df53ed2c68aaf33473d2",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 4025,
+    "reasoning_effort": "low"
+  },
+  "text": "De fattigste folkepensionister får 1.000 kr. mere om måneden efter skat. Det er et af hovedpunkterne i regeringens forslag til finanslov for 2027, som bliver præsenteret i dag.\n\nLøftet er permanent. Før skat svarer det til godt 1.600 kr. om måneden. Pengene går til de folkepensionister, der har mindst.\n\nRegeringen vil også gøre tandlægen gratis for førtidspensionister og udsatte grupper. Der afsættes 0,6 mia. kr. i 2027 og 0,9 mia. kr. om året fra 2028. Målet er gratis tandpleje for hele befolkningen i 2035.\n\nUnge under 22 år skal på sigt køre gratis med bus og tog. Regeringen sætter 800 mio. kr. af i 2027 og 1.000 mio. kr. i helårsniveau til at begynde indfasningen.\n\nFolkeskolen og dagtilbud får 1,2 mia. kr. i 2027. Derefter følger 1,1 mia. kr. om året frem til 2030.\n\n\"Vi investerer 900 mio. kr. i folkeskolen, holder hånden under skolerne i landdistrikterne og målretter indsatsen mod de 100 skoler, hvor udfordringerne er størst,\" siger økonomi- og indenrigsminister Pia Olsen Dyhr.\n\nForsvaret skal også have flere penge. Regeringen vil løfte forsvarsudgifterne til 3,5 pct. af BNP i 2030. Begrundelsen er krig i Europa og truslen fra Rusland.\n\nDen grønne omstilling får 650 mio. kr. i 2027 og 850 mio. kr. om året i 2028-2030. Pengene skal gå til elektrificering og udfasning af fossile brændsler.\n\nSamtidig lover regeringen skattelettelser til både virksomheder og lønmodtagere.\n\n\"Sygeplejersken, ingeniøren og VVS'eren skal ikke straffes med en mellemskat for at tage en ekstra vagt,\" siger skatte- og vækstminister Jakob Engel-Schmidt.\n\nFinansminister Peter Hummelgaard kalder regeringen for \"stædige optimister\". Han fremhæver hjælpen til dem, der har svært ved at få enderne til at mødes.\n\nForslaget indeholder ikke konkrete tal for skattelettelserne.",
+  "prompt_tokens": 3038,
+  "completion_tokens": 833,
+  "latency_ms": 11200,
+  "cost_usd": 0.07203,
+  "created": "2026-11-10T07:22:58.629337Z",
+  "error": null
+}

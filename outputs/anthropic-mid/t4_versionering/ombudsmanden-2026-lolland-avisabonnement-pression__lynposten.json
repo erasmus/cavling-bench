@@ -1,0 +1,21 @@
+{
+  "model_id": "anthropic-mid",
+  "pinned_version": "claude-sonnet-5-5",
+  "task_id": "t4_versionering",
+  "source_id": "ombudsmanden-2026-lolland-avisabonnement-pression",
+  "archetype": "lynposten",
+  "prompt_sha256": "cbccccbafecf7128fa69103d4195ff25f63a565eb8c80a9fd5808e6f69e2d640",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 4025,
+    "reasoning_effort": "low"
+  },
+  "text": "Lolland Kommune må ikke opsige avisabonnementer for at straffe pressen. Det slår Folketingets Ombudsmand fast i en udtalelse til kommunen.\n\nKommunen opsagde abonnementer på Lolland-Falsters Folketidende efter en kritisk artikel i avisen. Ombudsmanden indledte i maj 2026 en undersøgelse efter medieomtale.\n\nAbonnementerne tilhørte borgmesteren og to byrådsmedlemmer. Kommunen oplyser, at opsigelserne skete efter anmodning fra de tre. Kommunen mener ikke, at formålet var at straffe avisen.\n\nOmbudsmanden er ikke helt enig. Nogle udtalelser fra politikerne kan efterlade et andet indtryk, mener han. Han går ud fra, at kommunen overvejer, om de ændrer kommunens syn på formålet. Kommunen skal give ham besked om resultatet.\n\nEt af byrådsmedlemmerne skrev på Facebook: \"Det vil jeg ikke længere betale for.\" Det andet skrev i en intern mail om \"den sidste manglende journalistiske kvalitet\". Borgmesteren skrev på sociale medier, at hun \"overvejer yderligere skridt\". Det oplyste journalisten.dk den 29. april.\n\nOmbudsmanden understreger, at en myndighed godt kan opsige et abonnement. Det skal bare ske på sagligt grundlag.\n\n\"En myndighed kan naturligvis som andre abonnenter vælge at opsige et avisabonnement, men det skal ske på sagligt grundlag,\" siger ombudsmand Christian Britten Lundblad. \"Det er ikke sagligt, hvis det sker for at straffe eller lægge pres på bestemte journalister eller medier.\"\n\nMyndigheder må heller ikke true med den slags skridt. Det gælder også, hvis de vil sanktionere mulige brud på de presseetiske regler.",
+  "prompt_tokens": 2388,
+  "completion_tokens": 680,
+  "latency_ms": 4936,
+  "cost_usd": 0.011576,
+  "created": "2026-11-10T07:17:06.020435Z",
+  "error": null
+}

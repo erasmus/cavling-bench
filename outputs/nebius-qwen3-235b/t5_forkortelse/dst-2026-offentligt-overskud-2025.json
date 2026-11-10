@@ -1,0 +1,21 @@
+{
+  "model_id": "nebius-qwen3-235b",
+  "pinned_version": "Qwen/Qwen3-235B-A22B-Instruct-2507",
+  "task_id": "t5_forkortelse",
+  "source_id": "dst-2026-offentligt-overskud-2025",
+  "archetype": null,
+  "prompt_sha256": "32b0278b8249c21dd46c8087df2a89c12caaa2ac71666b94b77f53500b30fd1f",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 860,
+    "reasoning_effort": null
+  },
+  "text": "I 2025 var der et offentligt overskud på 90,9 mia. kr., mens overskuddet i 2024 udgjorde 123,5 mia. kr. Udgifterne steg til 1.472,8 mia. kr. – en stigning på 85,0 mia. kr. – og indtægterne nåede 1.563,8 mia. kr., svarende til en stigning på 52,4 mia. kr. Indtægterne fra pensionsafkastsskatten var 47,0 mia. kr. i 2025, og sammen med stigninger i personskatter og selskabsskatter bidrog det til højere indtægter. Stigende udgifter til socialområdet, sundhed og forsvaret forklarer udgiftsstigningen. Social beskyttelse udgjorde 41 pct. af de samlede udgifter og er dermed den største post, fulgt af sundhedsvæsenet med 17 pct. Uddannelse og generelle offentlige tjenester udgjorde hver 12 pct., mens forsvaret udgjorde 5 pct. De samlede udgifter til sociale ydelser steg med 18,8 mia. kr. til 438,4 mia. kr. i 2025, primært pga. en stigning i udgifter til generelle pensioner på 11,8 mia. kr., forårsaget af flere pensionister og højere satser. Der er også små stigninger i andre ydelser. Siden seneste offentliggørelse (Nyt fra Danmarks Statistik 68:2026) er den offentlige saldo opjusteret med 2,5 mia. kr. i 2025, nedjusteret med 7,0 mia. kr. i 2024 og opjusteret med 1,9 mia. kr. i 2023, primært pga. revisioner af skatteindtægter og forbrugsudgifter. Den offentlige forbrugsudgift er opjusteret med 5,9 mia. kr. i 2025 og 2,2 mia. kr. i 2024, bl.a. pga. inklusion af endelige regnskabstal for kommuner, regioner og selvejende institutioner. Afskrivningerne er ligeledes opjusteret i 2025.",
+  "prompt_tokens": 1206,
+  "completion_tokens": 610,
+  "latency_ms": 8223,
+  "cost_usd": 0.0006072,
+  "created": "2026-11-10T05:43:27.593592Z",
+  "error": null
+}

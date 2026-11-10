@@ -1,0 +1,21 @@
+{
+  "model_id": "nebius-gpt-oss-120b",
+  "pinned_version": "openai/gpt-oss-120b",
+  "task_id": "t6_lydmanus",
+  "source_id": "finanstilsynet-2026-danske-bank-boliglaansinspektion",
+  "archetype": "lynposten",
+  "prompt_sha256": "576c19b713e492f357a81581071cdbbca52642dbfa577298d806bddb4b8658ae",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 2120,
+    "reasoning_effort": "low"
+  },
+  "text": "Fem ud af femogtyve boliglånsbevillinger i Danske Bank burde ikke have fået godkendelse, siger Finanstilsynet. Inspektionen kiggede på femoghalvtreds låneansøgninger med høj gældsfaktor, høj belåningsgrad og store bankengagementer. Banken har flere lån med høj risiko end andre banker, men data stammer fra en senere periode, så boligmarkedets udvikling kan have påvirket tallene. Finanstilsynet fandt væsentlige fejl i seks ud af treogtyve sager i en forenklet kreditproces for en særlig kundegruppe. I de øvrige kunder var fejlene i treogtredive ud af femogtredive sager. På grund af fejlene pålægges banken nu et påbud om at dokumentere hver kundes økonomiske robusthed og gældsserviceringsevne. Ifølge Finanstilsynet er kreditvurderingen og dokumentationen nu utilstrækkelig.",
+  "prompt_tokens": 1710,
+  "completion_tokens": 263,
+  "latency_ms": 1399,
+  "cost_usd": 0.00041429999999999993,
+  "created": "2026-11-10T05:38:41.764900Z",
+  "error": null
+}

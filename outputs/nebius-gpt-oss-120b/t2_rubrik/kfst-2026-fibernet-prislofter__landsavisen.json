@@ -1,0 +1,21 @@
+{
+  "model_id": "nebius-gpt-oss-120b",
+  "pinned_version": "openai/gpt-oss-120b",
+  "task_id": "t2_rubrik",
+  "source_id": "kfst-2026-fibernet-prislofter",
+  "archetype": "landsavisen",
+  "prompt_sha256": "f859c0f7e274a7b4c788b2a119b2d409eddd7f28eff08932aa37109f09fef5c4",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 1900,
+    "reasoning_effort": "low"
+  },
+  "text": "RUBRIK: Prislofter på fibernet fastsættes fra årsskiftet  \nUNDERRUBRIK: Konkurrence‑ og Forbrugerstyrelsen fastsætter nye loftpriser for monopollignende fibernetselskaber, med mål om at balancere investeringer i sikkerhed og forbrugerpriser, som kan stige op til 35 % i de næste fem år.",
+  "prompt_tokens": 1826,
+  "completion_tokens": 139,
+  "latency_ms": 857,
+  "cost_usd": 0.00035729999999999996,
+  "created": "2026-11-10T05:38:07.825820Z",
+  "error": null
+}

@@ -1,0 +1,21 @@
+{
+  "model_id": "anthropic-frontier",
+  "pinned_version": "claude-fable-5-1",
+  "task_id": "t2_rubrik",
+  "source_id": "nationalbanken-2026-digitale-betalinger-beredskab",
+  "archetype": "landsavisen",
+  "prompt_sha256": "1216059e5662de77f9afa208ffa08a3fbfd43e51b3638e10306208bb3c893e16",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 3400,
+    "reasoning_effort": "low"
+  },
+  "text": "RUBRIK: Kontanter bruges mindre, men flere har dem som beredskab\nUNDERRUBRIK: Kontanter udgør nu 9 pct. af betalinger i fysisk handel, viser Nationalbanken. 41 pct. har over 1.000 kr. liggende, og direktøren efterlyser mere offline-beredskab.",
+  "prompt_tokens": 2804,
+  "completion_tokens": 123,
+  "latency_ms": 3636,
+  "cost_usd": 0.03419,
+  "created": "2026-11-10T07:20:34.513687Z",
+  "error": null
+}

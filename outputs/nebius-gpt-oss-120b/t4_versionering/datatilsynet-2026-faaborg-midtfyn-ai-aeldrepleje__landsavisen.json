@@ -1,0 +1,21 @@
+{
+  "model_id": "nebius-gpt-oss-120b",
+  "pinned_version": "openai/gpt-oss-120b",
+  "task_id": "t4_versionering",
+  "source_id": "datatilsynet-2026-faaborg-midtfyn-ai-aeldrepleje",
+  "archetype": "landsavisen",
+  "prompt_sha256": "4e7f7022c6df5ba558e7fca93ea0641a2c7141832c71bfa98172acb8a1fc879b",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 2525,
+    "reasoning_effort": "low"
+  },
+  "text": "Datatilsynet har i en afgørelse kritiseret Faaborg‑Midtfyn Kommunes brug af et AI‑baseret monitoreringssystem på et plejehjem, en sag der blev indledt i januar 2026 som led i tilsynets fokus på AI‑overvågning af borgere i pleje. Kommunen har i en afgrænset prøveperiode på seks måneder anvendt systemet på 18 beboere med det formål at øge trygheden, forebygge fald og understøtte plejepersonalets faglige vurderinger. Systemet består af en sensorenhed i beboerens bolig, der ved hjælp af AI og kameraer analyserer bevægelsesmønstre, søvnkvalitet, uro og vejrtrækning, og kameraet anvendes kun i kortvarige sekvenser ved potentielle fald.\n\nDatatilsynet påpeger, at kommunens risikovurdering var for generel. Den oplistede kun generelle trusler og vurderede alle som lav risiko uden nærmere begrundelse, hvilket betyder, at kommunen ikke har påvist et tilstrækkeligt sikkerhedsniveau i forhold til de konkrete risici ved behandlingen af personoplysninger. Tilsynet fastslår, at en konsekvensanalyse skulle have været gennemført, inden teknologien blev taget i brug, fordi der var tale om ny teknologi og behandling af følsomme oplysninger om sårbare borgere.\n\nKommunen har henvist til servicelovens og ældrelovens generelle bestemmelser som retsgrundlag, men Datatilsynet vurderer, at disse alene ikke kan dække den specifikke AI‑behandling. Reglerne om tryghedsskabende velfærdsteknologi giver mulighed for brug af AI under særlige betingelser, som kommunen ifølge tilsynet ikke har inddraget i sine overvejelser. Afgørelsen understreger, at selv kortvarige prøveperioder ikke fritager kommuner fra at overholde databeskyttelsesreglerne, og at fyldestgørende risikovurderinger og konsekvensanalyser er påkrævet, før ny teknologi implementeres i ældreplejen.",
+  "prompt_tokens": 1367,
+  "completion_tokens": 508,
+  "latency_ms": 2005,
+  "cost_usd": 0.0005098500000000001,
+  "created": "2026-11-10T05:38:18.667904Z",
+  "error": null
+}

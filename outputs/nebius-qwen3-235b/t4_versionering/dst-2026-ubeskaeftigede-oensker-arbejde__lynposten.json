@@ -1,0 +1,21 @@
+{
+  "model_id": "nebius-qwen3-235b",
+  "pinned_version": "Qwen/Qwen3-235B-A22B-Instruct-2507",
+  "task_id": "t4_versionering",
+  "source_id": "dst-2026-ubeskaeftigede-oensker-arbejde",
+  "archetype": "lynposten",
+  "prompt_sha256": "f842e27bc57dc370a4c56004d6fbdce6a37f8b8f4b1983ae411f3d569e9e11be",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 1025,
+    "reasoning_effort": null
+  },
+  "text": "470.000 ubeskæftigede vil have job. Det viser tal fra første kvartal 2026. De udgør 52 procent af de 905.000 ubeskæftigede i alderen 15-64 år. Det er en stigning på 85.000 personer siden 2024, hvor kun 45 procent ønskede arbejde.\n\nFlere unge mellem 25 og 34 år vil på arbejdsmarkedet. Her ønsker 66 procent et job. I gruppen 55-64 år er tallet kun 28 procent. De fleste her har taget pension eller modtager fleksydelse.\n\n435.000 ubeskæftigede vil ikke have arbejde. Det er 41.000 færre end i 2024. Blandt unge i alderen 15-24 år er uddannelse årsag for fire ud af fem. Hos 55-64-årige er det syv ud af ti, der ikke vil arbejde pga. pension mv. Familiemæssige årsager er sjældne på tværs af aldre.\n\n236.000 personer er AKU-ledige. De søger aktivt job og kan starte med det samme. De udgør halvdelen af dem, der vil have arbejde. AKU-ledigheden svarer til 7,5 procent af arbejdsstyrken. Det er 0,8 procentpoint højere end året før.\n\nUden for studerende er ledigheden 6,2 procent. Det er en stigning på 0,5 procentpoint. Stigende opsigelser i efteråret 2025 spiller en rolle.\n\nAKU-ledige tæller bredere end registerledige. De inkluderer studerende og personer, der ikke modtager dagpenge eller kontanthjælp. Fritstillede tælles med, hvis de søger nyt job og kan starte med det samme.\n\nTal fra Danmarks Statistik viser, at arbejdskraftreserven – herunder deltidsbeskæftigede, der vil have flere timer – i alt er 356.000 personer.",
+  "prompt_tokens": 1990,
+  "completion_tokens": 553,
+  "latency_ms": 16004,
+  "cost_usd": 0.0007298,
+  "created": "2026-11-10T05:41:42.177999Z",
+  "error": null
+}

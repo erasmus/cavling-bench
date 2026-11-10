@@ -1,0 +1,21 @@
+{
+  "model_id": "nebius-gpt-oss-120b",
+  "pinned_version": "openai/gpt-oss-120b",
+  "task_id": "t6_lydmanus",
+  "source_id": "dst-2026-offentligt-overskud-2-kvt",
+  "archetype": "lynposten",
+  "prompt_sha256": "38fec40f78d79f3a71d78b8b50155c5457bbe8fd83e32a86c427665814d94eb2",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 2120,
+    "reasoning_effort": "low"
+  },
+  "text": "Treoghalvtreds millioner kroner i offentligt overskud i andet kvartal 2026. Det rammer skattebetalerne og de offentlige tjenester. Overskuddet er tolv komma tre millioner kroner højere end i første kvartal. De samlede offentlige udgifter beløb sig til trehundrede syvoghalvfems millioner kroner, hvor løn til ansatte udgjorde et hundrede seksten komma to millioner kroner og indkomstoverførsler til husholdningerne et hundrede seksten komma ni millioner kroner. Indtægterne nåede firehundrede femten komma tre millioner kroner. Nettoformuen faldt med elleve millioner kroner til ottehundrede enoghalvfems millioner kroner. ØMU‑gælden steg med nitten komma fire millioner kroner til ottehundrede nioghalvtreds komma et millioner kroner, svarende til syvogtyve procent af BNP. Ifølge Danmarks Statistik er den offentlige saldo blevet opjusteret med tretten komma ni millioner kroner efter revision.",
+  "prompt_tokens": 1357,
+  "completion_tokens": 276,
+  "latency_ms": 1423,
+  "cost_usd": 0.00036915,
+  "created": "2026-11-10T05:38:41.559030Z",
+  "error": null
+}

@@ -1,0 +1,21 @@
+{
+  "model_id": "nebius-qwen3-235b",
+  "pinned_version": "Qwen/Qwen3-235B-A22B-Instruct-2507",
+  "task_id": "t2_rubrik",
+  "source_id": "fm-2026-finanslovforslag-2027",
+  "archetype": "erhvervsnyt",
+  "prompt_sha256": "a23c925cfa6ce9c6b36b2de143070c1b871e32b70fe9d682964f762c87b3d602",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 400,
+    "reasoning_effort": null
+  },
+  "text": "RUBRIK: 1,2 mia. kr. til folkeskolen i 2027 – støtte til skoler i udkantsområder  \nUNDERRUBRIK: Regeringen investerer 1,2 mia. kr. i folkeskolen og dagtilbud i 2027, heraf 900 mio. kr. til folkeskolen med fokus på udkantsområder og de 100 mest udsatte skoler.",
+  "prompt_tokens": 2358,
+  "completion_tokens": 113,
+  "latency_ms": 16402,
+  "cost_usd": 0.0005394,
+  "created": "2026-11-10T05:39:54.864580Z",
+  "error": null
+}

@@ -1,0 +1,21 @@
+{
+  "model_id": "nebius-qwen3-235b",
+  "pinned_version": "Qwen/Qwen3-235B-A22B-Instruct-2507",
+  "task_id": "t3_faktaboks",
+  "source_id": "kk-2026-vandkulturhus-papiroeen",
+  "archetype": null,
+  "prompt_sha256": "34faa4e39d07c81e80a228b70cb5efb53728a22a0e9bd6c7176e71ce7c6c2abf",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 575,
+    "reasoning_effort": null
+  },
+  "text": "- Vandkulturhuset KAI på Papirøen åbner den 5. december 2026.  \n- Bygningen er på 5.800 m² og har 10 bassiner, både indendørs og udendørs.  \n- Arkitekten bag KAI er den japanske tegnestue Kengo Kuma & Associates.  \n- Nordea-fonden har støttet projektet med i alt 546 mio. kr.  \n- I 2015 indsendte københavnere 160 forslag til en ny fritidsfacilitet på Papirøen.",
+  "prompt_tokens": 2349,
+  "completion_tokens": 144,
+  "latency_ms": 5418,
+  "cost_usd": 0.0005562000000000001,
+  "created": "2026-11-10T05:40:36.868186Z",
+  "error": null
+}

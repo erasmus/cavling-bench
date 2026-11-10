@@ -1,0 +1,21 @@
+{
+  "model_id": "nebius-qwen3-235b",
+  "pinned_version": "Qwen/Qwen3-235B-A22B-Instruct-2507",
+  "task_id": "t4_versionering",
+  "source_id": "fo-2026-salling-group-oego-boede",
+  "archetype": "lynposten",
+  "prompt_sha256": "1119f204e7f915d8c86cbc42bb832ca3abc9995e3e4042e864e8075a15dcf6db",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 1025,
+    "reasoning_effort": null
+  },
+  "text": "Salling Group betaler 10 millioner kroner i bøde for vildledende markedsføring af Nettos ØGO-mærke. Bøden skyldes overtrædelse af markedsføringsloven.\n\nForbrugerombudsmanden politianmeldte selskabet i september 2025. Anmeldelsen kom efter en undersøgelse af markedsføringen af Nettos ØGO-produkter. Salling Group havde fremhævet, at ØGO var det fjerde mest bæredygtige mærke i Danmark. Udsagnet var baseret på en spørgeundersøgelse blandt 10.000 forbrugere. Undersøgelsen kom fra virksomheden SB Insight, der står bag Sustainable Brand Index.\n\nTallene afspejlede kun forbrugernes opfattelse. De dokumenterede ikke faktisk bæredygtighed. Forbrugerombudsmanden vurderer, at markedsføringen gav forbrugerne et fejlagtigt indtryk af produkternes klima- og miljøbelastning. Opstillingen stod i Nettos sociale medier og i en tilbudsmail fra Netto+.\n\nØkologiske produkter kan ikke automatisk markedsføres som bæredygtige. Sådan udsagn kræver dokumentation. Det siger forbrugerombudsmand Torben Jensen. Han understreger, at virksomheder skal være varsomme. Der er stor forskel på, om produkter er bæredygtige, eller om de kun opfattes som det.\n\nSalling Group fjernede opslagene efter henvendelse fra Forbrugerombudsmanden. Bøden er fastsat efter den nye bødemodel fra 2022. Modellen skærper sanktioner for markedsføringsfejl. Bødens størrelse tager højde for overtrædelsens grovhed og selskabets omsætning.",
+  "prompt_tokens": 2012,
+  "completion_tokens": 488,
+  "latency_ms": 14917,
+  "cost_usd": 0.0006952000000000001,
+  "created": "2026-11-10T05:42:00.788621Z",
+  "error": null
+}

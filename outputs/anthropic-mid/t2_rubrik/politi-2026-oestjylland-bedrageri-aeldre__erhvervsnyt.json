@@ -1,0 +1,21 @@
+{
+  "model_id": "anthropic-mid",
+  "pinned_version": "claude-sonnet-5-5",
+  "task_id": "t2_rubrik",
+  "source_id": "politi-2026-oestjylland-bedrageri-aeldre",
+  "archetype": "erhvervsnyt",
+  "prompt_sha256": "e2e4038549cb0a3bf8528c0e0f87bfbe68dd8ed9281956bf575a75ededf3cf9a",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 3400,
+    "reasoning_effort": "low"
+  },
+  "text": "RUBRIK: 32-årig fik 1,5 års fængsel for bankbudssvindel af 48 ældre\nUNDERRUBRIK: Manden fra Tilst svindlede 48 ældre for i alt 270.000 kroner og forsøgte at bedrage cirka 150 flere. Retten i Aarhus dømte ham også til at betale erstatning.",
+  "prompt_tokens": 2565,
+  "completion_tokens": 129,
+  "latency_ms": 1585,
+  "cost_usd": 0.00642,
+  "created": "2026-11-10T07:15:31.712622Z",
+  "error": null
+}

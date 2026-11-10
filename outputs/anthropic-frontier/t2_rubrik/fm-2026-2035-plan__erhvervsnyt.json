@@ -1,0 +1,21 @@
+{
+  "model_id": "anthropic-frontier",
+  "pinned_version": "claude-fable-5-1",
+  "task_id": "t2_rubrik",
+  "source_id": "fm-2026-2035-plan",
+  "archetype": "erhvervsnyt",
+  "prompt_sha256": "6468d13437677b9e3e44283f15bb3e9760423570803cda91e21b2f7236b21dbd",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 3400,
+    "reasoning_effort": "low"
+  },
+  "text": "RUBRIK: Regeringen når NATO-mål på 3,5 pct. af BNP i 2030\nUNDERRUBRIK: 2035-planen afsætter 5 mia. kr. til beredskab, 15 mia. kr. til kystsikring og nyt mål for strukturel saldo på -0,6 pct. af BNP i 2035.",
+  "prompt_tokens": 3039,
+  "completion_tokens": 122,
+  "latency_ms": 3064,
+  "cost_usd": 0.03649,
+  "created": "2026-11-10T07:20:08.027304Z",
+  "error": null
+}

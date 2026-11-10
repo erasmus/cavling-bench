@@ -1,0 +1,21 @@
+{
+  "model_id": "anthropic-frontier",
+  "pinned_version": "claude-fable-5-1",
+  "task_id": "t6_lydmanus",
+  "source_id": "politi-2026-sydoestjylland-hadforbrydelse",
+  "archetype": "lynposten",
+  "prompt_sha256": "b7ed4541e6817a0e2f68220f026625166dfa6531fc68db4bf1ed9275dc24d563",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 3620,
+    "reasoning_effort": "low"
+  },
+  "text": "Tre unge mænd er i dag dømt for vold i Horsens. Det skete ved Retten i Horsens. De er atten, atten og sytten år. Den hårdeste dom lød på et år og tre måneders fængsel. Den fik en attenårig mand. Han blev også dømt for en hadforbrydelse. Han og den syttenårige overfaldt to kvinder ved banegården i Horsens i januar 2026. De råbte skældsord om kvindernes seksuelle orientering. De slog dem i hovedet med en totenschlæger og brugte peberspray. Den attenårige udvises af Danmark med indrejseforbud i seks år. Den syttenårige fik ti måneders fængsel. Den anden attenårige fik tre måneders fængsel og en advarsel om udvisning. Han modtog dommen. De to andre bad om betænkningstid. Ifølge Thomas Vestergaard, anklagerfuldmægtig ved Sydøstjyllands Politi, understreger dommen, at ingen skal udsættes for vold på grund af sin seksuelle orientering.",
+  "prompt_tokens": 1862,
+  "completion_tokens": 373,
+  "latency_ms": 5707,
+  "cost_usd": 0.03727,
+  "created": "2026-11-10T07:27:51.394770Z",
+  "error": null
+}

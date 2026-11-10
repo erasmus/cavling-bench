@@ -1,0 +1,21 @@
+{
+  "model_id": "anthropic-mid",
+  "pinned_version": "claude-sonnet-5-5",
+  "task_id": "t2_rubrik",
+  "source_id": "fm-2026-ok26-statens-overenskomst",
+  "archetype": "lynposten",
+  "prompt_sha256": "4fac4faee3dfde76b76bf6fe1fa2dd08dbda8cef5a760d5fd740259031051441",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 3400,
+    "reasoning_effort": "low"
+  },
+  "text": "RUBRIK: 200.000 statsansatte får 8,7 pct. mere i løn over tre år\nUNDERRUBRIK: Staten og fagbevægelsen har lavet et treårigt forlig. Militært ansatte får 275 mio. kr. ekstra, og børnefamilier får fri med løn på barnets tredje sygedag.",
+  "prompt_tokens": 2033,
+  "completion_tokens": 121,
+  "latency_ms": 1882,
+  "cost_usd": 0.005276,
+  "created": "2026-11-10T07:15:09.550480Z",
+  "error": null
+}

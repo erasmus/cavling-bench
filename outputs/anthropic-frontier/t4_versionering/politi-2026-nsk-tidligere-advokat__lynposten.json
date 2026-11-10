@@ -1,0 +1,21 @@
+{
+  "model_id": "anthropic-frontier",
+  "pinned_version": "claude-fable-5-1",
+  "task_id": "t4_versionering",
+  "source_id": "politi-2026-nsk-tidligere-advokat",
+  "archetype": "lynposten",
+  "prompt_sha256": "26c4e40be42f711cac19bd9f1ae5eb61dc5b92f95fdac27dae9bf011d3b7c1cd",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 4025,
+    "reasoning_effort": "low"
+  },
+  "text": "En 53-årig tidligere advokat skal seks måneder i fængsel. Retten i Lyngby dømte ham onsdag for groft stillingsmisbrug og pligtforsømmelse. Straffen er ubetinget. Han mister samtidig retten til at arbejde som advokat indtil videre.\n\nManden lod sig udpege som kurator i to konkursboer. Det skete, selv om han var inhabil. Han havde nemlig rådgivet ejeren og direktøren af selskaberne på forhånd. Rådet gik på, hvordan ejeren kunne sikre sig en overfladisk og kortvarig konkursbehandling.\n\nRetten fandt det bevist, at han afgav urigtige erklæringer til skifteretten. Målet var at blive udpeget som kurator. Bagefter sad han på væsentlige oplysninger om kriminelle forhold i selskaberne. Dem gav han ikke videre.\n\nRetten fandt også, at han ville skaffe sig selv eller andre en fordel. Hans handlinger gjorde det sværere for politiet at efterforske. De forsinkede også skattemyndighedernes undersøgelse og selve konkursbehandlingen.\n\nSagen blev ført af National enhed for Særlig Kriminalitet, NSK. Specialanklager Konrad Joe Frank er tilfreds med dommen.\n\n\"I NSK har vi et vedvarende fokus på at sætte ind over for professionelle rådgivere, der med deres handlinger eller undladelser gør det lettere at være kriminel,\" siger han.\n\nHan mener, dommen sender et klart signal.\n\n\"Dommen viser, at retten ser strengt på, når en advokat og kurator tilsidesætter sine forpligtelser,\" siger Konrad Joe Frank.\n\nHan peger på, at tilliden til kuratorer er afgørende for hele systemet.\n\nKilden oplyser ikke, om den dømte anker dommen. Det fremgår heller ikke, hvilke selskaber der er tale om. Dommen betyder, at manden ikke kan arbejde som advokat, så længe frakendelsen gælder.",
+  "prompt_tokens": 1707,
+  "completion_tokens": 726,
+  "latency_ms": 9712,
+  "cost_usd": 0.05337,
+  "created": "2026-11-10T07:24:31.347449Z",
+  "error": null
+}

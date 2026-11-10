@@ -1,0 +1,21 @@
+{
+  "model_id": "nebius-qwen3-235b",
+  "pinned_version": "Qwen/Qwen3-235B-A22B-Instruct-2507",
+  "task_id": "t2_rubrik",
+  "source_id": "skim-2026-sommeraftale-sundhedsreform",
+  "archetype": "landsavisen",
+  "prompt_sha256": "81b3b2214443fb7d8c390962f3dcba7e0dc7ae585667472ab3c00f44d8545c8a",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 400,
+    "reasoning_effort": null
+  },
+  "text": "RUBRIK: Sommeraftale sikrer nært og sammenhængende sundhedsvæsen  \nUNDERRUBRIK: Regeringen, Danske Regioner og KL enedes om implementering af sundhedsreformen med konkrete forbedringer for patienter fra 2027, herunder kronikerpakker og 96 timers behandlingsansvar efter udskrivelse.",
+  "prompt_tokens": 2765,
+  "completion_tokens": 94,
+  "latency_ms": 2062,
+  "cost_usd": 0.0006094,
+  "created": "2026-11-10T05:40:20.540038Z",
+  "error": null
+}

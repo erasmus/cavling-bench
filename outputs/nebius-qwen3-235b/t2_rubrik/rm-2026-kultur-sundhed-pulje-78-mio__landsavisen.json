@@ -1,0 +1,21 @@
+{
+  "model_id": "nebius-qwen3-235b",
+  "pinned_version": "Qwen/Qwen3-235B-A22B-Instruct-2507",
+  "task_id": "t2_rubrik",
+  "source_id": "rm-2026-kultur-sundhed-pulje-78-mio",
+  "archetype": "landsavisen",
+  "prompt_sha256": "ce3fbc5a81ca21975ff9374a4a0be90d0a035c6f513f2c562af0ff3558fb005f",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 400,
+    "reasoning_effort": null
+  },
+  "text": "RUBRIK: Region Midtjylland skaber kulturpulje på 7,8 mio. kr.  \nUNDERRUBRIK: Puljen skal styrke samarbejdet mellem kultur og sundhed og omdanne viden til konkrete tilbud for patienter og borgere i hele regionen.",
+  "prompt_tokens": 1761,
+  "completion_tokens": 75,
+  "latency_ms": 4297,
+  "cost_usd": 0.00039720000000000006,
+  "created": "2026-11-10T05:40:21.885930Z",
+  "error": null
+}

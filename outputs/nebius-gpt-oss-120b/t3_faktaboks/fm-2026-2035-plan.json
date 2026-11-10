@@ -1,0 +1,21 @@
+{
+  "model_id": "nebius-gpt-oss-120b",
+  "pinned_version": "openai/gpt-oss-120b",
+  "task_id": "t3_faktaboks",
+  "source_id": "fm-2026-2035-plan",
+  "archetype": null,
+  "prompt_sha256": "ac21ec2da54fea9f777223cb596084d95b743790970645d7c84012fca0acff0e",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 2075,
+    "reasoning_effort": "low"
+  },
+  "text": "- Forsvarsudgifterne stiger fra 1,36 % af BNP i 2022 til forventet 3,5 % af BNP i 2023.  \n- Der er afsat ca. 70 mia. kr. til Ukrainefondens militære ramme for perioden 2023‑2028.  \n- En akutpakke på 1,2 mia. kr. til beredskab iværksættes i 2023, med et løft til 5 mia. kr. i 2035.  \n- Klimamålet for 2035 er at reducere CO₂e‑udledningen med 82 % i forhold til 1990, med 4 mia. kr. årligt.  \n- Den strukturelle saldo skal være –0,5 % af BNP i 2030 og –0,6 % af BNP i 2035.",
+  "prompt_tokens": 1714,
+  "completion_tokens": 224,
+  "latency_ms": 899,
+  "cost_usd": 0.0003915,
+  "created": "2026-11-10T05:38:14.415018Z",
+  "error": null
+}

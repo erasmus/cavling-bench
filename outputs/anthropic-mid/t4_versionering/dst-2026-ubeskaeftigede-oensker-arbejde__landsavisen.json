@@ -1,0 +1,21 @@
+{
+  "model_id": "anthropic-mid",
+  "pinned_version": "claude-sonnet-5-5",
+  "task_id": "t4_versionering",
+  "source_id": "dst-2026-ubeskaeftigede-oensker-arbejde",
+  "archetype": "landsavisen",
+  "prompt_sha256": "40a7ceb2ab886a8c3246970741bd2f7136aef8b7edda217f7dca26fd87a9e28c",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 4025,
+    "reasoning_effort": "low"
+  },
+  "text": "Hver anden ubeskæftiget i alderen 15-64 år ønsker et arbejde. Det viser Arbejdskraftundersøgelsen for første kvartal 2026, som blev offentliggjort 28. maj. Andelen er steget fra 45 procent i første kvartal 2024 til 52 procent nu, og stigningen svarer til 85.000 personer.\n\nI første kvartal var der 905.000 ubeskæftigede. Af dem ønskede 470.000 et arbejde, mens de resterende 435.000 ikke gjorde. Sidstnævnte gruppe er 41.000 personer mindre end i første kvartal 2024. Andelen, der ønsker arbejde, er lavest blandt de 55-64-årige med 28 procent og højest blandt de 25-34-årige med 66 procent.\n\nÅrsagerne til, at nogle ikke ønsker arbejde, varierer med alderen. Blandt de 15-24-årige er uddannelse årsagen for fire ud af fem. Blandt de 55-64-årige ønsker syv ud af ti ikke arbejde på grund af pension mv., som blandt andet omfatter efterløn, fleksydelse og førtidspension. På tværs af aldersgrupper nævner meget få familiemæssige årsager.\n\nAf de 470.000, der ønsker arbejde, var 236.000 AKU-ledige. Det vil sige, at de aktivt søger arbejde og kan starte med det samme, som de internationale afgrænsninger kræver. Yderligere 81.000 søgte arbejde, men kunne ikke starte straks, og 40.000 søgte ikke, men kunne starte straks. Disse tre grupper udgør sammen 356.000 personer og danner sammen med deltidsbeskæftigede, der ønsker flere timer, arbejdskraftreserven.\n\nDe 236.000 AKU-ledige svarer til 7,5 procent af arbejdsstyrken, en stigning på 0,8 procentpoint på et år. Uden studerende er ledighedsprocenten 6,2, op med 0,5 procentpoint. Stigningen kan ifølge kilden blandt andet ses i lyset af et relativt højt antal opsigelser i andet halvår af 2025.\n\nAKU-ledigheden er højere end registerledigheden, fordi den ikke afgrænses ved modtagelse af bestemte ydelser.",
+  "prompt_tokens": 2519,
+  "completion_tokens": 820,
+  "latency_ms": 6129,
+  "cost_usd": 0.013238,
+  "created": "2026-11-10T07:16:21.551706Z",
+  "error": null
+}

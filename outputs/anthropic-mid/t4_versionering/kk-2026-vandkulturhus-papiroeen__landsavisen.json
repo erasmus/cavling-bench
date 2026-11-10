@@ -1,0 +1,21 @@
+{
+  "model_id": "anthropic-mid",
+  "pinned_version": "claude-sonnet-5-5",
+  "task_id": "t4_versionering",
+  "source_id": "kk-2026-vandkulturhus-papiroeen",
+  "archetype": "landsavisen",
+  "prompt_sha256": "45f38b792adb7ee477f425cdc57347c7f67bffd12b6e7d6a3e4e8d09893e5d53",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 4025,
+    "reasoning_effort": "low"
+  },
+  "text": "Københavns nye vandkulturhus, KAI, på Papirøen åbner den 5. december 2026. Det oplyser kilden, som beskriver huset som en københavneridé: Københavns Kommune afholdt i 2015 en idékonkurrence om en ny kultur- og fritidsfacilitet på Papirøen, og københavnerne indsendte 160 forslag. Langt størstedelen indeholdt ønske om en svømmefacilitet med plads til ro og fordybelse og et mødested for lokalt foreningsliv.\n\nHuset på 5.800 kvadratmeter har ti bassiner inde og ude og er tegnet af den japanske tegnestue Kengo Kuma & Associates. Stueetagen rummer et 25-metersbassin, et undervisningsbassin og tre legebassiner samt adgang til havnen med badezone og dyppezone ved en træbrygge. På første etage ligger Dalbassinet mellem husets fem teglstubbe og bassinet Onsen, begge under åben himmel.\n\nNordea-fonden har støttet projektet med 546 millioner kroner, heraf 25 millioner øremærket til bæredygtighed. Pengene har blandt andet gjort det muligt at etablere lodret jordpumpevarme med ti boringer til 250 meters dybde, som året rundt opvarmer de udendørs bassiner på første etage.\n\nOverborgmester Sisse Marie Welling (SF) siger: ”København er presset på svømmekapacitet, så det er supervigtigt, at vi nu får nye bassiner for voksne og legebassiner til de mindste.”\n\nKultur-, fritids- og borgerserviceborgmester Christopher Røhl (R) peger på, at huset udspringer af københavnernes egne ønsker.\n\nKAI skal også være kulturhus. Kulturtårnet i den højeste teglstub får bevægelses- og kulturlokaler, og borgere og kulturskabere kan indsende idéer til kulturaktiviteter om vand. Navnet betyder hav på japansk.\n\nEjendomsfonden Vandkulturhuset Papirøen er bygherre. Programmet for indvielsen offentliggøres senere. Huset er under opførelse og lukket for offentligheden frem til åbningen.",
+  "prompt_tokens": 3478,
+  "completion_tokens": 780,
+  "latency_ms": 5403,
+  "cost_usd": 0.014756,
+  "created": "2026-11-10T07:16:52.098567Z",
+  "error": null
+}

@@ -1,0 +1,21 @@
+{
+  "model_id": "nebius-gpt-oss-120b",
+  "pinned_version": "openai/gpt-oss-120b",
+  "task_id": "t4_versionering",
+  "source_id": "dst-2026-ledighed-september",
+  "archetype": "lynposten",
+  "prompt_sha256": "f70c7c0433207b691c0a46e5f483d9090399e4235b56de4fcf8802de34f3ff71",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 2525,
+    "reasoning_effort": "low"
+  },
+  "text": "93.600 personer var ledige i september, 200 færre end i august. Ledighedsprocenten holdt sig på 3,1 % af arbejdsstyrken. Antallet af aktiverede ledige faldt med 500, mens de ikke‑aktiverede steg med 300. Alle tal er sæsonkorrigerede og omregnet til fuldtidspersoner.\n\nDagpengemodtagere faldt med 100 fra august til september. Der var dermed 78.600 fuldtidsledige på dagpenge. Kontanthjælpsmodtagere faldt også med 100, så 15.000 personer modtog kontanthjælp i september.\n\nFor aldersgruppen 30‑39 år faldt ledighedsprocenten med 0,1 procentpoint. For 25‑29‑årige steg den med 0,1 procentpoint. Ledighedsprocenten var uændret for begge køn og for de øvrige aldersgrupper. Den laveste ledighedsprocent var 1,6 % for 16‑24‑årige, den højeste 5,0 % for 25‑29‑årige.\n\nI Københavns omegn og i Vestjylland faldt ledighedsprocenten med 0,1 procentpoint. I Byen København og på Bornholm steg den med 0,1 procentpoint. Resten af landet så ingen ændring. Vestjylland havde den laveste ledighedsprocent i landet med 2,1 %, mens Byen København fortsat lå øverst med 4,0 %.\n\nDe seneste tal er blevet revideret. Juni, juli og august er alle nedjusteret med 100 i forhold til den offentliggørelse, der blev gjort den 30. september. Revisionerne skyldes opdateringer af de faktiske indberettede tal og justeringer i sæsonkorrektionen.",
+  "prompt_tokens": 1264,
+  "completion_tokens": 452,
+  "latency_ms": 1522,
+  "cost_usd": 0.0004608,
+  "created": "2026-11-10T05:38:19.129551Z",
+  "error": null
+}

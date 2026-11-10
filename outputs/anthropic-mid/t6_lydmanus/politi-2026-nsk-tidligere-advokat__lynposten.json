@@ -1,0 +1,21 @@
+{
+  "model_id": "anthropic-mid",
+  "pinned_version": "claude-sonnet-5-5",
+  "task_id": "t6_lydmanus",
+  "source_id": "politi-2026-nsk-tidligere-advokat",
+  "archetype": "lynposten",
+  "prompt_sha256": "9da5f95de0e65d31d9b3d4441e5fa11a307af443a95288a551dd5e34e4da3388",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 3620,
+    "reasoning_effort": "low"
+  },
+  "text": "En treoghalvtreds-årig tidligere advokat skal i fængsel i seks måneder. Retten i Lyngby dømte ham onsdag for groft stillingsmisbrug og pligtforsømmelse. Fængslet er ubetinget. Han mister også retten til at arbejde som advokat.\n\nRetten fandt det bevist, at han gav urigtige erklæringer til skifteretten. Han ville udpeges som kurator i to konkursboer. Han var inhabil, fordi han forinden havde rådgivet ejeren og direktøren af selskaberne.\n\nSom kurator videregav han heller ikke væsentlige oplysninger om kriminelle forhold i selskaberne. Retten mener, at det forsinkede politiets efterforskning og konkursbehandlingen.\n\nSagen blev ført af National enhed for Særlig Kriminalitet. Specialanklager Konrad Joe Frank siger: \"Jeg er tilfreds med dommen i dag.\"",
+  "prompt_tokens": 1756,
+  "completion_tokens": 334,
+  "latency_ms": 3004,
+  "cost_usd": 0.006852,
+  "created": "2026-11-10T07:18:39.868532Z",
+  "error": null
+}

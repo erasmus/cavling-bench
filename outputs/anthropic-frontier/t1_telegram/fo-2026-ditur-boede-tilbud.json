@@ -1,0 +1,21 @@
+{
+  "model_id": "anthropic-frontier",
+  "pinned_version": "claude-fable-5-1",
+  "task_id": "t1_telegram",
+  "source_id": "fo-2026-ditur-boede-tilbud",
+  "archetype": null,
+  "prompt_sha256": "32fa9c01ec7bdbe014f0cbd81a95368110735ce5a243fbbbde0a6a58c71a5c95",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 3560,
+    "reasoning_effort": "low"
+  },
+  "text": "Ditur.dk ApS har accepteret at betale en bøde på 4,25 millioner kroner for vildledende markedsføring af tilbud på smykker og ure på hjemmesiderne ditur.dk og avile.dk. Forbrugerombudsmanden politianmeldte i maj 2026 virksomheden for i 26 tilfælde at overtræde markedsføringslovens vildledningsforbud og prismærkningsbekendtgørelsen. Efter fem måneders overvågning af priserne vurderede Forbrugerombudsmanden, at varerne var på tilbud så længe, at der reelt ikke var tale om tilbud. I ét eksempel var en halskæde på tilbud i 28 ud af 50 dage med en fast normalpris på 599 kroner, selvom de laveste priser i de to foregående 30-dages perioder var 199 og 179 kroner. Virksomheden har erkendt alle forhold. Bøden er udmålt efter bødemodellen indført 1. januar 2022. Forbrugerombudsmand Torben Jensen siger, at overtrædelserne kan skade forbrugernes tillid til markedet.",
+  "prompt_tokens": 2634,
+  "completion_tokens": 395,
+  "latency_ms": 5900,
+  "cost_usd": 0.04609,
+  "created": "2026-11-10T07:19:10.932728Z",
+  "error": null
+}

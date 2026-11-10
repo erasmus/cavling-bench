@@ -1,0 +1,21 @@
+{
+  "model_id": "nebius-qwen3-235b",
+  "pinned_version": "Qwen/Qwen3-235B-A22B-Instruct-2507",
+  "task_id": "t5_forkortelse",
+  "source_id": "nationalbanken-2026-udsigter-marts",
+  "archetype": null,
+  "prompt_sha256": "26c9697f4a3da91108af378dabe74e9ae733e3a41f2d3229e36e135f91b9d341",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 860,
+    "reasoning_effort": null
+  },
+  "text": "Udsigterne for dansk og global økonomi er præget af vedvarende geopolitisk usikkerhed, handelskonflikter og stigende energipriser. Danmark har dog en stabil økonomi med høj beskæftigelse og lav ledighed, vurderer Nationalbanken i sin prognose offentliggjort i dag. Inflationen forventes at være 1,8 pct. i år, 2,0 pct. i 2027 og 1,9 pct. i 2028. Nationalbankdirektør Christian Kettel Thomsen understreger, at trods stigende energipriser forventes ingen inflationskrise som efter Ruslands invasion af Ukraine. Dog udgør udviklingen i energipriserne en betydelig risiko. I et risikoscenarie med begrænset olie- og gasforsyning fra Den Persiske Golf kan inflationen i år nå 4,5 pct. Nationalbanken anbefaler, at den nye regering i finansloven for 2027 ikke øger efterspørgslen ud over det, der er lagt op til i den tidligere regerings 2035-plan, da der er begrænset kapacitet til produktion uden at påvirke løn og inflation. Danmark står foran store udgifter til forsvar, klima og demografi. Det permanente løft i forsvarsudgifter med 75 mia. kr. siden Ruslands invasion har reduceret råderummet. Nationalbanken advarer mod at udmønte hele råderummet eller svække den strukturelle saldo yderligere. Danmarks BNP forventes at vokse med 1,8 pct. i år og næste år og 2 pct. i 2028. Kerneinflationen vurderes til 2,2 pct. i 2026, 2,1 pct. i 2027 og 1,7 pct. i 2028. Analyser om privatforbrug og monetære tendenser er offentliggjort på www.nationalbanken.dk.",
+  "prompt_tokens": 1123,
+  "completion_tokens": 513,
+  "latency_ms": 36085,
+  "cost_usd": 0.0005324,
+  "created": "2026-11-10T05:44:32.389704Z",
+  "error": null
+}

@@ -1,0 +1,21 @@
+{
+  "model_id": "anthropic-mid",
+  "pinned_version": "claude-sonnet-5-5",
+  "task_id": "t2_rubrik",
+  "source_id": "rigsrevisionen-2026-beretning-energinet-elnettet",
+  "archetype": "lynposten",
+  "prompt_sha256": "f4236352a7b0293d34c99a4184f0f37b59ccc2fa0255032c588f35f20e2143cb",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 3400,
+    "reasoning_effort": "low"
+  },
+  "text": "RUBRIK: 70 pct. af Energinets elnetsprojekter er forsinkede\nUNDERRUBRIK: Forsinkede projekter tager i snit 80 pct. længere tid end planlagt. Udbygningen er over 10 mia. kr. dyrere, og Statsrevisorerne kalder styringen kritisabel.",
+  "prompt_tokens": 2414,
+  "completion_tokens": 120,
+  "latency_ms": 1342,
+  "cost_usd": 0.006028,
+  "created": "2026-11-10T07:15:35.671546Z",
+  "error": null
+}

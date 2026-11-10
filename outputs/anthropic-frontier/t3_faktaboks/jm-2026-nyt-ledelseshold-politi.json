@@ -1,0 +1,21 @@
+{
+  "model_id": "anthropic-frontier",
+  "pinned_version": "claude-fable-5-1",
+  "task_id": "t3_faktaboks",
+  "source_id": "jm-2026-nyt-ledelseshold-politi",
+  "archetype": null,
+  "prompt_sha256": "0440d225d2d19a3a60b99f2cd2db2ec298d75fa95079fb8a80d43ae5994c1c86",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 3575,
+    "reasoning_effort": "low"
+  },
+  "text": "- Lasse Boje Nielsen rokerer fra stillingen som rigsadvokat og udpeges som ny rigspolitichef.\n- Thorkild Fogde rokerer fra stillingen som rigspolitichef til en stilling som politidirektør i Københavns Vestegns Politi.\n- Rasmus Kieffer-Kristensen er udnævnt som chef for Politiets Efterretningstjeneste.\n- Finn Borch Andersen er udnævnt som politidirektør i Københavns Politi efter en stilling som chef for Politiets Efterretningstjeneste.\n- Caroline Østergaard Nielsen fungerer som rigsadvokat indtil videre og er i dag statsadvokat ved Rigsadvokaten.",
+  "prompt_tokens": 2219,
+  "completion_tokens": 259,
+  "latency_ms": 4120,
+  "cost_usd": 0.03514,
+  "created": "2026-11-10T07:21:27.345257Z",
+  "error": null
+}

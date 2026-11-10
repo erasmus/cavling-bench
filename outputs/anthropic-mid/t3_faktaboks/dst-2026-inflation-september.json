@@ -1,0 +1,21 @@
+{
+  "model_id": "anthropic-mid",
+  "pinned_version": "claude-sonnet-5-5",
+  "task_id": "t3_faktaboks",
+  "source_id": "dst-2026-inflation-september",
+  "archetype": null,
+  "prompt_sha256": "8aaabdb82d68246b9dd430cc61d0086390fea096c229c661995b8c89c90d9695",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 575,
+    "reasoning_effort": null
+  },
+  "text": "- Det samlede forbrugerprisindeks steg i september 2026 med 2,2 pct. i forhold til samme måned året før.\n- Kerneinflationen, altså forbrugerprisindekset ekskl. energi og ikke-forarbejdede fødevarer, havde i september en årsstigning på 1,9 pct.\n- Fra august til september var forbrugerprisindekset uændret, mens prisfald på bl.a. sommerhusleje, pakkerejser og fødevarer trak indekset ned med 0,72 procentpoint.\n- Danmarks EU-harmoniserede inflation lå på 2,1 pct. i september.\n- I august havde Sverige med 0,3 pct. den laveste EU-harmoniserede inflation, mens Rumænien med 6,3 pct. havde den højeste.",
+  "prompt_tokens": 1305,
+  "completion_tokens": 279,
+  "latency_ms": 2302,
+  "cost_usd": 0.0054,
+  "created": "2026-11-10T05:22:30.605218Z",
+  "error": null
+}

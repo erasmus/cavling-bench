@@ -1,0 +1,21 @@
+{
+  "model_id": "nebius-qwen3-235b",
+  "pinned_version": "Qwen/Qwen3-235B-A22B-Instruct-2507",
+  "task_id": "t5_forkortelse",
+  "source_id": "dst-2026-bnp-2-kvartal-revideret",
+  "archetype": null,
+  "prompt_sha256": "823b554d4e3321679fe5c98a56b60574262aeeff4cb098f20a35e67f7a3864a4",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 860,
+    "reasoning_effort": null
+  },
+  "text": "Bruttonationalproduktet (BNP) steg med 0,9 pct. i andet kvartal 2026, revideret op med 0,6 procentpoint, primært på grund af indarbejdelse af opdaterede data fra bl.a. Industriens produktion og omsætning, Firmaernes køb og salg samt Betalingsbalance og udenrigshandel. Medicinalindustrien bidrog markant, hvor bruttoværditilvæksten (BVT) steg 1,1 pct., mens væksten ekskl. medicinalindustrien var 0,7 pct. Den øvrige industri og den offentlige sektor bidrog også positivt. Samlet set var BNP i første halvår 2026 6,0 pct. højere end samme periode året før. Beskæftigelsen steg med 0,2 pct. (7.800 personer), og de præsterede timer voksede med 0,3 pct. De faste bruttoinvesteringer steg 1,5 pct., opjusteret med 0,7 procentpoint, især pga. revision af investeringer i intellektuelle rettigheder, som gik fra et fald på 1,2 pct. til en stigning på 1,5 pct. på grund af et patentkøb i udlandet. Byggeri og anlæg bidrog positivt, mens fald i transportmidler og maskiner trak ned. Både offentligt og privat forbrug var uændret (0,0 pct.). Husholdningernes forbrug af tjenester steg 0,8 pct., mens forbruget af varer faldt 0,8 pct., primært pga. et fald i køb af køretøjer på 1,8 pct. efter en stigning på 12,7 pct. i første kvartal. Sammenlignet med andet kvartal 2025 voksede husholdningernes forbrug med 2,8 pct. og det offentlige forbrug med 2,0 pct. Importen steg 1,8 pct. (opjusteret 0,7 procentpoint), hvor tjenesteimporten voksede 2,6 pct. (påvirket af patentkøbet) og vareimporten 1,1 pct. Eksporten steg 1,5 pct. (opjusteret 0,6 procentpoint), med en stigning i vareeksporten på 2,8 pct., især maskiner, mens tjenesteeksporten faldt 0,5 pct. Lageropbygningen gav et vækstbidrag på 0,4 procentpoint, men skal fortolkes med forsigtighed pga. usikkerhed i sæsonkorrektion og forskel i importandel.",
+  "prompt_tokens": 2679,
+  "completion_tokens": 678,
+  "latency_ms": 9373,
+  "cost_usd": 0.0009426000000000001,
+  "created": "2026-11-10T05:43:28.195033Z",
+  "error": null
+}

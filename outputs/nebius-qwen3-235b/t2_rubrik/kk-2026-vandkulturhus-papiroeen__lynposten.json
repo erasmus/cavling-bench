@@ -1,0 +1,21 @@
+{
+  "model_id": "nebius-qwen3-235b",
+  "pinned_version": "Qwen/Qwen3-235B-A22B-Instruct-2507",
+  "task_id": "t2_rubrik",
+  "source_id": "kk-2026-vandkulturhus-papiroeen",
+  "archetype": "lynposten",
+  "prompt_sha256": "393658bd49f57d1ad714ab0312e9916ee830b6d3baac64fe615b793a07e4b882",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 400,
+    "reasoning_effort": null
+  },
+  "text": "RUBRIK: København får nyt vandkulturhus den 5. december 2026  \nUNDERRUBRIK: KAI på Papirøen åbner med 10 bassiner, japansk-dansk arkitektur og kulturprogram. Nordea-fonden støtter med 546 mio. kr.",
+  "prompt_tokens": 2684,
+  "completion_tokens": 81,
+  "latency_ms": 4740,
+  "cost_usd": 0.0005854000000000001,
+  "created": "2026-11-10T05:39:57.001500Z",
+  "error": null
+}

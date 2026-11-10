@@ -1,0 +1,21 @@
+{
+  "model_id": "nebius-gpt-oss-120b",
+  "pinned_version": "openai/gpt-oss-120b",
+  "task_id": "t2_rubrik",
+  "source_id": "fo-2026-rejsekort-politianmeldelse",
+  "archetype": "lynposten",
+  "prompt_sha256": "bd60da396dbddd92e155886c287b96de4eed3f9a248ae46e2d7f8e53a00481aa",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 1900,
+    "reasoning_effort": "low"
+  },
+  "text": "RUBRIK: Forbrugerombudsmanden politianmelder Rejsekort  \nUNDERRUBRIK: Kampagnen om at fysisk kort lukker uden at nævne digitale alternativer har fået over 35 klager og anklages for vildledende markedsføring.",
+  "prompt_tokens": 1992,
+  "completion_tokens": 135,
+  "latency_ms": 625,
+  "cost_usd": 0.0003798,
+  "created": "2026-11-10T05:38:05.803286Z",
+  "error": null
+}

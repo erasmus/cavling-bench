@@ -1,0 +1,21 @@
+{
+  "model_id": "nebius-qwen3-235b",
+  "pinned_version": "Qwen/Qwen3-235B-A22B-Instruct-2507",
+  "task_id": "t6_lydmanus",
+  "source_id": "regeringen-2026-grisefirepart",
+  "archetype": "lynposten",
+  "prompt_sha256": "fd98a5ba45e69c59bec0877244dbba4904758c52f22e7617d6680b705e2394f0",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 620,
+    "reasoning_effort": null
+  },
+  "text": "Nioghalvfems procent af Danmarks grise får klippet halen af. Mange har for lidt plads. Millioner af pattegrise dør hvert år. Nu nedsætter regeringen en firepart for fremtidens griseproduktion. Formålet er bedre dyrevelfærd og en mere bæredygtig produktion. Parterne mødes efter nytår. De kommer fra Landbrug og Fødevarer, Dyrenes Beskyttelse, Fødevareforbundet NNF, Danmarks Naturfredningsforening, Dansk Erhverv, Dansk Industri og regeringen. De skal løfte dyrevelfærden og samtidig sikre en stærk erhvervsgren. De skal finde løsninger på mere økologi, mindre antibiotika og mere forædling i Danmark. Natur og dyrevelfærdsminister Christian Rabjerg Madsen siger, effektivitet må aldrig ske på bekostning af det gode dyreliv. Udenrigsminister Lars Løkke Rasmussen peger på, at forarbejdningen er flyttet ud af landet. I femten år er antallet af slagteriarbejdere faldet med en tredjedel. Ekspertpanelet skal vise vejen til mere forædling. Erhvervsminister Martin Lidegaard kalder det et vigtigt skridt i en grøn omstilling. Miljøminister Maria Reumert Gjerding siger, produktionen belaster naturen og naboer. Nu skal der tages større hensyn.",
+  "prompt_tokens": 1767,
+  "completion_tokens": 381,
+  "latency_ms": 8514,
+  "cost_usd": 0.000582,
+  "created": "2026-11-10T05:45:36.641138Z",
+  "error": null
+}

@@ -1,0 +1,21 @@
+{
+  "model_id": "anthropic-mid",
+  "pinned_version": "claude-sonnet-5-5",
+  "task_id": "t2_rubrik",
+  "source_id": "ombudsmanden-2026-koebenhavn-laerer-ytringsfrihed",
+  "archetype": "landsavisen",
+  "prompt_sha256": "f630640cc0839df28ad9d7e8e36442931fb928f738dbd1a99b10eee9f048b107",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 3400,
+    "reasoning_effort": "low"
+  },
+  "text": "RUBRIK: Ombudsmand: Kommune krænkede lærers ytringsfrihed efter interview\nUNDERRUBRIK: Københavns Kommune indkaldte en lærer til samtale efter en avisartikel. Ombudsmanden henstiller, at sagen genoptages, og kræver svar inden tre måneder.",
+  "prompt_tokens": 2750,
+  "completion_tokens": 118,
+  "latency_ms": 1428,
+  "cost_usd": 0.00668,
+  "created": "2026-11-10T07:15:24.759393Z",
+  "error": null
+}

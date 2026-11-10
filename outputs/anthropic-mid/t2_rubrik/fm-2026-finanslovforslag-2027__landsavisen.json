@@ -1,0 +1,21 @@
+{
+  "model_id": "anthropic-mid",
+  "pinned_version": "claude-sonnet-5-5",
+  "task_id": "t2_rubrik",
+  "source_id": "fm-2026-finanslovforslag-2027",
+  "archetype": "landsavisen",
+  "prompt_sha256": "5d5e921643f66a175b7e1f8a6bfa98e59540e426cac2a56a40a76eec71e82319",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 3400,
+    "reasoning_effort": "low"
+  },
+  "text": "RUBRIK: Regeringen fremlægger finanslovforslag for 2027\nUNDERRUBRIK: Forslaget afsætter midler til forsvar, folkeskole, tandpleje for førtidspensionister, elektrificering og gratis kollektiv transport for unge under 22 år.",
+  "prompt_tokens": 3035,
+  "completion_tokens": 104,
+  "latency_ms": 1359,
+  "cost_usd": 0.00711,
+  "created": "2026-11-10T07:15:08.902949Z",
+  "error": null
+}

@@ -1,0 +1,21 @@
+{
+  "model_id": "anthropic-mid",
+  "pinned_version": "claude-sonnet-5-5",
+  "task_id": "t6_lydmanus",
+  "source_id": "kefm-2026-akutplan-elnettet-vedtaget",
+  "archetype": "lynposten",
+  "prompt_sha256": "8cbe701973998957b5312eb69277420f3f3e2f03d47b323e89c0500d77b88ae4",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 3620,
+    "reasoning_effort": "low"
+  },
+  "text": "Folketinget har vedtaget akutplanen for elnettet. Et bredt flertal af partierne stemte for. Nu er det slut med først til mølle. Energinet og netvirksomhederne må selv prioritere, hvem der får plads i elnettet.\n\nPladsen er knap. Flere steder kan ikke alle projekter blive tilsluttet.\n\nLoven træder i kraft den tolvte oktober. Reglerne bruges, næste gang der fordeles kapacitet i efteråret.\n\nKlima-, energi- og forsyningsminister Samira Nawa kalder situationen dybt alvorlig. Hun siger, at akutplanen kun er første skridt.\n\nEnhedslisten fremhæver, at datacentre kommer bagerst, og danske hjem forrest.\n\nKonservative ønsker faste genbesøg af reglerne. Planen skal være midlertidig kriselovgivning. Første genbesøg sker i 2027.",
+  "prompt_tokens": 4309,
+  "completion_tokens": 322,
+  "latency_ms": 2757,
+  "cost_usd": 0.011838,
+  "created": "2026-11-10T07:18:30.356218Z",
+  "error": null
+}

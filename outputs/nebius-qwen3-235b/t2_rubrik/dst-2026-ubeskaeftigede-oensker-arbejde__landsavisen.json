@@ -1,0 +1,21 @@
+{
+  "model_id": "nebius-qwen3-235b",
+  "pinned_version": "Qwen/Qwen3-235B-A22B-Instruct-2507",
+  "task_id": "t2_rubrik",
+  "source_id": "dst-2026-ubeskaeftigede-oensker-arbejde",
+  "archetype": "landsavisen",
+  "prompt_sha256": "0864f5856f11afbf5f0b287ad1c227b46347906da4ac158307cff056586b2853",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 400,
+    "reasoning_effort": null
+  },
+  "text": "RUBRIK: Hver anden ubeskæftiget søger arbejde  \nUNDERRUBRIK: 470.000 ubeskæftige ønsker job – en stigning på 85.000 siden 2024, viser tal fra første kvartal 2026.",
+  "prompt_tokens": 2003,
+  "completion_tokens": 77,
+  "latency_ms": 1344,
+  "cost_usd": 0.0004468,
+  "created": "2026-11-10T05:39:36.047027Z",
+  "error": null
+}

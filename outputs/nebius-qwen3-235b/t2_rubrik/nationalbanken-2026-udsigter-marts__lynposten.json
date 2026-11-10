@@ -1,0 +1,21 @@
+{
+  "model_id": "nebius-qwen3-235b",
+  "pinned_version": "Qwen/Qwen3-235B-A22B-Instruct-2507",
+  "task_id": "t2_rubrik",
+  "source_id": "nationalbanken-2026-udsigter-marts",
+  "archetype": "lynposten",
+  "prompt_sha256": "302cf1dccd1ec05cf35134ddd4fc8f5d5901a2e36a4b1785b95e711cb0131ce4",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 400,
+    "reasoning_effort": null
+  },
+  "text": "RUBRIK: Nationalbanken forventer 1,8 pct. inflation i år  \nUNDERRUBRIK: Geopolitiske spændinger og stigende energipriser skaber usikkerhed, men dansk økonomi er stabil med lav ledighed og forventet BNP-vækst på 1,8 pct. i år.",
+  "prompt_tokens": 1461,
+  "completion_tokens": 82,
+  "latency_ms": 1749,
+  "cost_usd": 0.0003414,
+  "created": "2026-11-10T05:39:59.124763Z",
+  "error": null
+}

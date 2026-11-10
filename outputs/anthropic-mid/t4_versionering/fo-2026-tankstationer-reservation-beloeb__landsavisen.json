@@ -1,0 +1,21 @@
+{
+  "model_id": "anthropic-mid",
+  "pinned_version": "claude-sonnet-5-5",
+  "task_id": "t4_versionering",
+  "source_id": "fo-2026-tankstationer-reservation-beloeb",
+  "archetype": "landsavisen",
+  "prompt_sha256": "ede9e8a415c49ee12129e9dbfbc6937dc10e1d795912765ff0bc1ee76b5fc209",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 4025,
+    "reasoning_effort": "low"
+  },
+  "text": "Forbrugerombudsmanden har afsluttet sagerne mod tankstationskæderne Q8, OK, Shell og Uno-X, som har reserveret urimeligt høje beløb på kunders konti i forhold til det, kunderne endte med at betale. Q8 og OK er blevet bedt om at efterleve reglerne. Sagerne udspringer af en dialog med brancheorganisationen Drivkraft Danmark i 2023 om manglende samtykke ved reservationer.\n\nDengang forpligtede medlemmerne sig til at oplyse det præcise reservationsbeløb i skærmflowet, hvor betalingen foregår, i stedet for på små klistermærker ved standerne. Forbrugerombudsmanden og Drivkraft Danmark nåede dog ikke til enighed om, hvorvidt det er berettiget at reservere et langt større beløb, end forbrugeren skal betale. De aktuelle sager handler derfor primært om beløbets størrelse.\n\nOmbudsmanden vurderer, at Uno-X' reservation på 1.200 kroner og Shells på 1.500 kroner var urimelig, fordi beløbene ikke stod i rimeligt forhold til det, de fleste tanker for. Q8's 950 kroner og OK's 850 kroner var urimelige for minibiler, små biler og mindre køretøjer. Der har desuden været klager over, at reservationer hos OK, Uno-X og Shell ikke blev frigivet hurtigt nok. I nogle tilfælde tog det op til 11 dage. Det skyldes ofte tekniske fejl hos banken.\n\nUno-X og Shell lader nu kunderne vælge beløbet på standerens skærm. OK har midlertidigt sat det til 100 kroner og forventer en anden løsning. Q8 reserverer fortsat 950 kroner, men arbejder på en løsning. Samtykke til beløbet i skærmflowet skal være fuldt indført hos Q8 i midten af 2026.\n\nBåde Q8 og OK mangler en løsning for kunder, der betaler med Apple/Google Pay og ikke ser teksten i skærmflowet. OK vil opsætte skiltning ved terminalen, men ombudsmanden mener, at oplysningen skal stå i selve skærmflowet.\n\nForbrugerombudsmand Torben Jensen siger: \"Når en virksomhed reserverer et beløb på en forbrugers konto, så skal beløbet stå i rimeligt forhold til det beløb, som forbrugeren ender med at betale.\"",
+  "prompt_tokens": 3782,
+  "completion_tokens": 880,
+  "latency_ms": 5837,
+  "cost_usd": 0.016364,
+  "created": "2026-11-10T07:16:41.286267Z",
+  "error": null
+}

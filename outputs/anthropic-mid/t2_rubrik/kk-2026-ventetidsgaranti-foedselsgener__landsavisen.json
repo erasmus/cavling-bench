@@ -1,0 +1,21 @@
+{
+  "model_id": "anthropic-mid",
+  "pinned_version": "claude-sonnet-5-5",
+  "task_id": "t2_rubrik",
+  "source_id": "kk-2026-ventetidsgaranti-foedselsgener",
+  "archetype": "landsavisen",
+  "prompt_sha256": "e324897d97e7564ce9a461f0ce06a0635980166a79602541a361ef5b9977d170",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 3400,
+    "reasoning_effort": "low"
+  },
+  "text": "RUBRIK: København indfører ventetidsgaranti for efterfødselshjælp\nUNDERRUBRIK: Første samtale inden for 7 dage og undersøgelse senest 3 uger efter. Kan kommunen ikke overholde det, tilbydes et forløb hos en privat leverandør.",
+  "prompt_tokens": 2994,
+  "completion_tokens": 108,
+  "latency_ms": 1613,
+  "cost_usd": 0.007068,
+  "created": "2026-11-10T07:15:19.783559Z",
+  "error": null
+}

@@ -1,0 +1,21 @@
+{
+  "model_id": "anthropic-frontier",
+  "pinned_version": "claude-fable-5-1",
+  "task_id": "t3_faktaboks",
+  "source_id": "rm-2026-kultur-sundhed-pulje-78-mio",
+  "archetype": null,
+  "prompt_sha256": "45bd44576a236f7e3dbb536dec8a7edc8072fff0517a84cf8b6c626871f5c5e9",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 3575,
+    "reasoning_effort": "low"
+  },
+  "text": "- Region Midtjylland åbner en pulje på 7,8 mio. kr. til projekter inden for sundhed og kultur.\n- Ansøgningsfristen er den 26. august 2026 kl. 12.00, og ansøgninger behandles i november 2026.\n- Der skal som minimum søges om 200.000 kr., og projekter skal have en medfinansiering på mindst 25 procent.\n- Der kan søges støtte til projekter med en varighed på op til tre år.\n- Det fysiske dialogmøde afholdes på Godsbanen i Aarhus den 21. maj kl. 10-13, det digitale den 2. juni kl. 13-14.30.",
+  "prompt_tokens": 1862,
+  "completion_tokens": 229,
+  "latency_ms": 2552,
+  "cost_usd": 0.03007,
+  "created": "2026-11-10T07:21:45.683351Z",
+  "error": null
+}

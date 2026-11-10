@@ -1,0 +1,21 @@
+{
+  "model_id": "nebius-qwen3-235b",
+  "pinned_version": "Qwen/Qwen3-235B-A22B-Instruct-2507",
+  "task_id": "t4_versionering",
+  "source_id": "fm-2026-ok26-statens-overenskomst",
+  "archetype": "landsavisen",
+  "prompt_sha256": "216820c5057ccff945439e7341efa9a3c2d2bf61d3d95a380f2097d9ab9865eb",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 1025,
+    "reasoning_effort": null
+  },
+  "text": "Finansminister Nicolai Wammen har sammen med Centralorganisationernes Fællesudvalg (CFU) og Akademikerne indgået et treårigt overenskomstforlig for de cirka 200.000 ansatte i staten. Forliget kommer efter forhandlinger og skal sikre, at staten forbliver en attraktiv arbejdsplads. Det følger af en stigende behov for rekruttering, især i Forsvaret, og ønsket om bedre vilkår for børnefamilier.\n\nForliget rummer en økonomisk ramme på 8,7 pct. over tre år, hvilket giver en pæn reallønsfremgang for de fleste medarbejdere. Allerede i foråret sker de første lønstigninger. En del af rammen – 275 mio. kr. – er specifikt afsat til et ekstraordinært lønløft for Forsvarets militært ansatte. Formålet er at styrke rekruttering og fastholdelse. Den konkrete fordeling aftales mellem myndigheder og faglige organisationer på forsvarsområdet. Yderligere 250 mio. kr. går til lokal løn, og 20 mio. kr. til lønforbedringer for erhvervsskolelærere.\n\nParterne indfører også en ny fritvalgskonto, hvor medarbejdere kan vælge mellem løn, pension og frihed. Udvalgte grupper får én fritvalgsdag og to ekstra seniordage – uden løn, men med mulighed for at hente et beløb fra kontoen. For børnefamilier bliver vilkårene bedre: Der gives nu fri med løn på hjemkaldelsesdagen og på barnets tredje sygedag. Lønretten under barsel forbedres, og der tilføjes to ugers lønret til deleorlov. Ændringerne gavner blandt andet aleneforældre, sociale forældre og nærtstående.\n\nFinansminister Nicolai Wammen siger:  \n\"Det er helt afgørende, at vi fortsat har fokus på, at det skal være attraktivt at arbejde i staten. Vi er afhængige af, at der er dygtige folk, som hver dag bidrager til velfærdssamfundet. Danmark står lige nu i en helt særlig situation, hvor der er behov for store investeringer i vores fælles forsvar og sikkerhed. Derfor er jeg glad for, at vi sammen med aftaleparterne kan prioritere et ekstraordinært lønløft til Forsvarets militært ansatte på 275 mio. kr. og med vægt på, at de grupper, der nu får mindst, kommer til at opleve den største relative stigning – udover de generelle lønstigninger. Derudover gør vi det bedre for mange børnefamilier, når vi forbedrer vilkårene under barsel og børns sygdom. Det har været vigtigt for mig som finansminister.\"\n\nForliget sendes nu til afstemning i de faglige organisationer. Hvis det godkendes, gælder det fra 1. april 2026 til 31. marts 2029.",
+  "prompt_tokens": 1548,
+  "completion_tokens": 822,
+  "latency_ms": 28840,
+  "cost_usd": 0.0008028,
+  "created": "2026-11-10T05:42:09.188533Z",
+  "error": null
+}

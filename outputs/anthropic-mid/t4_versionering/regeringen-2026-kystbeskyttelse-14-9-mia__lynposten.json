@@ -1,0 +1,21 @@
+{
+  "model_id": "anthropic-mid",
+  "pinned_version": "claude-sonnet-5-5",
+  "task_id": "t4_versionering",
+  "source_id": "regeringen-2026-kystbeskyttelse-14-9-mia",
+  "archetype": "lynposten",
+  "prompt_sha256": "2e6f2475f8609ad336a6dcd22adb73b21dc64f734490b16694378fd477c26222",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 4025,
+    "reasoning_effort": "low"
+  },
+  "text": "Regeringen sætter 14,9 mia. kroner af til kystbeskyttelse. Pengene skal hjælpe kommunerne med at sikre kysten mod stormfloder. Det står i Klimatilpasningsplan II.\n\nFaren er stor. 1 mio. danskere bor under en kilometer fra kysten. Op mod 100.000 husstande og virksomheder med 175.000 arbejdspladser risikerer oversvømmelser fra havet, hvis der ikke sættes ind.\n\nStormfloder, der i dag kommer én gang hvert 100. år, kommer i år 2100 hvert tredje år. Regeringen mener, at både investeringerne og anlæggene går for langsomt.\n\nStaten betaler 85 procent af anlægsudgifterne i den kommende investeringsplan. Kommunerne betaler 15 procent og har fortsat ansvaret for at gennemføre projekterne. Med accelerationspakken og Finansloven 2026 bliver der plads til investeringer på op mod 20 mia. kroner frem mod 2040.\n\nLodsejerne kan blive bedt om at betale en del af regningen. En ekspertgruppe skal komme med anbefalinger til en model for fordelingen. Der er endnu ikke taget stilling til, hvor stor en andel det bliver.\n\nDet skal også være lettere at få tilladelse til klimatilpasning, når den støder mod naturhensyn. Regeringen vil udvide dispensationsmulighederne.\n\nMiljøminister Magnus Heunicke (S) lover diger, højvandmure og sluser. ”Det skal ikke længere være den enkelte kommune, husejere eller borgergruppe, der alene skal kæmpe for at få beskyttet deres by eller hjem,” siger han.\n\nKlima-, energi- og forsyningsminister Lars Aagard peger på regningen. ”Klimaforandringerne kommer med en regning,” siger han.\n\nMiljøministeren indkalder nu Folketingets partier til drøftelser om en politisk aftale.",
+  "prompt_tokens": 2537,
+  "completion_tokens": 701,
+  "latency_ms": 4978,
+  "cost_usd": 0.012084,
+  "created": "2026-11-10T07:17:23.938838Z",
+  "error": null
+}

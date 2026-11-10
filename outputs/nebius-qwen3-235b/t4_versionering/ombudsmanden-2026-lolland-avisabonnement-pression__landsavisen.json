@@ -1,0 +1,21 @@
+{
+  "model_id": "nebius-qwen3-235b",
+  "pinned_version": "Qwen/Qwen3-235B-A22B-Instruct-2507",
+  "task_id": "t4_versionering",
+  "source_id": "ombudsmanden-2026-lolland-avisabonnement-pression",
+  "archetype": "landsavisen",
+  "prompt_sha256": "5f172db74d461776a82ee36d1660133721ad0add506ea9695eba4ee70e864254",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 1025,
+    "reasoning_effort": null
+  },
+  "text": "Folketingets Ombudsmand har opfordret Lolland Kommune til at overveje, om opsigelsen af abonnementer på Lolland-Falsters Folketidende skete på sagligt grundlag, efter at politikere i kommunen udtalte sig kritisk over for avisen. Aktionen følger efter en kritisk artikel i mediet, og ombudsmanden advarer mod, at myndigheder bruger administrative handlinger som pres eller sanktion mod pressen.\n\nOmbudsmanden indledte undersøgelsen i maj 2026 efter en medierapportering, der antydede, at kommunen havde opsagt abonnementer tilhørende borgmesteren og to byrådsmedlemmer som reaktion på dækningsformen i lokalavisen. Kommunen oplyser, at opsigelserne skete på personligt initiativ og ikke var tiltænkt som straf. Men visse udtalelser fra de implicerede politikere kan efter ombudsmandens vurdering give indtryk af noget andet.\n\nBorgmesteren skrev på sociale medier, at kritik skal være \"fair, åben og ansvarlig\", og at hun overvejede \"yderligere skridt\". Et byrådsmedlem udtalte på Facebook, at de ikke længere ville \"betale for\" journalister, der \"sætter loven for godt håndværk til side\", mens et andet i en intern mail beskrev en artikel som \"dråben, der fik bægeret til at flyde over\".\n\n– En myndighed kan naturligvis vælge at opsige et abonnement, men det skal ske på sagligt grundlag. Det er ikke sagligt, hvis det sker for at straffe eller lægge pres på journalister, siger Folketingets Ombudsmand, Christian Britten Lundblad.\n\nHan henviser til, at myndigheder er bundet af forvaltningsretlige principper om lighed og saglighed, og at de ikke må anvende sine beføjelser til ulovlige formål. Ombudsmanden har bedt kommunen om at orientere om resultatet af sine overvejelser.",
+  "prompt_tokens": 1767,
+  "completion_tokens": 528,
+  "latency_ms": 11518,
+  "cost_usd": 0.0006702,
+  "created": "2026-11-10T05:42:52.207317Z",
+  "error": null
+}

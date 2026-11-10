@@ -1,0 +1,21 @@
+{
+  "model_id": "anthropic-frontier",
+  "pinned_version": "claude-fable-5-1",
+  "task_id": "t2_rubrik",
+  "source_id": "dst-2026-bnp-2-kvartal-revideret",
+  "archetype": "lynposten",
+  "prompt_sha256": "dd9e896dd4f3b7490c96859b047643eeb3c1185a96caaba65adcb9618f8b1af8",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 3400,
+    "reasoning_effort": "low"
+  },
+  "text": "RUBRIK: Dansk økonomi vokser 0,9 pct. i andet kvartal\nUNDERRUBRIK: BNP-væksten er revideret op med 0,6 procentpoint. Medicinalindustrien trækker, og beskæftigelsen stiger med 7.800 personer.",
+  "prompt_tokens": 3889,
+  "completion_tokens": 105,
+  "latency_ms": 1649,
+  "cost_usd": 0.04414,
+  "created": "2026-11-10T07:19:51.642170Z",
+  "error": null
+}

@@ -1,0 +1,21 @@
+{
+  "model_id": "anthropic-mid",
+  "pinned_version": "claude-sonnet-5-5",
+  "task_id": "t2_rubrik",
+  "source_id": "kfst-2026-fibernet-prislofter",
+  "archetype": "lynposten",
+  "prompt_sha256": "5cb891013cd7318450858fdad33f9411287335c86da11042506863218aef4aa6",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 3400,
+    "reasoning_effort": "low"
+  },
+  "text": "RUBRIK: Prisloftet på fibernet stiger op til 35 procent\nUNDERRUBRIK: Bredbåndet bliver dyrere de næste fem år. Dyrere udstyr, højere rente og beskyttelse mod angreb driver stigningen. Styrelsen fastsætter de endelige lofter i december.",
+  "prompt_tokens": 2815,
+  "completion_tokens": 117,
+  "latency_ms": 1460,
+  "cost_usd": 0.0068,
+  "created": "2026-11-10T07:15:16.705559Z",
+  "error": null
+}

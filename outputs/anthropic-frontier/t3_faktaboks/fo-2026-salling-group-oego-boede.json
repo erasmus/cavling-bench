@@ -1,0 +1,21 @@
+{
+  "model_id": "anthropic-frontier",
+  "pinned_version": "claude-fable-5-1",
+  "task_id": "t3_faktaboks",
+  "source_id": "fo-2026-salling-group-oego-boede",
+  "archetype": null,
+  "prompt_sha256": "0a8614198bfd31af78a99735d6e51b2bef4e6f7d64231176090a5fd0112cac9f",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 3575,
+    "reasoning_effort": "low"
+  },
+  "text": "- Salling Group A/S har accepteret at betale en bøde på 10 millioner kroner for vildledende markedsføring af Nettos ØGO-produktserie.\n- Forbrugerombudsmanden politianmeldte Salling Group i september 2025 for overtrædelse af markedsføringslovens forbud mod vildledning.\n- Udsagnet om fjerdepladsen byggede på en spørgeundersøgelse blandt 10.000 danske forbrugere gennemført af SB Insight, der står bag Sustainable Brand Index.\n- Markedsføringen fremgik af Nettos opslag på sociale medier og en tilbudsmail fra Netto+, som Salling Group fjernede efter Forbrugerombudsmandens henvendelse.\n- Bøden er udmålt efter den nye bødemodel, der blev indført med virkning fra 1. januar 2022.",
+  "prompt_tokens": 2159,
+  "completion_tokens": 303,
+  "latency_ms": 3167,
+  "cost_usd": 0.03674,
+  "created": "2026-11-10T07:21:24.638443Z",
+  "error": null
+}

@@ -1,0 +1,21 @@
+{
+  "model_id": "nebius-gpt-oss-120b",
+  "pinned_version": "openai/gpt-oss-120b",
+  "task_id": "t2_rubrik",
+  "source_id": "politi-2026-midtvestsjaelland-idraetsforening",
+  "archetype": "lynposten",
+  "prompt_sha256": "37c66b6e85b014a25b973ec333e4e3a8358bc3751ec12d652a8f92101a28949c",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 1900,
+    "reasoning_effort": "low"
+  },
+  "text": "RUBRIK: 46-årig ansat i idrætsforening idømt et år i fængsel  \nUNDERRUBRIK: Dommen i Roskilde dømmer manden for seksuelle overgreb, blufærdighedskrænkelser og ulovlig optagelse af mindst 42 drenge.",
+  "prompt_tokens": 1148,
+  "completion_tokens": 135,
+  "latency_ms": 483,
+  "cost_usd": 0.0002532,
+  "created": "2026-11-10T05:38:09.848482Z",
+  "error": null
+}

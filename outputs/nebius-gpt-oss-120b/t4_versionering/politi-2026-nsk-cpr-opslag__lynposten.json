@@ -1,0 +1,21 @@
+{
+  "model_id": "nebius-gpt-oss-120b",
+  "pinned_version": "openai/gpt-oss-120b",
+  "task_id": "t4_versionering",
+  "source_id": "politi-2026-nsk-cpr-opslag",
+  "archetype": "lynposten",
+  "prompt_sha256": "9799c03e5c1ab9711e17414f97a0cd8acbf51ff73ff6805416e9663bddf4854c",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 2525,
+    "reasoning_effort": "low"
+  },
+  "text": "27-årig mand fra Storkøbenhavn idømt tre år og seks måneder i fængsel for at muliggøre personfarlig kriminalitet. Dommen blev afsagt onsdag ved Københavns Byret efter, at han i perioden juni 2023 til juli 2024 misbrugte sin stilling som studentermedhjælper i Københavns Kommune. Han udnyttede adgang til Det Centrale Personregister til at hente bopælsadresser og familieoplysninger på konkrete personer. Oplysningerne blev solgt til medgerningsmænd i det kriminelle miljø. På den måde bidrog han til 34 forsøg på grov vold.\n\nRetten fandt ham skyldig i både uberettigede CPR‑opslag og i at videregive oplysningerne mod betaling. Specialanklager Rikke Holm Schønsted fra National enhed for Særlig Kriminalitet (NSK) udtalte: “Den dømte har haft forsæt til at facilitere, at personfarlig kriminalitet kunne planlægges mod konkrete forurettede, og det er selvsagt alvorligt.” Anklager Tine Graakjær tilføjede: “Retten har fundet bevis for, at han måtte have indset, at de solgte oplysninger skulle bruges til at begå personfarlig kriminalitet, og derfor er han fundet skyldig i medvirken til dette.”\n\nDen dømte har valgt at tage betænkningstid, inden han eventuelt anker dommen. Sagen markerer en sjælden retspraksis, hvor en person uden direkte planlægning af vold alligevel kan dømmes for at have gjort det muligt. NSK, som efterforsker sådanne komplekse sager, har i denne sag vist, at misbrug af offentlige data kan straffes hårdt.",
+  "prompt_tokens": 1473,
+  "completion_tokens": 452,
+  "latency_ms": 1542,
+  "cost_usd": 0.00049215,
+  "created": "2026-11-10T05:38:29.205072Z",
+  "error": null
+}

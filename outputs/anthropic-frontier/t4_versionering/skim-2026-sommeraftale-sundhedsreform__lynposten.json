@@ -1,0 +1,21 @@
+{
+  "model_id": "anthropic-frontier",
+  "pinned_version": "claude-fable-5-1",
+  "task_id": "t4_versionering",
+  "source_id": "skim-2026-sommeraftale-sundhedsreform",
+  "archetype": "lynposten",
+  "prompt_sha256": "c995fdf250e9fc959a57c59c1e5f3ff6fed7a61839a13b1c520f57fec2b1623d",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 4025,
+    "reasoning_effort": "low"
+  },
+  "text": "Patienter med KOL og kroniske lænderygsmerter får fra 2027 ret til en behandlingsplan inden for 21 dage. Det er en del af en ny sommeraftale mellem regeringen, Danske Regioner og KL.\n\nAftalen giver sundhedsvæsenet knap 800 millioner kroner i 2027. Beløbet stiger til 1,1 milliard kroner årligt fra 2030.\n\nDe første kronikerpakker gælder patienter med KOL og kroniske lænderygsmerter. Senere følger patienter med type 2-diabetes, hjertesygdom og kompleks multisygdom. Patienterne får ret til en behandlingsplan. De skal også tilbydes opstart på forebyggelsestilbud inden for 21 dage efter henvisning fra egen læge.\n\nSygehusene får også et større ansvar efter udskrivelse. Ordningen med 96 timers behandlingsansvar udvides. Den kommer nu til at gælde ældre medicinske patienter efter ophold på en akutmodtagelse. Den gælder også visse psykiatriske patienter. Målet er færre unødige genindlæggelser.\n\n\"Vi udvider også sygehusets behandlingsansvar, så flere patienter kan opleve en mere tryg overgang fra hospital til eget hjem,\" siger sundhedsminister Ida Auken.\n\nAftalen giver desuden et kvalitetsløft til de nye regionale sundheds- og omsorgspladser. Ophold er uden egenbetaling. Borgerne får frit valg mellem pladserne. De får også ret til befordring til og fra pladserne.\n\nMads Duedahl, formand for Danske Regioner, peger på patienternes hverdag.\n\n\"Sundhedsreformen bliver først en succes, når patienterne mærker den i deres hverdag,\" siger han.\n\nDorte West, formand for KL's Sundheds- og Ældreudvalg, glæder sig over udvidelsen af de 96 timers behandlingsansvar. Hun fremhæver sammenhængen mellem regionernes indsatser og kommunernes pleje af ældre på plejehjem og udsatte borgere på botilbud.\n\nAftalen sætter også 128 millioner kroner af i 2027 til at nedbringe ventetider hos praktiserende speciallæger.\n\nLoftet over speciallægestillinger på hospitalerne i de store byer videreføres. Det gælder dog ikke læger, der er fyldt 67 år.\n\nAftalen er den anden fælles implementeringsaftale i sundhedsreformen. Den bygger videre på forårsaftalen fra 2025.",
+  "prompt_tokens": 3631,
+  "completion_tokens": 905,
+  "latency_ms": 9434,
+  "cost_usd": 0.08156,
+  "created": "2026-11-10T07:25:11.852489Z",
+  "error": null
+}

@@ -1,0 +1,21 @@
+{
+  "model_id": "nebius-qwen3-235b",
+  "pinned_version": "Qwen/Qwen3-235B-A22B-Instruct-2507",
+  "task_id": "t5_forkortelse",
+  "source_id": "fo-2026-rejsekort-politianmeldelse",
+  "archetype": null,
+  "prompt_sha256": "58a3fa895aa68917ef89169643d13d5252e3ec7aae2fad5a7ea64fb7ee1a405c",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 860,
+    "reasoning_effort": null
+  },
+  "text": "Forbrugerombudsmanden politianmelder Rejsekort & Rejseplan A/S for vildledende markedsføring. Virksomheden har ifølge Forbrugerombudsmanden givet forbrugerne indtryk af, at de måtte skifte til en billet-app, når det fysiske rejsekort lukkede, uden klart og tydeligt at oplyse, at der stadig ville være et ikke-digitalt alternativ. Kampagnen, som løb på sociale medier, reklameskilte, informationsskærme i busser og tog samt via hætter over tjek-ind-standere, vurderes som vildledende. Eksempler inkluderer videoer med tekster som \"Dit fysiske kort lukker - Hent Rejsekort-appen\" på Facebook-siderne Nordjyllands Trafikselskab, Fynbus, Midttrafik og Sydtrafik, hvor oplysningen om et ikke-digitalt alternativ kun fremgik, hvis forbrugeren trykkede \"se mere\". Ligeledes stod der på hætter over standere fra oktober 2025: \"Rejs med digitalt. Det fysiske rejsekort lukker. Brug i stedet en af disse billet-apps\", uden at nævne det fysiske alternativ. Også på metrostationer og store reklameskilte fremgik det ikke, at der stadig ville være et ikke-digitalt alternativ. Forbrugerombudsmanden har modtaget over 35 klager. Rejsekort & Rejseplan afviser vildledning. Forbrugerombudsmand Torben Jensen pointerer, at kampagnen udelod væsentlige oplysninger for at påvirke forbrugeradfærd, og kalder det skærpende, at kampagnen var omfattende og vedrører offentlig transport. Lovgrundlaget er Markedsføringslovens § 5 og § 6.",
+  "prompt_tokens": 1916,
+  "completion_tokens": 477,
+  "latency_ms": 8078,
+  "cost_usd": 0.0006694000000000001,
+  "created": "2026-11-10T05:43:38.376755Z",
+  "error": null
+}

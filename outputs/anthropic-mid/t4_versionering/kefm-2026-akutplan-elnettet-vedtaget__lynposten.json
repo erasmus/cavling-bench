@@ -1,0 +1,21 @@
+{
+  "model_id": "anthropic-mid",
+  "pinned_version": "claude-sonnet-5-5",
+  "task_id": "t4_versionering",
+  "source_id": "kefm-2026-akutplan-elnettet-vedtaget",
+  "archetype": "lynposten",
+  "prompt_sha256": "04f6fe506cfa22ae80a4c0d1169f5f87bd4b1caa464bcf0f8083ed1a0658ded1",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 4025,
+    "reasoning_effort": "low"
+  },
+  "text": "Folketinget har vedtaget akutplanen for elnettet. Et bredt flertal stemte for. Loven træder i kraft 12. oktober.\n\nPlanen afløser først-til-mølle-princippet. Energinet og netvirksomhederne kan nu prioritere, hvem der får adgang til den knappe plads i nettet. Flere steder er der ikke plads til alle projekter, der vil tilsluttes.\n\nNæste gang kapacitet fordeles i efteråret, gælder de nye regler. Det sker, når lov og bekendtgørelser er trådt i kraft.\n\nPartierne er delt om pointerne, men enige om behovet. Enhedslisten og Alternativet peger på datacentre. \"Vi sætter datacentre bagerst og danske hjem forrest,\" siger Lisbeth Torfing (EL), energi- og forsyningsordfører. Alternativets Anna Bjerre taler om techgiganter \"bagerst i køen\".\n\nKlima-, energi- og forsyningsminister Samira Nawa kalder situationen \"dybt alvorlig\". Hun siger, at loven kun er første skridt i en genopretningsplan.\n\nVenstre og Konservative advarer mod en permanent ordning. \"Akutplanen skal være midlertidig kriselovgivning – ikke en ny normaltilstand,\" siger Anders Storgaard (K), klima-, energi- og forsyningsordfører. Venstres Mathilde Hjort Bressum vil have forhandlinger om udbygning af transmissionsnettet.\n\nDe kollektive netselskaber får et år til at udvikle nye netprodukter. Reglerne genbesøges i 2027. Da skal det drøftes, om ministeren kan pålægge selskaberne at anmelde nye produkter.\n\nPrioriteringen efter samfundshensyn kræver ikke metodegodkendelse fra Forsyningstilsynet. Brugen af netvenlighed skal bygge på metoder, som tilsynet har godkendt.\n\nAftalepartierne inviteres til drøftelser om udbygning af nettet og Energiinfrastrukturplan 2035.",
+  "prompt_tokens": 4260,
+  "completion_tokens": 724,
+  "latency_ms": 5076,
+  "cost_usd": 0.01576,
+  "created": "2026-11-10T07:16:44.453282Z",
+  "error": null
+}

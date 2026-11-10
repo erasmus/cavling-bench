@@ -1,0 +1,21 @@
+{
+  "model_id": "nebius-qwen3-235b",
+  "pinned_version": "Qwen/Qwen3-235B-A22B-Instruct-2507",
+  "task_id": "t3_faktaboks",
+  "source_id": "ombudsmanden-2026-koebenhavn-laerer-ytringsfrihed",
+  "archetype": null,
+  "prompt_sha256": "3edc092c557dff45ca927696439e63efe8599a1143921953794999710d006514",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 575,
+    "reasoning_effort": null
+  },
+  "text": "- Københavns Kommune indkaldte en lærer til en tilrettevisningssamtale efter et interview i en avis med overskriften ”Lærer fik hjernerystelse og blå mærker efter slag: ’Som at være i en krigszone’”.  \n- Ombudsmanden konkluderer, at kommunens håndtering ikke skete med respekt for lærerens ytringsfrihed.  \n- Københavns Kommune tilkendegav, at opfordringen til læreren om at holde lav profil over for pressen var yderst beklagelig.  \n- Læreren orienterede sin skoleleder om interviewet med avisen inden udgivelsen.  \n- Reglerne om offentligt ansattes ytringsfrihed blev lovfæstet med virkning fra den 1. juli 2025 ved lov nr. 557 af 27. maj 2025.",
+  "prompt_tokens": 1735,
+  "completion_tokens": 231,
+  "latency_ms": 9068,
+  "cost_usd": 0.00048560000000000004,
+  "created": "2026-11-10T05:40:48.777943Z",
+  "error": null
+}

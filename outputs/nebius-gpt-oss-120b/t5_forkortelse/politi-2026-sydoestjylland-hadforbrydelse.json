@@ -1,0 +1,21 @@
+{
+  "model_id": "nebius-gpt-oss-120b",
+  "pinned_version": "openai/gpt-oss-120b",
+  "task_id": "t5_forkortelse",
+  "source_id": "politi-2026-sydoestjylland-hadforbrydelse",
+  "archetype": null,
+  "prompt_sha256": "eb6661d343fe6775439ae70ba6dd9268031beae76f66ece3c6864a0aaf36f43c",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 2360,
+    "reasoning_effort": "low"
+  },
+  "text": "Tre unge mænd på 18, 18 og 17 år er i dag ved Retten i Horsens idømt fængselsstraffe for en række voldsepisoder i januar 2026 samt for overtrædelse af våbenlovgivningen. De to 18‑årige blev dømt for vold og trusler med kniv, da de overfaldt en mand i Vitus Beringsparken den 2. januar 2026. Den ene 18‑årige blev desuden dømt for vold mod en mand i nattelivet den 4. januar 2026 på en bar i Horsens. Samme 18‑årige og den 17‑årige blev dømt for grov vold som en hadforbrydelse den 17. januar 2026 kl. 02.10 ved banegården, hvor de råbte skældsord om to kvinders seksuelle orientering, slog dem flere gange i hovedet med en totenschlæger og brugte peberspray. Retten fandt, at volden var delvist begrundet i kvindernes orientering. Den 18‑årige blev også dømt for besiddelse af peberspray, mens den 17‑årige blev dømt for besiddelse af totenschlæger og peberspray. Straffene er: den 18‑årige, der stod bag hadforbrydelsen, får et år og tre måneders fængsel, seks måneders opholdsforbud i nattelivet, udvisning af Danmark med seks års indrejseforbud og fængsling efter dom; den 17‑årige får 10 måneder fængsel; den anden 18‑årige får tre måneders fængsel og en advarsel om udvisning. Dommen understreger, at ingen må diskrimineres eller udsættes for vold på grund af seksuel orientering, kønsidentitet eller lignende, udtaler anklagerfuldmægtig Thomas Vestergaard. Den 18‑årige med tre måneders fængsel modtog dommen, mens de to andre udbad sig betænkningstid.",
+  "prompt_tokens": 973,
+  "completion_tokens": 502,
+  "latency_ms": 1410,
+  "cost_usd": 0.00044715,
+  "created": "2026-11-10T05:38:38.856238Z",
+  "error": null
+}

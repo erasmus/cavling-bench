@@ -1,0 +1,21 @@
+{
+  "model_id": "anthropic-mid",
+  "pinned_version": "claude-sonnet-5-5",
+  "task_id": "t4_versionering",
+  "source_id": "kk-2026-ventetidsgaranti-foedselsgener",
+  "archetype": "lynposten",
+  "prompt_sha256": "773239f5474639cb1a554d2a7785181adc3a34bfcca9ec699014ce04e284e818",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 4025,
+    "reasoning_effort": "low"
+  },
+  "text": "Kvinder med fødselsgener i København skal have en samtale inden for 7 dage. Det er kernen i den ventetidsgaranti, som partierne bag kommunens nye budgetaftale indfører. I dag venter de 17 dage på en visitationssamtale og yderligere 44 dage på en afklarende samtale og undersøgelse.\n\nFremover får kvinder første samtale efter maksimalt 7 dage. Undersøgelsen følger senest 3 uger senere. Kan kommunen ikke overholde garantien, tilbyder den et forløb hos en privat leverandør.\n\nKommunens tilbud i Vanløse åbnede i foråret 2025. Efterspørgslen har været enorm. Kvinder med inkontinens, bristninger, delte mavemuskler og rygsmerter strømmer til.\n\n”Efterfødselsgener skal ikke længere være noget, som bliver overset,” siger sundheds- og omsorgsborgmester Jens-Kristian Lütken (V).\n\nAllerede ved første samtale får kvinderne hjælp. Gynækologisk obstetriske fysioterapeuter giver rådgivning og øvelser, som kvinden kan gå i gang med derhjemme.\n\nI år kan kommunen hjælpe omtrent 800 kvinder. Næste år er tallet godt 1.000. Fremskrivninger viser behov for 500 flere i 2027, i alt 1.500. Pengene til udvidelsen er nu fundet. Kommunen tager selv 320 af de nye forløb. Private leverandører forventes at tage 180.\n\nPartierne har afsat knap 12,5 millioner kroner over fire år. Beløbet kommer oven i knap 19 millioner kroner fra tidligere budgetaftaler.\n\nLiberal Alliances gruppeformand i Borgerrepræsentationen, Alexander Ryle, peger på valgfriheden. ”Det handler om at sætte mennesket før systemet,” siger han.\n\nKommunen fører løbende tilsyn med de private samarbejdspartnere.",
+  "prompt_tokens": 2997,
+  "completion_tokens": 708,
+  "latency_ms": 5631,
+  "cost_usd": 0.013074,
+  "created": "2026-11-10T07:16:52.604233Z",
+  "error": null
+}

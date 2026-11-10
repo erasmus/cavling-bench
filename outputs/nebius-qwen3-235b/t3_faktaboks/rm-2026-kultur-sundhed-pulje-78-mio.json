@@ -1,0 +1,21 @@
+{
+  "model_id": "nebius-qwen3-235b",
+  "pinned_version": "Qwen/Qwen3-235B-A22B-Instruct-2507",
+  "task_id": "t3_faktaboks",
+  "source_id": "rm-2026-kultur-sundhed-pulje-78-mio",
+  "archetype": null,
+  "prompt_sha256": "45bd44576a236f7e3dbb536dec8a7edc8072fff0517a84cf8b6c626871f5c5e9",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 575,
+    "reasoning_effort": null
+  },
+  "text": "- Puljen til sundhed og kultur i Region Midtjylland udgør 7,8 mio. kr.  \n- Projekter kan ansøges om støtte med en varighed på højst tre år.  \n- Mindsteløbet for en ansøgning er 200.000 kr.  \n- Projekter skal have mindst 25 procent medfinansiering af det samlede budget.  \n- Ansøgningsfristen for puljen er 26. august 2026 kl. 12.00.",
+  "prompt_tokens": 1427,
+  "completion_tokens": 132,
+  "latency_ms": 3503,
+  "cost_usd": 0.0003646,
+  "created": "2026-11-10T05:40:54.589638Z",
+  "error": null
+}

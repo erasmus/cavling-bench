@@ -1,0 +1,21 @@
+{
+  "model_id": "anthropic-mid",
+  "pinned_version": "claude-sonnet-5-5",
+  "task_id": "t5_forkortelse",
+  "source_id": "ankestyrelsen-2026-langeland-tilsynssager-afsluttet",
+  "archetype": null,
+  "prompt_sha256": "833821da059bbb12ef09a001590d825330dc2a5f6259ccfdb696c396ff2d01a2",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 3860,
+    "reasoning_effort": "low"
+  },
+  "text": "Ankestyrelsens tilsyn har meddelt Langeland Kommune, at opfølgningen på to tilsynssager afsluttes.\n\nI den første sag, fra november 2022, vurderede tilsynet, at kommunens Familieafdeling i sin sagsbehandling ikke havde overholdt en række bestemmelser i offentlighedsloven, forvaltningsloven, retssikkerhedsloven og serviceloven. Kommunen burde derfor gennemgå alle igangværende og eventuelt afsluttede sager i afdelingen for at vurdere, om der var grundlag for at se på dem igen. Kommunen vurderede, at 295 sager var relevante. Forløbet har været præget af behov for præciseringer af grundlaget for kommunens tilbagemeldinger og af ændringer i tilrettelæggelsen af opfølgningen. I marts 2025 modtog tilsynet kommunens slutorientering efter en fornyet gennemgang af en stor del af sagerne. Tilsynet lægger vægt på, at sagerne er gennemgået, at der er foretaget en konkret og individuel vurdering, at fejl og mangler er identificeret, og at der er taget stilling til genoptagelse af relevante sager. Ankechef Hanne Østergaard, Tilsyn og Underretning, siger, at kommunen har fulgt op på udtalelsen og gennemført de fornødne tiltag, og at der ikke er grundlag for, at tilsynet foretager sig mere.\n\nDen anden sag, fra 2024, udsprang af en henvendelse om bekymrende forhold fra Taskforcen på børneområdet, som havde et verserende forløb med Familieafdelingen. Forløbet blev sat på pause. Taskforcen består af medarbejdere fra Socialstyrelsen og Ankestyrelsen. Sagen blev afsluttet i august sidste år uden en tilsynssag, men med oplysning om opfølgning. Kommunen har omorganiseret og opnormeret Familieafdelingen, hvilket ifølge kommunen giver mere ensartet sagsbehandling. Taskforce-samarbejdet genoptages og løber fra maj 2026 til januar 2028 med fokus på lovmedholdelighed og socialfaglig kvalitet. Resultatet afrapporteres til politikerne.",
+  "prompt_tokens": 1838,
+  "completion_tokens": 808,
+  "latency_ms": 4969,
+  "cost_usd": 0.011756,
+  "created": "2026-11-10T07:17:36.866616Z",
+  "error": null
+}

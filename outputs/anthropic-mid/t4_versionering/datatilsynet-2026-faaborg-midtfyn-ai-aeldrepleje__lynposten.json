@@ -1,0 +1,21 @@
+{
+  "model_id": "anthropic-mid",
+  "pinned_version": "claude-sonnet-5-5",
+  "task_id": "t4_versionering",
+  "source_id": "datatilsynet-2026-faaborg-midtfyn-ai-aeldrepleje",
+  "archetype": "lynposten",
+  "prompt_sha256": "b9d1df65a1eaf5fae8188b52ad9f88e3fb4c1830b7f46618befa2e7515263079",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 4025,
+    "reasoning_effort": "low"
+  },
+  "text": "Faaborg-Midtfyn Kommune fik alvorlig kritik af Datatilsynet for at bruge et AI-system til at overvåge 18 plejehjemsbeboere. Kommunen havde ikke vurderet risiciene godt nok, før den tog løsningen i brug.\n\nTilsynet startede sagen af egen drift i januar 2026. Det ser nærmere på AI til overvågning og kontrol af borgere i pleje.\n\nSystemet kørte i en prøveperiode på seks måneder. Kommunen ville gøre beboerne mere trygge, forebygge fald og hjælpe personalets faglige vurderinger.\n\nI hver bolig sad en sensorenhed med AI og kamerabaseret teknologi. Den analyserede bevægelsesmønstre. Systemet gav indsigt i søvn, uro, vejrtrækning og bevægelser. Ifølge kommunen blev kameraet kun brugt i korte sekvenser, og kun ved potentielle fald.\n\nKommunens risikovurdering var for generel. Den oplistede kun generelle trusler. Alle trusler fik vurderingen lav risiko, uden nærmere begrundelse.\n\nTilsynet mener, at kommunen skulle have lavet en konsekvensanalyse. Der var tale om ny teknologi og følsomme oplysninger om sårbare borgere. Prøveperioden ændrer ikke på kommunens pligt til at følge reglerne.\n\nKommunen pegede på servicelovens og ældrelovens generelle bestemmelser som retsgrundlag. Det er ikke nok alene, vurderer tilsynet.\n\nTilsynet peger på reglerne om tryghedsskabende velfærdsteknologi. De gælder personer med betydelig og varigt nedsat psykisk funktionsevne på grund af demens eller anden erhvervet og fremadskridende mental svækkelse. Reglerne stiller særlige betingelser for brug af AI. Kommunen havde efter det oplyste ikke inddraget dem.\n\nTilsynet understreger, at ny teknologi kan være mere indgribende for borgerne. Kommunerne skal derfor lave fyldestgørende vurderinger, før de begynder.",
+  "prompt_tokens": 2118,
+  "completion_tokens": 766,
+  "latency_ms": 5598,
+  "cost_usd": 0.011896,
+  "created": "2026-11-10T07:16:07.686809Z",
+  "error": null
+}

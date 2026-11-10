@@ -1,0 +1,21 @@
+{
+  "model_id": "nebius-qwen3-235b",
+  "pinned_version": "Qwen/Qwen3-235B-A22B-Instruct-2507",
+  "task_id": "t4_versionering",
+  "source_id": "finanstilsynet-2026-danske-bank-boliglaansinspektion",
+  "archetype": "landsavisen",
+  "prompt_sha256": "ed4c690e1c1abbc36384fd8cfe7c29770d094b6f1682fe8be74bfbeb62ebf4bb",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 1025,
+    "reasoning_effort": null
+  },
+  "text": "Finanstilsynet har gennemført en inspektion af Danske Banks boliglån til kunder med høj risiko, og banken får nu påbud om at styrke sit bevillingsgrundlag. Undersøgelsen fokuserede på 58 lån til kunder med gældsfaktor over 3,5, belåningsgrad over 60 pct. og engagement over 200.000 kr. – alle kendetegn på øget risiko. Formålet var at vurdere, om banken yder lån på et korrekt og dokumenteret grundlag, og om kundernes økonomiske robusthed er tilstrækkeligt vurderet.\n\nDanske Bank har ifølge Finanstilsynet en højere andel af lån med høj gældsfaktor og belåningsgrad end andre banker i samme undersøgelse. Selvom dataene dækker en senere periode, hvor boligmarkedet har udviklet sig, ændrer det ikke på, at banken har bevilget lån til kunder med forhøjet risiko. Af de 58 gennemgåede sager vurderer tilsynet, at 4 ikke burde være godkendt. Her manglede der en skærpet analyse af bl.a. høj gæld, usikker indkomst og begrænset likviditet. Banken havde ikke dokumenteret, at kunderne kan bære deres gæld på lang sigt.\n\nEn særlig forenklet kreditproces for en defineret gruppe \"robuste\" kunder har ligeledes vist svagheder. Blandt 23 sager i denne gruppe var der væsentlige fejl i 6, og blandt de øvrige 35 sager var der fejl i 13. I alt vurderer Finanstilsynet, at 4 lån ikke burde være bevilget. Svagheder i kreditindstillinger gør det svært at eftervise, om beslutningerne bygger på fuldstændige oplysninger.\n\nDanske Bank skal nu sikre, at fremtidige lån bygger på en konkret og dokumenteret vurdering af kundens økonomi.",
+  "prompt_tokens": 1978,
+  "completion_tokens": 536,
+  "latency_ms": 8854,
+  "cost_usd": 0.0007172000000000001,
+  "created": "2026-11-10T05:41:39.070192Z",
+  "error": null
+}

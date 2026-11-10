@@ -1,0 +1,21 @@
+{
+  "model_id": "nebius-gpt-oss-120b",
+  "pinned_version": "openai/gpt-oss-120b",
+  "task_id": "t4_versionering",
+  "source_id": "politi-2026-nsk-cpr-opslag",
+  "archetype": "landsavisen",
+  "prompt_sha256": "71921153734ca9c057ce893dee898e716a054598571b57e27fa9f317e2e108d7",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 2525,
+    "reasoning_effort": "low"
+  },
+  "text": "Københavns Byret har onsdag idømt en 27‑årig mand fra Storkøbenhavn tre år og seks måneders fængsel for at muliggøre personfarlig kriminalitet ved at foretage uberettigede opslag i Det Centrale Personregister (CPR). Dommen er et svar på en sag, som National enhed for Særlig Kriminalitet (NSK) har efterforsket, og som viser, hvordan offentligt betroede stillinger kan udnyttes til kriminelle formål.\n\nIfølge retten har den dømte i perioden juni 2023 til juli 2024 misbrugt sin stilling som studentermedhjælper på Københavns Kommunes vielseskontor til at få adgang til følsomme oplysninger om bopælsadresser og familienetværk. Oplysningerne blev solgt til medgerningsmænd i det kriminelle miljø, hvilket medvirkede til 34 forsøg på grov vold. Retten fandt, at manden både har misbrugt sin offentlige stilling og har videregivet oplysningerne mod betaling.\n\nSpecialanklager i NSK, Rikke Holm Schønsted, udtaler: “Den dømte har haft forsæt til at facilitere, at personfarlig kriminalitet kunne planlægges mod konkrete forurettede, og det er selvsagt alvorligt.” Anklager Tine Graakjær tilføjer: “Retten har fundet bevis for, at han måtte have indset, at de solgte oplysninger skulle bruges til at begå personfarlig kriminalitet, og derfor er han fundet skyldig i medvirken til dette.”\n\nDen dømte har taget betænkningstid med henblik på eventuel anke. Sagen illustrerer NSK’s rolle i at beskytte samfundet mod komplekse kriminalitetstrusler, herunder misbrug af digitale registre, og understreger vigtigheden af at holde offentlige funktionærer ansvarlige for deres handlinger.",
+  "prompt_tokens": 1466,
+  "completion_tokens": 471,
+  "latency_ms": 1802,
+  "cost_usd": 0.0005025,
+  "created": "2026-11-10T05:38:29.876526Z",
+  "error": null
+}

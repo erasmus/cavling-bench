@@ -1,0 +1,21 @@
+{
+  "model_id": "nebius-qwen3-235b",
+  "pinned_version": "Qwen/Qwen3-235B-A22B-Instruct-2507",
+  "task_id": "t5_forkortelse",
+  "source_id": "politi-2026-midtvestsjaelland-idraetsforening",
+  "archetype": null,
+  "prompt_sha256": "39014e4e0084a0387d72d6e74ac2fc0bb82a45ae8e06a3065babb89c5bf9d61c",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 860,
+    "reasoning_effort": null
+  },
+  "text": "Retten i Roskilde har idømt en 46-årig mand et års fængsel for seksuelle overgreb og blufærdighedskrænkelser mod et stort antal drenge. Manden, der var ansat i en idrætsforening i Roskilde, har tilstået forholdene. Alle de forurettede drenge på nær én var tilknyttet foreningen. Han har erkendt at have udsat flere drenge for befølinger samt at have voldtaget en dreng under 12 år ved andet seksuelt forhold end samleje. Ikke færre end 42 drenge er blevet filmet uden deres viden, og han er dømt for uberettiget optagelse på et ikke frit tilgængeligt sted i perioden fra januar 2022 til april 2024. Efter anholdelsen fandt politiet en stor mængde seksuelt materiale med personer under 18 år på hans telefon, fordelt på alle tre kategorier af børnepornografi. Senioranklager Pernille Fredin fra Midt- og Vestsjællands Politi betegner sagen som meget alvorlig og et groft tillidsbrud, der kan have store konsekvenser for de berørte. Retten har frakendt den dømte retten til at beskæftige sig med børn og unge under 18 år. Sagen har taget tid, bl.a. på grund af vurdering af den dømtes mentale tilstand. Pernille Fredin håber, at dommen kan give ofrene og deres familier en følelse af retfærdighed. Den 46-årige tog sig betænkningstid vedrørende anke.",
+  "prompt_tokens": 962,
+  "completion_tokens": 440,
+  "latency_ms": 5834,
+  "cost_usd": 0.0004564,
+  "created": "2026-11-10T05:44:12.452081Z",
+  "error": null
+}

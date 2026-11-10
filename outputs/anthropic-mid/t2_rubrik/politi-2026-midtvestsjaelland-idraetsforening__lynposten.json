@@ -1,0 +1,21 @@
+{
+  "model_id": "anthropic-mid",
+  "pinned_version": "claude-sonnet-5-5",
+  "task_id": "t2_rubrik",
+  "source_id": "politi-2026-midtvestsjaelland-idraetsforening",
+  "archetype": "lynposten",
+  "prompt_sha256": "37c66b6e85b014a25b973ec333e4e3a8358bc3751ec12d652a8f92101a28949c",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 3400,
+    "reasoning_effort": "low"
+  },
+  "text": "RUBRIK: Roskilde-mand får 1 år for overgreb mod mange drenge\nUNDERRUBRIK: Den 46-årige var ansat i en idrætsforening. 42 drenge blev filmet uden at vide det. Han har tilstået og er frakendt retten til at arbejde med børn.",
+  "prompt_tokens": 1650,
+  "completion_tokens": 109,
+  "latency_ms": 1678,
+  "cost_usd": 0.00439,
+  "created": "2026-11-10T07:15:26.952784Z",
+  "error": null
+}

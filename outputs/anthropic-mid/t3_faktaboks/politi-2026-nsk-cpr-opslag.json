@@ -1,0 +1,21 @@
+{
+  "model_id": "anthropic-mid",
+  "pinned_version": "claude-sonnet-5-5",
+  "task_id": "t3_faktaboks",
+  "source_id": "politi-2026-nsk-cpr-opslag",
+  "archetype": null,
+  "prompt_sha256": "79785f44a202bae98094c69df42b88ea18b27dca478ae98f00ee89bbf2f00d3a",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 3575,
+    "reasoning_effort": "low"
+  },
+  "text": "- Den 27-årige fra Storkøbenhavn er idømt fængsel i 3 år og 6 måneder for at muliggøre personfarlig kriminalitet ved CPR-opslag.\n- Dommen faldt onsdag ved Københavns Byret, som fandt det bevist, at forholdene løb fra juni 2023 til juli 2024.\n- Den dømte misbrugte sin stilling som studentermedhjælper på Københavns Kommunes vielseskontor til at få adgang til oplysninger i CPR-registret.\n- Ved at videregive oplysningerne medvirkede den 27-årige til 34 tilfælde af forsøg på grov vold.\n- Den 27-årige tog betænkningstid i forhold til eventuelt at anke dommen.",
+  "prompt_tokens": 1792,
+  "completion_tokens": 265,
+  "latency_ms": 2095,
+  "cost_usd": 0.006234,
+  "created": "2026-11-10T07:15:53.770825Z",
+  "error": null
+}

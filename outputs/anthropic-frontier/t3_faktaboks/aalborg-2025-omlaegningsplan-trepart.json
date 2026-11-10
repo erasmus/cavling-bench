@@ -1,0 +1,21 @@
+{
+  "model_id": "anthropic-frontier",
+  "pinned_version": "claude-fable-5-1",
+  "task_id": "t3_faktaboks",
+  "source_id": "aalborg-2025-omlaegningsplan-trepart",
+  "archetype": null,
+  "prompt_sha256": "6f35ce24f92d64e8c0c8184bff6649d199d010758aa921f48a3bd15005605b29",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 3575,
+    "reasoning_effort": "low"
+  },
+  "text": "- Aalborg Byråd vedtog omlægningsplanen for Aalborg Kommune på byrådsmødet 15. december.\n- Omlægningsplanen foreslår 94 projekter fordelt over hele kommunen, heraf 77 forslag til lavbundsprojekter.\n- Planen indeholder 13 forslag til sikring af drikkevandet i de mest sårbare indvindingsoplande.\n- Aftalen om et Grønt Danmark blev vedtaget af et bredt flertal i Folketinget i 2024.\n- Hovedparten af lavbundsindsatsen og kvælstofindsatsen skal være afsluttet i 2030.",
+  "prompt_tokens": 2370,
+  "completion_tokens": 229,
+  "latency_ms": 3577,
+  "cost_usd": 0.03515,
+  "created": "2026-11-10T07:21:11.233466Z",
+  "error": null
+}

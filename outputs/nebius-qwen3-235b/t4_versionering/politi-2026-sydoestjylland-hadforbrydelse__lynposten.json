@@ -1,0 +1,21 @@
+{
+  "model_id": "nebius-qwen3-235b",
+  "pinned_version": "Qwen/Qwen3-235B-A22B-Instruct-2507",
+  "task_id": "t4_versionering",
+  "source_id": "politi-2026-sydoestjylland-hadforbrydelse",
+  "archetype": "lynposten",
+  "prompt_sha256": "d7dc6a5c36bf786883c9d772ab5e63c56aed28c9b3d6ab904d64f648862dbb36",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 1025,
+    "reasoning_effort": null
+  },
+  "text": "En 18-årig mand idømt et år og tre måneders fængsel for grov vold, hadforbrydelse og våbenlovgivning. Han råbte homofobe skældsord og angreb to kvinder ved Horsens banegård.\n\nTo andre unge mænd, en 18-årig og en 17-årig, er ligeledes dømt for vold og våbenkriminalitet. De var involveret i flere episoder i Horsens i januar 2026.\n\nDen 18-årige mand, der modtog den hårdeste straf, blev også dømt for vold med kniv mod en mand i Vitus Beringsparken den 2. januar. Tre dage senere slog han en anden mand i nattelivet på en bar. Han var i besiddelse af peberspray.\n\nDen 17-årige blev idømt 10 måneders fængsel. Han deltog i angrebet ved banegården sammen med den første 18-årige. De brugte en totenschlæger og peberspray mod de to kvinder. Han havde også en totenschlæger og peberspray på sig.\n\nDen anden 18-årige blev idømt tre måneders fængsel for knivvold i parken. Han får en advarsel om udvisning fra Danmark.\n\nRetten i Horsens kendte den 18-årige med den hårdeste straf skyldig i hadforbrydelse. Volden var begrundet i kvindernes seksuelle orientering.\n\nHan får også et opholdsforbud i nattelivet i seks måneder. Efter dommen blev han fængslet.\n\nDen 18-årige med tre måneders fængsel modtog dommen. De to andre udbad sig betænkningstid.\n\n”Dommen understreger, at ingen skal udsættes for vold på grund af sin seksuelle orientering,” siger Thomas Vestergaard, anklagerfuldmægtig ved Sydøstjyllands Politi.",
+  "prompt_tokens": 1415,
+  "completion_tokens": 505,
+  "latency_ms": 6141,
+  "cost_usd": 0.000586,
+  "created": "2026-11-10T05:42:59.548713Z",
+  "error": null
+}

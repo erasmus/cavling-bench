@@ -1,0 +1,21 @@
+{
+  "model_id": "nebius-gpt-oss-120b",
+  "pinned_version": "openai/gpt-oss-120b",
+  "task_id": "t2_rubrik",
+  "source_id": "kfst-2026-fibernet-prislofter",
+  "archetype": "lynposten",
+  "prompt_sha256": "5cb891013cd7318450858fdad33f9411287335c86da11042506863218aef4aa6",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 1900,
+    "reasoning_effort": "low"
+  },
+  "text": "RUBRIK: Prislofter på fibernet træder i kraft fra årsskiftet  \nUNDERRUBRIK: Forbrugere og små virksomheder får beskyttet net, men bredbåndspriser kan stige op til 35 % i de næste fem år.",
+  "prompt_tokens": 1833,
+  "completion_tokens": 126,
+  "latency_ms": 666,
+  "cost_usd": 0.00035054999999999993,
+  "created": "2026-11-10T05:38:07.521686Z",
+  "error": null
+}

@@ -1,0 +1,21 @@
+{
+  "model_id": "anthropic-frontier",
+  "pinned_version": "claude-fable-5-1",
+  "task_id": "t6_lydmanus",
+  "source_id": "nationalbanken-2026-udsigter-marts",
+  "archetype": "lynposten",
+  "prompt_sha256": "42f387b0280a6a2de0ae1ddbf0a43e575995e94a1018019371b81338b40bcc41",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 3620,
+    "reasoning_effort": "low"
+  },
+  "text": "Dansk økonomi er i god balance. Det vurderer Nationalbanken i en ny prognose. Beskæftigelsen er høj, og ledigheden er lav. Men usikkerheden er stor. Krigen i Mellemøsten presser energipriserne op.\n\nNationalbanken venter en inflation på en komma otte procent i år. Næste år to procent. I 2028 en komma ni procent.\n\nNationalbankdirektør Christian Kettel Thomsen venter ikke en ny inflationskrise. Men Nationalbanken har et risikoscenarie. Her begrænses olie og gas fra Den Persiske Golf i flere år. I så fald kan inflationen i år ende på fire komma fem procent.\n\nNationalbanken har også to råd til den nye regering. Den bør ikke skubbe til efterspørgslen i finansloven for 2027. Og den bør være forsigtig med at bruge hele råderummet. Forsvarsudgifterne er løftet med femoghalvfjerds milliarder kroner. Det gør rummet for nye prioriteringer mindre, siger Christian Kettel Thomsen.\n\nØkonomien ventes at vokse en komma otte procent i år.",
+  "prompt_tokens": 1968,
+  "completion_tokens": 410,
+  "latency_ms": 6235,
+  "cost_usd": 0.04018,
+  "created": "2026-11-10T07:27:36.985493Z",
+  "error": null
+}

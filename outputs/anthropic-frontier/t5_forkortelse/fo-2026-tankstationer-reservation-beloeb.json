@@ -1,0 +1,21 @@
+{
+  "model_id": "anthropic-frontier",
+  "pinned_version": "claude-fable-5-1",
+  "task_id": "t5_forkortelse",
+  "source_id": "fo-2026-tankstationer-reservation-beloeb",
+  "archetype": null,
+  "prompt_sha256": "a35d7b2682cc3a89e64d1eb8cdcd8fb9f2e58b7b54a47775d35228a5f5379ffd",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 3860,
+    "reasoning_effort": "low"
+  },
+  "text": "Q8, OK, Shell og Uno-X har reserveret urimeligt høje beløb på forbrugernes konti i forhold til det, forbrugerne endte med at betale. Virksomheden bag Q8 driver også de ubemandede F24-stationer. I flere tilfælde blev reservationerne ikke frigivet hurtigt nok, og kunder hos Q8 og OK blev ikke tydeligt oplyst om reservationen.\n\nEfter Forbrugerombudsmanden gjorde kæderne opmærksomme på reglerne, har Uno-X og Shell ændret praksis, så forbrugerne på standerens skærm vælger reservationsbeløbet. OK har ændret beløbet til 100 kroner, men forventer en anden løsning. Q8 reserverer fortsat 950 kroner, men arbejder på en løsning.\n\nSagerne udspringer af en dialog med brancheorganisationen Drivkraft Danmark i 2023 om manglende samtykke, hvor medlemmerne forpligtede sig til at oplyse det præcise beløb i skærmflowet. Parterne nåede ikke enighed om beløbets størrelse.\n\nForbrugerombudsmanden vurderede, at Uno-X' og Shells reservationer på henholdsvis 1.200 og 1.500 kroner var urimelige, ligesom Q8's 950 kroner og OK's 850 kroner var urimelige for minibiler, små biler og mindre køretøjer.\n\nQ8 indfører samtykke i skærmflowet fuldt ud i midten af 2026. Q8 og OK mangler en løsning for betaling med Apple/Google Pay; OK vil skilte ved terminalen, men Forbrugerombudsmanden kræver det i skærmflowet. Q8 arbejder på en softwareløsning.\n\nKlager viser, at beløb hos OK, Uno-X og Shell i nogle tilfælde først blev frigivet efter op til 11 dage, ofte på grund af tekniske fejl hos banken. Kæderne har iværksat tiltag.\n\nForbrugerombudsmanden afslutter sagerne og har anmodet Q8 og OK om at efterleve reglerne. Forbrugerombudsmand Torben Jensen kalder det urimeligt at reservere omkring 900 kroner eller mere hos kunder med mindre køretøjer.",
+  "prompt_tokens": 3350,
+  "completion_tokens": 815,
+  "latency_ms": 8538,
+  "cost_usd": 0.07425,
+  "created": "2026-11-10T07:25:52.073888Z",
+  "error": null
+}

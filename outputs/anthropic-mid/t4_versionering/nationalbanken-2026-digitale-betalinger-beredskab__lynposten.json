@@ -1,0 +1,21 @@
+{
+  "model_id": "anthropic-mid",
+  "pinned_version": "claude-sonnet-5-5",
+  "task_id": "t4_versionering",
+  "source_id": "nationalbanken-2026-digitale-betalinger-beredskab",
+  "archetype": "lynposten",
+  "prompt_sha256": "35c237b49e2ca81f7a70cc82e9cb7ccd9c9134d2c121d92c7aa68e42689590f0",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 4025,
+    "reasoning_effort": "low"
+  },
+  "text": "41 pct. af danskerne har over 1.000 kr. i kontanter. I 2023 var det 33 pct. Det viser to nye analyser fra Nationalbanken, som udkommer i dag.\n\nSamtidig betaler danskerne stadig mere digitalt. Over 90 pct. af alle betalinger er digitale. Kontanter stod for 9 pct. af betalingerne i fysisk handel i 2025. I 2023 var tallet 11 pct. I 2017 var det 23 pct.\n\nWallet-betalinger, fx med Apple Pay og Google Pay, udgør nu hver tredje betaling i fysisk handel. Straksbetalinger, fx via Mobilepay, udgør under 5 pct.\n\n7 ud af 10 med en kontantbeholdning ser den som et beredskab. Det kom til at gælde i praksis. Tekniske fejl hos Nets ramte i juli 2025 og i maj 2026. Under nedbruddet i maj kunne kontanter stadig bruges. Straksbetalingerne steg kraftigt under begge nedbrud.\n\nOffline-kortberedskabet sørgede for, at mange kunder i dagligvarehandlen ikke mærkede nedbruddet i maj. Det sikrer, at borgere over 18 år kan betale med kort og wallets i dagligvarebutikker og apoteker i mindst syv dage.\n\n\"Flere butikker bør derfor overveje at bruge kortberedskabets offline-løsning,\" siger nationalbankdirektør Ulrik Nødgaard.\n\nNationalbanken anbefaler borgerne tre ting:\n\n· Mindst to fysiske betalingskort fra forskellige mærker i husstanden, med pinkoder.\n· Et mindre kontantbeløb. Pejlemærket er 250 kr. pr. person i husstanden.\n· En betalingsløsning på mobilen til kontooverførsler, fx Mobilepay eller mobilbank.\n\nButikkerne bør have konkrete planer og instruktioner til personalet. De bør også modtage offline-kortbetalinger, hvis de normalt tager imod kort.",
+  "prompt_tokens": 2807,
+  "completion_tokens": 731,
+  "latency_ms": 4920,
+  "cost_usd": 0.012924,
+  "created": "2026-11-10T07:16:55.602804Z",
+  "error": null
+}

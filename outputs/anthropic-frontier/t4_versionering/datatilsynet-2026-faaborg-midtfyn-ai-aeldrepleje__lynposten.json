@@ -1,0 +1,21 @@
+{
+  "model_id": "anthropic-frontier",
+  "pinned_version": "claude-fable-5-1",
+  "task_id": "t4_versionering",
+  "source_id": "datatilsynet-2026-faaborg-midtfyn-ai-aeldrepleje",
+  "archetype": "lynposten",
+  "prompt_sha256": "b9d1df65a1eaf5fae8188b52ad9f88e3fb4c1830b7f46618befa2e7515263079",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 4025,
+    "reasoning_effort": "low"
+  },
+  "text": "18 plejehjemsbeboere i Faaborg-Midtfyn Kommune blev overvåget med AI og kamera i seks måneder. Nu får kommunen alvorlig kritik af Datatilsynet.\n\nTilsynet tog selv sagen op i januar 2026. Det skete som led i et fokus på brug af AI til overvågning og kontrol af borgere i pleje.\n\nKommunen brugte en sensorenhed i plejeboligerne. Den analyserer beboernes bevægelser med AI og kamerateknologi. Systemet giver indsigt i søvn, uro, vejrtrækning og bevægelsesmønstre. Ifølge kommunen blev kameraet kun brugt i korte sekvenser og kun ved mulige fald.\n\nFormålet var at øge trygheden, forebygge fald og støtte plejepersonalets faglige vurderinger.\n\nMen kommunens risikovurdering var for generel, fastslår Datatilsynet. Den nævnte kun generelle trusler. Kommunen vurderede alle trusler som lav risiko uden nærmere begrundelse. Derfor havde kommunen ikke påvist, at sikkerheden passede til risikoen.\n\nTilsynet mener også, at kommunen skulle have lavet en konsekvensanalyse, før systemet blev taget i brug. Der var tale om ny teknologi og følsomme oplysninger om sårbare borgere.\n\nAt det kun var en prøveperiode på seks måneder, ændrer ikke på reglerne, understreger tilsynet.\n\nOgså det retlige grundlag halter. Kommunen henviste til servicelovens og ældrelovens generelle regler om hjælp, støtte og omsorg. Det er ikke nok til at bruge en AI-løsning, vurderer Datatilsynet.\n\nTilsynet peger i stedet på reglerne om tryghedsskabende velfærdsteknologi. De giver under visse betingelser mulighed for at bruge teknologien til personer med demens eller anden varig mental svækkelse. Reglerne har særlige krav til brug af AI. Dem havde kommunen ikke inddraget.\n\nDatatilsynet slår generelt fast, at ny teknologi kan være mere indgribende for borgerne. Kommuner skal derfor have risikovurderinger og konsekvensanalyser på plads, før de begynder.",
+  "prompt_tokens": 2118,
+  "completion_tokens": 809,
+  "latency_ms": 10983,
+  "cost_usd": 0.06163,
+  "created": "2026-11-10T07:22:07.800909Z",
+  "error": null
+}

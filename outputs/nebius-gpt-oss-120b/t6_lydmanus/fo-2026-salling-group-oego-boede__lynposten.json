@@ -1,0 +1,21 @@
+{
+  "model_id": "nebius-gpt-oss-120b",
+  "pinned_version": "openai/gpt-oss-120b",
+  "task_id": "t6_lydmanus",
+  "source_id": "fo-2026-salling-group-oego-boede",
+  "archetype": "lynposten",
+  "prompt_sha256": "5f4a45069aac6be79959815e4f0ad26580d19f66e2628369271c76d825cad248",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 2120,
+    "reasoning_effort": "low"
+  },
+  "text": "Ti millioner kroner betaler Salling Group efter at have markedsført Nettos ØGO‑serie som firepladsen blandt Danmarks mest bæredygtige mærker. Ifølge Forbrugerombudsmanden var udsagnet kun baseret på en forbrugerundersøgelse og ikke på dokumenteret klima‑ eller miljøeffekt. Markedsføringen foregik i opslag på sociale medier og i en tilbudsmail fra Netto plus. Forbrugerombudsmanden politianmeldte Selskabet i september to‑tusind fem‑og‑tyve efter at vurdere, at budskabet kunne give forbrugerne et fejlagtigt indtryk af produkternes reelle bæredygtighed. Salling Group fjernede de pågældende opslag efter myndighedens henvendelse. Bøden er fastsat efter den nye model, der trådte i kraft den første januar to‑tusind to, og skal skærpe sanktionerne for vildledende markedsføring. Ifølge Forbrugerombudsmand Torben Jensen skal virksomheder kun bruge bæredygtighedsudsagn, de kan dokumentere.",
+  "prompt_tokens": 1751,
+  "completion_tokens": 289,
+  "latency_ms": 1367,
+  "cost_usd": 0.00043604999999999995,
+  "created": "2026-11-10T05:38:42.732858Z",
+  "error": null
+}

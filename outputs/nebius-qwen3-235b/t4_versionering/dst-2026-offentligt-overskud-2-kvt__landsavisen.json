@@ -1,0 +1,21 @@
+{
+  "model_id": "nebius-qwen3-235b",
+  "pinned_version": "Qwen/Qwen3-235B-A22B-Instruct-2507",
+  "task_id": "t4_versionering",
+  "source_id": "dst-2026-offentligt-overskud-2-kvt",
+  "archetype": "landsavisen",
+  "prompt_sha256": "8f300c61fefa83ad7b8349dbeebf5d22bf5f8518d8270739aa3bd9ca3e5f03e3",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 1025,
+    "reasoning_effort": null
+  },
+  "text": "I andet kvartal 2026 opnåede de offentlige finanser et overskud på 35,5 mia. kr., viser tal fra Danmarks Statistik. Det er en stigning på 12,3 mia. kr. i forhold til det reviderede overskud på 23,2 mia. kr. i første kvartal. Overskuddet kommer, mens de samlede offentlige udgifter i kvartalet udgjorde 379,9 mia. kr., hvoraf aflønning af ansatte og indkomstoverførsler til husholdninger hver udgjorde omkring 116 mia. kr. De offentlige indtægter nåede 415,3 mia. kr., heraf med personlige indkomstskatter og selskabs- samt pensionsafkastskat som centrale indtægtskilder.\n\nTil trods for det positive regnskab faldt den offentlige finansielle nettoformue med 11 mia. kr. i kvartalet og lå ved 871 mia. kr. ved udgangen af juni. Faldet skyldes især negative omvurderinger af børsnoterede aktier og ejerandelsbeviser for 14,1 mia. kr., delvist modvirket af positive omvurderinger af statens langfristede forpligtelser. Over det seneste år er nettoformuen dog steget med 98,1 mia. kr.\n\nØMU-gælden steg samtidig med 19,4 mia. kr. til 859,1 mia. kr., svarende til 27 pct. af BNP. Stigningen skyldes primært øget udstedelse af statsobligationer med lang løbetid samt højere lån med kort løbetid hos kommuner og regioner. ØMU-gælden er en konsolideret opgørelse af de væsentligste gældsposter i den offentlige sektor.\n\nDesuden er overskuddet i første kvartal 2026 revideret op med 13,9 mia. kr., hovedsageligt på grund af en opjustering af indtægterne fra pensionsafkastskatten med 10,9 mia. kr. Revisionen sker i forlængelse af opdaterede oplysninger fra Skatte- og Vækstministeriets Økonomisk Redegørelse.",
+  "prompt_tokens": 1538,
+  "completion_tokens": 596,
+  "latency_ms": 22146,
+  "cost_usd": 0.0006652,
+  "created": "2026-11-10T05:41:35.746174Z",
+  "error": null
+}

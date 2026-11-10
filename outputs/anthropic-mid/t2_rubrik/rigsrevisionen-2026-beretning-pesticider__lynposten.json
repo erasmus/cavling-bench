@@ -1,0 +1,21 @@
+{
+  "model_id": "anthropic-mid",
+  "pinned_version": "claude-sonnet-5-5",
+  "task_id": "t2_rubrik",
+  "source_id": "rigsrevisionen-2026-beretning-pesticider",
+  "archetype": "lynposten",
+  "prompt_sha256": "d99c7112d91ed8c5e97162a8d23087141be99b300f8b8c238649e48f95ce4315",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 3400,
+    "reasoning_effort": "low"
+  },
+  "text": "RUBRIK: Statsrevisorer: 7.800 tons glyfosat er ikke indberettet brugt\nUNDERRUBRIK: Miljøstyrelsens kontrol med pesticider er helt utilstrækkelig, siger Statsrevisorerne. Styrelsen har ikke undersøgt, hvor glyfosatten er blevet af.",
+  "prompt_tokens": 2897,
+  "completion_tokens": 127,
+  "latency_ms": 1772,
+  "cost_usd": 0.007064,
+  "created": "2026-11-10T05:23:39.388910Z",
+  "error": null
+}

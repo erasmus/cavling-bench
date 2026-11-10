@@ -1,0 +1,21 @@
+{
+  "model_id": "anthropic-frontier",
+  "pinned_version": "claude-fable-5-1",
+  "task_id": "t2_rubrik",
+  "source_id": "regeringen-2026-grisefirepart",
+  "archetype": "lynposten",
+  "prompt_sha256": "595eec0a17ac22bd293f20ac0d28e682c204b9aae545721d244e990c88d5c777",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 3400,
+    "reasoning_effort": "low"
+  },
+  "text": "RUBRIK: Regeringen samler syv parter om bedre liv for grise\nUNDERRUBRIK: Ny grisefirepart går i gang efter nytår. 95 procent af grisene får klippet halen, og millioner af pattegrise dør hvert år. Det skal parterne ændre.",
+  "prompt_tokens": 2366,
+  "completion_tokens": 104,
+  "latency_ms": 3110,
+  "cost_usd": 0.02886,
+  "created": "2026-11-10T07:20:58.418113Z",
+  "error": null
+}

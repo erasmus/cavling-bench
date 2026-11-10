@@ -1,0 +1,21 @@
+{
+  "model_id": "nebius-qwen3-235b",
+  "pinned_version": "Qwen/Qwen3-235B-A22B-Instruct-2507",
+  "task_id": "t6_lydmanus",
+  "source_id": "dst-2026-offentligt-overskud-2-kvt",
+  "archetype": "lynposten",
+  "prompt_sha256": "38fec40f78d79f3a71d78b8b50155c5457bbe8fd83e32a86c427665814d94eb2",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 620,
+    "reasoning_effort": null
+  },
+  "text": "Treogtredive og et halvt mia. kr. er det offentlige overskud i andet kvartal to tusind seksten. Det viser tal fra Danmarks Statistik. Overskuddet er tolv mia. kr. højere end i første kvartal. De offentlige indtægter var på femogfyrre mia. kr. Udgifterne var på tre hundrede nioghalvfjerds mia. kr. Størst gik der til løn og overførsler. Den offentlige nettoformue faldt med elleve mia. kr. til otte hundrede enoghalvfjerds mia. kr. Faldet skyldes især værditab på aktier. ØMU gælden steg med nitten mia. kr. til otte hundrede nioghalvtreds mia. kr. Det svarer til syvogtyve procent af BNP. Gælden steg pga. flere statsobligationer og mere lån i kommuner og regioner. Overskuddet i første kvartal er blevet opjusteret til treogtyve mia. kr. Det var tidligere ni mia. kr. Justeringen skyldes højere skat på pensionsafkast.",
+  "prompt_tokens": 1578,
+  "completion_tokens": 295,
+  "latency_ms": 5320,
+  "cost_usd": 0.0004926,
+  "created": "2026-11-10T05:44:48.580756Z",
+  "error": null
+}

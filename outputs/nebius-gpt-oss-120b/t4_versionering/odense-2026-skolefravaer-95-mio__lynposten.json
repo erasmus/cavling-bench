@@ -1,0 +1,21 @@
+{
+  "model_id": "nebius-gpt-oss-120b",
+  "pinned_version": "openai/gpt-oss-120b",
+  "task_id": "t4_versionering",
+  "source_id": "odense-2026-skolefravaer-95-mio",
+  "archetype": "lynposten",
+  "prompt_sha256": "b5321f9f54a3b7ad8fc89ef7a42df302988432ff5ebfc722c14ba844230ba05b",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 2525,
+    "reasoning_effort": "low"
+  },
+  "text": "9,5 millioner kroner skal styrke indsatsen mod ufrivilligt skolefravær i Odense. Kommunen investerer beløbet årligt for at hjælpe børn, unge og deres familier tilbage i skole. Næsten hver femte elev i byen har fravær på over 10 procent, og tomme stole i klasselokaler skyldes ofte mistrivsel eller andre udfordringer.\n\nBørn‑ og Ungeudvalget har i dag besluttet at udvide den nuværende indsats. Fra starten af 2027 åbnes en ny fraværslinje, hvor forældre kan få råd og vejledning. Familier med særligt bekymrende fravær får også tildelt en fast tovholder, der skaber overblik og koordinerer hjælpen.\n\nBrian Dybro, børn‑ og ungerådmand (SF), siger: “Det er katastrofalt, når en elev ikke kommer i skole. Det er det for barnet, det er det for familien, og det er det for klassefællesskabet. Derfor er det afgørende, at der bliver sat ind tidligere.” Han fremhæver, at den nye indsats tager udgangspunkt i familiens behov og griber ind, før problemerne vokser.\n\nKristian Fahnøe Munksgaard, udviklingschef i Familie‑ og Forebyggelsesafdelingen, tilføjer: “Vi ved, at der ofte er flere årsager til, at et barn udvikler et bekymrende skolefravær. Derfor er det vigtigt, at hjælpen hænger sammen på tværs af fagligheder.” Han peger på positive resultater fra tidligere tværfagligt samarbejde og forventer, at de nye tiltag giver bedre muligheder for tidlig indsats.\n\nDen styrkede indsats omfatter også flere ressourcer på skolerne, ekstra timer til medarbejdere, der håndterer komplekse fraværsudfordringer, og tidlig opsporing af børn med bekymrende fravær. Målet er at reducere fraværet, øge trivslen og sikre, at familierne ikke står alene med ansvaret.",
+  "prompt_tokens": 1661,
+  "completion_tokens": 492,
+  "latency_ms": 1731,
+  "cost_usd": 0.0005443499999999999,
+  "created": "2026-11-10T05:38:27.662250Z",
+  "error": null
+}

@@ -1,0 +1,21 @@
+{
+  "model_id": "nebius-qwen3-235b",
+  "pinned_version": "Qwen/Qwen3-235B-A22B-Instruct-2507",
+  "task_id": "t1_telegram",
+  "source_id": "dst-2026-ledighed-september",
+  "archetype": null,
+  "prompt_sha256": "6c0c76ce8324e7e5e55c01f2987ee41139121de3925e41c335368aeae2f4050d",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 560,
+    "reasoning_effort": null
+  },
+  "text": "Ledigheden faldt med 200 personer i september 2026 og nåede 93.600 fuldtidspersoner, mens ledighedsprocenten holdt fast på 3,1 pct. Antallet af aktiverede ledige faldt med 500, men ikke-aktiverede steg med 300. Der var 78.600 ledige dagpengemodtagere og 15.000 kontanthjælpsmodtagere, begge faldet med 100. For aldersgrupperne faldt ledigheden blandt 30-39-årige med 0,1 procentpoint, mens den steg til 5,0 pct. for 25-29-årige. Kønnet forskel var uændret med 3,1 pct. for både mænd og kvinder. Geografisk faldt ledigheden med 0,1 procentpoint i Københavns omegn og Vestjylland, men steg til 4,0 pct. i Byen København, som fortsat har højest ledighed.",
+  "prompt_tokens": 1082,
+  "completion_tokens": 267,
+  "latency_ms": 5788,
+  "cost_usd": 0.00037660000000000005,
+  "created": "2026-11-10T05:38:51.863331Z",
+  "error": null
+}

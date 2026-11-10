@@ -1,0 +1,21 @@
+{
+  "model_id": "nebius-gpt-oss-120b",
+  "pinned_version": "openai/gpt-oss-120b",
+  "task_id": "t3_faktaboks",
+  "source_id": "rigsrevisionen-2026-beretning-energinet-elnettet",
+  "archetype": null,
+  "prompt_sha256": "c7a421c55f7affb6da16fc230cb1b4682fc49b0a98c991c152e9c396eb0694ba",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 2075,
+    "reasoning_effort": "low"
+  },
+  "text": "- Den 9. april 2026 behandlede Statsrevisorerne beretning nr. 12/2025 om Energinets udbygning af elnettet.  \n- Elnettet omfatter i dag ca. 9.000 km jordkabler og luftledninger.  \n- Energinet forventer at etablere yderligere ca. 2.700 km elnet frem mod 2030 og 3.000‑4.000 km frem mod 2050.  \n- Ca. 70 % af de igangsatte udbygningsprojekter er forsinkede, og de forsinkede projekter tager i gennemsnit ca. 80 % længere tid end forventet.  \n- Siden maj 2024 er kun 206 km af de planlagte 490 km elnet færdiggjort pr. 1. januar 2026.",
+  "prompt_tokens": 1304,
+  "completion_tokens": 223,
+  "latency_ms": 725,
+  "cost_usd": 0.0003294,
+  "created": "2026-11-10T05:38:16.662219Z",
+  "error": null
+}

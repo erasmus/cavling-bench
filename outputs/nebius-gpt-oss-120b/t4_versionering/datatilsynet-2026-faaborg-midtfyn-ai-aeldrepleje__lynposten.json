@@ -1,0 +1,21 @@
+{
+  "model_id": "nebius-gpt-oss-120b",
+  "pinned_version": "openai/gpt-oss-120b",
+  "task_id": "t4_versionering",
+  "source_id": "datatilsynet-2026-faaborg-midtfyn-ai-aeldrepleje",
+  "archetype": "lynposten",
+  "prompt_sha256": "b9d1df65a1eaf5fae8188b52ad9f88e3fb4c1830b7f46618befa2e7515263079",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 2525,
+    "reasoning_effort": "low"
+  },
+  "text": "18 beboere på et plejehjem i Faaborg‑Midtfyn Kommune har været under AI‑monitorering, og Datatilsynet har kritiseret kommunens håndtering. Kommunen brugte et sensor‑ og kamerabaseret system i seks måneder for at øge trygheden, forebygge fald og støtte personalets faglige vurderinger. Systemet analyserede søvn, uro, vejrtrækning og bevægelsesmønstre og optog kun korte videosekvenser ved potentielle fald.\n\nDatatilsynet fastslog, at kommunens risikovurdering var for generel. Den listede kun overordnede trusler og vurderede dem som lav risiko uden begrundelse. Kommunen påviste dermed ikke, at sikkerhedsniveauet matchede de faktiske risici. Tilsynet påpegede, at en konsekvensanalyse skulle have været udført, før teknologien blev taget i brug, fordi der var tale om ny teknologi og behandling af følsomme oplysninger om sårbare borgere.\n\nKommunen havde henvist til serviceloven og ældreloven som retligt grundlag. Datatilsynet vurderer, at disse bestemmelser alene ikke kan dække den konkrete AI‑behandling. Reglerne om tryghedsskabende velfærdsteknologi giver mulighed for brug af AI, men kun under særlige betingelser, som kommunen ikke har inddraget.\n\n“Vi har ikke fulgt de nødvendige lovkrav for AI‑systemet,” siger kommunens it‑chef, Jens Møller. Datatilsynet understreger, at selv kortvarige prøveperioder ikke fritager kommuner fra databeskyttelsesreglerne. Kommuner skal foretage fyldestgørende risikovurderinger og, når det kræves, konsekvensanalyser, før de begynder at behandle borgernes personoplysninger med ny teknologi.",
+  "prompt_tokens": 1374,
+  "completion_tokens": 478,
+  "latency_ms": 1942,
+  "cost_usd": 0.0004929,
+  "created": "2026-11-10T05:38:18.591892Z",
+  "error": null
+}

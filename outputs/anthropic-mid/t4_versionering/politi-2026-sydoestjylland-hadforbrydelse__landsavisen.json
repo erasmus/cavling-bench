@@ -1,0 +1,21 @@
+{
+  "model_id": "anthropic-mid",
+  "pinned_version": "claude-sonnet-5-5",
+  "task_id": "t4_versionering",
+  "source_id": "politi-2026-sydoestjylland-hadforbrydelse",
+  "archetype": "landsavisen",
+  "prompt_sha256": "08d963b556a00c1ca6a68eba77dc21c44ae425fafda8fa5d0e9b98dc5d49543d",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 4025,
+    "reasoning_effort": "low"
+  },
+  "text": "Retten i Horsens har i dag idømt tre unge mænd fængselsstraffe for en række voldsepisoder i Horsens i januar 2026 og for overtrædelse af våbenlovgivningen. De tiltalte er to 18-årige og en 17-årig. Retten fandt, at en af forbrydelserne var en hadforbrydelse.\n\nDen alvorligste sag udspillede sig den 17. januar omkring kl. 02.10 ved banegården i Horsens. Her råbte en af de 18-årige og den 17-årige skældsord efter to kvinder om deres seksuelle orientering. De slog dem desuden flere gange i og omkring hovedet med en totenschlæger og udsatte dem for peberspray. De to blev dømt for grov vold begået som hadforbrydelse. Retten lagde til grund, at volden helt eller delvist var begrundet i kvindernes seksuelle orientering.\n\nDe to 18-årige blev desuden dømt for vold og trusler med kniv i forbindelse med et overfald på en mand i Vitus Beringsparken den 2. januar. Den ene af dem blev også dømt for vold mod en mand på en bar i Horsens den 4. januar. Samme 18-årige blev dømt for at have været i besiddelse af peberspray, mens den 17-årige blev dømt for besiddelse af både totenschlæger og peberspray.\n\nDen 18-årige, der blev kendt skyldig i hadforbrydelsen, fik et år og tre måneders fængsel og et opholdsforbud i nattelivet i seks måneder. Han udvises af Danmark med indrejseforbud i seks år og blev fængslet efter dommen. Den 17-årige fik ti måneders fængsel. Den anden 18-årige fik tre måneders fængsel og en advarsel om udvisning.\n\n”Dommen i dag understreger blandt andet, at man som borger ikke skal diskrimineres eller udsættes for vold på baggrund af sin seksuelle orientering, kønsidentitet, kønsudtryk eller lignede,” udtaler Thomas Vestergaard, anklagerfuldmægtig i anklagemyndigheden ved Sydøstjyllands Politi.\n\nDen 18-årige med tre måneders fængsel modtog dommen. De to andre udbad sig betænkningstid.",
+  "prompt_tokens": 1793,
+  "completion_tokens": 800,
+  "latency_ms": 5516,
+  "cost_usd": 0.011586,
+  "created": "2026-11-10T07:17:21.111292Z",
+  "error": null
+}

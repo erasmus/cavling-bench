@@ -1,0 +1,21 @@
+{
+  "model_id": "anthropic-mid",
+  "pinned_version": "claude-sonnet-5-5",
+  "task_id": "t4_versionering",
+  "source_id": "aalborg-2025-omlaegningsplan-trepart",
+  "archetype": "lynposten",
+  "prompt_sha256": "6678cf311a7da67fbee90c749158154a35e6af4bb35691cc266590f527a1c550",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 4025,
+    "reasoning_effort": "low"
+  },
+  "text": "Aalborg Byråd har vedtaget en plan med 94 projekter, der skal give mere natur og skov, renere drikkevand og et sundere vandmiljø. Byrådet godkendte planen på mødet 15. december.\n\nDet er en principvedtagelse. Projekterne kan kun gennemføres, hvis kommunen opnår enighed med de berørte lodsejere.\n\nPlanen følger af Aftalen om et Grønt Danmark. Regeringen, landbruget og Danmarks Naturfredningsforening indgik aftalen. Et bredt flertal i Folketinget vedtog den i 2024. Aftalen forpligtede kommunen til at lave en omlægningsplan.\n\n77 af projekterne er lavbundsprojekter. Aalborg har landets største areal med tørveholdige lavbundsjorde. Når jorden vådlægges, falder udledningen af CO2.\n\n13 forslag skal sikre drikkevandet. Der er også forslag om at tage dyrkningsjord ud i oplandet til Halkær Bredning. Det skal forbedre vandmiljøet i Limfjorden.\n\nTre forslag gælder større naturområder: Hals og Ulsted Rimmer, området omkring Lundby Bakker, Gistrup og Poulstrup samt området omkring Halkær Bredning og Halkær Sø vest for Nibe.\n\n\"Det har været en stor og kompleks opgave at nå i mål med en samlet omlægningsplan for hele Aalborg Kommune,\" siger Jan Nymark Rose Thaysen, rådmand for By og Land og næstformand i Aalborg Trepart. Han fremhæver samarbejdet i treparten og peger på, at planen samtidig fastholder en stærk fødevareproduktion.\n\nI 2026 starter dialogmøderne med de berørte borgere. Hovedparten af lavbundsindsatsen og kvælstofindsatsen skal være færdig i 2030. Indsatsen for skovrejsning og natur fortsætter derefter.",
+  "prompt_tokens": 2822,
+  "completion_tokens": 694,
+  "latency_ms": 4656,
+  "cost_usd": 0.012584,
+  "created": "2026-11-10T07:16:02.087966Z",
+  "error": null
+}

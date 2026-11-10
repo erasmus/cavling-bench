@@ -1,0 +1,21 @@
+{
+  "model_id": "anthropic-mid",
+  "pinned_version": "claude-sonnet-5-5",
+  "task_id": "t6_lydmanus",
+  "source_id": "finanstilsynet-2026-danske-bank-boliglaansinspektion",
+  "archetype": "lynposten",
+  "prompt_sha256": "576c19b713e492f357a81581071cdbbca52642dbfa577298d806bddb4b8658ae",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 3620,
+    "reasoning_effort": "low"
+  },
+  "text": "Fire af otteoghalvtreds boliglån i Danske Bank burde ikke have været bevilget. Det har Finanstilsynet vurderet efter en inspektion.\n\nTilsynet gennemgik otteoghalvtreds sager med høj risiko. Det var kunder med høj gæld og høj belåning.\n\nBanken har en forenklet kreditproces for en særlig gruppe kunder. Her fandt tilsynet væsentlige fejl i seks ud af treogtyve sager. For de øvrige kunder var der fejl i tretten ud af femogtredive sager.\n\nBanken kunne ikke dokumentere, at kunderne kunne bære lånene. Danske Bank har en højere andel af risikable lån end de andre banker i undersøgelsen. Bankens tal dækker dog en senere periode.\n\nDanske Bank har fået påbud om at rette op. Inspektionen ændrer ikke bankens solvensbehov.",
+  "prompt_tokens": 2674,
+  "completion_tokens": 321,
+  "latency_ms": 3486,
+  "cost_usd": 0.008558,
+  "created": "2026-11-10T07:18:23.895343Z",
+  "error": null
+}

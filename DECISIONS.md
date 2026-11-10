@@ -82,3 +82,46 @@ request (`max_tokens` incl. `reasoning_budget_tokens`, plus `reasoning_effort`);
 gpt-oss outputs still say `max_tokens: 560`, which was the task cap, not the 2060 sent. They are
 not regenerated (outputs/ is not frozen, but a rerun costs money for no scoring change); the next
 `generate --force` corrects them.
+
+## 2026-11-10 00:40 — Anthropic key added; Sonnet 5.5 needs a reasoning budget too
+`ANTHROPIC_API_KEY` is now in `.env`. First Sonnet 5.5 call: 7 of 9 outputs empty with
+`finish_reason=length`, because Claude 5.5 models always think (adaptive, effort high) and the
+thinking counts against `max_tokens`. Both `anthropic-*` rows pinned at `reasoning_effort: low`,
+`reasoning_budget_tokens: 3000`; after that 45/45 outputs on 5 sources. Three models × 5 sources
+now run end to end with both judges (Judge B 45 grounding, 45 fluency, 8 tone pairs). Spend so
+far: paid USD 1.54, Nebius credit USD 0.26.
+
+## 2026-11-10 07:30 — Nebius generators complete on all 40 sources
+`nebius-gpt-oss-120b` and `nebius-qwen3-235b`: 720/720 outputs, 0 errors. Mechanical checks and
+Judge A grounding + fluency run on everything (Judge A skipped for tone on all pairs between the two
+Nebius generators by the cross-family rule, so tone waits for Judge B). Judge B was deliberately
+held back on this pass pending the decision to move it from `anthropic-mid` (est. USD 33 paid for
+the full 25 % sample) to a DeepSeek-V4 row on Nebius credit. Spend: paid USD 1.54, credit USD 1.47.
+Gemini key is on the free tier (5 req/min) and unusable until billing is enabled or OpenRouter is
+used; OpenAI and Mistral keys do not exist yet. Owner will use Nebius GPU hours for Munin/DanskGPT.
+
+## 2026-11-10 — Judge B moved to DeepSeek-V4-Pro (Nebius); Anthropic rows complete
+Owner approved DeepSeek-V4-Pro on Nebius credit as Judge B (replacing Sonnet 5.5, est. USD 33
+paid). New row `nebius-deepseek-v4-pro` with `enabled: false`, which keeps it out of the generator
+set but lets `judges.B` resolve it. Called without `reasoning_effort`: DeepSeek-V4 then answers
+directly (0 reasoning tokens observed; with `reasoning_effort` it thinks first). Family `deepseek`
+is shared by no generator, so every tone cell now has two judges. The 45 + 45 + 8 Sonnet Judge B
+records from the 5-source pilot were removed from `scores/` (they remain in git history, commit
+336a636) so the files match `models.yaml`.
+`JUDGE_MAX_TOKENS["grounding"]` raised 3000 → 6000: DeepSeek lists 25–60 claims per output with
+long spans, and 14 of the first 195 grounding calls were truncated mid-JSON. Two t2_rubrik
+grounding calls still overflow at 6000 and remain error records (2 of 374); accepted.
+Known gap: one gpt-oss-120b t1 output (`ombudsmanden-2026-lolland-avisabonnement-pression`)
+degenerated into repeated "i i i"; both fluency judges echo the degeneration and return no JSON,
+so it has no fluency score (it still has grounding and checks records).
+Generators: `anthropic-mid` 360/360 and `anthropic-frontier` 360/360, 0 errors. Judge A: 1440
+grounding, 1439 fluency, 774 tone pairs. Judge B: 372 grounding, 363 fluency, 410 tone pairs.
+Spend: paid USD 21.49 (Fable 5.1 came in under the USD 22 estimate), Nebius credit USD 7.98.
+Anthropic account held USD 42.89 before this run. Munin/DanskGPT: owner will create an L40S VM
+in Nebius AI Cloud (eu-north1) and serve with vLLM per docs/serving.md.
+
+## 2026-11-10 08:00 — GitHub Pages via Actions; live before final results
+Pages cannot serve a `site/` folder from a branch (only `/` or `/docs`), so `.github/workflows/pages.yml`
+runs `danews site` and deploys `site/` as a Pages artifact on pushes to `main` (and on demand).
+Owner chose to go live now with partial results (4 of 13 generators); URL follows the user site's
+custom domain: erasmus.fyi/cavling-bench/.

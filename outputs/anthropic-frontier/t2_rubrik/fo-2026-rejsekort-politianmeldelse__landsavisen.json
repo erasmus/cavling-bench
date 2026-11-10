@@ -1,0 +1,21 @@
+{
+  "model_id": "anthropic-frontier",
+  "pinned_version": "claude-fable-5-1",
+  "task_id": "t2_rubrik",
+  "source_id": "fo-2026-rejsekort-politianmeldelse",
+  "archetype": "landsavisen",
+  "prompt_sha256": "754d0aa0b11e141c1ce9f1b5c3084553305c43fb252e4bf7f2cfabe05530c196",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 3400,
+    "reasoning_effort": "low"
+  },
+  "text": "RUBRIK: Forbrugerombudsmanden politianmelder Rejsekort for vildledning\nUNDERRUBRIK: Kampagne om lukning af det fysiske rejsekort skjulte ifølge Forbrugerombudsmanden, at der fortsat findes et ikke-digitalt alternativ til billet-apps.",
+  "prompt_tokens": 3056,
+  "completion_tokens": 118,
+  "latency_ms": 3483,
+  "cost_usd": 0.03646,
+  "created": "2026-11-10T07:20:16.997340Z",
+  "error": null
+}

@@ -1,0 +1,21 @@
+{
+  "model_id": "anthropic-frontier",
+  "pinned_version": "claude-fable-5-1",
+  "task_id": "t6_lydmanus",
+  "source_id": "ombudsmanden-2026-koebenhavn-laerer-ytringsfrihed",
+  "archetype": "lynposten",
+  "prompt_sha256": "e56c0a3bab2698e1b72ca706c6c6ef6f1c36f67069f5852c3af91e118acbff57",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 3620,
+    "reasoning_effort": "low"
+  },
+  "text": "Københavns Kommune har ikke respekteret en folkeskolelærers ytringsfrihed. Det konkluderer Folketingets Ombudsmand.\n\nLæreren fortalte i et avisinterview om vold fra elever. Hun fik hjernerystelse og blå mærker. Bagefter indkaldte kommunen hende til en tilrettevisningssamtale. Her fik hun en tilrettevisning. Hun blev også opfordret til at holde lav profil over for pressen.\n\nKommunen kalder nu den opfordring yderst beklagelig. Kommunen siger, at samtalen handlede om et pressefoto, hun ikke havde fået tilladelse til. Ombudsmanden mener, at læreren med rette kunne opfatte forløbet som en negativ reaktion på hendes udtalelser.\n\nOmbudsmand Christian Britten Lundblad siger, at udtalelserne klart var fremsat på egne vegne. De ligger i kerneområdet for offentligt ansattes ytringsfrihed.\n\nOmbudsmanden henstiller, at kommunen genoptager sagen. Kommunen skal svare inden tre måneder.",
+  "prompt_tokens": 2802,
+  "completion_tokens": 397,
+  "latency_ms": 4666,
+  "cost_usd": 0.04787,
+  "created": "2026-11-10T07:27:39.551143Z",
+  "error": null
+}

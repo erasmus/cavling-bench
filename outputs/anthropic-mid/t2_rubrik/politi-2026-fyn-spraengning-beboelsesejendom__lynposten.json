@@ -1,0 +1,21 @@
+{
+  "model_id": "anthropic-mid",
+  "pinned_version": "claude-sonnet-5-5",
+  "task_id": "t2_rubrik",
+  "source_id": "politi-2026-fyn-spraengning-beboelsesejendom",
+  "archetype": "lynposten",
+  "prompt_sha256": "197de8a07383d67792a163e384f52a2c9d32358336537ba1a269e2f6a39f3558",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 3400,
+    "reasoning_effort": "low"
+  },
+  "text": "RUBRIK: Tre mænd får 14 års fængsel for bombeforsøg i Odense\nUNDERRUBRIK: Mere end fire kilo dynamit i en opgang med 19-25 personer. Retten i Odense dømmer tre unge mænd. To anker på stedet, den tredje beder om betænkningstid.",
+  "prompt_tokens": 1899,
+  "completion_tokens": 753,
+  "latency_ms": 5916,
+  "cost_usd": 0.011328,
+  "created": "2026-11-10T05:23:42.249800Z",
+  "error": null
+}

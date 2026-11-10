@@ -1,0 +1,21 @@
+{
+  "model_id": "nebius-qwen3-235b",
+  "pinned_version": "Qwen/Qwen3-235B-A22B-Instruct-2507",
+  "task_id": "t2_rubrik",
+  "source_id": "kefm-2026-akutplan-elnettet-vedtaget",
+  "archetype": "lynposten",
+  "prompt_sha256": "ff96de00130757683b66c727c89a3a7f79f1868a841e86a5a19dbff2d0ef187b",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 400,
+    "reasoning_effort": null
+  },
+  "text": "RUBRIK: Bredt flertal vedtager akutplan for elnet  \nUNDERRUBRIK: Folketinget stemmer for ny model, hvor Energinet kan prioritere strøm til samfundskritiske funktioner frem for datacentre. Loven træder i kraft 12. oktober.",
+  "prompt_tokens": 3260,
+  "completion_tokens": 76,
+  "latency_ms": 8345,
+  "cost_usd": 0.0006976,
+  "created": "2026-11-10T05:39:57.374693Z",
+  "error": null
+}

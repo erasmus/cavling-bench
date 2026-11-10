@@ -1,0 +1,21 @@
+{
+  "model_id": "anthropic-frontier",
+  "pinned_version": "claude-fable-5-1",
+  "task_id": "t1_telegram",
+  "source_id": "fm-2026-2035-plan",
+  "archetype": null,
+  "prompt_sha256": "f85c6c5613048418e4181f36b5abcba3aef7089b43bb6c585ee30d383b424de4",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 3560,
+    "reasoning_effort": "low"
+  },
+  "text": "Regeringen vil med sin nye 2035-plan leve op til NATO's målsætning om forsvarsudgifter på 3,5 procent af BNP allerede i 2030 og dermed blive et af de første NATO-lande, der finder pengene til det. De danske forsvarsudgifter er allerede øget fra 1,36 procent af BNP i 2022 til forventet 3½ procent i år, heraf ca. 70 mia. kr. under Ukrainefondens militære ramme i 2023-2028. Planen rummer desuden en akutpakke til beredskabet på 1,2 mia. kr. i år og et løft, der i 2035 svarer til 5 mia. kr., samt ca. 15 mia. kr. i 2029-2040 til kystbeskyttelse mod stormflod. Finansminister Nicolai Wammen siger, at investeringerne går hånd i hånd med økonomisk ansvarlighed, mens udenrigsminister Lars Løkke Rasmussen advarer om, at kassen er så godt som tom, når regningerne er betalt.",
+  "prompt_tokens": 2565,
+  "completion_tokens": 366,
+  "latency_ms": 4385,
+  "cost_usd": 0.04395,
+  "created": "2026-11-10T07:19:04.803528Z",
+  "error": null
+}

@@ -1,0 +1,21 @@
+{
+  "model_id": "anthropic-frontier",
+  "pinned_version": "claude-fable-5-1",
+  "task_id": "t2_rubrik",
+  "source_id": "politi-2026-midtvestsjaelland-idraetsforening",
+  "archetype": "erhvervsnyt",
+  "prompt_sha256": "38e92803e6206291acbb265130624fd0c108c9eac8411e474fc3678ce9c138bf",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 3400,
+    "reasoning_effort": "low"
+  },
+  "text": "RUBRIK: 46-årig idømt et års fængsel for overgreb mod drenge\nUNDERRUBRIK: Retten i Roskilde dømte i dag ansat i idrætsforening, som har tilstået overgreb og krænkelser mod et stort antal drenge. 42 drenge blev filmet i skjul.",
+  "prompt_tokens": 1637,
+  "completion_tokens": 114,
+  "latency_ms": 1980,
+  "cost_usd": 0.02207,
+  "created": "2026-11-10T07:20:46.015002Z",
+  "error": null
+}

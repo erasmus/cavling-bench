@@ -1,0 +1,21 @@
+{
+  "model_id": "nebius-gpt-oss-120b",
+  "pinned_version": "openai/gpt-oss-120b",
+  "task_id": "t5_forkortelse",
+  "source_id": "fm-2026-ok26-statens-overenskomst",
+  "archetype": null,
+  "prompt_sha256": "0f78d9fb9657cbd7d7b63d9085d5a93dd8bfff3a6ff747c951b0ef131cce5d39",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 2360,
+    "reasoning_effort": "low"
+  },
+  "text": "Finansministeren har sammen med Centralorganisationernes Fællesudvalg (CFU) og Akademikerne indgået et treårigt overenskomstforlig for ca. 200 000 statslige medarbejdere. Forliget giver en samlet økonomisk ramme på 8,7 % over 2026‑2029 og indeholder et ekstraordinært lønløft til Forsvarets militært ansatte, en ny fritvalgsordning samt forbedringer af barselsvilkår og løn ved barns sygdom. De første lønstigninger træder i kraft i foråret, og parterne beskriver forliget som økonomisk ansvarligt med en pæn reallønsfremgang for den enkelte.\n\nDer er afsat 275 mio. kr. af den samlede ramme til rekruttering og fastholdelse af militært ansatte, med konkret udmøntning efter aftale med forsvarsorganisationerne. Yderligere er 250 mio. kr. afsat til lokal løn og 20 mio. kr. til lønløft for erhvervsskolelærere. En fritvalgskonto giver ansatte mulighed for at vælge mellem løn, pension og frihed, samt en fritvalgsdag og to ekstra seniordage, som kan udbetales fra kontoen.\n\nBørnefamilier får løn på hjemkaldelsesdagen og på barnets tredje sygedag, samt forbedret lønret ved barsel, herunder to ekstra uger til deleorlov. Finansminister Nicolai Wammen understreger, at forliget skal gøre staten attraktiv, sikre rekruttering til forsvaret og forbedre vilkårene for børnefamilier. Overenskomsten sendes til afstemning og, hvis vedtaget, gælder fra 1. april 2026 til 31. marts 2029.",
+  "prompt_tokens": 1058,
+  "completion_tokens": 437,
+  "latency_ms": 1612,
+  "cost_usd": 0.0004209,
+  "created": "2026-11-10T05:38:35.823742Z",
+  "error": null
+}

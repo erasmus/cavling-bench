@@ -1,0 +1,21 @@
+{
+  "model_id": "nebius-gpt-oss-120b",
+  "pinned_version": "openai/gpt-oss-120b",
+  "task_id": "t2_rubrik",
+  "source_id": "regeringen-2026-grisefirepart",
+  "archetype": "erhvervsnyt",
+  "prompt_sha256": "d9e0a4430b63bcc1ce1a44cfebb0d72becba1ae26b297ff3a922f67b46e5fb99",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 1900,
+    "reasoning_effort": "low"
+  },
+  "text": "RUBRIK: Regeringen nedsætter firepart for bedre griseproduktion\nUNDERRUBRIK: Fireparten med Landbrug & Fødevarer, Dyrenes Beskyttelse, NNF, Naturfredningsforeningen, Dansk Erhverv, DI og regeringen skal løfte dyrevelfærd, øge økologi, reducere antibiotikaforbrug og styrke værdikæden.",
+  "prompt_tokens": 1509,
+  "completion_tokens": 311,
+  "latency_ms": 958,
+  "cost_usd": 0.00041295,
+  "created": "2026-11-10T05:38:12.255790Z",
+  "error": null
+}

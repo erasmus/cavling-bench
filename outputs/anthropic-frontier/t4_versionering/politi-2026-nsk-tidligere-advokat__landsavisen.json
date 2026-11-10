@@ -1,0 +1,21 @@
+{
+  "model_id": "anthropic-frontier",
+  "pinned_version": "claude-fable-5-1",
+  "task_id": "t4_versionering",
+  "source_id": "politi-2026-nsk-tidligere-advokat",
+  "archetype": "landsavisen",
+  "prompt_sha256": "094fc1559d0d181c3202bb56d8d3cb5bcf8e3041eded30ed5869f5385da2f497",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 4025,
+    "reasoning_effort": "low"
+  },
+  "text": "Retten i Lyngby har onsdag idømt en 53-årig tidligere advokat seks måneders ubetinget fængsel for groft stillingsmisbrug og pligtforsømmelse. Dommen falder i en sag ført af National enhed for Særlig Kriminalitet (NSK), og den dømte er samtidig frakendt retten til at udøve advokatvirksomhed indtil videre.\n\nRetten fandt det bevist, at manden afgav urigtige erklæringer til skifteretten for at blive udpeget som kurator i to konkursboer, selv om han var inhabil. Inhabiliteten skyldtes, at han forinden havde rådgivet ejeren og direktøren af selskaberne om, hvordan denne med fordel kunne forholde sig, så konkursbehandlingen alene blev relativt overfladisk og kortvarig.\n\nSom kurator undlod han desuden at videregive væsentlige oplysninger om kriminelle forhold begået i de selskaber, han var sat til at behandle. Retten fandt det bevist, at han med sit stillingsmisbrug havde til hensigt at skaffe sig selv eller andre en fordel.\n\nIfølge retten vanskeliggjorde og forsinkede hans handlinger en effektiv politiefterforskning, en skattemæssig undersøgelse og konkursbehandlingen af sagen.\n\nHos anklagemyndigheden ses dommen som et signal om, hvilken rolle professionelle rådgivere spiller i bekæmpelsen af økonomisk kriminalitet.\n\n“I NSK har vi et vedvarende fokus på at sætte ind over for professionelle rådgivere, der med deres handlinger eller undladelser gør det lettere at være kriminel. Derfor er jeg tilfreds med dommen i dag. Dommen viser, at retten ser strengt på, når en advokat og kurator tilsidesætter sine forpligtelser, og understreger, hvor afgørende tilliden til kuratorer er for systemet,” udtaler specialanklager i NSK Konrad Joe Frank.\n\nKilden oplyser ikke, om den dømte anker dommen.",
+  "prompt_tokens": 1687,
+  "completion_tokens": 737,
+  "latency_ms": 9115,
+  "cost_usd": 0.05372,
+  "created": "2026-11-10T07:24:34.748621Z",
+  "error": null
+}

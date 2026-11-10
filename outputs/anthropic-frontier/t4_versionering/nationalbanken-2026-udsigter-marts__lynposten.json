@@ -1,0 +1,21 @@
+{
+  "model_id": "anthropic-frontier",
+  "pinned_version": "claude-fable-5-1",
+  "task_id": "t4_versionering",
+  "source_id": "nationalbanken-2026-udsigter-marts",
+  "archetype": "lynposten",
+  "prompt_sha256": "3c82118e0a740e22706ae4881349aaada3b3884844f600ab6f593a3e3a04bc67",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 4025,
+    "reasoning_effort": "low"
+  },
+  "text": "Inflationen lander på 1,8 procent i år. Det forventer Nationalbanken i sin nye prognose for dansk økonomi, der er offentliggjort i dag.\n\nMen prognosen kommer med en stor advarsel. Krigen i Mellemøsten presser energipriserne op. Det udgør en betydelig risiko for inflationen fremadrettet, vurderer Nationalbanken.\n\nNationalbanken har regnet på et risikoscenarie. Her begrænses olie- og gasforsyningen fra Den Persiske Golf i de kommende år. Olie- og gaspriserne ligger betydeligt og langvarigt over de nuværende markedspriser. I det tilfælde kan inflationen i år ende på 4,5 procent.\n\nNationalbankdirektør Christian Kettel Thomsen maner dog til ro.\n\n”Trods de nuværende stigninger i energipriserne forventer vi ikke, at vi ser ind i en inflationskrise, som den vi oplevede efter Ruslands invasion af Ukraine,” siger han.\n\nDansk økonomi er grundlæggende i god balance, lyder vurderingen. Beskæftigelsen er høj, og ledigheden er lav. Danmarks BNP ventes at vokse med 1,8 procent i år og næste år. I 2028 ventes væksten at blive 2 procent.\n\nNationalbanken forventer, at inflationen bliver 2,0 procent i 2027 og 1,9 procent i 2028.\n\nSamtidig sender Nationalbanken to anbefalinger til den nye regering. Der er kun begrænset ledig kapacitet til at øge produktionen uden at skubbe til lønstigninger og inflation.\n\n”Den nye regering bør i finansloven for 2027 derfor ikke skubbe til efterspørgslen ud over det, der allerede er lagt op til i den tidligere regerings 2035-plan,” siger Christian Kettel Thomsen.\n\nDanmark står over for store udgifter til blandt andet forsvar, klima og den demografiske udvikling. Forsvarsudgifterne er løftet permanent med 75 milliarder kroner i forhold til før Ruslands invasion af Ukraine. Det gør rummet for yderligere prioriteringer væsentligt mindre, påpeger nationalbankdirektøren.\n\nDerfor bør regeringen være forsigtig med at bruge hele råderummet. Den bør heller ikke øge råderummet gennem svækkelser af den strukturelle saldo, lyder anbefalingen.",
+  "prompt_tokens": 1919,
+  "completion_tokens": 872,
+  "latency_ms": 10412,
+  "cost_usd": 0.06279,
+  "created": "2026-11-10T07:23:59.800190Z",
+  "error": null
+}

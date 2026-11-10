@@ -1,0 +1,21 @@
+{
+  "model_id": "anthropic-frontier",
+  "pinned_version": "claude-fable-5-1",
+  "task_id": "t5_forkortelse",
+  "source_id": "kfst-2026-fibernet-prislofter",
+  "archetype": null,
+  "prompt_sha256": "e4cd68b71e41032bd9e67d77024f772d075fca7359bcae7b69dc941010708794",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 3860,
+    "reasoning_effort": "low"
+  },
+  "text": "Konkurrence- og Forbrugerstyrelsen fastsætter som uafhængig telekonkurrencemyndighed rammerne for levering af fibernet til husholdninger og mindre virksomheder og afklarer nu misforståelser, særligt om TDC.\n\nPrislofter fastsættes kun i områder, hvor fibernetejeren har monopollignende status. I beregningerne tages højde for beskyttelse af fibernettet mod fysiske og virtuelle angreb, men ikke for ikke-regulerede net som mobilnettet. For TDC er kun en mindre del af forretningen reguleret; der er ingen begrænsninger på mobilområdet eller fiberlejepriser uden for hovedstadsområdet.\n\nDe nye prislofter gælder fra årsskiftet og kan revideres ved markante ændringer. En analyse udarbejdet med eksterne eksperter har medført, at ekstraomkostninger til robusthed er medtaget, så prislofterne bliver højere end ellers. De endelige prislofter for de kommende fem år fastsættes til december efter flere høringer og sendes forinden til Europa Kommissionen (DG Connect).\n\nStyrelsen skal balancere fibernetejerens omkostningsdækning mod forbrugernes pris. Bredbåndsprisen ventes at stige; prislofterne bliver op til 35 procent højere end i dag på grund af højere udstyrspriser, højere tilladt forrentning som følge af stigende renter og investeringer i beskyttelse.\n\nDer træffes afgørelser om 13 fibernetselskaber: Fem (Aura, BornFiber, EnergiFyn, Fibia og Norlys) bindes til egne tilsagn. TDC pålægges forpligtelser, da selskabet ikke har præsenteret acceptable tilsagn. Syv (Jysk Energi, RAH, SEF, Thy-Mors Energi, Nordenergi og MES), der alene sælger engros, skal primært holde nettene åbne for detailudbydere. Afgørelserne kan indbringes for Teleklagenævnet og domstolene.",
+  "prompt_tokens": 2346,
+  "completion_tokens": 727,
+  "latency_ms": 9194,
+  "cost_usd": 0.05981,
+  "created": "2026-11-10T07:25:58.894338Z",
+  "error": null
+}

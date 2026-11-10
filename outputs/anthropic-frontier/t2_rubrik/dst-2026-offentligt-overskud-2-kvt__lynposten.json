@@ -1,0 +1,21 @@
+{
+  "model_id": "anthropic-frontier",
+  "pinned_version": "claude-fable-5-1",
+  "task_id": "t2_rubrik",
+  "source_id": "dst-2026-offentligt-overskud-2-kvt",
+  "archetype": "lynposten",
+  "prompt_sha256": "8f94c62884dd156392ac1ee51e924e185f85beb61b1c822001ea8a444f2958d3",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 3400,
+    "reasoning_effort": "low"
+  },
+  "text": "RUBRIK: Staten får overskud på 35,5 mia. kr. i andet kvartal\nUNDERRUBRIK: Overskuddet er 12,3 mia. kr. større end i første kvartal. Alligevel falder den offentlige nettoformue med 11 mia. kr., og ØMU-gælden stiger.",
+  "prompt_tokens": 1947,
+  "completion_tokens": 114,
+  "latency_ms": 1727,
+  "cost_usd": 0.02517,
+  "created": "2026-11-10T07:19:57.785797Z",
+  "error": null
+}

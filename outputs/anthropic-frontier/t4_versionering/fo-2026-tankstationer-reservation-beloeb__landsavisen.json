@@ -1,0 +1,21 @@
+{
+  "model_id": "anthropic-frontier",
+  "pinned_version": "claude-fable-5-1",
+  "task_id": "t4_versionering",
+  "source_id": "fo-2026-tankstationer-reservation-beloeb",
+  "archetype": "landsavisen",
+  "prompt_sha256": "ede9e8a415c49ee12129e9dbfbc6937dc10e1d795912765ff0bc1ee76b5fc209",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 4025,
+    "reasoning_effort": "low"
+  },
+  "text": "Fire af landets største tankstationskæder har reserveret urimeligt høje beløb på kundernes konti, inden de tankede. Det konkluderer Forbrugerombudsmanden, som efter dialog med Q8, OK, Shell og Uno-X nu afslutter sagerne. Tre af kæderne har ændret praksis, mens Q8 fortsat reserverer 950 kroner og arbejder på en løsning.\n\nSagerne udspringer af en dialog i 2023 med brancheorganisationen Drivkraft Danmark om manglende samtykke ved reservationer. Dengang forpligtede medlemmerne sig til at oplyse det præcise reservationsbeløb i betalingsstanderens skærmflow frem for på klistermærker. Parterne blev dog ikke enige om, hvorvidt det er berettiget at reservere langt mere, end forbrugeren skal betale.\n\nForbrugerombudsmanden vurderer nu, at Uno-X' reservation på 1.200 kroner og Shells på 1.500 kroner var urimelige, fordi beløbene ikke stod i rimeligt forhold til, hvad de fleste tanker for. Q8's 950 kroner og OK's 850 kroner var urimelige over for ejere af minibiler, små biler og mindre køretøjer.\n\nUno-X og Shell lader nu kunderne vælge reservationsbeløbet på standerens skærm. OK har foreløbig sat beløbet til 100 kroner.\n\n\"Når en virksomhed reserverer et beløb på en forbrugers konto, så skal beløbet stå i rimeligt forhold til det beløb, som forbrugeren ender med at betale. Det er derfor urimeligt, når tankstationer reserverer omkring 900 kroner eller mere hos kunder, der skal tanke et mindre køretøj,\" siger forbrugerombudsmand Torben Jensen.\n\nMyndigheden har desuden konstateret problemer med samtykket hos Q8 og OK, blandt andet for kunder, der betaler med Apple Pay eller Google Pay og ikke ser skærmteksten. Q8 forventer fuld implementering af samtykke i midten af 2026.\n\nEndelig har forbrugere klaget over, at reservationer hos OK, Uno-X og Shell først blev frigivet efter op til 11 dage. Det skyldes ifølge Forbrugerombudsmanden ofte tekniske fejl hos banken, men kæderne har iværksat tiltag for at forbedre håndteringen.",
+  "prompt_tokens": 3782,
+  "completion_tokens": 867,
+  "latency_ms": 11306,
+  "cost_usd": 0.08117,
+  "created": "2026-11-10T07:23:24.617835Z",
+  "error": null
+}

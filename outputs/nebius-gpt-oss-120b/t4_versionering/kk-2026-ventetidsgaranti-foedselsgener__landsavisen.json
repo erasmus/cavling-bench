@@ -1,0 +1,21 @@
+{
+  "model_id": "nebius-gpt-oss-120b",
+  "pinned_version": "openai/gpt-oss-120b",
+  "task_id": "t4_versionering",
+  "source_id": "kk-2026-ventetidsgaranti-foedselsgener",
+  "archetype": "landsavisen",
+  "prompt_sha256": "8c7f7146ac6b666bb7e8274e3f82755c7f7a15b8e0b21dec5059922cbe476fd5",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 2525,
+    "reasoning_effort": "low"
+  },
+  "text": "Københavns Kommune har i forbindelse med den nye budgetaftale indført en ventetidsgaranti for kvinder med efterfødselsgener, som svar på den store efterspørgsel efter det gratis efterfødselstilbud, der startede i foråret 2025. På nuværende tidspunkt er ventetiden 17 dage til visitationssamtale og yderligere 44 dage til afklarende samtale og undersøgelse – en periode, som politikerne anser for for lang.  \n\nSundheds‑ og omsorgsborgmester Jens‑Kristian Lütken (V) forklarer: “Oplever en kvinde gener efter en fødsel, så skal hun have adgang til kompetent hjælp med det samme. Nu indfører vi Danmarks mest ambitiøse garanti.” Fra nu af skal den første samtale tilbydes inden for maksimalt syv dage, og en undersøgelse skal finde sted senest tre uger efter henvisning. Overholder kommunen ikke garantien, får kvinden tilbudt et forløb hos en privat leverandør.  \n\nOverborgmester Sisse Marie Welling (SF) udtaler, at garantien er et skridt videre efter åbningen af Danmarks første offentlige efterfødselstilbud, mens Liberal Alliances gruppeformand Alexander Ryle (LA) understreger, at “det vigtige er, at hun får den rigtige hjælp hurtigt og af høj kvalitet”.  \n\nDen første samtale varetages af gynækologisk obstetriske fysioterapeuter, som giver personlig rådgivning og øvelsesforslag. I 2026 kan forvaltningen hjælpe omkring 800 kvinder; tallet stiger til 1.000 i 2027, og fremskrivninger viser et behov for 1.500 kvinder i 2027. Kommunen har afsat 12,5 millioner kroner til udvidelsen, ud over de tidligere 19 millioner, og planlægger 320 nye forløb internt og 180 via private leverandører. Løbende tilsyn skal sikre ensartet høj kvalitet uanset aktør.",
+  "prompt_tokens": 1928,
+  "completion_tokens": 477,
+  "latency_ms": 1842,
+  "cost_usd": 0.0005754,
+  "created": "2026-11-10T05:38:26.725143Z",
+  "error": null
+}

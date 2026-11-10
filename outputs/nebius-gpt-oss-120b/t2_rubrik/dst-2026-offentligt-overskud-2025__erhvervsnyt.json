@@ -1,0 +1,21 @@
+{
+  "model_id": "nebius-gpt-oss-120b",
+  "pinned_version": "openai/gpt-oss-120b",
+  "task_id": "t2_rubrik",
+  "source_id": "dst-2026-offentligt-overskud-2025",
+  "archetype": "erhvervsnyt",
+  "prompt_sha256": "15c8b7168475791de86a8827b7bbc48ae80da9344d591ac50a9549a056f04e49",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 1900,
+    "reasoning_effort": "low"
+  },
+  "text": "RUBRIK: 90,9 mia. kr. overskud 2025 – ned fra 123,5 mia. kr. i 2024  \nUNDERRUBRIK: Udgifterne steg med 85 mia. kr. til 1.472,8 mia. kr., mens indtægterne kun steg med 52,4 mia. kr. til 1.563,8 mia. kr.; social beskyttelse udgør 41 % af udgifterne.",
+  "prompt_tokens": 1339,
+  "completion_tokens": 785,
+  "latency_ms": 2089,
+  "cost_usd": 0.00067185,
+  "created": "2026-11-10T05:38:05.307634Z",
+  "error": null
+}

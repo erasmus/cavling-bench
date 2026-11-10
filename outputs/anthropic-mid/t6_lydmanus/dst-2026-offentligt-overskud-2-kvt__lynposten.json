@@ -1,0 +1,21 @@
+{
+  "model_id": "anthropic-mid",
+  "pinned_version": "claude-sonnet-5-5",
+  "task_id": "t6_lydmanus",
+  "source_id": "dst-2026-offentligt-overskud-2-kvt",
+  "archetype": "lynposten",
+  "prompt_sha256": "38fec40f78d79f3a71d78b8b50155c5457bbe8fd83e32a86c427665814d94eb2",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 3620,
+    "reasoning_effort": "low"
+  },
+  "text": "Pengene vælter ind i de offentlige kasser. I andet kvartal 2026 havde staten, kommuner og regioner et overskud på femogtredive komma fem milliarder kroner. Det er tolv komma tre milliarder kroner mere end i første kvartal, ifølge Danmarks Statistik.\n\nDe offentlige indtægter udgjorde fire hundrede og femten komma tre milliarder kroner. Udgifterne lå på tre hundrede og nioghalvfjerds komma ni milliarder kroner. Løn til ansatte kostede hundrede og seksten komma to milliarder. Overførsler til husholdningerne kostede hundrede og seksten komma ni milliarder.\n\nNettoformuen faldt alligevel med elleve milliarder kroner til otte hundrede og enogfyrre milliarder. Det skyldes især tab på børsnoterede aktier.\n\nGælden steg også. Den nåede otte hundrede og nioghalvtreds komma en milliarder kroner. Det svarer til syvogtyve procent af bruttonationalproduktet.",
+  "prompt_tokens": 1979,
+  "completion_tokens": 370,
+  "latency_ms": 4355,
+  "cost_usd": 0.007658,
+  "created": "2026-11-10T07:18:22.656448Z",
+  "error": null
+}

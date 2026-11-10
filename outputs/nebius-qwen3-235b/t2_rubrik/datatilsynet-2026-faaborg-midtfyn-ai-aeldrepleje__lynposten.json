@@ -1,0 +1,21 @@
+{
+  "model_id": "nebius-qwen3-235b",
+  "pinned_version": "Qwen/Qwen3-235B-A22B-Instruct-2507",
+  "task_id": "t2_rubrik",
+  "source_id": "datatilsynet-2026-faaborg-midtfyn-ai-aeldrepleje",
+  "archetype": "lynposten",
+  "prompt_sha256": "0051f0443a4363cd14a1a6eed64fba0c53e7625a7ad7fa0308cbf981413a099c",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 400,
+    "reasoning_effort": null
+  },
+  "text": "RUBRIK: Datatilsynet slår ned på AI-overvågning i plejehjem  \nUNDERRUBRIK: Faaborg-Midtfyn Kommune måtte ikke bruge AI-løsning uden konsekvensanalyse. Systemet overvågede 18 beboere med kameraer og analyserede bevægelser.",
+  "prompt_tokens": 1618,
+  "completion_tokens": 84,
+  "latency_ms": 3286,
+  "cost_usd": 0.000374,
+  "created": "2026-11-10T05:39:23.612971Z",
+  "error": null
+}

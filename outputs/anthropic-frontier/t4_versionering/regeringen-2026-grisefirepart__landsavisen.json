@@ -1,0 +1,21 @@
+{
+  "model_id": "anthropic-frontier",
+  "pinned_version": "claude-fable-5-1",
+  "task_id": "t4_versionering",
+  "source_id": "regeringen-2026-grisefirepart",
+  "archetype": "landsavisen",
+  "prompt_sha256": "63d5afbfe4352a5f16840e1f312cd251b92aee5cd103b657132c04cb1805a1c6",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 4025,
+    "reasoning_effort": "low"
+  },
+  "text": "Regeringen nedsætter en såkaldt firepart for fremtidens griseproduktion, der skal finde løsninger, som både løfter dyrevelfærden og sikrer en stærk og bæredygtig produktion. Initiativet bygger ifølge regeringen videre på traditionen for at samle forskellige interesser om samme bord, senest i den grønne trepart.\n\nFireparten begynder arbejdet efter nytår. Om bordet sidder Landbrug & Fødevarer, Dyrenes Beskyttelse, Fødevareforbundet NNF, Danmarks Naturfredningsforening, Dansk Erhverv, Dansk Industri og regeringen selv.\n\nOpgaven handler ud over dyrevelfærd om mere økologi, et lavere antibiotikaforbrug og om at rykke dansk griseproduktion op i værdikæden. Regeringen beskriver målet som en ny generation af griseproduktion, hvor dyrevelfærd, kvalitet og konkurrencekraft følges ad.\n\nMinisteren for natur og dyrevelfærd, Christian Rabjerg Madsen, peger på konkrete problemer i staldene: ”I dag har mange grise for lidt plads, omkring 95 procent får klippet en del af halen af, og millioner af pattegrise dør hvert år. Det skal vi gøre bedre.”\n\nUdenrigsminister Lars Løkke Rasmussen fremhæver, at forarbejdningen er rykket ud af landet. ”I de sidste 15 år er antallet af slagtninger og slagteriarbejdere i Danmark faldet med omtrent en tredjedel, mens antallet af eksporterede smågrise er mere end tidoblet,” siger han. Regeringen har ifølge ham ikke svaret på, hvordan udviklingen vendes, og nedsætter derfor et ekspertpanel, hvis rådgivning skal danne grundlag for firepartens videre arbejde.\n\nErhvervs- og konkurrencekraftsminister Martin Lidegaard oplyser, at regeringen vil præsentere en national strategi for fødevaresektoren, og kalder fireparten et vigtigt skridt på vejen.\n\nMiljøminister Maria Reumert Gjerding peger på, at griseproduktionen belaster fjorde, kystvande og natur og mærkes af naboerne til staldene. ”Sådan skal det ikke fortsætte,” siger hun.",
+  "prompt_tokens": 2329,
+  "completion_tokens": 843,
+  "latency_ms": 10135,
+  "cost_usd": 0.06544,
+  "created": "2026-11-10T07:24:48.711004Z",
+  "error": null
+}

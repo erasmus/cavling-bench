@@ -1,0 +1,21 @@
+{
+  "model_id": "anthropic-frontier",
+  "pinned_version": "claude-fable-5-1",
+  "task_id": "t2_rubrik",
+  "source_id": "ombudsmanden-2026-koebenhavn-laerer-ytringsfrihed",
+  "archetype": "landsavisen",
+  "prompt_sha256": "f630640cc0839df28ad9d7e8e36442931fb928f738dbd1a99b10eee9f048b107",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 3400,
+    "reasoning_effort": "low"
+  },
+  "text": "RUBRIK: Ombudsmand: København krænkede lærers ytringsfrihed\nUNDERRUBRIK: Lærer fik tilrettevisning efter interview om vold i skolen. Ombudsmanden henstiller, at kommunen genoptager sagen og svarer inden tre måneder.",
+  "prompt_tokens": 2750,
+  "completion_tokens": 107,
+  "latency_ms": 1555,
+  "cost_usd": 0.03285,
+  "created": "2026-11-10T07:20:39.053277Z",
+  "error": null
+}

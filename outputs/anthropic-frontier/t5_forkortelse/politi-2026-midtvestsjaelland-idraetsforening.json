@@ -1,0 +1,21 @@
+{
+  "model_id": "anthropic-frontier",
+  "pinned_version": "claude-fable-5-1",
+  "task_id": "t5_forkortelse",
+  "source_id": "politi-2026-midtvestsjaelland-idraetsforening",
+  "archetype": null,
+  "prompt_sha256": "39014e4e0084a0387d72d6e74ac2fc0bb82a45ae8e06a3065babb89c5bf9d61c",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 3860,
+    "reasoning_effort": "low"
+  },
+  "text": "En 46-årig mand er i dag ved Retten i Roskilde idømt et års fængsel for seksuelle overgreb og blufærdighedskrænkelser mod et stort antal drenge. Manden har tilstået forholdene.\n\nHan var ansat i en idrætsforening i Roskilde, hvor alle de forurettede drenge på nær én var tilknyttet. Han har tilstået at have udsat et større antal drenge for blufærdighedskrænkelser samt at have voldtaget en dreng under 12 år ved andet seksuelt forhold end samleje.\n\nNogle af drengene blev udsat for befølinger, mens ikke færre end 42 drenge blev filmet uden deres viden. Manden er også dømt for uberettiget at have filmet på et ikke frit tilgængeligt sted i perioden fra januar 2022 til april 2024.\n\n\"Der er tale om en meget alvorlig sag, hvor et stort antal drenge er blevet udsat for seksuelle krænkelser af en voksen, som de burde kunne have tillid til. Det er et groft tillidsbrud,\" siger senioranklager Pernille Fredin fra anklagemyndigheden hos Midt- og Vestsjællands Politi.\n\nEfter anholdelsen fandt politiet på mandens telefon en større mængde seksuelt billed- og videomateriale med personer under 18 år, fordelt på alle tre kategorier af seksuelt overgrebsmateriale med børn.\n\nManden blev desuden frakendt retten til at beskæftige sig med børn og unge under 18 år.\n\nIfølge Pernille Fredin har sagen været længe undervejs, blandt andet fordi den dømtes mentale tilstand skulle vurderes. Hun håber, dommen kan give drengene og deres familier en følelse af retfærdighed og afklaring.\n\nDen 46-årige tog sig betænkningstid i forhold til anke.",
+  "prompt_tokens": 1181,
+  "completion_tokens": 655,
+  "latency_ms": 6305,
+  "cost_usd": 0.04456,
+  "created": "2026-11-10T07:26:26.706143Z",
+  "error": null
+}

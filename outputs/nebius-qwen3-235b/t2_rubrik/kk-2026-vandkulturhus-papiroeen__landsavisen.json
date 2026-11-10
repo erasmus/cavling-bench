@@ -1,0 +1,21 @@
+{
+  "model_id": "nebius-qwen3-235b",
+  "pinned_version": "Qwen/Qwen3-235B-A22B-Instruct-2507",
+  "task_id": "t2_rubrik",
+  "source_id": "kk-2026-vandkulturhus-papiroeen",
+  "archetype": "landsavisen",
+  "prompt_sha256": "623e12e44f8776c9a6bbb422f29627cd67c86cf05ec088719c4d7602d54e8d8e",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 400,
+    "reasoning_effort": null
+  },
+  "text": "RUBRIK: København får nyt vandkulturhus på Papirøen  \nUNDERRUBRIK: Det 5.800 m2 store KAI, tegnet af Kengo Kuma, åbner 5. december 2026 og kombinerer svømning, kultur og arkitektur i verdensklasse.",
+  "prompt_tokens": 2683,
+  "completion_tokens": 84,
+  "latency_ms": 1608,
+  "cost_usd": 0.000587,
+  "created": "2026-11-10T05:39:54.617505Z",
+  "error": null
+}

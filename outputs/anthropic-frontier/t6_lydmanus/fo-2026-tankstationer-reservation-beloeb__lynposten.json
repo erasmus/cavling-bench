@@ -1,0 +1,21 @@
+{
+  "model_id": "anthropic-frontier",
+  "pinned_version": "claude-fable-5-1",
+  "task_id": "t6_lydmanus",
+  "source_id": "fo-2026-tankstationer-reservation-beloeb",
+  "archetype": "lynposten",
+  "prompt_sha256": "93eb9931eed4a77282e06624e1616770e76cd27a472a6a46a572799880a0b347",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 3620,
+    "reasoning_effort": "low"
+  },
+  "text": "Fire tankstationskæder har reserveret for store beløb på kundernes konti. Det fastslår Forbrugerombudsmanden. Det gælder Q8, OK, Shell og Uno-X. Uno-X reserverede tolv hundrede kroner. Shell reserverede femten hundrede kroner. Q8 reserverede ni hundrede og halvtreds kroner. OK reserverede otte hundrede og halvtreds kroner. Ifølge Forbrugerombudsmanden stod beløbene ikke i rimeligt forhold til det, de fleste kunder tanker for.\n\nShell og Uno-X har nu ændret praksis. Kunden vælger selv beløbet på standerens skærm. OK reserverer nu hundrede kroner. Q8 reserverer fortsat ni hundrede og halvtreds kroner, men arbejder på en løsning.\n\nNogle kunder ventede op til elleve dage på at få pengene frigivet. Det skyldes ofte tekniske fejl hos banken.\n\nForbrugerombudsmand Torben Jensen kalder det urimeligt at reservere omkring ni hundrede kroner eller mere hos kunder med et mindre køretøj. Sagerne er nu afsluttet.",
+  "prompt_tokens": 3851,
+  "completion_tokens": 427,
+  "latency_ms": 5167,
+  "cost_usd": 0.05986,
+  "created": "2026-11-10T07:27:27.170570Z",
+  "error": null
+}

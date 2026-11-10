@@ -1,0 +1,21 @@
+{
+  "model_id": "anthropic-frontier",
+  "pinned_version": "claude-fable-5-1",
+  "task_id": "t4_versionering",
+  "source_id": "kefm-2026-akutplan-elnettet-vedtaget",
+  "archetype": "lynposten",
+  "prompt_sha256": "04f6fe506cfa22ae80a4c0d1169f5f87bd4b1caa464bcf0f8083ed1a0658ded1",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 4025,
+    "reasoning_effort": "low"
+  },
+  "text": "Et bredt flertal i Folketinget har vedtaget en akutplan for elnettet. Loven afskaffer først-til-mølle-princippet. Fremover kan Energinet og netvirksomhederne prioritere, hvem der får plads i det pressede net.\n\nPresset på elnettet er lige nu så stort, at der flere steder ikke er plads til alle de projekter, der ønsker at blive tilsluttet. Partierne blev enige om akutplanen før sommeren. Nu er den vedtaget af samme flertal.\n\n\"Situationen i vores elnet er dybt alvorlig. Pladsen i elnettet er blevet en knap ressource,\" siger klima-, energi- og forsyningsminister Samira Nawa. Hun kalder loven første skridt i en større genopretningsplan.\n\nLoven træder efter planen i kraft 12. oktober. Herefter kan Energinet og netvirksomhederne bruge de nye regler, når der næste gang i efteråret skal fordeles kapacitet.\n\nFlere partier peger på datacentre som taberne i den nye kø. \"Vi sætter datacentre bagerst og danske hjem forrest,\" siger Lisbeth Torfing (EL), energi- og forsyningsordfører. Nanna Bonde (SF), klima-, energi- og forsyningsordfører, advarer mod, at techvirksomheders datacentre blokerer for kollektiv transport og fjernvarme.\n\nAnastasia Milthers (RV), klima-, energi- og forsyningsordfører, kalder det \"en rigtig god dag for det danske elnet\". Hun lover strøm i stikkontakten til elbiler og varmepumper.\n\nFlere partier understreger, at planen skal være midlertidig. \"Akutplanen skal være midlertidig kriselovgivning - ikke en ny normaltilstand,\" siger Anders Storgaard (K), klima-, energi- og forsyningsordfører. Reglerne skal genbesøges i 2027. Netselskaberne får et år til at udvikle nye netprodukter.\n\nVenstre kræver hurtige forhandlinger om udbygning af transmissionsnettet. Modellen må ikke blive den nye normal, siger Mathilde Hjort Bressum (V), klima-, energi- og forsyningsordfører.\n\nAftalepartierne bliver inviteret til de kommende drøftelser om udbygning af elnettet og Energiinfrastrukturplan 2035.",
+  "prompt_tokens": 4260,
+  "completion_tokens": 834,
+  "latency_ms": 8787,
+  "cost_usd": 0.0843,
+  "created": "2026-11-10T07:23:28.607075Z",
+  "error": null
+}

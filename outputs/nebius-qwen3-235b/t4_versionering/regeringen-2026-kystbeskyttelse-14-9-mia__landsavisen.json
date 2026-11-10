@@ -1,0 +1,21 @@
+{
+  "model_id": "nebius-qwen3-235b",
+  "pinned_version": "Qwen/Qwen3-235B-A22B-Instruct-2507",
+  "task_id": "t4_versionering",
+  "source_id": "regeringen-2026-kystbeskyttelse-14-9-mia",
+  "archetype": "landsavisen",
+  "prompt_sha256": "17fafae04d128a1db663a2c44afef4e5485e7553b4188b21fb26d3e879a76b03",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 1025,
+    "reasoning_effort": null
+  },
+  "text": "Regeringen har besluttet at afsætte 14,9 mia. kroner til en national plan for kystbeskyttelse af Danmark gennem Klimatilpasningsplan II. Beslutningen er et svar på stigende risiko for stormflodsoversvømmelser, som følge af klimaforandringer, og skal sikre langsigtet beskyttelse af kystnære samfund. Planen skal accelerere et hidtil langsommeligt kystbeskyttelsesarbejde, hvor både investeringer og anlæg har hinket efter behovet.\n\nOver 1 million danskere bor mindre end en kilometer fra kysten. Op mod 100.000 husstande og virksomheder med 175.000 arbejdspladser risikerer oversvømmelser, hvis der ikke sker omfattende indsatser. Stormflodshændelser, der i dag forventes hvert 100. år, kan ifølge regeringen ske hvert tredje år i 2100. Derfor indføres en sammenhængende national strategi, hvor staten fremover medfinansierer 85 procent af anlægsinvesteringerne. Sammen med kommunale bidrag, accelerationspakken og Finansloven 2026 kan det samlede investeringspotentiale nå op på 20 mia. kroner frem mod 2040.\n\nKommunerne forbliver ansvarlige for gennemførelse, men staten vil fjerne barrierer og lette tilladelsesprocesser, især i forhold til naturhensyn. Regeringen ønsker at udvide mulighederne for dispensation, så klimatilpasning, der beskytter mennesker og ejendom, kan vejes højere i lokalplanlægning. En ekspertgruppe skal desuden anbefale en model for, hvorledes lodsejere eventuelt kan bidrage til finansieringen.\n\nMiljøminister Magnus Heunicke siger: “Danmark skal rustes til den nye klimavirkelighed. Vi skal foran udviklingen og sikre de danske kystbyer mod fremtidens vildere og voldsommere stormfloder.” Han understreger, at kystbeskyttelse nu bliver et fælles ansvar. Klimaminister Lars Aagard kalder klimaforandringerne for en regning, der ikke kan ignoreres, og peger på tidligere oversvømmelser som konkret begrundelse for handling. Minister for byer og landdistrikter Morten Dahlin fremhæver, at regler ikke må stå i vejen for beskyttelse af samfundsværdier.",
+  "prompt_tokens": 1902,
+  "completion_tokens": 665,
+  "latency_ms": 10191,
+  "cost_usd": 0.0007794000000000001,
+  "created": "2026-11-10T05:43:13.299625Z",
+  "error": null
+}

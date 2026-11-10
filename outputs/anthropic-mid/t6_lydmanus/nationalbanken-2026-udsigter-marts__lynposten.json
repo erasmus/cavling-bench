@@ -1,0 +1,21 @@
+{
+  "model_id": "anthropic-mid",
+  "pinned_version": "claude-sonnet-5-5",
+  "task_id": "t6_lydmanus",
+  "source_id": "nationalbanken-2026-udsigter-marts",
+  "archetype": "lynposten",
+  "prompt_sha256": "42f387b0280a6a2de0ae1ddbf0a43e575995e94a1018019371b81338b40bcc41",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 3620,
+    "reasoning_effort": "low"
+  },
+  "text": "Nationalbanken venter lav inflation de kommende år. Den lander på en komma otte procent i år, to komma nul procent i 2027 og en komma ni procent i 2028. Det oplyser Nationalbanken i sin nye prognose.\n\nEnergipriserne er den store risiko. Krigen i Mellemøsten kan presse dem op. Begrænses olie- og gasforsyningen fra Den Persiske Golf, kan inflationen i år ende på fire komma fem procent. Det viser bankens risikoscenarie.\n\n\"Vi ser ikke ind i en inflationskrise,\" siger nationalbankdirektør Christian Kettel Thomsen. Han henviser til krisen efter Ruslands invasion af Ukraine.\n\nNationalbanken vil have forsigtighed i finanspolitikken. Den nye regering bør ikke give ekstra fart til efterspørgslen i finansloven for 2027. Der er kun begrænset ledig kapacitet i økonomien.\n\nBruttonationalproduktet vokser ifølge Nationalbanken med en komma otte procent i år og næste år.",
+  "prompt_tokens": 1968,
+  "completion_tokens": 378,
+  "latency_ms": 3935,
+  "cost_usd": 0.007716,
+  "created": "2026-11-10T07:18:36.496656Z",
+  "error": null
+}

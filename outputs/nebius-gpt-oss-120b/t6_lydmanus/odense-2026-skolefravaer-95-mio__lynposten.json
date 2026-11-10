@@ -1,0 +1,21 @@
+{
+  "model_id": "nebius-gpt-oss-120b",
+  "pinned_version": "openai/gpt-oss-120b",
+  "task_id": "t6_lydmanus",
+  "source_id": "odense-2026-skolefravaer-95-mio",
+  "archetype": "lynposten",
+  "prompt_sha256": "dd9228249cec0ea904d0e48093b7c87037026a736d77090c9aee81f0bb35b3fa",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 2120,
+    "reasoning_effort": "low"
+  },
+  "text": "Ni komma fem millioner kroner investerer Odense Kommune i en styrket indsats mod ufrivilligt skolefravær. Knap hver femte elev i byen har fravær på over ti procent, og det påvirker både barnet, familien og klassefællesskabet. Fra starten af to tusind syvogtyve åbner kommunen en ny fraværslinje, hvor forældre kan få vejledning. Familien kan også få en fast tovholder, som koordinerer hjælpen. Derudover får skolerne flere ressourcer og flere timer til medarbejdere, der arbejder med komplekse fraværsudfordringer. Kristian Fahnøe Munksgaard, udviklingschef i Familie‑ og Forebyggelsesafdelingen, siger, at det tværfaglige samarbejde nu bliver endnu stærkere. Ifølge Danmarks Statistik viser tallene, at tidlig indsats kan reducere mistrivsel.",
+  "prompt_tokens": 1696,
+  "completion_tokens": 247,
+  "latency_ms": 1142,
+  "cost_usd": 0.0004026,
+  "created": "2026-11-10T05:38:43.875832Z",
+  "error": null
+}

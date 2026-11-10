@@ -1,0 +1,21 @@
+{
+  "model_id": "nebius-gpt-oss-120b",
+  "pinned_version": "openai/gpt-oss-120b",
+  "task_id": "t5_forkortelse",
+  "source_id": "finanstilsynet-2026-danske-bank-boliglaansinspektion",
+  "archetype": null,
+  "prompt_sha256": "76b6e52d39fe9f9359455776dd358ce647706203b649432b7ab7fc15309af3de",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 2360,
+    "reasoning_effort": "low"
+  },
+  "text": "Formålet med inspektionen var at vurdere Danske Banks risikoappetit ved finansiering af privatkunders køb af ejerboliger og om lånet blev ydet på et korrekt, dokumenteret og betryggende grundlag. Inspektionen omfattede en stikprøve på 58 bevillinger, udvalgt blandt kunder med gældsfaktor over 3,5, belåningsgrad over 60 % og et bankengagement større end 200.000 kr., altså sager med højere risiko end gennemsnittet.  \n\nDanske Bank har en højere andel af bevillinger med høj gældsfaktor og belåningsgrad end de øvrige institutter i undersøgelsen, selvom bankens data dækker en senere periode. Finanstilsynet vurderer, at 4 af de 58 gennemgåede bevillinger ikke burde have været bevilget på grund af væsentlige risikoforhold som høj gældsætning, stor belåning, fald i rådighedsbeløb, usikkert indkomstgrundlag, begrænset likvid buffer og behov for forbrugstilpasning.  \n\nBanken har en forenklet kreditproces for en særskilt kundegruppe. I denne gruppe blev konkrete væsentlige fejl konstateret i 6 af 23 sager (26 %); Finanstilsynet vurderer, at 1 sag ikke burde have været bevilget. For øvrige kunder blev fejl fundet i 13 af 35 sager (37 %); i 3 sager mener tilsynet, at lånet ikke burde have været bevilget.  \n\nFinanstilsynet påpeger, at den særskilte kreditproces skal baseres på dokumenteret vurdering af rådighedsbeløb, opsparingsevne, forbrugstilpasning og samlet økonomisk robusthed. Der er også svagheder i et kreditindstillingsformat, som begrænser gennemsigtigheden i udgifter, forudsætninger, beregninger og rådgiverens faglige vurdering. På baggrund heraf får Danske Bank påbud om at sikre, at boligfinansieringsgrundlaget er korrekt, tilstrækkeligt dokumenteret og understøtter en individuel vurdering af kundens økonomiske robusthed og gældsserviceringsevne. Inspektionen medførte ingen ændring af bankens solvensbehov.",
+  "prompt_tokens": 1396,
+  "completion_tokens": 558,
+  "latency_ms": 1871,
+  "cost_usd": 0.0005442,
+  "created": "2026-11-10T05:38:35.296383Z",
+  "error": null
+}

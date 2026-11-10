@@ -1,0 +1,21 @@
+{
+  "model_id": "nebius-qwen3-235b",
+  "pinned_version": "Qwen/Qwen3-235B-A22B-Instruct-2507",
+  "task_id": "t6_lydmanus",
+  "source_id": "fo-2026-salling-group-oego-boede",
+  "archetype": "lynposten",
+  "prompt_sha256": "5f4a45069aac6be79959815e4f0ad26580d19f66e2628369271c76d825cad248",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 620,
+    "reasoning_effort": null
+  },
+  "text": "Ti millioner kroner. Så meget betaler Salling Group i bøde for vildledende markedsføring af Nettos ØGO-mærke. Ifølge Forbrugerombudsmanden gav selskabet forbrugerne et forkert indtryk af produkternes bæredygtighed. Netto skrev, at ØGO var det fjerde mest bæredygtige mærke i Danmark. Men det var baseret på en undersøgelse af, hvad forbrugerne mente. Ikke på dokumentation for, at produkterne faktisk er bæredygtige. Udsagnet stod i sociale medier og i en tilbudsmail fra Netto plus. Forbrugerombudsmanden politianmeldte Salling Group i september to tusind femogtyve. Markedsføringen er i strid med markedsføringsloven. Virksomheder skal kunne bevise deres påstande. Det siger Forbrugerombudsmanden Torben Jensen. Salling Group fjernede opslagene efter henvendelse. Bøden er fastsat efter den nye bødemodel fra to tusind toogtyve. Den skal skærpe straffen for vildledning.",
+  "prompt_tokens": 2051,
+  "completion_tokens": 291,
+  "latency_ms": 4372,
+  "cost_usd": 0.0005848000000000001,
+  "created": "2026-11-10T05:44:58.113943Z",
+  "error": null
+}

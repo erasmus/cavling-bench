@@ -1,0 +1,21 @@
+{
+  "model_id": "anthropic-mid",
+  "pinned_version": "claude-sonnet-5-5",
+  "task_id": "t5_forkortelse",
+  "source_id": "aarhus-2026-budgetaftale-2027",
+  "archetype": null,
+  "prompt_sha256": "87156675f78b39d0c900b3f3983b3bceaa06e11ffbe12d093ca34547feb5be7b",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 3860,
+    "reasoning_effort": "low"
+  },
+  "text": "Et enigt Aarhus Byråd indgik torsdag den 17. september aftale om kommunens budget for de kommende fire år. Bag aftalen står Socialdemokratiet, SF, Venstre, Enhedslisten, Det Konservative Folkeparti, Radikale Venstre, Liberal Alliance, Danmarksdemokraterne og Dansk Folkeparti.\n\nPartierne vil styrke velfærden med flere penge til socialområdet, flere fagprofessionelle i folkeskolen, indsatser for demente ældre og tidligere anbragte børn samt bedre og billigere kollektiv trafik. Der investeres også i mobilitet, bedre vilkår for erhvervslivet og nemmere erhvervsparkering.\n\nSocialområdet er under betydeligt udgiftspres. Byrådet står sammen om en solidarisk \"socialprocent\" på tværs af afdelinger, og sammen med ekstra tildelinger giver det et årligt løft på i alt 138 mio. kr.\n\nPartierne har prioriteret i alt 197 mio. kr. årligt til drift i budgetperioden. Hertil kommer 810 mio. kr. til anlæg, blandt andet til øget fremkommelighed for busser, cyklister og andre trafikanter og mindre trængsel. Budgetmodellerne giver desuden et samlet velfærdsløft på omkring 2 mia. kr. over perioden, og knap 500 mio. kr. går til blandt andet flere pædagoger og lavere forældrebetaling i dagtilbud som følge af nationale aftaler.\n\nFra 2028 skal et nyt velfærdsbidrag blandt andet frigøre penge til nye velfærdsløsninger, for eksempel gennem nye arbejdsgange eller teknologi. Kommuneskatten holdes i ro.\n\nBorgmester Anders Winnerskjold siger, at et godt budget skal kunne mærkes i hverdagen, og at aftalen finder balancen mellem velfærd, børn, transport og erhvervsliv. Han vil bruge færre kræfter på administration, men understreger, at kommunen ikke kan gennemføre alle ønsker på én gang.",
+  "prompt_tokens": 1786,
+  "completion_tokens": 757,
+  "latency_ms": 4603,
+  "cost_usd": 0.011142,
+  "created": "2026-11-10T05:23:57.617792Z",
+  "error": null
+}

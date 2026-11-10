@@ -1,0 +1,21 @@
+{
+  "model_id": "anthropic-frontier",
+  "pinned_version": "claude-fable-5-1",
+  "task_id": "t4_versionering",
+  "source_id": "politi-2026-nsk-cpr-opslag",
+  "archetype": "lynposten",
+  "prompt_sha256": "9799c03e5c1ab9711e17414f97a0cd8acbf51ff73ff6805416e9663bddf4854c",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 4025,
+    "reasoning_effort": "low"
+  },
+  "text": "En 27-årig mand fra Storkøbenhavn skal tre år og seks måneder i fængsel. Han solgte personfølsomme oplysninger fra CPR-registret til kriminelle. Det førte til 34 tilfælde af forsøg på grov vold.\n\nDommen faldt onsdag ved Københavns Byret.\n\nManden arbejdede som studentermedhjælper i Københavns Kommune. Stillingen var på kommunens vielseskontor. Her havde han adgang til Det Centrale Personregister. Den adgang misbrugte han fra juni 2023 til juli 2024.\n\nHan slog konkrete personer op. Han fandt deres bopælsadresser og familienetværk. Oplysningerne solgte han videre til medgerningsmænd i det kriminelle miljø.\n\nRetten fandt det bevist, at han dermed medvirkede til 34 tilfælde af forsøg på grov vold. Han blev også dømt for at misbruge sin offentligt betroede stilling. Og for at videregive oplysningerne mod betaling.\n\nSagen er efterforsket af National enhed for Særlig Kriminalitet (NSK).\n\n\"Den dømte har haft forsæt til at facilitere, at personfarlig kriminalitet kunne planlægges mod konkrete forurettede, og det er selvsagt alvorligt,\" siger Rikke Holm Schønsted, specialanklager i NSK.\n\nHun er tilfreds med, at retten straffer salget af oplysninger som medvirken til forsøg på personfarlig kriminalitet.\n\nAnklager i NSK Tine Graakjær kalder sagen særlig. Der findes ikke lignende retspraksis fra tidligere straffesager.\n\n\"Den dømte har ikke direkte været med til at planlægge konkret personfarlig kriminalitet,\" siger hun.\n\nMen retten fandt det bevist, at han måtte have indset, hvad oplysningerne skulle bruges til. Derfor er han skyldig i medvirken.\n\n\"Det er jeg godt tilfreds med,\" siger Tine Graakjær.\n\nDen 27-årige har endnu ikke besluttet, om han anker dommen. Han tog betænkningstid i retten.",
+  "prompt_tokens": 2244,
+  "completion_tokens": 754,
+  "latency_ms": 9481,
+  "cost_usd": 0.06014,
+  "created": "2026-11-10T07:24:27.934098Z",
+  "error": null
+}

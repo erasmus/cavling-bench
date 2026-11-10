@@ -1,0 +1,21 @@
+{
+  "model_id": "anthropic-mid",
+  "pinned_version": "claude-sonnet-5-5",
+  "task_id": "t4_versionering",
+  "source_id": "politi-2026-nsk-cpr-opslag",
+  "archetype": "landsavisen",
+  "prompt_sha256": "71921153734ca9c057ce893dee898e716a054598571b57e27fa9f317e2e108d7",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 4025,
+    "reasoning_effort": "low"
+  },
+  "text": "En 27-årig mand fra Storkøbenhavn er onsdag idømt fængsel i 3 år og 6 måneder ved Københavns Byret for at have muliggjort personfarlig kriminalitet gennem opslag i CPR-registret. Sagen er efterforsket af National enhed for Særlig Kriminalitet (NSK), og anklagerne betegner den som usædvanlig, fordi der ikke findes tilsvarende retspraksis fra tidligere straffesager.\n\nRetten fandt det bevist, at manden fra juni 2023 til juli 2024 misbrugte sin stilling som studentermedhjælper i Københavns Kommune. På kommunens vielseskontor havde han via Det Centrale Personregister (CPR) adgang til oplysninger om blandt andet bopælsadresser og familienetværk på konkrete personer. Dem solgte han til medgerningsmænd i det kriminelle miljø. Ved at videregive oplysningerne medvirkede han ifølge dommen til 34 tilfælde af forsøg på grov vold.\n\nUd over forholdene om personfarlig kriminalitet blev han dømt for at have misbrugt sin offentligt betroede stilling ved at foretage de uberettigede opslag. Han blev også dømt for uberettiget at have videregivet oplysningerne mod betaling.\n\nAnklager Tine Graakjær fra NSK siger: ”Det er en særlig sag, som vi ikke har lignende retspraksis på fra tidligere straffesager. Den dømte har ikke direkte været med til at planlægge konkret personfarlig kriminalitet, men retten har fundet bevist, at han måtte have indset, at de solgte personfølsomme oplysninger skulle bruges til at begå personfarlig kriminalitet, og derfor er han fundet skyldig i medvirken til dette, og det er jeg godt tilfreds med.”\n\nSpecialanklager Rikke Holm Schønsted, NSK, siger, at den dømte havde forsæt til at facilitere, at personfarlig kriminalitet kunne planlægges mod konkrete forurettede. Hun kalder det ”selvsagt alvorligt”.\n\nDen 27-årige har taget betænkningstid i forhold til en eventuel anke.",
+  "prompt_tokens": 2224,
+  "completion_tokens": 778,
+  "latency_ms": 4751,
+  "cost_usd": 0.012228,
+  "created": "2026-11-10T07:17:12.687516Z",
+  "error": null
+}

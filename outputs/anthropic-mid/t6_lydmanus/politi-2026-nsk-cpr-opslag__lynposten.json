@@ -1,0 +1,21 @@
+{
+  "model_id": "anthropic-mid",
+  "pinned_version": "claude-sonnet-5-5",
+  "task_id": "t6_lydmanus",
+  "source_id": "politi-2026-nsk-cpr-opslag",
+  "archetype": "lynposten",
+  "prompt_sha256": "0905497bb2d78c54998299436f79a09c994b0cebe2f4826eb44b07dc1ac09878",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 3620,
+    "reasoning_effort": "low"
+  },
+  "text": "Treogtyve år gammel? Nej: En syv og tyve år gammel mand fra Storkøbenhavn er dømt til fængsel i tre år og seks måneder. Københavns Byret afgjorde sagen onsdag.\n\nManden var studentermedhjælper i Københavns Kommune. På vielseskontoret kunne han slå op i CPR-registret. Det gjorde han uden lov. Han solgte adresser og oplysninger om familie til folk i det kriminelle miljø.\n\nDet skete fra juni 2023 til juli 2024. Retten fandt, at han medvirkede til fireogtredive tilfælde af forsøg på grov vold.\n\nAnklager Tine Graakjær fra National enhed for Særlig Kriminalitet siger: \"Det er en særlig sag. Vi har ikke lignende retspraksis fra tidligere straffesager.\"\n\nManden har taget betænkningstid. Han overvejer at anke dommen.",
+  "prompt_tokens": 2293,
+  "completion_tokens": 325,
+  "latency_ms": 3177,
+  "cost_usd": 0.007836,
+  "created": "2026-11-10T07:18:39.674579Z",
+  "error": null
+}

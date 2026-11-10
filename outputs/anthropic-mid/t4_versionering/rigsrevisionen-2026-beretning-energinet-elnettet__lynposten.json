@@ -1,0 +1,21 @@
+{
+  "model_id": "anthropic-mid",
+  "pinned_version": "claude-sonnet-5-5",
+  "task_id": "t4_versionering",
+  "source_id": "rigsrevisionen-2026-beretning-energinet-elnettet",
+  "archetype": "lynposten",
+  "prompt_sha256": "88756b28cc266abc840a4b819ce1d256a96861e65b4f063e7177f36f0997430f",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 4025,
+    "reasoning_effort": "low"
+  },
+  "text": "70 procent af Energinets igangsatte elnetprojekter er forsinkede. Det slår Statsrevisorerne fast i en beretning, som de behandlede den 9. april 2026. De kalder styringen af udbygningen kritisabel.\n\nDe forsinkede projekter tager i gennemsnit omkring 80 procent længere tid end ventet. Udbygningen er foreløbig blevet mere end 10 milliarder kroner dyrere end planlagt. Konsekvensen er, at den grønne omstilling bliver forsinket.\n\nProjekterne uden forsinkelser er generelt nystartede. Energinet har kun delvist overblik over, hvorfor projekterne skrider. Selskabets forklaringer er ikke entydige. De viser heller ikke, hvordan Energinet kan undgå nye forsinkelser. Statsrevisorerne mener, at Energinet systematisk har undervurderet, hvor lang tid projekterne tager.\n\nTallene i planen halter også. Siden maj 2024 er der færdiggjort 206 km elnet. Planen krævede 490 km pr. 1. januar 2026. Efter de oprindelige tidsplaner skulle endnu mere have stået klar.\n\nFrem mod 2030 skal der bygges omkring 2.700 km nyt elnet. Tempoet skal mere end fordobles, fra 120 til 250 km om året, hvis Energinets udbygning i 2050 skal nås.\n\nStatsrevisorerne retter også kritik mod Klima-, Energi- og Forsyningsministeriet. Ministeriet har ført tilsyn med Energinet, men reagerede for sent. Det blev gentagne gange gjort opmærksom på store og stigende forsinkelser siden starten af 2023. Først i begyndelsen af februar 2026 satte det en ekstern analyse af Energinets rammer i gang. Den kunne være sat i gang tidligere, mener Rigsrevisionen.\n\nMinisteriet har heller ikke regnet på, hvad forsinkelserne betyder for CO2-udledningen. Det har heller ikke regnet på betydningen for tilslutningen af nye sol- og vindparker. Statsrevisorerne bakker op om, at ministeriet nu undersøger konsekvenserne for klimamålet i 2030.",
+  "prompt_tokens": 2397,
+  "completion_tokens": 791,
+  "latency_ms": 6099,
+  "cost_usd": 0.012704,
+  "created": "2026-11-10T07:17:28.137784Z",
+  "error": null
+}

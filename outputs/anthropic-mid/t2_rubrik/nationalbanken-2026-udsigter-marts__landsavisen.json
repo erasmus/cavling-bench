@@ -1,0 +1,21 @@
+{
+  "model_id": "anthropic-mid",
+  "pinned_version": "claude-sonnet-5-5",
+  "task_id": "t2_rubrik",
+  "source_id": "nationalbanken-2026-udsigter-marts",
+  "archetype": "landsavisen",
+  "prompt_sha256": "f2bddfb710e8a7ed853f3dd569b7728652f32c186f8652e8c3eb97301091eea2",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 3400,
+    "reasoning_effort": "low"
+  },
+  "text": "RUBRIK: Nationalbanken: Lav inflation trods risiko fra energipriser\nUNDERRUBRIK: Nationalbanken venter inflation på 1,8 pct. i år, men advarer om op til 4,5 pct., hvis forsyningerne fra Golfen begrænses. Regeringen bør vise forsigtighed i finansloven.",
+  "prompt_tokens": 1916,
+  "completion_tokens": 126,
+  "latency_ms": 1470,
+  "cost_usd": 0.005092,
+  "created": "2026-11-10T07:15:21.839426Z",
+  "error": null
+}

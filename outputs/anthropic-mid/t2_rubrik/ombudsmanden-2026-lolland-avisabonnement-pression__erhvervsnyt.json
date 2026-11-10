@@ -1,0 +1,21 @@
+{
+  "model_id": "anthropic-mid",
+  "pinned_version": "claude-sonnet-5-5",
+  "task_id": "t2_rubrik",
+  "source_id": "ombudsmanden-2026-lolland-avisabonnement-pression",
+  "archetype": "erhvervsnyt",
+  "prompt_sha256": "acc2db8c95f9902a196500b7bae753ee3c014a7b35ba7d64ef596c04e26dc8b8",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 3400,
+    "reasoning_effort": "low"
+  },
+  "text": "RUBRIK: Ombudsmand: Lolland Kommune skal forholde sig til avisopsigelser\nUNDERRUBRIK: Opsigelse af avisabonnementer må ikke ske som pression, siger Folketingets Ombudsmand. Kommunen skal vurdere, om politikeres udtalelser ændrer dens opfattelse af formålet.",
+  "prompt_tokens": 2392,
+  "completion_tokens": 129,
+  "latency_ms": 1445,
+  "cost_usd": 0.006074,
+  "created": "2026-11-10T07:15:26.291767Z",
+  "error": null
+}

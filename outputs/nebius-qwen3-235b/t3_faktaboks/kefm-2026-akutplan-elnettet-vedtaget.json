@@ -1,0 +1,21 @@
+{
+  "model_id": "nebius-qwen3-235b",
+  "pinned_version": "Qwen/Qwen3-235B-A22B-Instruct-2507",
+  "task_id": "t3_faktaboks",
+  "source_id": "kefm-2026-akutplan-elnettet-vedtaget",
+  "archetype": null,
+  "prompt_sha256": "025104f0f8e2a650938df3f54114f44b92bf4620dfa47218edcdfc400c0355f3",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 575,
+    "reasoning_effort": null
+  },
+  "text": "- Et bredt flertal af Folketingets partier blev enige om akutplanen for elnettet før sommeren 2024.  \n- Akutplanen erstatter det tidligere først-til-mølle-princip med en ny prioriteringsmodel for adgang til elnettet.  \n- Lovforslaget træder i kraft den 12. oktober 2024, hvorefter Energinet kan administrere efter de nye regler.  \n- Klima-, Energi- og Forsyningsministeriet vurderer, at politisk fastsat prioritering ikke kræver metodegodkendelse fra Forsyningstilsynet.  \n- Aftalen indebærer faste genbesøg af reglerne, herunder en drøftelse i 2027 om ministerens mulighed for at pålægge netvenlige produkter.",
+  "prompt_tokens": 2925,
+  "completion_tokens": 213,
+  "latency_ms": 3328,
+  "cost_usd": 0.0007128,
+  "created": "2026-11-10T05:40:33.460128Z",
+  "error": null
+}

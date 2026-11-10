@@ -1,0 +1,21 @@
+{
+  "model_id": "nebius-gpt-oss-120b",
+  "pinned_version": "openai/gpt-oss-120b",
+  "task_id": "t2_rubrik",
+  "source_id": "fm-2026-2035-plan",
+  "archetype": "landsavisen",
+  "prompt_sha256": "2a4913aefecd915b90677022004cc47083658907995fbfe257f1fefc78a4e9a4",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 1900,
+    "reasoning_effort": "low"
+  },
+  "text": "RUBRIK: Regeringen præsenterer 2035-plan: forsvar og grøn omstilling  \nUNDERRUBRIK: Planen afsætter ca. 70 mia. kr. til Ukraine, øger forsvarsbudgettet til 3,5 % af BNP, afsætter 4 mia. kr. årligt til klima og 15 mia. kr. til kystbeskyttelse.",
+  "prompt_tokens": 2003,
+  "completion_tokens": 662,
+  "latency_ms": 2118,
+  "cost_usd": 0.00069765,
+  "created": "2026-11-10T05:38:06.341595Z",
+  "error": null
+}

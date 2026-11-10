@@ -1,0 +1,21 @@
+{
+  "model_id": "nebius-gpt-oss-120b",
+  "pinned_version": "openai/gpt-oss-120b",
+  "task_id": "t4_versionering",
+  "source_id": "rm-2026-kultur-sundhed-pulje-78-mio",
+  "archetype": "lynposten",
+  "prompt_sha256": "3c16f0be8c4e8ba8953ec8bade132ce65d7a0bd299c7781ca2714315bab6d090",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 2525,
+    "reasoning_effort": "low"
+  },
+  "text": "7,8 millioner kroner er nu sat af i Region Midtjylland til en ny pulje, der skal koble kultur og sundhed. Puljen skal omsætte forskning, som viser at kultur kan forebygge sygdom, lindre symptomer og øge trivsel, til konkrete tilbud for borgere og patienter i regionen.\n\nPuljen på 7,8 millioner kroner kan søges af kulturaktører i samarbejde med sundhedspartnere. Projekter skal have en varighed på op til tre år, en minimumsstøtte på 200.000 kroner og mindst 25 % medfinansiering. Ansøgningsfristen er 26. august 2026 kl. 12.00, og behandling sker i november samme år.\n\nFire temaer styrer udvælgelsen: forebyggelse og trivsel for børn, unge og pårørende; lindring af symptomer under behandling; mestring, rehabilitering og recovery for psykisk eller kronisk sygdom; samt samarbejde mellem kommuner, hospitaler og socialområdet. Formålet er at skabe stærke, bæredygtige partnerskaber på tværs af de fem sundhedsråds geografier.\n\n“Vi skal have flere løsninger, der virker i hverdagen, og som kan bruges på tværs af kommuner og institutioner,” siger Vivi Altenburg, næstformand for Udvalg for Regional Udvikling. Per Møller Jensen, formand for Region Midtjyllands Udvalg for Regional Udvikling, tilføjer, at puljen bygger på ti års erfaring med kulturens rolle i sundhedsvæsenet.\n\nRegionen afholder et fysisk dialogmøde på Godsbanen i Aarhus den 21. maj kl. 10‑13 og et digitalt møde den 2. juni kl. 13‑14.30. Begge møder giver kulturaktører og potentielle partnere mulighed for at høre mere om kriterier, partnersøgning og gode råd. Læs mere og tilmeld dig på regionens hjemmeside.",
+  "prompt_tokens": 1485,
+  "completion_tokens": 467,
+  "latency_ms": 1635,
+  "cost_usd": 0.00050295,
+  "created": "2026-11-10T05:38:32.421079Z",
+  "error": null
+}

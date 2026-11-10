@@ -1,0 +1,21 @@
+{
+  "model_id": "anthropic-frontier",
+  "pinned_version": "claude-fable-5-1",
+  "task_id": "t6_lydmanus",
+  "source_id": "kfst-2026-fibernet-prislofter",
+  "archetype": "lynposten",
+  "prompt_sha256": "498e4bf1b34fa2bf386d206b87cff2410a6ca148856f71cbf4b50ebc790c037e",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 3620,
+    "reasoning_effort": "low"
+  },
+  "text": "Bredbåndsprisen stiger. Det slår Konkurrence- og Forbrugerstyrelsen fast. Styrelsen er ved at sætte nye prislofter på fibernet. De skal gælde fra årsskiftet og fem år frem. Lofterne kan blive op til femogtredive procent højere end i dag. Det afhænger af selskab og område.\n\nStyrelsen peger på tre årsager. Udstyr til fibernet er blevet dyrere. Renten er steget, så ejerne må tjene mere på deres investering. Og selskaberne skal have dækket udgifter til at beskytte nettet mod angreb.\n\nPrislofterne gælder kun der, hvor ejeren af nettet nærmest har monopol. Ifølge styrelsen er kun en mindre del af TDC's forretning omfattet. Mobilpriser og fiberleje uden for hovedstadsområdet rammes ikke.\n\nAfgørelserne omfatter tretten fibernetselskaber. De endelige beslutninger træffes i december. Selskaberne kan klage til Teleklagenævnet og domstolene.",
+  "prompt_tokens": 2847,
+  "completion_tokens": 380,
+  "latency_ms": 5347,
+  "cost_usd": 0.04747,
+  "created": "2026-11-10T07:27:30.547149Z",
+  "error": null
+}

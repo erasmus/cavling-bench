@@ -1,0 +1,21 @@
+{
+  "model_id": "anthropic-frontier",
+  "pinned_version": "claude-fable-5-1",
+  "task_id": "t4_versionering",
+  "source_id": "politi-2026-sydoestjylland-hadforbrydelse",
+  "archetype": "lynposten",
+  "prompt_sha256": "d7dc6a5c36bf786883c9d772ab5e63c56aed28c9b3d6ab904d64f648862dbb36",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 4025,
+    "reasoning_effort": "low"
+  },
+  "text": "Tre unge mænd er i dag dømt ved Retten i Horsens for en stribe voldsepisoder i januar 2026. To af dem er 18 år. Den tredje er 17. Alle tre fik fængselsstraffe.\n\nDen hårdeste dom gik til en 18-årig. Han fik et år og tre måneders fængsel. Han fik også opholdsforbud i nattelivet i seks måneder. Og han bliver udvist af Danmark med indrejseforbud i seks år. Han blev fængslet efter dommen.\n\nDen 18-årige og den 17-årige blev dømt for grov vold begået som en hadforbrydelse. Det skete den 17. januar 2026 omkring kl. 02.10 ved banegården i Horsens. De råbte skældsord efter to kvinder om deres seksuelle orientering. De slog kvinderne flere gange i og omkring hovedet med en totenschlæger. De sprøjtede dem også med peberspray.\n\nRetten fandt, at volden helt eller delvist var begrundet i kvindernes seksuelle orientering. Derfor var det en hadforbrydelse.\n\nDen 17-årige fik 10 måneders fængsel. Han blev også dømt for at have en totenschlæger og en peberspray. Den 18-årige blev dømt for at have en peberspray.\n\nDen samme 18-årige blev desuden dømt for vold mod en mand på en bar i Horsens den 4. januar 2026.\n\nBegge 18-årige blev dømt for vold og trusler med kniv. De overfaldt en mand i Vitus Beringsparken i Horsens den 2. januar 2026.\n\nDen anden 18-årige fik tre måneders fængsel og en advarsel om udvisning.\n\n\"Dommen i dag understreger blandt andet, at man som borger ikke skal diskrimineres eller udsættes for vold på baggrund af sin seksuelle orientering, kønsidentitet, kønsudtryk eller lignende,\" siger Thomas Vestergaard, anklagerfuldmægtig i anklagemyndigheden ved Sydøstjyllands Politi.\n\nManden med den korteste dom modtog dommen. De to andre udbad sig betænkningstid.",
+  "prompt_tokens": 1813,
+  "completion_tokens": 755,
+  "latency_ms": 9105,
+  "cost_usd": 0.05588,
+  "created": "2026-11-10T07:24:40.453901Z",
+  "error": null
+}

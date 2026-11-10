@@ -1,0 +1,21 @@
+{
+  "model_id": "anthropic-mid",
+  "pinned_version": "claude-sonnet-5-5",
+  "task_id": "t3_faktaboks",
+  "source_id": "dst-2026-offentligt-overskud-2025",
+  "archetype": null,
+  "prompt_sha256": "d029e09914398253c345cf6e519e2e386cf2548ffba4c582f01705fd4ad6c9b9",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 3575,
+    "reasoning_effort": "low"
+  },
+  "text": "- Det offentlige overskud var i 2025 på 90,9 mia. kr., mod 123,5 mia. kr. i 2024.\n- De samlede offentlige udgifter steg med 85,0 mia. kr. til 1.472,8 mia. kr. i 2025.\n- De samlede offentlige indtægter steg med 52,4 mia. kr. til 1.563,8 mia. kr. i 2025.\n- Social beskyttelse udgjorde 41 pct. af de samlede udgifter i 2025 og var dermed den største udgiftspost.\n- Udgifterne til generelle pensioner steg med 11,8 mia. kr., og de samlede udgifter til sociale ydelser nåede 438,4 mia. kr.",
+  "prompt_tokens": 1472,
+  "completion_tokens": 252,
+  "latency_ms": 2342,
+  "cost_usd": 0.005464,
+  "created": "2026-11-10T07:15:43.074634Z",
+  "error": null
+}

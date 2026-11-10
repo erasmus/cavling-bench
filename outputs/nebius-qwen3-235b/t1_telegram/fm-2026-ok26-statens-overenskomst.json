@@ -1,0 +1,21 @@
+{
+  "model_id": "nebius-qwen3-235b",
+  "pinned_version": "Qwen/Qwen3-235B-A22B-Instruct-2507",
+  "task_id": "t1_telegram",
+  "source_id": "fm-2026-ok26-statens-overenskomst",
+  "archetype": null,
+  "prompt_sha256": "edf47245906bf09756f932b4ed8b325dd227cd9d38735560607d75329b951a31",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 560,
+    "reasoning_effort": null
+  },
+  "text": "Finansminister Nicolai Wammen har sammen med Centralorganisationernes Fællesudvalg (CFU) og Akademikerne indgået et treårigt overenskomstforlig for de cirka 200.000 statlige medarbejdere, gældende fra 1. april 2026 til 31. marts 2029. Forliget sikrer en økonomisk ramme på 8,7 pct., heraf 275 mio. kr. ekstra til lønforbedringer for Forsvarets militært ansatte, 250 mio. kr. mere til lokal løn og 20 mio. kr. til erhvervsskolelærere. Der indføres en fritvalgskonto med mulighed for at vælge mellem løn, pension og frihed, samt fritvalgsdage og to ekstra seniordage. Børnefamilier får fri med løn på hjemkaldelsesdagen og barnets tredje sygedag, mens barselsvilkår forbedres med to ugers udvidet lønret og støtte til flere grupper. Forliget sendes nu til afstemning i de faglige organisationer.",
+  "prompt_tokens": 1207,
+  "completion_tokens": 296,
+  "latency_ms": 5589,
+  "cost_usd": 0.000419,
+  "created": "2026-11-10T05:38:58.021986Z",
+  "error": null
+}

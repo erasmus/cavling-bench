@@ -1,0 +1,21 @@
+{
+  "model_id": "anthropic-mid",
+  "pinned_version": "claude-sonnet-5-5",
+  "task_id": "t2_rubrik",
+  "source_id": "fm-2026-2035-plan",
+  "archetype": "erhvervsnyt",
+  "prompt_sha256": "6468d13437677b9e3e44283f15bb3e9760423570803cda91e21b2f7236b21dbd",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 3400,
+    "reasoning_effort": "low"
+  },
+  "text": "RUBRIK: Regeringen når 3,5 pct. af BNP til forsvar i 2030\nUNDERRUBRIK: 2035-planen afsætter 1,2 mia. kr. til beredskab i år og hæver målet for den strukturelle saldo til -0,6 pct. af BNP i 2035. Wammen: Vi må prioritere skarpt.",
+  "prompt_tokens": 3039,
+  "completion_tokens": 128,
+  "latency_ms": 1583,
+  "cost_usd": 0.007358,
+  "created": "2026-11-10T07:15:07.553767Z",
+  "error": null
+}

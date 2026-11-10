@@ -1,0 +1,21 @@
+{
+  "model_id": "nebius-qwen3-235b",
+  "pinned_version": "Qwen/Qwen3-235B-A22B-Instruct-2507",
+  "task_id": "t4_versionering",
+  "source_id": "datatilsynet-2026-faaborg-midtfyn-ai-aeldrepleje",
+  "archetype": "landsavisen",
+  "prompt_sha256": "4e7f7022c6df5ba558e7fca93ea0641a2c7141832c71bfa98172acb8a1fc879b",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 1025,
+    "reasoning_effort": null
+  },
+  "text": "Datatilsynet har udtrykt alvorlig kritik af Faaborg-Midtfyn Kommunes brug af et AI-baseret overvågningssystem i en prøveperiode på et lokalt plejehjem. Afgørelsen er truffet efter et tilsynsinitiativ i januar 2026, hvor tilsynet undersøgte kommunens anvendelse af kunstig intelligens til at overvåge ældre beboere. Systemet, der blev testet over seks måneder, skulle øge trygheden, forebygge fald og støtte personalet i deres faglige vurderinger.\n\nLøsningen anvender kameraer og sensorer til at analysere bevægelsesmønstre, søvnkvalitet og vejrtrækning. Ifølge kommunen aktiveres kameraet kun i korte sekvenser og primært ved mistanke om fald. Alligevel finder Datatilsynet, at kommunen ikke har overholdt kravene til databeskyttelse. Risikovurderingen var utilstrækkelig og baseret på generelle trusler, uden nærmere begrundelse for, hvorfor risikoen blev vurderet som lav. Tilsynet påpeger, at kommunen ikke har dokumenteret et sikkerhedsniveau, der matcher de konkrete risici for sårbare borgere.\n\nDesuden mangler et klart retligt grundlag. Kommunen henviste til generelle bestemmelser i serviceloven og ældreloven, men Datatilsynet vurderer, at disse alene ikke kan retfærdiggøre brugen af AI. Der findes specifikke regler om tryghedsskabende velfærdsteknologi, som kunne have givet retsgrundlag – men kommunen har ikke inddraget dem.\n\nDatatilsynet fremhæver, at brug af ny teknologi kræver grundige vurderinger før implementering. \"Kommuner skal sikre, at både risikovurderinger og konsekvensanalyser er på plads, før behandlingen af personoplysninger begynder,\" siger en talskvinde for tilsynet. Prøveperioder ændrer ikke på denne pligt.",
+  "prompt_tokens": 1603,
+  "completion_tokens": 537,
+  "latency_ms": 22207,
+  "cost_usd": 0.0006427999999999999,
+  "created": "2026-11-10T05:41:24.979670Z",
+  "error": null
+}

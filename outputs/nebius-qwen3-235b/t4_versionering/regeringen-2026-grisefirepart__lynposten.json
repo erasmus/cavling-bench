@@ -1,0 +1,21 @@
+{
+  "model_id": "nebius-qwen3-235b",
+  "pinned_version": "Qwen/Qwen3-235B-A22B-Instruct-2507",
+  "task_id": "t4_versionering",
+  "source_id": "regeringen-2026-grisefirepart",
+  "archetype": "lynposten",
+  "prompt_sha256": "c50c75fd78e2e7d8d0246b727449ca6371aab74614659719f424f2fb609f7fe9",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 1025,
+    "reasoning_effort": null
+  },
+  "text": "Regeringen nedsætter firepart for fremtidens griseproduktion. Parterne skal løfte dyrevelfærden og skabe en mere bæredygtig og konkurrencedygtig sektor.\n\nFireparten tager fat efter nytår. Om bord er regeringen, Landbrug & Fødevarer, Dyrenes Beskyttelse, Fødevareforbundet NNF, Danmarks Naturfredningsforening, Dansk Erhverv og Dansk Industri.\n\nMålet er at forene bedre dyrevelfærd med et stærkt erhverv. Arbejdet handler om mere økologi, mindre antibiotika og højere værdi i kæden.\n\n95 procent af danske grise får klippet halen. Mange har for lidt plads. Millioner af pattegrise dør hvert år. Det skal ændres.\n\n– Vores grise skal have et bedre griseliv, siger natur- og dyrevelfærdsminister Christian Rabjerg Madsen (S).\n\nHan vil primært producere grise til danske borgeres tallerkener eller til eksport som forædlede produkter.\n\nUdenrigsminister Lars Løkke Rasmussen (V) peger på, at Danmark eksporterer flere smågrise, mens antallet af slagteriarbejdere er faldet med en tredjedel de sidste 15 år.\n\n– Vi har ikke svaret på, hvordan vi vender det. Derfor nedsætter vi et ekspertpanel, siger han.\n\nErhvervsminister Martin Lidegaard (R) kalder det et skridt i en større fødevarestrategi.\n\n– Vi skal turde tænke nyt. Det skylder vi dyrene, naturen og vores sundhed, siger han.\n\nMiljøminister Maria Reumert Gjerding (P) henviser til den grønne trepart.\n\n– Vi skal tage større hensyn til naturen og naboerne til svineproduktionen, siger hun.",
+  "prompt_tokens": 1728,
+  "completion_tokens": 485,
+  "latency_ms": 7153,
+  "cost_usd": 0.0006366,
+  "created": "2026-11-10T05:43:07.107787Z",
+  "error": null
+}

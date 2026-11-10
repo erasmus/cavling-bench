@@ -1,0 +1,21 @@
+{
+  "model_id": "anthropic-mid",
+  "pinned_version": "claude-sonnet-5-5",
+  "task_id": "t4_versionering",
+  "source_id": "politi-2026-sydoestjylland-hadforbrydelse",
+  "archetype": "lynposten",
+  "prompt_sha256": "d7dc6a5c36bf786883c9d772ab5e63c56aed28c9b3d6ab904d64f648862dbb36",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 4025,
+    "reasoning_effort": "low"
+  },
+  "text": "Tre unge mænd er idømt fængsel for vold i Horsens i januar 2026. Dommen faldt i dag ved Retten i Horsens. Sagen omfatter vold, grov vold som hadforbrydelse og overtrædelse af våbenlovgivningen.\n\nDen hårdeste dom gik til en 18-årig. Han fik et år og tre måneders fængsel. Han fik også et opholdsforbud i nattelivet i seks måneder. Desuden blev han udvist af Danmark med indrejseforbud i seks år. Han blev fængslet efter dommen.\n\nEn 17-årig fik 10 måneders fængsel. Den anden 18-årige fik tre måneders fængsel og en advarsel om udvisning.\n\nDe to 18-årige overfaldt en mand i Vitus Beringsparken den 2. januar. De brugte vold og trusler med kniv. Den ene af dem slog desuden en mand på en bar i Horsens den 4. januar.\n\nDen værste episode skete den 17. januar omkring klokken 02.10 ved banegården. Den 17-årige og den ene 18-årige råbte skældsord efter to kvinder om deres seksuelle orientering. De slog kvinderne flere gange i og omkring hovedet med en totenschlæger. De udsatte dem også for peberspray.\n\nRetten fandt, at volden helt eller delvist skyldtes kvindernes seksuelle orientering. Derfor var det en hadforbrydelse.\n\nBegge mænd blev også dømt for overtrædelse af våbenlovgivningen. Den 18-årige havde peberspray. Den 17-årige havde både totenschlæger og peberspray.\n\n”Dommen i dag understreger blandt andet, at man som borger ikke skal diskrimineres eller udsættes for vold på baggrund af sin seksuelle orientering, kønsidentitet, kønsudtryk eller lignende,” siger Thomas Vestergaard, anklagerfuldmægtig i anklagemyndigheden ved Sydøstjyllands Politi.\n\nKun den 18-årige med tre måneders fængsel tog imod dommen. De to andre bad om betænkningstid.",
+  "prompt_tokens": 1813,
+  "completion_tokens": 744,
+  "latency_ms": 5183,
+  "cost_usd": 0.011066,
+  "created": "2026-11-10T07:17:18.959293Z",
+  "error": null
+}

@@ -1,0 +1,21 @@
+{
+  "model_id": "anthropic-mid",
+  "pinned_version": "claude-sonnet-5-5",
+  "task_id": "t4_versionering",
+  "source_id": "fm-2026-ok26-statens-overenskomst",
+  "archetype": "lynposten",
+  "prompt_sha256": "47a2a48cca08180a4f4d6ffed0bb9b17dcf88ad35f34a0079a785e6593097f83",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 4025,
+    "reasoning_effort": "low"
+  },
+  "text": "200.000 statsansatte får en lønramme på 8,7 procent over tre år. Finansministeren, CFU og Akademikerne har indgået et treårigt overenskomstforlig. De første lønstigninger kommer allerede i foråret.\n\nForsvarets militært ansatte får et ekstraordinært lønløft. Parterne afsætter 275 millioner kroner til at hente og fastholde folk i Forsvaret. Hvordan pengene fordeles, aftaler parterne senere med organisationerne på forsvarsområdet.\n\nParterne prioriterer også 250 millioner kroner mere til lokal løn. Erhvervsskolelærerne får et lønløft på 20 millioner kroner.\n\nDer kommer en ny fritvalgskonto. Her kan den ansatte vælge mellem løn, pension og frihed. Udvalgte personalegrupper får en fritvalgsdag. Alle får to ekstra seniordage. Dagene er uden løn, men medarbejderen kan få et beløb fra sin Fritvalgs Lønkonto.\n\nBørnefamilierne får bedre vilkår. De får fri med løn på hjemkaldelsesdagen og på barnets tredje sygedag. Lønretten under barselsorlov forbedres og omfatter flere grupper, blandt andre aleneforældre, sociale forældre og nærtstående. Lønretten til deleorlov øges med to uger.\n\n\"Det er helt afgørende, at vi fortsat har fokus på, at det skal være attraktivt at arbejde i staten,\" siger finansminister Nicolai Wammen.\n\nHan peger på, at Danmark står i en særlig situation med behov for store investeringer i forsvar og sikkerhed. Grupperne, der får mindst, skal opleve den største relative stigning ud over de generelle lønstigninger.\n\nForliget sendes nu til afstemning hos de faglige organisationer. Bliver det vedtaget, gælder det fra 1. april 2026 til 31. marts 2029.",
+  "prompt_tokens": 2016,
+  "completion_tokens": 687,
+  "latency_ms": 4830,
+  "cost_usd": 0.010902,
+  "created": "2026-11-10T07:16:29.799534Z",
+  "error": null
+}

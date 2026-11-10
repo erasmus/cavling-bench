@@ -1,0 +1,21 @@
+{
+  "model_id": "nebius-gpt-oss-120b",
+  "pinned_version": "openai/gpt-oss-120b",
+  "task_id": "t4_versionering",
+  "source_id": "dst-2026-offentligt-overskud-2025",
+  "archetype": "landsavisen",
+  "prompt_sha256": "3077cfa6532e6f3aba5691f2f143f54b55285fd2e46317a011180172fac608c7",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 2525,
+    "reasoning_effort": "low"
+  },
+  "text": "I 2025 endte de offentlige finanser med et overskud på 90,9 mia. kr., et fald fra 123,5 mia. kr. året før. Overskuddet er resultatet af en samlet stigning i udgifter på 85,0 mia. kr. til 1.472,8 mia. kr. og en mindre stigning i indtægterne på 52,4 mia. kr. til 1.563,8 mia. kr. Ifølge Danmarks Statistik skyldes den indtægtsmæssige vækst primært højere indbetalinger fra pensionsafkastskatten, som i 2025 udgjorde 47,0 mia. kr., samt stigninger i person- og selskabsskatter.\n\nPå udgiftssiden er de største drivkræfter de stigende udgifter til socialområdet, sundhedsvæsenet og forsvaret. Social beskyttelse udgør med 41 % af de samlede udgifter den største post, efterfulgt af sundhedsvæsenet med 17 %. Uddannelse og generelle offentlige tjenester udgør tilsammen 12 % af udgifterne, mens andelen til forsvaret er steget til 5 % i 2025.\n\nUdgifterne til sociale ydelser steg med 18,8 mia. kr. i forhold til 2024 og nåede 438,4 mia. kr. En væsentlig del af denne stigning kommer fra generelle pensioner, som steg med 11,8 mia. kr. Årsagen er både et stigende antal pensionister og højere pensionssatser. Små stigninger ses også på en række andre sociale ydelser.\n\nRevisioner af de offentlige regnskaber har påvirket tallene: overskuddet i 2025 blev opjusteret med 2,5 mia. kr. efter nye skatte- og forbrugsdata fra Skattestyrelsen, mens forbrugsudgiften blev opjusteret med 5,9 mia. kr. på grund af endelige tal fra kommuner, regioner, universiteter og andre selvejende institutioner. Disse justeringer giver et mere præcist billede af den aktuelle finansielle situation.",
+  "prompt_tokens": 1334,
+  "completion_tokens": 536,
+  "latency_ms": 1910,
+  "cost_usd": 0.0005216999999999999,
+  "created": "2026-11-10T05:38:20.578727Z",
+  "error": null
+}

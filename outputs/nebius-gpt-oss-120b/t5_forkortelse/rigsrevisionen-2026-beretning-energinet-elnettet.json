@@ -1,0 +1,21 @@
+{
+  "model_id": "nebius-gpt-oss-120b",
+  "pinned_version": "openai/gpt-oss-120b",
+  "task_id": "t5_forkortelse",
+  "source_id": "rigsrevisionen-2026-beretning-energinet-elnettet",
+  "archetype": null,
+  "prompt_sha256": "1a851480cfa794380688098ea3d9dab47cbc07c95a533d7a2d39db07c6f3669d",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 2360,
+    "reasoning_effort": "low"
+  },
+  "text": "Den 9. april 2026 behandlede Statsrevisorerne beretning nr. 12/2025 om Energinets udbygning af elnettet. Elnettet omfatter ca. 9.000 km jordkabler og luftledninger; Energinet, der ejes af staten via Klima‑, Energi‑ og Forsyningsministeriet, ejer og udvikler el‑ og gasnettet. I juni 2022 vedtog et flertal i Folketinget en klimaaftale om grøn strøm og varme, som forudsætter en markant udbygning af vedvarende energi. Energinet planlægger at etablere ca. 2.700 km ekstra elnet frem mod 2030 og yderligere 3.000‑4.000 km frem mod 2050. Formålet med undersøgelsen er at vurdere styringen af udbygningen og ministeriets tilsyn. Statsrevisorerne finder styringen kritisabel: ca. 70 % af igangsatte projekter er forsinkede, de forsinkede projekter tager i gennemsnit 80 % længere tid, og kun 206 km af de planlagte 490 km er færdiggjort pr. 1. januar 2026. Udbygningens hastighed skal øges fra 120 km til 250 km årligt for at nå 2050‑målet. Ministeriet har gentagne gange fået besked om stigende forsinkelser siden 2023, men har reageret for sent og først i februar 2026 iværksat en ekstern analyse. Forsinkelserne har gjort udbygningen mere end 10 mia. kr. dyrere, forsinker den grønne omstilling og er ikke kvantificeret for CO₂‑udledning eller tilslutning af nye sol‑ og vindparker. Statsrevisorerne støtter Rigsrevisionens anbefaling om, at ministeriet undersøger konsekvenserne nærmere for at sikre opfyldelsen af klimamålet frem mod 2030.",
+  "prompt_tokens": 1306,
+  "completion_tokens": 472,
+  "latency_ms": 1968,
+  "cost_usd": 0.00047910000000000004,
+  "created": "2026-11-10T05:38:40.338773Z",
+  "error": null
+}

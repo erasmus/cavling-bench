@@ -1,0 +1,21 @@
+{
+  "model_id": "anthropic-frontier",
+  "pinned_version": "claude-fable-5-1",
+  "task_id": "t4_versionering",
+  "source_id": "fm-2026-ok26-statens-overenskomst",
+  "archetype": "lynposten",
+  "prompt_sha256": "47a2a48cca08180a4f4d6ffed0bb9b17dcf88ad35f34a0079a785e6593097f83",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 4025,
+    "reasoning_effort": "low"
+  },
+  "text": "200.000 statsansatte får 8,7 procent mere i løn over tre år. Det er resultatet af et nyt overenskomstforlig på statens område.\n\nForliget er indgået mellem finansministeren, Centralorganisationernes Fællesudvalg (CFU) og Akademikerne. Det løber over tre år. De første lønstigninger kommer allerede i foråret.\n\nForsvarets militært ansatte får et ekstra lønløft. Parterne afsætter 275 mio. kr. af rammen til dem. Pengene skal hjælpe med at rekruttere og fastholde soldater. Hvordan de fordeles, aftales senere med organisationerne på forsvarsområdet.\n\n– Danmark står lige nu i en helt særlig situation, hvor der er behov for store investeringer i vores fælles forsvar og sikkerhed, siger finansminister Nicolai Wammen.\n\nHan understreger, at de grupper, der får mindst i dag, skal opleve den største relative stigning. Det kommer oven i de generelle lønstigninger.\n\nForliget sætter også 250 mio. kr. mere af til lokal løn. Erhvervsskolelærerne får et lønløft på 20 mio. kr.\n\nBørnefamilierne får bedre vilkår. Forældre kan nu holde fri med løn på barnets tredje sygedag. Det samme gælder dagen, hvor et barn bliver hjemkaldt. Lønretten under barsel udvides til flere grupper. Det gælder blandt andre aleneforældre, sociale forældre og nærtstående. Deleorloven får to ugers ekstra lønret.\n\n– Det har været vigtigt for mig som finansminister, siger Nicolai Wammen om forbedringerne for børnefamilier.\n\nMedarbejderne får desuden en fritvalgskonto. Her kan de vælge mellem løn, pension og frihed. Udvalgte grupper får en fritvalgsdag. Alle får to ekstra seniordage. Dagene er uden løn. Men medarbejderen kan få et beløb fra sin Fritvalgs Lønkonto.\n\nForliget skal nu til afstemning hos de faglige organisationer. Bliver det godkendt, gælder det fra 1. april 2026 til 31. marts 2029.",
+  "prompt_tokens": 2016,
+  "completion_tokens": 782,
+  "latency_ms": 10403,
+  "cost_usd": 0.05926,
+  "created": "2026-11-10T07:22:58.835154Z",
+  "error": null
+}

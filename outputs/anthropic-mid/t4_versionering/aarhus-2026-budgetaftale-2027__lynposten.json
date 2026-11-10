@@ -1,0 +1,21 @@
+{
+  "model_id": "anthropic-mid",
+  "pinned_version": "claude-sonnet-5-5",
+  "task_id": "t4_versionering",
+  "source_id": "aarhus-2026-budgetaftale-2027",
+  "archetype": "lynposten",
+  "prompt_sha256": "306ecf62925ce6f724630a2ec620f633bc63805c27255f29a52f29291beee9c6",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 4025,
+    "reasoning_effort": "low"
+  },
+  "text": "138 mio. kr. ekstra om året går til socialområdet i Aarhus. Det er en del af budgetaftalen for 2027, som et enigt byråd indgik torsdag den 17. september.\n\nAftalen gælder de næste fire år. Pengene skal holde hånden under kommunens mest udsatte borgere. Udgifterne på socialområdet er under betydeligt pres.\n\nPartierne har prioriteret 197 mio. kr. årligt til drift. Dertil kommer 810 mio. kr. til anlæg. Pengene går blandt andet til bedre fremkommelighed for busser, cyklister og andre trafikanter. Der kommer også tiltag mod trængsel.\n\nAftalen giver flere fagprofessionelle i folkeskolen. Der kommer også indsatser for demente ældre og tidligere anbragte børn. Kollektiv trafik bliver bedre og billigere. Erhvervsparkering i byen bliver nemmere.\n\nVelfærden løftes med omkring 2 mia. kr. over budgetperioden som følge af kommunens budgetmodeller. Knap 500 mio. kr. kommer oven i til flere pædagoger og lavere forældrebetaling i dagtilbud. Det følger af nationale aftaler.\n\nKommuneskatten holdes i ro.\n\nFra 2028 indfører byrådet et nyt velfærdsbidrag. Det skal frigøre penge til nye velfærdsløsninger, for eksempel gennem nye arbejdsgange eller teknologi.\n\nNi partier står bag aftalen: Socialdemokratiet, SF, Venstre, Enhedslisten, Det Konservative Folkeparti, Radikale Venstre, Liberal Alliance, Danmarksdemokraterne og Dansk Folkeparti.\n\n”Et godt budget skal kunne mærkes i aarhusianernes hverdag,” siger borgmester Anders Winnerskjold.\n\nHan peger på flere voksne omkring børnene, bedre og billigere kollektiv transport og gode rammer for virksomhederne.\n\n”Vi kan ikke gennemføre alle gode ønsker på én gang, men med forliget har vi taget et solidt skridt fremad,” siger Anders Winnerskjold.",
+  "prompt_tokens": 2238,
+  "completion_tokens": 777,
+  "latency_ms": 5446,
+  "cost_usd": 0.012246,
+  "created": "2026-11-10T05:23:47.696682Z",
+  "error": null
+}

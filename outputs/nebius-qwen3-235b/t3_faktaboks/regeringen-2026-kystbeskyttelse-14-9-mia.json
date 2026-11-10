@@ -1,0 +1,21 @@
+{
+  "model_id": "nebius-qwen3-235b",
+  "pinned_version": "Qwen/Qwen3-235B-A22B-Instruct-2507",
+  "task_id": "t3_faktaboks",
+  "source_id": "regeringen-2026-kystbeskyttelse-14-9-mia",
+  "archetype": null,
+  "prompt_sha256": "cefcfca0a8a01b846fe3636fdfeeed40262018ce613f2ac4bd70698c0c08474d",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 575,
+    "reasoning_effort": null
+  },
+  "text": "- Regeringen afsætter 14,9 mia. kroner til en national investeringsplan for kystbeskyttelse af Danmark.  \n- Stormfloder, der i dag forventes hvert 100. år, vil ifølge kilden i 2100 forekomme hvert tredje år.  \n- Op til 100.000 husstande og virksomheder med 175.000 arbejdspladser risikerer oversvømmelser fra havet.  \n- Staten medfinansierer fremover 85 procent af anlægsinvesteringerne i kystbeskyttelsesprojekterne.  \n- Regeringen har nedsat en ekspertgruppe for at anbefale en model for finansieringsbidrag fra lodsejere.",
+  "prompt_tokens": 1582,
+  "completion_tokens": 200,
+  "latency_ms": 6661,
+  "cost_usd": 0.00043640000000000004,
+  "created": "2026-11-10T05:40:56.951525Z",
+  "error": null
+}

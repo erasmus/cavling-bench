@@ -1,0 +1,21 @@
+{
+  "model_id": "anthropic-mid",
+  "pinned_version": "claude-sonnet-5-5",
+  "task_id": "t1_telegram",
+  "source_id": "ombudsmanden-2026-koebenhavn-laerer-ytringsfrihed",
+  "archetype": null,
+  "prompt_sha256": "0a040f3aadee2427097828d36b1c3eef2f3eba35f37eb53174a694a0e151e87a",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 3560,
+    "reasoning_effort": "low"
+  },
+  "text": "Folketingets Ombudsmand, Christian Britten Lundblad, konkluderer, at Københavns Kommune ikke handlede med respekt for en folkeskolelærers ytringsfrihed, da hun blev indkaldt til en tilrettevisningssamtale efter et avisinterview om voldelig elevadfærd. Under samtalen blev hun bl.a. opfordret til at holde lav profil over for pressen, hvilket kommunen siden har kaldt yderst beklageligt. Kommunen forklarer, at samtalen skyldtes et pressefoto, hun ikke havde tilladelse til at tage. Ombudsmanden mener dog, at forløbet berettiget kunne opfattes som en negativ reaktion på hendes udtalelser. Han henstiller, at kommunen genoptager sagen, og beder om svar inden tre måneder. Han kalder også pressemedarbejderes kontakt til flere medier om hendes udtalelser meget uheldig.",
+  "prompt_tokens": 2283,
+  "completion_tokens": 337,
+  "latency_ms": 3076,
+  "cost_usd": 0.007936,
+  "created": "2026-11-10T07:14:48.790967Z",
+  "error": null
+}

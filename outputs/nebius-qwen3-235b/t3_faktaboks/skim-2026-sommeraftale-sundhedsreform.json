@@ -1,0 +1,21 @@
+{
+  "model_id": "nebius-qwen3-235b",
+  "pinned_version": "Qwen/Qwen3-235B-A22B-Instruct-2507",
+  "task_id": "t3_faktaboks",
+  "source_id": "skim-2026-sommeraftale-sundhedsreform",
+  "archetype": null,
+  "prompt_sha256": "0395398fb645cd4eb3e8973daae6873cd761d1d9daee81e59b362b96e7003291",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 575,
+    "reasoning_effort": null
+  },
+  "text": "- Sommeraftalen træder i kraft fra 2027 og omfatter konkrete forbedringer som kronikerpakker for patienter med KOL og kroniske lænderygsmerter.  \n- Patienter med KOL og kroniske lænderygsmerter får ret til en behandlingsplan og tilbud om forebyggelsestilbud inden for 21 dage efter henvisning fra egen læge.  \n- Ordningen med 96 timers behandlingsansvar efter udskrivelse udvides til også at omfatte ældre medicinske patienter og visse psykiatriske patienter.  \n- Den første nationale sundhedsplan for perioden 2027–2030 fastlægges af sundhedsministeren med støtte fra regeringen, Danske Regioner og KL.  \n- Sommeraftalen indebærer et løft på knap 800 mio. kr. i 2027, der stiger til 1,1 mia. kr. årligt fra 2030 (i 2025-prisniveau).",
+  "prompt_tokens": 2431,
+  "completion_tokens": 261,
+  "latency_ms": 10615,
+  "cost_usd": 0.0006428000000000001,
+  "created": "2026-11-10T05:41:02.929086Z",
+  "error": null
+}

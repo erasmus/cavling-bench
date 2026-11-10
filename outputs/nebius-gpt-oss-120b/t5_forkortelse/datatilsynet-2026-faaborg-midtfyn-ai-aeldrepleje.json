@@ -1,0 +1,21 @@
+{
+  "model_id": "nebius-gpt-oss-120b",
+  "pinned_version": "openai/gpt-oss-120b",
+  "task_id": "t5_forkortelse",
+  "source_id": "datatilsynet-2026-faaborg-midtfyn-ai-aeldrepleje",
+  "archetype": null,
+  "prompt_sha256": "4d9285fe8200304204c490d24445a27268b2af3b677e6dbb06533734a6351c1f",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 2360,
+    "reasoning_effort": "low"
+  },
+  "text": "Datatilsynet har truffet afgørelse i en sag om Faaborg‑Midtfyn Kommunes brug af et AI‑baseret monitoreringssystem på et plejehjem. Sagen blev indledt af egen drift i januar 2026 som led i tilsynets fokus på brug af AI til overvågning og kontrol af borgere i pleje. Kommunen havde ifølge sine oplysninger brugt løsningen over for 18 beboere i en afgrænset prøveperiode på seks måneder. Formålet var at øge beboernes tryghed, forebygge fald og understøtte plejepersonalets faglige vurderinger. Løsningen består af en sensorenhed i plejeboligen, som ved hjælp af AI og kamerabaseret teknologi analyserer bevægelsesmønstre og giver indsigt i søvnkvalitet, uro, vejrtrækning og bevægelse. Kommunen har oplyst, at kameraet alene anvendes i kortvarige sekvenser og kun ved potentielle fald. Kommunen udarbejdede en risikovurdering, men den forholdt sig kun til generelle trusler og vurderede alle som lav risiko uden begrundelse, så den sikrede ikke et passende sikkerhedsniveau. Datatilsynet mener, at en konsekvensanalyse skulle have været gennemført, da der var tale om ny teknologi og følsomme personoplysninger om sårbare borgere. Prøveperiodens varighed ændrer ikke kommunens pligt til at overholde databeskyttelsesreglerne. Kommunen henviste til servicelovens og ældrelovens generelle bestemmelser som retsgrundlag, men Datatilsynet vurderer, at disse alene ikke kan dække AI‑behandlingen. Reglerne om tryghedsskabende velfærdsteknologi giver mulighed for brug under særlige betingelser, herunder AI, men kommunen havde ikke inddraget dem. Datatilsynet understreger, at kommuner skal foretage fyldestgørende vurderinger, herunder konkrete risikovurderinger og nødvendige konsekvensanalyser, før de begynder at behandle borgernes personoplysninger med ny teknologi.",
+  "prompt_tokens": 1095,
+  "completion_tokens": 516,
+  "latency_ms": 1629,
+  "cost_usd": 0.00047384999999999994,
+  "created": "2026-11-10T05:38:34.003562Z",
+  "error": null
+}

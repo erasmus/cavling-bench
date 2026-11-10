@@ -1,0 +1,21 @@
+{
+  "model_id": "anthropic-mid",
+  "pinned_version": "claude-sonnet-5-5",
+  "task_id": "t2_rubrik",
+  "source_id": "skim-2026-sommeraftale-sundhedsreform",
+  "archetype": "erhvervsnyt",
+  "prompt_sha256": "2ef754538ced5727d0a23ea2f34aee348c849c419d1b8c3e97afbdb113e8b018",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 3400,
+    "reasoning_effort": "low"
+  },
+  "text": "RUBRIK: Sundhedsaftale giver knap 800 mio. kr. ekstra i 2027\nUNDERRUBRIK: Regeringen, regionerne og KL er enige om sommeraftale. Bevillingen stiger til op til 1,1 mia. kr. årligt fra 2030, og de første kronikerpakker starter i 2027.",
+  "prompt_tokens": 3635,
+  "completion_tokens": 124,
+  "latency_ms": 1869,
+  "cost_usd": 0.00851,
+  "created": "2026-11-10T07:15:38.903216Z",
+  "error": null
+}

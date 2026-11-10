@@ -1,0 +1,21 @@
+{
+  "model_id": "nebius-qwen3-235b",
+  "pinned_version": "Qwen/Qwen3-235B-A22B-Instruct-2507",
+  "task_id": "t6_lydmanus",
+  "source_id": "dst-2026-bnp-2-kvartal-revideret",
+  "archetype": "lynposten",
+  "prompt_sha256": "5f705b47c0d4e6fcbb98c97fd4a0a7866528825b8be1ad01a8718f9803e0ea10",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 620,
+    "reasoning_effort": null
+  },
+  "text": "Bruttonationalproduktet steg med ni tiendedele procent i andet kvartal to tusindtjueseks. Det viser de reviderede tal fra Danmarks Statistik. Væksten er opjusteret med seks tiendedele procentpoint. Især medicinalindustrien kører på. Den bidrog med en vækst i bruttoværditilvæksten på elleve tiendedele procent. Uden medicinalindustrien ville væksten være syv tiendedele procent. Den offentlige sektor og den øvrige industri hjalp også til. De faste bruttoinvesteringer steg med en og en halv procent. Stigningen skyldes blandt andet et patentkøb i udlandet. Byggeri og anlæg trak også op. Privat og offentligt forbrug lå stille. Forbruget af tjenester steg med otte tiendedele procent. Forbruget af varer faldt med otte tiendedele procent. Især køb af køretøjer gik tilbage. Eksporten steg med en og en halv procent. Vareeksporten kører, især maskiner. Importen steg med en og otte tiendedele procent. Lagre har haft store udsving. Det skal tages med i beregningen.",
+  "prompt_tokens": 3042,
+  "completion_tokens": 317,
+  "latency_ms": 7464,
+  "cost_usd": 0.0007985999999999999,
+  "created": "2026-11-10T05:44:44.793859Z",
+  "error": null
+}

@@ -1,0 +1,21 @@
+{
+  "model_id": "nebius-gpt-oss-120b",
+  "pinned_version": "openai/gpt-oss-120b",
+  "task_id": "t4_versionering",
+  "source_id": "fo-2026-rejsekort-politianmeldelse",
+  "archetype": "lynposten",
+  "prompt_sha256": "dc8b081dec20f7c386cdc6cf047dc79e05b7926179ecfd4b85e1cd383bc700a3",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 2525,
+    "reasoning_effort": "low"
+  },
+  "text": "35 forbrugere har klaget over Rejsekort & Rejseplan, som nu er politianmeldt for vildledende markedsføring, melder Forbrugerombudsmanden. Virksomheden har i en omfattende kampagne fået folk til at tro, at de kun kan rejse med en billet‑app, når det fysiske kort lukkes. \n\nKampagnen løb på Facebook, YouTube, i busser, på stationer og på informationsskærme. Videoer med budskaber som “Dit fysiske kort lukker – Hent Rejsekort‑appen” og “Har du sagt farvel til dit Rejsekort? Skift til appen” nævnte ikke, at et ikke‑digitalt alternativ stadig fandtes. På stationerne blev tjek‑ind‑standere overdækket med hætter, hvor der stod “Rejs med digitalt. Det fysiske rejsekort lukker. Brug i stedet en af disse billet‑apps”. Oplysningen om et fysisk alternativ var kun tilgængelig, hvis man klikkede “se mere”. \n\nForbrugerombudsmand Torben Jensen siger: “Markedsføringskampagnen er et klart eksempel på vildledning. Man giver nogle oplysninger, men udelader andre væsentlige oplysninger – for at påvirke en bestemt adfærd hos forbrugeren.” Han påpeger, at offentlig transport er basal, og at mange ikke kan eller vil bruge en app. \n\nIfølge markedsføringslovens §§ 5 og 6 er urigtige oplysninger eller væsentlige udeladelser forbudt. Forbrugerombudsmanden ser kampagnens omfang som en skærpende omstændighed. Rejsekort & Rejseplan har svaret, at de ikke mener, der er tale om vildledende markedsføring. Politianmeldelsen er nu i gang.",
+  "prompt_tokens": 1977,
+  "completion_tokens": 440,
+  "latency_ms": 1672,
+  "cost_usd": 0.0005605499999999999,
+  "created": "2026-11-10T05:38:23.068240Z",
+  "error": null
+}

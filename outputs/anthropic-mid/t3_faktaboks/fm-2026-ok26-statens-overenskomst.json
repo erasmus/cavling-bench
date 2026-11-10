@@ -1,0 +1,21 @@
+{
+  "model_id": "anthropic-mid",
+  "pinned_version": "claude-sonnet-5-5",
+  "task_id": "t3_faktaboks",
+  "source_id": "fm-2026-ok26-statens-overenskomst",
+  "archetype": null,
+  "prompt_sha256": "9bb055a0c0d5ad973bfdd2b561c279021cf60bebda06be2e1850b2d081687f3f",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 3575,
+    "reasoning_effort": "low"
+  },
+  "text": "- Finansministeren, CFU og Akademikerne har indgået et treårigt overenskomstforlig for omkring 200.000 medarbejdere i staten.\n- Forliget har en økonomisk ramme på 8,7 pct. over de kommende tre år.\n- Parterne prioriterer 275 mio. kr. af rammen til rekruttering og fastholdelse af Forsvarets militært ansatte.\n- Der afsættes 250 mio. kr. mere til lokal løn og 20 mio. kr. til et lønløft til erhvervsskolelærerne.\n- Hvis organisationerne tiltræder resultatet ved afstemning, gælder overenskomsten fra 1. april 2026 til 31. marts 2029.",
+  "prompt_tokens": 1564,
+  "completion_tokens": 251,
+  "latency_ms": 2320,
+  "cost_usd": 0.005638,
+  "created": "2026-11-10T07:15:45.904907Z",
+  "error": null
+}

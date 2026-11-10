@@ -1,0 +1,21 @@
+{
+  "model_id": "nebius-qwen3-235b",
+  "pinned_version": "Qwen/Qwen3-235B-A22B-Instruct-2507",
+  "task_id": "t4_versionering",
+  "source_id": "fm-2026-2035-plan",
+  "archetype": "lynposten",
+  "prompt_sha256": "3a77c7e0bfc94c94b66585ce9b8702934ee2cdb9991f3cc21f0ad072950b3129",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 1025,
+    "reasoning_effort": null
+  },
+  "text": "Regeringen afsætter 70 mia. kr. til forsvar og sikkerhed frem mod 2030. Pengene skal styrke Danmarks rolle i NATO og sikre en bedre national beredskap.\n\nDanmark når allerede i 2030 op på 3,5 pct. af BNP til forsvar. Det er et af de højeste bidrag i NATO. Finansminister Nicolai Wammen siger, at investeringen går hånd i hånd med økonomisk ansvarlighed.\n\nRegeringen prioriterer også klima og velfærd. Der afsættes 4 mia. kr. årligt til at nå målet om 82 pct. færre CO2-udslip i 2035. Yderligere 15 mia. kr. går til klimatilpasning, herunder beskyttelse af kyster mod stormflod.\n\nØkonomiminister Stephanie Lose siger, at planen gør Danmark til et mere sikkert og trygt land. Investeringerne er ambitiøse, men begrænser rummet til andre prioriteringer. Derfor skal der holdes fast i ansvarlig økonomisk politik.\n\nEn akutpakke på 1,2 mia. kr. styrker samfundets beredskab allerede i år. I 2035 svarer det samlede løft til 5 mia. kr. Formålet er at møde trusler fra en mere fjendtlig omverden.\n\nUdenrigsminister Lars Løkke Rasmussen advarer mod at se planen som slutpunkt. Regningen for forsvar, klima og beredskab er høj. Kassen er næsten tom bagefter. Strukturelle udfordringer efter 2035 løses ikke her.\n\nRegeringen fastholder målet om en strukturel saldo på -0,5 pct. af BNP i 2030. I 2035 justeres målet til -0,6 pct. Offentlig gæld forbliver lav. Dansk økonomi står stærkt, siger ministerne.",
+  "prompt_tokens": 2352,
+  "completion_tokens": 507,
+  "latency_ms": 23983,
+  "cost_usd": 0.0007746000000000001,
+  "created": "2026-11-10T05:41:55.170089Z",
+  "error": null
+}

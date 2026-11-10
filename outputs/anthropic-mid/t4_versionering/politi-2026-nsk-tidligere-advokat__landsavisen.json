@@ -1,0 +1,21 @@
+{
+  "model_id": "anthropic-mid",
+  "pinned_version": "claude-sonnet-5-5",
+  "task_id": "t4_versionering",
+  "source_id": "politi-2026-nsk-tidligere-advokat",
+  "archetype": "landsavisen",
+  "prompt_sha256": "094fc1559d0d181c3202bb56d8d3cb5bcf8e3041eded30ed5869f5385da2f497",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 4025,
+    "reasoning_effort": "low"
+  },
+  "text": "Retten i Lyngby har onsdag idømt en 53-årig tidligere advokat seks måneders ubetinget fængsel for groft stillingsmisbrug og pligtforsømmelse. Sagen var ført af National enhed for Særlig Kriminalitet (NSK). Den dømte er samtidig frakendt retten til at udøve advokatvirksomhed. Dommen er et svar på, at han lod sig udpege som kurator i to konkursboer, selv om han var inhabil, og derefter ikke videregav væsentlige oplysninger om kriminelle forhold i selskaberne.\n\nRetten fandt det bevist, at manden havde misbrugt sin stilling som advokat og afgivet urigtige erklæringer til skifteretten for at blive udpeget som kurator. Inhabiliteten skyldtes forudgående rådgivning.\n\nDen rådgivning gik ifølge dommen til ejeren og direktøren af de to selskaber. Advokaten havde, inden han blev kurator, vejledt vedkommende i, hvordan denne med fordel kunne forholde sig, så der alene ville ske en relativt overfladisk og kortvarig konkursbehandling.\n\nSom kurator undlod han desuden at opfylde sin pligt som advokat og kurator, da han ikke gav væsentlige oplysninger om de kriminelle forhold videre. Retten fandt det også bevist, at han med stillingsmisbruget havde til hensigt at skaffe sig selv eller andre en fordel.\n\nRetten lagde til grund, at hans handlinger vanskeliggjorde og forsinkede en effektiv politiefterforskning, skattemæssig undersøgelse og konkursbehandling af sagen.\n\nSpecialanklager Konrad Joe Frank fra NSK siger:\n\n“I NSK har vi et vedvarende fokus på at sætte ind over for professionelle rådgivere, der med deres handlinger eller undladelser gør det lettere at være kriminel. Derfor er jeg tilfreds med dommen i dag. Dommen viser, at retten ser strengt på, når en advokat og kurator tilsidesætter sine forpligtelser, og understreger, hvor afgørende tilliden til kuratorer er for systemet.”",
+  "prompt_tokens": 1687,
+  "completion_tokens": 769,
+  "latency_ms": 4916,
+  "cost_usd": 0.011064,
+  "created": "2026-11-10T07:17:15.593951Z",
+  "error": null
+}

@@ -1,0 +1,21 @@
+{
+  "model_id": "anthropic-mid",
+  "pinned_version": "claude-sonnet-5-5",
+  "task_id": "t5_forkortelse",
+  "source_id": "politi-2026-sydoestjylland-hadforbrydelse",
+  "archetype": null,
+  "prompt_sha256": "eb6661d343fe6775439ae70ba6dd9268031beae76f66ece3c6864a0aaf36f43c",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 3860,
+    "reasoning_effort": "low"
+  },
+  "text": "Tre unge mænd på 18, 18 og 17 år er ved Retten i Horsens idømt fængselsstraffe for en række voldsepisoder begået i Horsens i januar 2026 samt for overtrædelse af våbenlovgivningen.\n\nDe to 18-årige blev dømt for vold og trusler med kniv, da de overfaldt en mand i Vitus Beringsparken i Horsens den 2. januar 2026. Den ene af dem blev desuden dømt for vold mod en mand på en bar i Horsens den 4. januar 2026.\n\nDen samme 18-årige og den 17-årige blev dømt for grov vold begået som en hadforbrydelse. Den 17. januar 2026 omkring kl. 02.10 ved banegården i Horsens råbte de skældsord efter to kvinder om deres seksuelle orientering. De slog dem flere gange i og omkring hovedet med en totenschlæger og eksponerede dem for peberspray. Retten fandt, at volden helt eller delvist var begrundet i kvindernes seksuelle orientering.\n\nDen 18-årige blev også dømt for at have været i besiddelse af en peberspray, mens den 17-årige blev dømt for besiddelse af en totenschlæger og en peberspray.\n\nDen 18-årige, der blandt andet blev kendt skyldig i hadforbrydelsen, fik et år og tre måneders fængsel, et opholdsforbud i nattelivet i seks måneder samt udvisning af Danmark med et indrejseforbud i seks år. Han blev fængslet efter dom. Den 17-årige fik 10 måneders fængsel. Den anden 18-årige fik tre måneders fængsel og en advarsel om udvisning.\n\n”Dommen i dag understreger blandt andet, at man som borger ikke skal diskrimineres eller udsættes for vold på baggrund af sin seksuelle orientering, kønsidentitet, kønsudtryk eller lignede,” udtaler Thomas Vestergaard, anklagerfuldmægtig i anklagemyndigheden ved Sydøstjyllands Politi.\n\nDen 18-årige, der fik tre måneders fængsel og en advarsel om udvisning, modtog dommen, mens de to andre udbad sig betænkningstid.",
+  "prompt_tokens": 1361,
+  "completion_tokens": 783,
+  "latency_ms": 4569,
+  "cost_usd": 0.010552,
+  "created": "2026-11-10T07:18:10.727922Z",
+  "error": null
+}

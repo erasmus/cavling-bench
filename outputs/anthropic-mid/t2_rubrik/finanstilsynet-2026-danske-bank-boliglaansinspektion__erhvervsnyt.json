@@ -1,0 +1,21 @@
+{
+  "model_id": "anthropic-mid",
+  "pinned_version": "claude-sonnet-5-5",
+  "task_id": "t2_rubrik",
+  "source_id": "finanstilsynet-2026-danske-bank-boliglaansinspektion",
+  "archetype": "erhvervsnyt",
+  "prompt_sha256": "1354a1e276f14db3cf568b4bbab8a416cda94da01bb936a782025af763d3d4a7",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 3400,
+    "reasoning_effort": "low"
+  },
+  "text": "RUBRIK: Finanstilsynet: 4 af 58 boliglån i Danske Bank var for svage\nUNDERRUBRIK: Tilsynet har givet Danske Bank påbud om at dokumentere kundernes økonomiske robusthed bedre. Der var fejl i 19 af 58 sager, men solvensbehovet er uændret.",
+  "prompt_tokens": 2629,
+  "completion_tokens": 124,
+  "latency_ms": 1516,
+  "cost_usd": 0.006498,
+  "created": "2026-11-10T07:15:06.452608Z",
+  "error": null
+}

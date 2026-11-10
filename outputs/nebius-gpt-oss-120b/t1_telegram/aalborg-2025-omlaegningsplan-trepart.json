@@ -1,0 +1,21 @@
+{
+  "model_id": "nebius-gpt-oss-120b",
+  "pinned_version": "openai/gpt-oss-120b",
+  "task_id": "t1_telegram",
+  "source_id": "aalborg-2025-omlaegningsplan-trepart",
+  "archetype": null,
+  "prompt_sha256": "d53c5af7c9e6c5cf67035ae041c000999dce426e9f7e23698a2c7d97e67c5a4b",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 2060,
+    "reasoning_effort": "low"
+  },
+  "text": "Aalborg Byråd vedtog den 15. december en ambitiøs omlægningsplan med 94 konkrete projekter, herunder 77 lavbundsinitiativer, 13 drikkevandsbeskyttelsesforslag og tre store naturområder, som skal sikre renere drikkevand, bedre vandmiljø i Limfjorden og mindre CO₂‑udledning. Planen er et resultat af Grøn trepart‑aftalen fra 2024 og skal gennemføres i tæt samarbejde med Naturstyrelsen, landbrugets udtagningskonsulenter og lokale lodsejere. I 2026 starter dialogen med berørte borgere; hoveddelen af lavbunds- og kvælstofindsatsen skal være færdig i 2030, mens skovrejsning og naturudvikling fortsætter derefter. Jan Nymark Rose Thaysen roste det konstruktive samarbejde i den lokale Aalborg Trepart.",
+  "prompt_tokens": 1539,
+  "completion_tokens": 233,
+  "latency_ms": 1437,
+  "cost_usd": 0.00037065,
+  "created": "2026-11-10T05:37:57.526889Z",
+  "error": null
+}

@@ -1,0 +1,21 @@
+{
+  "model_id": "anthropic-mid",
+  "pinned_version": "claude-sonnet-5-5",
+  "task_id": "t1_telegram",
+  "source_id": "kefm-2026-akutplan-elnettet-vedtaget",
+  "archetype": null,
+  "prompt_sha256": "af57b4575ea229154e6e16b03d601c8ba7ccaa8e90fbfd97d3b218ff258cb2cc",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 3560,
+    "reasoning_effort": "low"
+  },
+  "text": "Et bredt flertal i Folketinget har vedtaget akutplanen for elnettet, og dermed er rammerne for en ny prioriteringsmodel på plads. Modellen erstatter først-til-mølle-princippet og giver Energinet og netvirksomhederne mulighed for at prioritere, hvem der får adgang til den begrænsede plads i nettet. Loven træder efter planen i kraft 12. oktober, og de nye regler kan bruges, næste gang der i efteråret fordeles kapacitet. Klima-, energi- og forsyningsminister Samira Nawa kalder planen \"kun første skridt\". Venstre og Konservative understreger, at den skal være midlertidig. Konservative peger på et genbesøg i 2027, hvor ministerens mulighed for at pålægge netselskaberne at anmelde nye produkter skal drøftes. Enhedslisten og Alternativet fremhæver, at datacentre kommer bagerst i køen.",
+  "prompt_tokens": 3790,
+  "completion_tokens": 332,
+  "latency_ms": 2786,
+  "cost_usd": 0.0109,
+  "created": "2026-11-10T07:14:44.694920Z",
+  "error": null
+}

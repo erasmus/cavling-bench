@@ -1,0 +1,21 @@
+{
+  "model_id": "nebius-gpt-oss-120b",
+  "pinned_version": "openai/gpt-oss-120b",
+  "task_id": "t6_lydmanus",
+  "source_id": "fm-2026-finanslovforslag-2027",
+  "archetype": "lynposten",
+  "prompt_sha256": "9e0a0498c70323cd46b5ab9b6cdbbba0132fef4ba2b72a27366a94e84b4dfec5",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 2120,
+    "reasoning_effort": "low"
+  },
+  "text": "Tre millioner fem hundrede tusind kroner i nye midler til forsvar betyder, at Danmark vil nå tre komma fem procent af bruttonationalproduktet i to tusind tredive, ifølge regeringens finanslovforslag for to tusind syvogtyve. Samtidig løfter regeringen den månedlige folkepension for dem med mindst med godt et tusind seks hundrede kroner, svarende til et tusind kroner efter skat. Skolen får en investering på en komma to milliarder kroner i to tusind syvogtyve og en komma en milliarder kroner årligt frem til to tusind tredive. Elektrificeringen får seks hundredetusind kroner i to tusind syvogtyve og otte hundredetusind kroner årligt derefter. Gratis kollektiv transport for unge under toogtyve år starter med otte hundrede millioner kroner i to tusind syvogtyve og en milliard kroner i helårsniveau fremover. Ifølge finansminister Peter Hummelgaard skal disse tiltag styrke trygheden og den grønne omstilling i hele landet.",
+  "prompt_tokens": 1999,
+  "completion_tokens": 286,
+  "latency_ms": 1557,
+  "cost_usd": 0.00047144999999999994,
+  "created": "2026-11-10T05:38:42.378635Z",
+  "error": null
+}

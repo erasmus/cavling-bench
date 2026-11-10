@@ -1,0 +1,21 @@
+{
+  "model_id": "nebius-qwen3-235b",
+  "pinned_version": "Qwen/Qwen3-235B-A22B-Instruct-2507",
+  "task_id": "t4_versionering",
+  "source_id": "politi-2026-oestjylland-bedrageri-aeldre",
+  "archetype": "landsavisen",
+  "prompt_sha256": "e18eb8437414f2700c123ac412d8c994ce187e53228f6bf495dac95b5895f7a7",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 1025,
+    "reasoning_effort": null
+  },
+  "text": "En 32-årige mand er idømt et år og seks måneders fængsel efter at have begået bankbudsbedragerier mod 48 ældre borgere, som han samlet har svindlet for 270.000 kroner. Dommen blev afsagt ved Retten i Aarhus, hvor manden også erkendte forsøg på at bedrage yderligere cirka 150 ældre gennem telefonen. Svindlen foregik i samarbejde med flere medgerningsmænd, hvor den dømte ofte agerede bankbud og hentede kundernes kort og pinkoder hos deres hjem.\n\nBedragerierne foregik ved, at offerne modtog opkald fra personer, der udgav sig for at være fra deres bank, og som overtalte dem til at aflevere kort og koder til et påstået bankbud. Den 32-årige stod selv for hentningen i de fleste tilfælde, hvorefter han eller andre i netværket hævede penge fra konti. Ifølge anklageskriftet var flere af handlingerne planlagt i fællesskab med en større gruppe, hvor han sjældent var den, der ringede op.\n\nAnklager Jakob Christensen fra Anklagemyndigheden ved Østjyllands Politi siger, at myndighederne ser alvorligt på sådanne sager, da ofrene ofte er ældre og særligt sårbare. Han peger på, at tiltagende bevidsthed blandt borgerne har hjulpet med at afsløre svindlen. – Mange har fået øjnene op for, at man skal smække røret på, når en ukendt ringer og udgiver sig for at være fra banken, siger han.\n\nDen 32-årige blev anholdt den 28. januar i Højbjerg, hvor politiet fandt ham i besiddelse af kontanter og værdigenstande, der formodes at stamme fra svindel. To uger senere blev fem medgerningsmænd anholdt i en koordineret aktion. Efterforskningen kører stadig. Manden, der har siddet varetægtsfængslet siden anholdelsen, skal forblive i varetægt frem mod afsoning. Han er også blevet dømt til at betale erstatning til ofrene. Kendelsen om fortsat varetægt er anket til landsretten.",
+  "prompt_tokens": 1993,
+  "completion_tokens": 610,
+  "latency_ms": 9392,
+  "cost_usd": 0.0007646,
+  "created": "2026-11-10T05:43:02.770948Z",
+  "error": null
+}

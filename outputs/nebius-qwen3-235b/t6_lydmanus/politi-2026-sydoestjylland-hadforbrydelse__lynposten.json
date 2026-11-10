@@ -1,0 +1,21 @@
+{
+  "model_id": "nebius-qwen3-235b",
+  "pinned_version": "Qwen/Qwen3-235B-A22B-Instruct-2507",
+  "task_id": "t6_lydmanus",
+  "source_id": "politi-2026-sydoestjylland-hadforbrydelse",
+  "archetype": "lynposten",
+  "prompt_sha256": "b7ed4541e6817a0e2f68220f026625166dfa6531fc68db4bf1ed9275dc24d563",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 620,
+    "reasoning_effort": null
+  },
+  "text": "Tre unge mænd dømt for vold og hadforbrydelse i Horsens. To mænd på atten år og en på sytten år er idømt fængselsstraffe. De stod tiltalt for flere voldsepisoder i januar to tusind seksten. Den ene attenårige blev idømt et år og tre måneders fængsel. Han får også opholdsforbud i nattelivet i seks måneder. Og han udvises fra Danmark med indrejseforbud i seks år. Han blev fængslet med det samme. Den syttenårige blev idømt ti måneders fængsel. Den anden attenårige fik tre måneders fængsel og en advarsel om udvisning. Han modtog dommen. De to andre udbad sig betænkningstid. De blev blandt andet dømt for grov vold med kniv og peberspray. Volden rettede sig mod to kvinder ved banegården. De blev angrebet fordi de er lesbisk. Retten vurderede, at det var en hadforbrydelse. Ifølge anklagemyndigheden viser dommen, at ingen skal udsættes for vold på grund af seksuel orientering. Det siger anklagerfuldmægtig Thomas Vestergaard fra Sydøstjyllands Politi.",
+  "prompt_tokens": 1454,
+  "completion_tokens": 336,
+  "latency_ms": 21245,
+  "cost_usd": 0.0004923999999999999,
+  "created": "2026-11-10T05:45:44.757304Z",
+  "error": null
+}

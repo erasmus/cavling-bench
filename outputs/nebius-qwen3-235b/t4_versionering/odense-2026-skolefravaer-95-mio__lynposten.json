@@ -1,0 +1,21 @@
+{
+  "model_id": "nebius-qwen3-235b",
+  "pinned_version": "Qwen/Qwen3-235B-A22B-Instruct-2507",
+  "task_id": "t4_versionering",
+  "source_id": "odense-2026-skolefravaer-95-mio",
+  "archetype": "lynposten",
+  "prompt_sha256": "b5321f9f54a3b7ad8fc89ef7a42df302988432ff5ebfc722c14ba844230ba05b",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 1025,
+    "reasoning_effort": null
+  },
+  "text": "9,5 millioner til at stoppe skolefravær i Odense\n\nKnap hver femte elev i Odense har mere end 10 procent skolefravær. Nu sætter Odense Kommune 9,5 millioner kroner årligt af til at tackle problemet. Pengene skal hjælpe børn og unge tilbage i skole og gøre det nemmere for forældre at få støtte.\n\nDer oprettes en fraværslinje i starten af 2027. Her kan forældre ringe og få råd og vejledning. Familier med særligt bekymrende fravær får en fast tovholder. Den person koordinerer indsatsen mellem skole, myndigheder og andre fagfolk.\n\nBrian Dybro, børn- og ungerådmand (SF), kalder fraværet katastrofalt. Det gælder for barnet, familien og klassen. Han siger, at hjælpen nu kommer tidligere. Så problemer ikke bliver større.\n\nSkolerne får flere ressourcer. Der er mere støtte til medarbejdere, der arbejder med komplekse fraværsager. Skolerne kan også udvikle bedre tiltag i klassen. Det styrker det tværfaglige samarbejde omkring barnet.\n\nKristian Fahnøe Munksgaard, udviklingschef i Familie- og Forebyggelsesafdelingen, siger, at skolefravær sjældent handler om manglende lyst. Ofte skyldes det mistrivsel eller andre udfordringer. Derfor skal hjælpen hænge sammen på tværs af fag.\n\nIndsatsen fokuserer på tidlig opsporing. Jo tidligere myndighederne griber ind, jo større er chancen for at skabe trivsel og skolegang igen.",
+  "prompt_tokens": 1971,
+  "completion_tokens": 456,
+  "latency_ms": 8210,
+  "cost_usd": 0.0006678,
+  "created": "2026-11-10T05:42:40.688197Z",
+  "error": null
+}

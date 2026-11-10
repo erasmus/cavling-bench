@@ -1,0 +1,21 @@
+{
+  "model_id": "anthropic-frontier",
+  "pinned_version": "claude-fable-5-1",
+  "task_id": "t5_forkortelse",
+  "source_id": "kk-2026-ventetidsgaranti-foedselsgener",
+  "archetype": null,
+  "prompt_sha256": "0cdced6abddeb3fc3c3b9e00e16b6ba274d58bed85606a350bbcca49243af060",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 3860,
+    "reasoning_effort": "low"
+  },
+  "text": "Siden Københavns Kommunes gratis efterfødselstilbud i Vanløse åbnede i foråret 2025, er kvinder med gener som inkontinens, bristninger, delte mavemuskler og rygsmerter strømmet til. Ventetiden er i dag 17 dage til visitationssamtale og yderligere 44 dage til afklarende samtale og undersøgelse. Partierne bag den nye budgetaftale indfører derfor en ventetidsgaranti: første samtale efter maksimalt 7 dage og undersøgelse senest 3 uger senere. Kan kommunen ikke overholde garantien, tilbydes forløb hos en privat leverandør.\n\nSundheds- og omsorgsborgmester Jens-Kristian Lütken (V) kalder det Danmarks mest ambitiøse garanti. Overborgmester Sisse Marie Welling (SF) og Alexander Ryle, gruppeformand for Liberal Alliance i Københavns Borgerrepræsentation, bakker op; Ryle understreger, at det handler om mennesket før systemet.\n\nFørste samtale varetages af gynækologisk obstetriske fysioterapeuter, som giver rådgivning og øvelser til hjemmet.\n\nI år kan Sundheds- og Omsorgsforvaltningen hjælpe omtrent 800 kvinder, næste år godt 1.000. Fremskrivninger viser behov for yderligere 500 i 2027, i alt 1.500. Kommunen står selv for 320 nye forløb, mens 180 ventes varetaget af private leverandører, som kommunen fører tilsyn med.\n\nBudgetaftalen afsætter knap 12,5 mio. kroner over fire år oven i knap 19 mio. kroner fra tidligere aftaler.\n\nForslaget fik opbakning ved budgetforhandlingerne i efteråret 2024. Ved Budget 2026 i efteråret 2025 blev der afsat midler til 800 forløb i 2026 og 1.040 årligt i 2027–2028, og målgruppen udvidet til kvinder, der fødte for 3 år siden, i 2026, 5 år fra 2027 og uden loft fra 2028. Ventetidsgarantien blev vedtaget ved Overførselssagen i foråret 2026; med budgetaftalen for 2027 ventes 1.500 kvinder hjulpet fra næste år.",
+  "prompt_tokens": 2545,
+  "completion_tokens": 2111,
+  "latency_ms": 20486,
+  "cost_usd": 0.131,
+  "created": "2026-11-10T07:26:16.070984Z",
+  "error": null
+}

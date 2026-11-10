@@ -1,0 +1,21 @@
+{
+  "model_id": "anthropic-frontier",
+  "pinned_version": "claude-fable-5-1",
+  "task_id": "t5_forkortelse",
+  "source_id": "fm-2026-2035-plan",
+  "archetype": null,
+  "prompt_sha256": "72fe56f89919949d56b729a1c6042be086c03ee674e89d789a409e2c02ef0371",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 3860,
+    "reasoning_effort": "low"
+  },
+  "text": "Regeringen præsenterer en 2035-plan, der prioriterer midler til velfærd, sikkerhed og klima i en mere usikker verden. Danmark har et stærkt økonomisk udgangspunkt med offentlige overskud for niende år i træk – de seneste seks med det højeste overskud i EU.\n\nForsvarsudgifterne er øget fra 1,36 pct. af BNP i 2022 til forventet 3½ pct. af BNP i år. Heraf er ca. 70 mia. kr. afsat under Ukrainefondens militære ramme i 2023-2028. Regeringen vil løfte udgifterne yderligere, så Danmark lever op til NATO's 3,5-procent målsætning allerede i 2030.\n\nRegeringen har løftet velfærden i kommuner og regioner og senest indgået aftale om en fødevarecheck. På beredskabsområdet prioriteres en akutpakke på 1,2 mia. kr. allerede i år og et løft på 5 mia. kr. i 2035.\n\nKlimamålet i 2035 om at mindske CO2e-udledningen med 82 pct. i forhold til 1990 tildeles 4 mia. kr. årligt, og ca. 15 mia. kr. (i 2029-2040) afsættes til kystbeskyttelse mod stormflod i Klimatilpasningsplan II.\n\nFinansminister Nicolai Wammen siger, at investeringerne går hånd i hånd med økonomisk ansvarlighed, men at der fremover må prioriteres skarpt. Økonomiminister Stephanie Lose peger på behovet for at sikre arbejdskraft. Udenrigsminister Lars Løkke Rasmussen advarer om, at kassen er så godt som tom, når regningerne er betalt, og at strukturelle udfordringer efter 2035 ikke håndteres med planen.\n\nMålet for den strukturelle saldo på -0,5 pct. af BNP i 2030 fastholdes, og et nyt mål på -0,6 pct. af BNP i 2035 fastsættes.",
+  "prompt_tokens": 2583,
+  "completion_tokens": 711,
+  "latency_ms": 8320,
+  "cost_usd": 0.06138,
+  "created": "2026-11-10T07:25:38.955599Z",
+  "error": null
+}

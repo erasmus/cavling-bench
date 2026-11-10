@@ -1,0 +1,21 @@
+{
+  "model_id": "anthropic-mid",
+  "pinned_version": "claude-sonnet-5-5",
+  "task_id": "t4_versionering",
+  "source_id": "rm-2026-kultur-sundhed-pulje-78-mio",
+  "archetype": "lynposten",
+  "prompt_sha256": "3c16f0be8c4e8ba8953ec8bade132ce65d7a0bd299c7781ca2714315bab6d090",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 4025,
+    "reasoning_effort": "low"
+  },
+  "text": "Region Midtjylland åbner en pulje på 7,8 mio. kr. til projekter, der bruger kultur til at styrke sundheden. Pengene skal give borgere og patienter i hele regionen konkrete tilbud.\n\nKulturaktører kan søge. De skal have en partner fra sundhedsområdet med. Det kan være en kommune eller et hospital.\n\nPuljen støtter projekter inden for fire temaer. Det første er forebyggelse og trivsel, især for børn og unge. Det andet er lindring af symptomer under behandling eller sygdom. Det tredje er mestring og rehabilitering for mennesker med psykisk eller kronisk sygdom. Det fjerde er samarbejde mellem kommuner og hospitaler eller socialområdet.\n\nEt projekt kan løbe i op til tre år. Ansøgere skal mindst søge om 200.000 kr. De skal selv finansiere mindst 25 procent af budgettet.\n\n– Vi ved, at kulturen kan spille en afgørende rolle for vores sundhed og trivsel, siger Per Møller Jensen (S), formand for Region Midtjyllands Udvalg for Regional Udvikling. Han peger på regionens erfaringer de seneste ti år.\n\nNæstformand Vivi Altenburg (DD) vil have løsninger, der virker i hverdagen.\n\n– Vi skal have flere løsninger, der virker i hverdagen, og som kan bruges på tværs af kommuner og institutioner, siger hun.\n\nFristen er 26. august 2026 kl. 12.00. Regionen behandler ansøgningerne i november 2026.\n\nRegionen holder to dialogmøder for kulturaktører og mulige partnere. Det fysiske møde er på Godsbanen i Aarhus 21. maj kl. 10-13. Det digitale møde er 2. juni kl. 13-14.30.\n\nPuljen er en del af regionens indsats for sundhed og kultur. I december sidste år præsenterede regionrådet landets første regionale politik på området.",
+  "prompt_tokens": 2314,
+  "completion_tokens": 699,
+  "latency_ms": 5550,
+  "cost_usd": 0.011618,
+  "created": "2026-11-10T07:17:29.489901Z",
+  "error": null
+}

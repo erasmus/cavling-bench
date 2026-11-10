@@ -1,0 +1,21 @@
+{
+  "model_id": "anthropic-frontier",
+  "pinned_version": "claude-fable-5-1",
+  "task_id": "t4_versionering",
+  "source_id": "ombudsmanden-2026-koebenhavn-laerer-ytringsfrihed",
+  "archetype": "landsavisen",
+  "prompt_sha256": "0cecc115f86e978841f2d54203dd59824c5a257bed3e0f123dfaaf6ba342d453",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 4025,
+    "reasoning_effort": "low"
+  },
+  "text": "Folketingets Ombudsmand har konkluderet, at Københavns Kommune ikke handlede med respekt for og anerkendelse af en folkeskolelærers ytringsfrihed, da kommunen indkaldte hende til en tilrettevisningssamtale efter et avisinterview. Ombudsmanden har henstillet, at kommunen genoptager sagen, og bedt om besked inden tre måneder om, hvad henstillingen giver anledning til.\n\nLæreren havde givet interview til en artikel med overskriften ”Lærer fik hjernerystelse og blå mærker efter slag: ’Som at være i en krigszone’”. Hun fortalte om sine oplevelser med voldelig elevadfærd på den skole, hvor hun tidligere var ansat, og om elevers adfærdsproblemer mere generelt.\n\nUnder samtalen fik hun en tilrettevisning og blev blandt andet opfordret til at holde lav profil med hensyn til kontakt med pressen. Kommunen har siden kaldt opfordringen yderst beklagelig, hvilket ombudsmanden erklærer sig enig i.\n\nKommunen har forklaret, at årsagen til samtalen ikke var lærerens udtalelser, men et pressefoto bragt sammen med artiklen, som hun ikke havde indhentet tilladelse til. Ombudsmanden konkluderer dog på baggrund af rammerne for samtalen og referatet, at forløbet helt berettiget har kunnet opfattes som en negativ ledelsesreaktion på hendes udtalelser. Han peger desuden på, at læreren på forhånd orienterede sin skoleleder om interviewet, uden at lederen efter det oplyste vejledte om optagelse af fotos på skolen.\n\n”Offentligt ansatte har en nu lovfæstet ret til at gøre brug af deres ytringsfrihed – og derved bidrage med deres viden og erfaring til at kvalificere den offentlige debat – uden at blive udsat for negative reaktioner fra ledelsen,” siger Folketingets Ombudsmand, Christian Britten Lundblad. Udtalelserne fremstår efter hans opfattelse klart som fremsat på egne vegne og i kerneområdet for offentligt ansattes ytringsfrihed.\n\nOmbudsmanden finder det også meget uheldigt, at kommunens pressemedarbejdere efterfølgende kontaktede flere medier om lærerens udtalelser. Reglerne om offentligt ansattes ytringsfrihed blev lovfæstet med virkning fra den 1. juli 2025.",
+  "prompt_tokens": 2733,
+  "completion_tokens": 898,
+  "latency_ms": 9096,
+  "cost_usd": 0.07223,
+  "created": "2026-11-10T07:24:09.968317Z",
+  "error": null
+}

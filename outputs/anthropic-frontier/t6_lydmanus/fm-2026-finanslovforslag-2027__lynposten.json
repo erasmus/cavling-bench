@@ -1,0 +1,21 @@
+{
+  "model_id": "anthropic-frontier",
+  "pinned_version": "claude-fable-5-1",
+  "task_id": "t6_lydmanus",
+  "source_id": "fm-2026-finanslovforslag-2027",
+  "archetype": "lynposten",
+  "prompt_sha256": "9e0a0498c70323cd46b5ab9b6cdbbba0132fef4ba2b72a27366a94e84b4dfec5",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 3620,
+    "reasoning_effort": "low"
+  },
+  "text": "Regeringen fremlægger i dag sit forslag til finansloven for 2027. De fattigste folkepensionister får et permanent løft på godt et tusind seks hundrede kroner om måneden. Det svarer til et tusind kroner efter skat.\n\nFolkeskolen og dagtilbud får en komma to milliarder kroner i 2027. Førtidspensionister og udsatte grupper får gratis tandpleje for nul komma seks milliarder kroner. Unge under toogtyve år skal gradvist have gratis kollektiv transport. Det koster otte hundrede millioner kroner i 2027.\n\nForsvaret skal op på tre komma fem procent af bruttonationalproduktet i 2030. Grøn elektrificering får seks hundrede halvtreds millioner kroner.\n\nFinansminister Peter Hummelgaard kalder regeringen stædige optimister. Han siger, at pengene skal hjælpe dem, der har sværest ved at få enderne til at mødes.\n\nSkatte- og vækstminister Jakob Engel-Schmidt lover markante skattelettelser til både virksomheder og almindelige lønmodtagere.",
+  "prompt_tokens": 3087,
+  "completion_tokens": 393,
+  "latency_ms": 5241,
+  "cost_usd": 0.05052,
+  "created": "2026-11-10T07:27:19.255993Z",
+  "error": null
+}

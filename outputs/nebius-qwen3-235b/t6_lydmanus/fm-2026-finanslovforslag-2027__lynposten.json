@@ -1,0 +1,21 @@
+{
+  "model_id": "nebius-qwen3-235b",
+  "pinned_version": "Qwen/Qwen3-235B-A22B-Instruct-2507",
+  "task_id": "t6_lydmanus",
+  "source_id": "fm-2026-finanslovforslag-2027",
+  "archetype": "lynposten",
+  "prompt_sha256": "9e0a0498c70323cd46b5ab9b6cdbbba0132fef4ba2b72a27366a94e84b4dfec5",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 620,
+    "reasoning_effort": null
+  },
+  "text": "Regeringen fremlægger i dag sit forslag til finanslov for to tusind og syvogtyve. Forslaget sætter fokus på tryghed, velfærd og grøn omstilling. Regeringen vil styrke hverdagen for børn, unge og ældre. Der investeres en milliard to hundrede millioner kroner i folkeskolen og dagtilbud. Yderligere seks hundrede millioner kroner går til vederlagsfri tandpleje for førtidspensionister og udsatte grupper. Folkepensionister med laveste indkomst får en månedlig stigning på over et tusind sekshundrede kroner. Forsvarsudgifterne skal stige til tre og et halvt procent af bruttonationalproduktet i to tusind og tredive. Regeringen afsætter otte hundrede millioner kroner til gratis kollektiv transport for unge under toogtyve år. Seks hundrede halvtreds millioner kroner går til elektrificering. Skattelettelser skal gøre det mere attraktivt at arbejde mere. Finansminister Peter Hummelgaard kalder regeringen for stædige optimister. Han siger, pengene skal mærkes i hele landet og gennem hele livet.",
+  "prompt_tokens": 2381,
+  "completion_tokens": 310,
+  "latency_ms": 7384,
+  "cost_usd": 0.0006622,
+  "created": "2026-11-10T05:44:59.354873Z",
+  "error": null
+}

@@ -1,0 +1,21 @@
+{
+  "model_id": "anthropic-mid",
+  "pinned_version": "claude-sonnet-5-5",
+  "task_id": "t5_forkortelse",
+  "source_id": "politi-2026-nsk-tidligere-advokat",
+  "archetype": null,
+  "prompt_sha256": "92dec465b547251ada198a7284ae11baa74101947b5f3c878b6a43e73e0ea1ef",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 3860,
+    "reasoning_effort": "low"
+  },
+  "text": "Retten i Lyngby har onsdag idømt en 53-årig tidligere advokat seks måneders ubetinget fængsel for groft stillingsmisbrug og pligtforsømmelse. Han er indtil videre frakendt retten til at udøve advokatvirksomhed. Sagen er ført af National enhed for Særlig Kriminalitet, NSK.\n\nRetten fandt det bevist, at den tidligere advokat misbrugte sin stilling og afgav urigtige erklæringer til skifteretten for at blive udpeget som kurator i to konkursboer, selv om han var inhabil som følge af forudgående rådgivning.\n\nRetten fandt det desuden bevist, at han misbrugte sin stilling og undlod at opfylde sin pligt som advokat og kurator, da han ikke videregav væsentlige oplysninger om kriminelle forhold begået i de selskaber, han blev kurator for. Retten fandt endvidere, at han med stillingsmisbruget havde til hensigt at skaffe sig selv eller andre en fordel.\n\nInden han blev kurator, havde han rådgivet selskabernes ejer og direktør om, hvordan vedkommende med fordel kunne forholde sig, så der alene ville ske en relativt overfladisk og kortvarig konkursbehandling.\n\nRetten lagde til grund, at stillingsmisbruget vanskeliggjorde og forsinkede en effektiv politiefterforskning, skattemæssig undersøgelse og konkursbehandling af sagen.\n\nSpecialanklager i NSK Konrad Joe Frank udtaler: “I NSK har vi et vedvarende fokus på at sætte ind over for professionelle rådgivere, der med deres handlinger eller undladelser gør det lettere at være kriminel. Derfor er jeg tilfreds med dommen i dag. Dommen viser, at retten ser strengt på, når en advokat og kurator tilsidesætter sine forpligtelser, og understreger, hvor afgørende tilliden til kuratorer er for systemet.”",
+  "prompt_tokens": 1255,
+  "completion_tokens": 703,
+  "latency_ms": 4263,
+  "cost_usd": 0.00954,
+  "created": "2026-11-10T07:18:08.830224Z",
+  "error": null
+}

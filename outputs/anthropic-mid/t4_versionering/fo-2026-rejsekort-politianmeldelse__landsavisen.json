@@ -1,0 +1,21 @@
+{
+  "model_id": "anthropic-mid",
+  "pinned_version": "claude-sonnet-5-5",
+  "task_id": "t4_versionering",
+  "source_id": "fo-2026-rejsekort-politianmeldelse",
+  "archetype": "landsavisen",
+  "prompt_sha256": "4e51f6cecc255ffdbec9a1edcfbaf3a1e7c439bafa593eec6f2cb8d8af498319",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 4025,
+    "reasoning_effort": "low"
+  },
+  "text": "Forbrugerombudsmanden har politianmeldt Rejsekort & Rejseplan A/S for vildledende markedsføring i forbindelse med lukningen af det fysiske rejsekort. Ombudsmanden vurderer, at virksomheden har givet forbrugerne det indtryk, at de var nødt til at bruge en billet-app for fortsat at kunne rejse med offentlig transport. Det er et svar på kampagnen for at få rejsende til at skifte til apps, og på over 35 forbrugerklager over markedsføringen.\n\nIfølge Forbrugerombudsmanden oplyste virksomheden ikke klart og tydeligt, at der stadig ville være et ikke-digitalt alternativ til billet-apps. Flere elementer i kampagnen har været egnet til at vildlede, vurderer ombudsmanden. Rejsekort & Rejseplan har over for ombudsmanden oplyst, at virksomheden ikke mener, at der er tale om vildledende markedsføring.\n\nKampagnen kørte blandt andet på sociale medier, på reklameskilte på stationer og på informationsskærme i busser og tog. Fra oktober 2025 var en række tjek ind-standere desuden overdækket med hætter med teksten: \"Rejs med digitalt. Det fysiske rejsekort lukker. Brug i stedet en af disse billet-apps\". Ifølge anmeldelsen sendte hætterne et signal om, at det fysiske kort ikke længere kunne bruges.\n\nI andre tilfælde stod oplysningen om alternativet kun i Facebook-opslag, hvis forbrugeren trykkede \"se mere\". Det gjaldt blandt andet en video fra Nordjyllands Trafikselskab og en video på DSB's Facebook-side. På en informationsskærm i en bus og på reklameskilte og opslag i metroen fremgik alternativet slet ikke.\n\nOmbudsmanden anser det som en skærpende omstændighed, at kampagnen var omfattende, og at den angår betaling for offentlig transport.\n\nForbrugerombudsmand Torben Jensen siger: \"Markedsføringskampagnen fra Rejsekort & Rejseplan er efter vores vurdering et klart eksempel på vildledning af forbrugerne. Man giver nogle oplysninger, men udelader andre væsentlige oplysninger – for at påvirke en bestemt adfærd hos forbrugeren, i dette tilfælde at skifte til en app i stedet for et fysisk rejsekort.\"",
+  "prompt_tokens": 3039,
+  "completion_tokens": 873,
+  "latency_ms": 6255,
+  "cost_usd": 0.014808,
+  "created": "2026-11-10T07:16:36.055770Z",
+  "error": null
+}

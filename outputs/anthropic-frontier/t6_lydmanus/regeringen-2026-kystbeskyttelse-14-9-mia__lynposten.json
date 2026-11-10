@@ -1,0 +1,21 @@
+{
+  "model_id": "anthropic-frontier",
+  "pinned_version": "claude-fable-5-1",
+  "task_id": "t6_lydmanus",
+  "source_id": "regeringen-2026-kystbeskyttelse-14-9-mia",
+  "archetype": "lynposten",
+  "prompt_sha256": "1ccedf05cfdd5caacbaa2d3482472341397a21e4d36219b9ee85b12d0a2a885c",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 3620,
+    "reasoning_effort": "low"
+  },
+  "text": "Regeringen vil bruge fjorten komma ni milliarder kroner på at beskytte Danmarks kyster. Pengene skal hjælpe kommunerne mod hyppigere stormfloder og vildere vejr.\n\nStormfloder, der i dag ventes én gang hvert hundrede år, vil i år 2100 komme hvert tredje år. Det oplyser regeringen.\n\nEn million danskere bor under en kilometer fra kysten. Op mod hundrede tusinde husstande og virksomheder risikerer oversvømmelser fra havet. Det gælder hundrede femoghalvfjerds tusinde arbejdspladser.\n\nStaten vil betale femogfirs procent af anlægsinvesteringerne. Kommunerne betaler femten procent. Samlet kan det give investeringer på op mod tyve milliarder kroner frem mod 2040.\n\nEn ekspertgruppe skal se på, hvor meget lodsejerne skal betale.\n\nMiljøminister Magnus Heunicke siger, at det ikke længere skal være den enkelte kommune eller husejer, der alene skal kæmpe for at beskytte deres hjem. Han indkalder nu Folketingets partier til forhandlinger.",
+  "prompt_tokens": 2586,
+  "completion_tokens": 416,
+  "latency_ms": 6633,
+  "cost_usd": 0.04666,
+  "created": "2026-11-10T07:27:56.896877Z",
+  "error": null
+}

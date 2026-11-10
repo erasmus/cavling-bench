@@ -1,0 +1,21 @@
+{
+  "model_id": "nebius-qwen3-235b",
+  "pinned_version": "Qwen/Qwen3-235B-A22B-Instruct-2507",
+  "task_id": "t5_forkortelse",
+  "source_id": "politi-2026-sydoestjylland-hadforbrydelse",
+  "archetype": null,
+  "prompt_sha256": "eb6661d343fe6775439ae70ba6dd9268031beae76f66ece3c6864a0aaf36f43c",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 860,
+    "reasoning_effort": null
+  },
+  "text": "Tre unge mænd på henholdsvis 18 år, 18 år og 17 år er dømt ved Retten i Horsens for vold, grov vold og hadforbrydelse samt overtrædelse af våbenlovgivningen i forbindelse med episoder i Horsens i januar 2026. De to 18-årige blev dømt for vold og trusler med kniv under et overfald på en mand i Vitus Beringsparken den 2. januar 2026. Den ene 18-årige blev yderligere dømt for vold mod en mand i nattelivet den 4. januar 2026 på en bar i Horsens. Den samme 18-årige og den 17-årige blev dømt for grov vold som hadforbrydelse den 17. januar 2026 omkring kl. 02.10 ved banegården i Horsens, hvor de råbte homofobiske skældsord mod to kvinder og slog dem med en totenschlæger samt anvendte peberspray mod dem. Retten konstaterede, at volden delvist var begrundet i kvindernes seksuelle orientering. Den 18-årige blev desuden dømt for at have været i besiddelse af peberspray, mens den 17-årige blev dømt for at have været i besiddelse af både totenschlæger og peberspray. Den 18-årige, der blev kendt skyldig i hadforbrydelsen, idømmes et år og tre måneders fængsel, opholdsforbud i nattelivet i seks måneder, udvisning af Danmark med indrejseforbud i seks år og blev fængslet efter dom. Den 17-årige idømmes 10 måneders fængsel. Den anden 18-årige idømmes tre måneders fængsel og en advarsel om udvisning. Den 18-årige med tre måneders fængsel modtog dommen, mens de to andre udbad sig betænkningstid.",
+  "prompt_tokens": 1091,
+  "completion_tokens": 537,
+  "latency_ms": 25246,
+  "cost_usd": 0.0005404,
+  "created": "2026-11-10T05:44:36.992438Z",
+  "error": null
+}

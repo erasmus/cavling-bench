@@ -1,0 +1,21 @@
+{
+  "model_id": "anthropic-frontier",
+  "pinned_version": "claude-fable-5-1",
+  "task_id": "t4_versionering",
+  "source_id": "kk-2026-vandkulturhus-papiroeen",
+  "archetype": "lynposten",
+  "prompt_sha256": "9ffa1b6a712396b9fe579016a0bb1dea8ca1d61a8cdbc8b068d4243482d2ed48",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 4025,
+    "reasoning_effort": "low"
+  },
+  "text": "Københavnerne får 10 nye bassiner den 5. december 2026. Da åbner vandkulturhuset KAI på Papirøen. Huset er på 5.800 kvadratmeter og ligger midt på havnekajen.\n\nNordea-fonden har støttet byggeriet med 546 millioner kroner. Af dem er 25 millioner øremærket bæredygtighed. Pengene har blandt andet betalt for lodret jordvarme. Ti boringer går 250 meter ned i jorden. De holder de udendørs bassiner varme året rundt.\n\nByen mangler svømmeplads. Det siger overborgmester Sisse Marie Welling (SF).\n\n\"København er presset på svømmekapacitet, så det er supervigtigt, at vi nu får nye bassiner for voksne og legebassiner til de mindste,\" siger hun.\n\nStueetagen får et 25-metersbassin, et undervisningsbassin og tre legebassiner. Herfra kan badende gå direkte ud i havnen. Her er badezone og dyppezone ved en træbrygge med udsigt til Skuespilhuset og Operaparken.\n\nPå første etage ligger Dalbassinet mellem husets fem teglstubbe. Her svømmer man under åben himmel i sol, regn og sne. Bassinet Onsen har udsigt over Københavns Havn.\n\nHuset er tegnet af den japanske tegnestue Kengo Kuma & Associates. Navnet KAI betyder hav på japansk. På dansk peger det på husets plads på kajen.\n\nIdéen kommer fra københavnerne selv. I 2015 sendte de 160 forslag til Københavns Kommune. De fleste ønskede en svømmefacilitet med ro og plads til foreningsliv.\n\nKultur-, fritids- og borgerserviceborgmester Christopher Røhl (R) sætter huset på linje med byens store steder.\n\n\"Bryggen, Den Sorte Diamant, Operaen og nu – KAI,\" siger han.\n\nKAI bliver også kulturhus. Det højeste tårn rummer bevægelses- og kulturlokaler. Borgere kan selv sende idéer til kulturprogrammet.\n\nHuset er stadig under opførelse og lukket frem til åbningen. Programmet for indvielsen kommer senere.",
+  "prompt_tokens": 3498,
+  "completion_tokens": 788,
+  "latency_ms": 10074,
+  "cost_usd": 0.07438,
+  "created": "2026-11-10T07:23:39.835685Z",
+  "error": null
+}

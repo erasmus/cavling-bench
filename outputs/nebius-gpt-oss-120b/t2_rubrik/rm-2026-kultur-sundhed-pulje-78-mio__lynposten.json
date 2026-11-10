@@ -1,0 +1,21 @@
+{
+  "model_id": "nebius-gpt-oss-120b",
+  "pinned_version": "openai/gpt-oss-120b",
+  "task_id": "t2_rubrik",
+  "source_id": "rm-2026-kultur-sundhed-pulje-78-mio",
+  "archetype": "lynposten",
+  "prompt_sha256": "c6e06c5860b4b968f525a078bf5d51a5c5e192749c6f749c09a69a7186eefb6b",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 1900,
+    "reasoning_effort": "low"
+  },
+  "text": "RUBRIK: Midtjylland åbner 7,8 mio. kr. pulje for sundhed og kultur  \nUNDERRUBRIK: Puljen på 7,8 millioner kroner skal styrke samarbejdet mellem kultur- og sundhedssektoren og finansiere projekter, der forebygger sygdom, lindrer symptomer og fremmer trivsel i hele regionen.",
+  "prompt_tokens": 1500,
+  "completion_tokens": 592,
+  "latency_ms": 1468,
+  "cost_usd": 0.0005802,
+  "created": "2026-11-10T05:38:13.390864Z",
+  "error": null
+}

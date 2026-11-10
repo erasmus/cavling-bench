@@ -1,0 +1,21 @@
+{
+  "model_id": "anthropic-frontier",
+  "pinned_version": "claude-fable-5-1",
+  "task_id": "t6_lydmanus",
+  "source_id": "dst-2026-inflation-september",
+  "archetype": "lynposten",
+  "prompt_sha256": "38fec05aae24ac799955c90a544d78c5a1fff2dadeb8b75c0a5146444d2c01b1",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 3620,
+    "reasoning_effort": "low"
+  },
+  "text": "Inflationen stiger igen. I september steg forbrugerpriserne med to komma to procent sammenlignet med samme måned sidste år. Det viser nye tal fra Danmarks Statistik. I august var stigningen to komma nul procent.\n\nDet er især brændstof, der trækker priserne op. Transport er den gruppe, der bidrager mest til inflationen i september.\n\nKerneinflationen, altså priserne uden energi og uforarbejdede fødevarer, steg med en komma ni procent. Her er det huslejen, der trækker op.\n\nFra august til september var priserne samlet set uændrede. Brændstof, tøj og flyrejser blev dyrere. Til gengæld faldt priserne på leje af sommerhus, pakkerejser og fødevarer.\n\nI Europa havde Sverige den laveste inflation i august med nul komma tre procent. Rumænien lå højest med seks komma tre procent. For de syvogtyve EU-lande samlet steg inflationen til tre komma to procent i august.",
+  "prompt_tokens": 1806,
+  "completion_tokens": 346,
+  "latency_ms": 4764,
+  "cost_usd": 0.03536,
+  "created": "2026-11-10T07:27:08.537637Z",
+  "error": null
+}

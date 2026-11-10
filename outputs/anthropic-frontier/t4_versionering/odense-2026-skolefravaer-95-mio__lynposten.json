@@ -1,0 +1,21 @@
+{
+  "model_id": "anthropic-frontier",
+  "pinned_version": "claude-fable-5-1",
+  "task_id": "t4_versionering",
+  "source_id": "odense-2026-skolefravaer-95-mio",
+  "archetype": "lynposten",
+  "prompt_sha256": "b5321f9f54a3b7ad8fc89ef7a42df302988432ff5ebfc722c14ba844230ba05b",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 4025,
+    "reasoning_effort": "low"
+  },
+  "text": "Knap hver femte elev i Odense har et bekymrende skolefravær på mere end 10 procent. Nu sætter Odense Kommune 9,5 millioner kroner om året af til at få flere børn tilbage i skole.\n\nBørn- og Ungeudvalget har besluttet at udvide den nuværende indsats mod ufrivilligt skolefravær. Pengene blev afsat med budgetaftalen for 2026.\n\nEt af de nye tiltag er en fraværslinje. Den åbner i starten af 2027. Her kan forældre få råd og vejledning. Familier, hvor fraværet er særligt bekymrende, kan få en fast tovholder. Tovholderen skal skabe overblik og koordinere mellem alle aktører omkring barnet.\n\nSkolerne får også flere ressourcer. De får flere muligheder for at sætte tiltag i gang i klassen. Samtidig får medarbejdere, der hjælper børn med komplekse fraværsudfordringer, flere timer. Indsatsen skal også sikre tidligere opsporing af børn med bekymrende fravær.\n\nBrian Dybro, børn- og ungerådmand (SF), kalder situationen alvorlig.\n\n- Det er katastrofalt, når en elev ikke kommer i skole. Det er det for barnet, det er det for familien, og det er det for klassefællesskabet, siger han.\n\nHan peger på, at mange forældre står i en svær situation og kæmper hver dag for at hjælpe deres barn. Derfor skal hjælpen komme tidligere, før problemerne vokser.\n\nIfølge kommunen handler fraværet ofte ikke om manglende lyst. Bag de tomme stole gemmer der sig ofte mistrivsel eller andre udfordringer.\n\nKristian Fahnøe Munksgaard, udviklingschef i Familie- og Forebyggelsesafdelingen, fremhæver det tværfaglige samarbejde.\n\n- Vi ved, at der ofte er flere årsager til, at et barn udvikler et bekymrende skolefravær. Derfor er det vigtigt, at hjælpen hænger sammen på tværs af fagligheder, og at familierne ikke oplever at stå alene med ansvaret, siger han.\n\nIndsatsen retter sig mod børn og unge, hvor fraværet hænger sammen med mistrivsel eller andre udfordringer.",
+  "prompt_tokens": 2539,
+  "completion_tokens": 818,
+  "latency_ms": 9898,
+  "cost_usd": 0.06629,
+  "created": "2026-11-10T07:24:01.310426Z",
+  "error": null
+}

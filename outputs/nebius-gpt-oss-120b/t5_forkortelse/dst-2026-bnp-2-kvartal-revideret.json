@@ -1,0 +1,21 @@
+{
+  "model_id": "nebius-gpt-oss-120b",
+  "pinned_version": "openai/gpt-oss-120b",
+  "task_id": "t5_forkortelse",
+  "source_id": "dst-2026-bnp-2-kvartal-revideret",
+  "archetype": null,
+  "prompt_sha256": "823b554d4e3321679fe5c98a56b60574262aeeff4cb098f20a35e67f7a3864a4",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 2360,
+    "reasoning_effort": "low"
+  },
+  "text": "BNP steg med 0,9 % i andet kvartal 2026 efter pris‑ og sæsonkorrektion, en opjustering på 0,6 procentpoint grundet nye data fra Industriens produktion og omsætning, Firmaernes køb og salg samt betalingsbalance. Medicinalindustrien løftede BVT med 1,1 % (uden den industri 0,7 %). Samlet vækst i første halvår er 6,0 % i forhold til året før. Beskæftigelsen steg med 0,2 % (7.800 personer) og de præsterede timer med 0,3 %.  \n\nFaste bruttoinvesteringer steg med 1,5 % (opjustering på 0,7 %‑point), primært fra intellektuelle rettigheder (+2,7 %‑point) efter et patentkøb i udlandet, samt fra byggeri (andet end bolig) og anlæg; fald i transportmidler og maskiner.  \n\nOffentligt og privat forbrug var uændret (0,0 %). Husholdningernes forbrug af tjenester steg med 0,8 %, varer faldt med 0,8 % (køretøjer –1,8 %). Sammenlignet med 2025 er husholdningsforbruget +2,8 % og offentligt forbrug +2,0 %.  \n\nImport steg med 1,8 % (opjustering 0,7 %‑point); tjenesteimport +2,6 % (patentkøb) og vareimport +1,1 %. Eksport steg med 1,5 % (opjustering 0,6 %‑point); vareeksport +2,8 % (maskiner), tjenesteeksport –0,5 %.  \n\nLagervirkningsbidrag til BNP er 0,4 % i andet kvartal, men skal fortolkes med forsigtighed pga. usikker sæsonkorrektion.  \n\nDette er anden revision af nationalregnskabet for andet kvartal 2026; BNP‑væksten er nu 0,9 % (opjusteret 0,6 %‑point). Revisionerne skyldes opdaterede kilder og nye sæsonkorrektionsmodeller, som også påvirker tal tilbage til 2024.",
+  "prompt_tokens": 2254,
+  "completion_tokens": 541,
+  "latency_ms": 2011,
+  "cost_usd": 0.0006626999999999999,
+  "created": "2026-11-10T05:38:34.432868Z",
+  "error": null
+}

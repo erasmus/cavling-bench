@@ -1,0 +1,21 @@
+{
+  "model_id": "anthropic-frontier",
+  "pinned_version": "claude-fable-5-1",
+  "task_id": "t4_versionering",
+  "source_id": "dst-2026-offentligt-overskud-2-kvt",
+  "archetype": "lynposten",
+  "prompt_sha256": "3279ad24bfa945bb1e7185aa1f6280d91f107c3a16772fbced6b96c2d715ec94",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 4025,
+    "reasoning_effort": "low"
+  },
+  "text": "Staten tjente 35,5 mia. kr. mere, end den brugte, i andet kvartal 2026. Det viser det nye offentlige kvartalsregnskab, der blev offentliggjort 25. september.\n\nOverskuddet er 12,3 mia. kr. højere end i første kvartal. Det offentlige brugte 379,9 mia. kr. i kvartalet. De to største poster var løn til ansatte på 116,2 mia. kr. og overførsler til husholdningerne på 116,9 mia. kr. Indtægterne landede på 415,3 mia. kr.\n\nAlligevel blev det offentlige fattigere på papiret. Den finansielle nettoformue faldt med 11 mia. kr. Den udgjorde 871 mia. kr. ved kvartalets udgang. Forklaringen er især tab på aktier. Børsnoterede aktier og andre ejerandele faldt 14,1 mia. kr. i værdi. Også statens langfristede obligationer blev dyrere at skylde. Set over et helt år er formuen dog steget med 98,1 mia. kr.\n\nGælden vokser også. ØMU-gælden steg 19,4 mia. kr. til 859,1 mia. kr. Det svarer til 27 pct. af BNP. Staten har udstedt flere lange statsobligationer. Kommuner og regioner har samtidig optaget flere korte lån.\n\nRegnskabet for første kvartal er også rettet. Overskuddet var ikke 9,3 mia. kr., som tidligere opgjort. Det er nu 23,2 mia. kr. Det er 13,9 mia. kr. mere. Forskellen skyldes pensionsafkastskatten. Den er sat op med 10,9 mia. kr.\n\nIndtægterne fra personskatter, selskabsskat og pensionsafkastskat i 2026 bygger på Skatte- og Vækstministeriets seneste Økonomisk Redegørelse. Tallene kan derfor blive rettet igen ved næste opgørelse.\n\nØMU-gælden er en bruttoopgørelse. Den tæller de væsentligste gældsposter i offentlig forvaltning og service. Den tæller ikke de offentlige aktiver med. Derfor kan gælden stige, selv om det offentlige har overskud.",
+  "prompt_tokens": 1930,
+  "completion_tokens": 787,
+  "latency_ms": 9476,
+  "cost_usd": 0.05865,
+  "created": "2026-11-10T07:22:26.925636Z",
+  "error": null
+}

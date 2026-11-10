@@ -1,0 +1,21 @@
+{
+  "model_id": "nebius-qwen3-235b",
+  "pinned_version": "Qwen/Qwen3-235B-A22B-Instruct-2507",
+  "task_id": "t6_lydmanus",
+  "source_id": "kfst-2026-fibernet-prislofter",
+  "archetype": "lynposten",
+  "prompt_sha256": "498e4bf1b34fa2bf386d206b87cff2410a6ca148856f71cbf4b50ebc790c037e",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 620,
+    "reasoning_effort": null
+  },
+  "text": "Treogtyve procent højere priser for fibernet kan forbrugerne og mindre virksomheder forvente de næste fem år. Det viser udkastet til afgørelse fra Konkurrence- og Forbrugerstyrelsen. Prislofterne gælder kun i områder, hvor netejeren har en monopolagtig stilling. Målet er at forhindre for høje priser, når andre udbydere lejer sig ind. Styrelsen tager højde for omkostninger ved beskyttelse af fibernettet mod angreb. Men lejepriserne dækker ikke sikkerhed for mobilnet. For TDC gælder reglerne kun for en lille del af forretningen. Mobilpriser og fiberleje uden for hovedstaden er ikke påvirket. Afgørelserne bygger på grundige analyser og høringer. De sendes nu til Europa Kommissionen for kontrol. Styrelsen forventer, at priserne stiger grundet højere udstyrsomkostninger, stigende renter og krav om netbeskyttelse. Afgørelserne gælder for tretten selskaber. Fem selskaber får godkendt egne tilsagn. Otte får pålagt forpligtelser. Selskaberne kan klage til Teleklagenævnet.",
+  "prompt_tokens": 2182,
+  "completion_tokens": 331,
+  "latency_ms": 9450,
+  "cost_usd": 0.000635,
+  "created": "2026-11-10T05:45:08.806224Z",
+  "error": null
+}

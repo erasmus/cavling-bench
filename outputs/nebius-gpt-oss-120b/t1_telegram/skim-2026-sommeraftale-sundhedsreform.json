@@ -1,0 +1,21 @@
+{
+  "model_id": "nebius-gpt-oss-120b",
+  "pinned_version": "openai/gpt-oss-120b",
+  "task_id": "t1_telegram",
+  "source_id": "skim-2026-sommeraftale-sundhedsreform",
+  "archetype": null,
+  "prompt_sha256": "f419fc2cdc9278b531043df38578bede7e5dd7aa1a3b58ae3f80000cbea6ce17",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 2060,
+    "reasoning_effort": "low"
+  },
+  "text": "Regeringen, Danske Regioner og KL har i dag underskrevet en sommeraftale, der giver sundhedsreformen et løft på knap 800 millioner kroner i 2027 og øger bevillingen til 1,1 milliard kroner årligt fra 2030. Aftalen fastlægger de første kronikerpakker for KOL‑ og kroniske lænderygsmerter‑patienter fra 2027, med ret til behandlingsplan og forebyggelsestilbud inden for 21 dage, samt udvidet 96‑timmers behandlingsansvar efter udskrivelse for ældre medicinske og visse psykiatriske patienter. Den understøtter også den første nationale sundhedsplan 2027‑2030, et kvalitetsløft på nye sundheds‑ og omsorgspladser, frit valg af opholdssted, befordring uden egenbetaling, justering af speciallægestillingslofter og 128 millioner kroner til at reducere ventetider hos praktiserende speciallæger. (115 ord)",
+  "prompt_tokens": 2028,
+  "completion_tokens": 275,
+  "latency_ms": 1166,
+  "cost_usd": 0.00046919999999999997,
+  "created": "2026-11-10T05:38:01.641096Z",
+  "error": null
+}

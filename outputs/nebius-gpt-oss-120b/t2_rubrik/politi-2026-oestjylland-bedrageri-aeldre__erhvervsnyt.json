@@ -1,0 +1,21 @@
+{
+  "model_id": "nebius-gpt-oss-120b",
+  "pinned_version": "openai/gpt-oss-120b",
+  "task_id": "t2_rubrik",
+  "source_id": "politi-2026-oestjylland-bedrageri-aeldre",
+  "archetype": "erhvervsnyt",
+  "prompt_sha256": "e2e4038549cb0a3bf8528c0e0f87bfbe68dd8ed9281956bf575a75ededf3cf9a",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 1900,
+    "reasoning_effort": "low"
+  },
+  "text": "RUBRIK: 32-årig får 1,5 år for svindel mod 48 ældre  \nUNDERRUBRIK: Dommen i Aarhus fastslår, at manden svindlede 270.000 kr fra 48 ældre og forsøgte at bedrage yderligere 150, mens han forbliver varetægtsfængslet.",
+  "prompt_tokens": 1715,
+  "completion_tokens": 174,
+  "latency_ms": 911,
+  "cost_usd": 0.00036165,
+  "created": "2026-11-10T05:38:11.426990Z",
+  "error": null
+}

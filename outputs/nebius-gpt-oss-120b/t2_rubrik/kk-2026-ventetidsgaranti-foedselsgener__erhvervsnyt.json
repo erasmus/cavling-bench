@@ -1,0 +1,21 @@
+{
+  "model_id": "nebius-gpt-oss-120b",
+  "pinned_version": "openai/gpt-oss-120b",
+  "task_id": "t2_rubrik",
+  "source_id": "kk-2026-ventetidsgaranti-foedselsgener",
+  "archetype": "erhvervsnyt",
+  "prompt_sha256": "e7ef7b2559aae035d1247dac8076c431fb44fe8f9231b9e286bd850db32b4ad6",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 1900,
+    "reasoning_effort": "low"
+  },
+  "text": "RUBRIK: København indfører ventetidsgaranti for fødselsgener  \nUNDERRUBRIK: Kvinder får første samtale inden 7 dage og undersøgelse inden 3 uger; kommunen afsætter 12,5 mio. kr. til udvidelse af tilbuddet til 1.500 kvinder.",
+  "prompt_tokens": 1933,
+  "completion_tokens": 389,
+  "latency_ms": 1168,
+  "cost_usd": 0.0005233499999999999,
+  "created": "2026-11-10T05:38:08.806112Z",
+  "error": null
+}

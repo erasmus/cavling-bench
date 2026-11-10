@@ -1,0 +1,21 @@
+{
+  "model_id": "anthropic-frontier",
+  "pinned_version": "claude-fable-5-1",
+  "task_id": "t2_rubrik",
+  "source_id": "nationalbanken-2026-digitale-betalinger-beredskab",
+  "archetype": "erhvervsnyt",
+  "prompt_sha256": "dc5756c0584013b4d41919b3c3efec1656c76b108fa4ad3d55d0fe580c8f07da",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 3400,
+    "reasoning_effort": "low"
+  },
+  "text": "RUBRIK: Kontanter nede på 9 pct. af betalinger i butikkerne\nUNDERRUBRIK: Nationalbanken: Wallets står nu for hver tredje betaling i fysisk handel, og flere butikker bør tilslutte sig offline-kortberedskabet efter Nets-nedbrud.",
+  "prompt_tokens": 2811,
+  "completion_tokens": 115,
+  "latency_ms": 3577,
+  "cost_usd": 0.03386,
+  "created": "2026-11-10T07:20:35.094394Z",
+  "error": null
+}

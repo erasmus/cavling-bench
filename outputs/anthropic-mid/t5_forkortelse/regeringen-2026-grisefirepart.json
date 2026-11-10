@@ -1,0 +1,21 @@
+{
+  "model_id": "anthropic-mid",
+  "pinned_version": "claude-sonnet-5-5",
+  "task_id": "t5_forkortelse",
+  "source_id": "regeringen-2026-grisefirepart",
+  "archetype": null,
+  "prompt_sha256": "a6d27bbd41265002bc62d696b22f4847df08ed451d336b0e8da80d798d8b4d3d",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 3860,
+    "reasoning_effort": "low"
+  },
+  "text": "Regeringen nedsætter en firepart for fremtidens griseproduktion med målet om bedre dyrevelfærd og en mere bæredygtig produktion. Fireparten skal bygge videre på traditionen for at samle forskellige interesser om samme bord. Efter nytår sætter Landbrug & Fødevarer, Dyrenes Beskyttelse, Fødevareforbundet NNF, Danmarks Naturfredningsforening, Dansk Erhverv, Dansk Industri og regeringen sig til bordet.\n\nParterne skal i fællesskab finde løsninger, der kan løfte dyrevelfærden og samtidig sikre en stærk og bæredygtig griseproduktion. Opgaverne omfatter også mere økologi, mindre antibiotikaforbrug og at rykke den danske griseproduktion op i værdikæden.\n\nMinisteren for natur og dyrevelfærd, Christian Rabjerg Madsen, siger, at effektivitet aldrig må ske på bekostning af det gode dyreliv. Han peger på, at mange grise har for lidt plads, at omkring 95 procent får klippet en del af halen af, og at millioner af pattegrise dør hvert år. Danmark skal primært opdrætte de grise, landet selv spiser, eller eksporterer som forædlede produkter af høj kvalitet.\n\nUdenrigsminister Lars Løkke Rasmussen oplyser, at antallet af slagtninger og slagteriarbejdere i de seneste 15 år er faldet med omtrent en tredjedel, mens antallet af eksporterede smågrise er mere end tidoblet. Et ekspertpanel skal anvise vejen til mere forædling, bedre dyrevelfærd og bæredygtig produktion.\n\nErhvervs- og konkurrencekraftsminister Martin Lidegaard fremhæver, at regeringen vil præsentere en national strategi for fødevaresektoren.\n\nMiljøminister Maria Reumert Gjerding peger på belastningen af fjorde og kystvande samt naboerne og henviser til erfaringerne fra den grønne trepart.",
+  "prompt_tokens": 1897,
+  "completion_tokens": 733,
+  "latency_ms": 4785,
+  "cost_usd": 0.011124,
+  "created": "2026-11-10T07:18:11.938101Z",
+  "error": null
+}

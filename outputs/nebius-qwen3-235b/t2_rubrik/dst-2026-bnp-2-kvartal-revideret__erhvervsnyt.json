@@ -1,0 +1,21 @@
+{
+  "model_id": "nebius-qwen3-235b",
+  "pinned_version": "Qwen/Qwen3-235B-A22B-Instruct-2507",
+  "task_id": "t2_rubrik",
+  "source_id": "dst-2026-bnp-2-kvartal-revideret",
+  "archetype": "erhvervsnyt",
+  "prompt_sha256": "a0c1c578f6789680a90803f2a2d07f9a2d33d3a238e15838d5d798d160fede0d",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 400,
+    "reasoning_effort": null
+  },
+  "text": "RUBRIK: 0,9 pct. BNP-vækst i 2. kvartal – opjusteret med 0,6 procentpoint  \nUNDERRUBRIK: Medicinalindustrien og byggeri driver væksten, mens forbruget ligger stille. Opjusteringen skyldes bedre data fra industri, handel og udenrigshandel.",
+  "prompt_tokens": 3019,
+  "completion_tokens": 88,
+  "latency_ms": 1150,
+  "cost_usd": 0.0006566,
+  "created": "2026-11-10T05:39:25.446431Z",
+  "error": null
+}

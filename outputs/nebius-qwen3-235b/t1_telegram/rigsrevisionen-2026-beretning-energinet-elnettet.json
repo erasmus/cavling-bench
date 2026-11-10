@@ -1,0 +1,21 @@
+{
+  "model_id": "nebius-qwen3-235b",
+  "pinned_version": "Qwen/Qwen3-235B-A22B-Instruct-2507",
+  "task_id": "t1_telegram",
+  "source_id": "rigsrevisionen-2026-beretning-energinet-elnettet",
+  "archetype": null,
+  "prompt_sha256": "f40bd26879b04efe947fa16ed6b08bb7828c16545fda1c93a364071e91b055af",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 560,
+    "reasoning_effort": null
+  },
+  "text": "Den 9. april 2026 afgav Statsrevisorerne en kritisk beretning til Folketinget om Energinets udbygning af elnettet, hvor 70 % af projekterne er forsinkede og tager gennemsnitligt 80 % længere tid end planlagt. Energinet, der ejes af staten gennem Klima-, Energi- og Forsyningsministeriet, skal ifølge sin plan etablere op til 4.000 km elnet frem mod 2050, men har siden maj 2024 kun færdiggjort 206 km ud af de 490 km, der var behov for pr. 1. januar 2026. Udbygningen er blevet mere end 10 mia. kr. dyrere end beregnet, og hastigheden skal mere end fordobles fra 120 til 250 km årligt for at nå målene. Statsrevisorerne kritiserer, at Energinet mangler klare årsagsforklaringer, og at ministeriet har handlet for sent, selvom det siden 2023 har været orienteret om stigende forsinkelser. Ministeriet igangsatte først 1. februar 2026 en ekstern analyse, som Rigsrevisionen mente burde være startet tidligere.",
+  "prompt_tokens": 1534,
+  "completion_tokens": 341,
+  "latency_ms": 5770,
+  "cost_usd": 0.0005114,
+  "created": "2026-11-10T05:39:17.995666Z",
+  "error": null
+}

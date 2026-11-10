@@ -1,0 +1,21 @@
+{
+  "model_id": "anthropic-mid",
+  "pinned_version": "claude-sonnet-5-5",
+  "task_id": "t1_telegram",
+  "source_id": "kk-2026-vandkulturhus-papiroeen",
+  "archetype": null,
+  "prompt_sha256": "5eb233ebbedbcb584f7c93a1b807acb7c17c00f745cdbab2bf3fe6b13cd2dd83",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 3560,
+    "reasoning_effort": "low"
+  },
+  "text": "KAI, Københavns nye vandkulturhus på Papirøen, åbner den 5. december 2026 og rummer 10 bassiner inde og ude fordelt på 5.800 m2. Huset er tegnet af japanske Kengo Kuma & Associates, og stueetagen har blandt andet 25-metersbassin, undervisningsbassin og tre legebassiner samt adgang til havnen. På første etage ligger Dalbassinet og bassinet Onsen. Nordea-fonden har støttet projektet med 546 mio. kr., heraf 25 mio. kr. til bæredygtighed. Overborgmester Sisse Marie Welling (SF) peger på presset svømmekapacitet i København. Idéen udspringer af en konkurrence i 2015 med 160 forslag. Huset er fortsat under opførelse og lukket for offentligheden, og programmet for indvielsen offentliggøres senere.",
+  "prompt_tokens": 3028,
+  "completion_tokens": 316,
+  "latency_ms": 2648,
+  "cost_usd": 0.009216,
+  "created": "2026-11-10T07:14:45.310057Z",
+  "error": null
+}

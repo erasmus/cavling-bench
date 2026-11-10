@@ -1,0 +1,21 @@
+{
+  "model_id": "anthropic-frontier",
+  "pinned_version": "claude-fable-5-1",
+  "task_id": "t1_telegram",
+  "source_id": "dst-2026-bnp-2-kvartal-revideret",
+  "archetype": null,
+  "prompt_sha256": "63306dcc1fc78ed5d4f1e592f9c57d1b066f11e97f8eaa952d0d607edf3df39d",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 3560,
+    "reasoning_effort": "low"
+  },
+  "text": "Dansk økonomi voksede med 0,9 pct. i andet kvartal 2026, viser den reviderede opgørelse af nationalregnskabet fra 30. september 2026, hvilket er en opjustering på 0,6 procentpoint i forhold til den første opgørelse. Revisionen skyldes primært nye kildedata, blandt andet fra Industriens produktion og omsætning samt Firmaernes køb og salg. Medicinalindustrien bidrog til væksten; bruttoværditilvæksten steg 1,1 pct. for hele økonomien, men 0,7 pct. uden medicinalindustrien. BNP i første halvår 2026 lå 6,0 pct. over samme periode året før, og væksten i første kvartal er opjusteret til 1,7 pct. Beskæftigelsen steg 0,2 pct., svarende til 7.800 personer. De faste bruttoinvesteringer steg 1,5 pct., mens både offentligt og privat forbrug var uændret på 0,0 pct. Importen steg 1,8 pct. og eksporten 1,5 pct.",
+  "prompt_tokens": 3402,
+  "completion_tokens": 378,
+  "latency_ms": 5111,
+  "cost_usd": 0.05292,
+  "created": "2026-11-10T07:18:58.608982Z",
+  "error": null
+}

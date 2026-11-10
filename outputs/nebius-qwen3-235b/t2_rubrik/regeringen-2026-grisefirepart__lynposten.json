@@ -1,0 +1,21 @@
+{
+  "model_id": "nebius-qwen3-235b",
+  "pinned_version": "Qwen/Qwen3-235B-A22B-Instruct-2507",
+  "task_id": "t2_rubrik",
+  "source_id": "regeringen-2026-grisefirepart",
+  "archetype": "lynposten",
+  "prompt_sha256": "595eec0a17ac22bd293f20ac0d28e682c204b9aae545721d244e990c88d5c777",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 400,
+    "reasoning_effort": null
+  },
+  "text": "RUBRIK: Regeringen nedsætter grisefirepart for bedre dyrevelfærd  \nUNDERRUBRIK: Firepartet skal løfte dyrevelfærden, mindske miljøbelastningen og styrke den danske griseproduktion – med Landbrug & Fødevarer, erhvervsliv og miljøorganisationer om bord.",
+  "prompt_tokens": 1742,
+  "completion_tokens": 89,
+  "latency_ms": 1649,
+  "cost_usd": 0.0004018,
+  "created": "2026-11-10T05:40:14.531803Z",
+  "error": null
+}

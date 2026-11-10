@@ -1,0 +1,21 @@
+{
+  "model_id": "nebius-gpt-oss-120b",
+  "pinned_version": "openai/gpt-oss-120b",
+  "task_id": "t6_lydmanus",
+  "source_id": "politi-2026-nsk-cpr-opslag",
+  "archetype": "lynposten",
+  "prompt_sha256": "0905497bb2d78c54998299436f79a09c994b0cebe2f4826eb44b07dc1ac09878",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 2120,
+    "reasoning_effort": "low"
+  },
+  "text": "Tre år og seks måneder fængsel for en 27‑årig fra Storkøbenhavn. Han blev dømt i onsdags ved Københavns Byret for at muliggøre personfarlig kriminalitet ved at udnytte sin stilling som studentermedhjælper i Københavns Kommune. Fra juni tolv århundrede og tre årti til juli tolv århundrede og fire årti foretog han uberettigede opslag i Det Centrale Personregister. Han solgte oplysninger om bopælsadresser og familienetværk til kriminelle. Oplysningerne blev brugt i fireogtredive forsøg på grov vold. Specialanklager Rikke Holm Schønsted sagde, at den dømte havde forsæt til at facilitere planlægning af kriminalitet. Anklager Tine Graakjær understregede, at retten fandt ham skyldig i medvirken, selvom han ikke planlagde selve handlingerne. Ifølge National enhed for Særlig Kriminalitet er dette en særlig sag uden tidligere retspraksis. Den dømte har taget betænkningstid for eventuel anke.",
+  "prompt_tokens": 1508,
+  "completion_tokens": 335,
+  "latency_ms": 1408,
+  "cost_usd": 0.0004272,
+  "created": "2026-11-10T05:38:44.843509Z",
+  "error": null
+}

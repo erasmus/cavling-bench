@@ -1,0 +1,21 @@
+{
+  "model_id": "anthropic-mid",
+  "pinned_version": "claude-sonnet-5-5",
+  "task_id": "t5_forkortelse",
+  "source_id": "fo-2026-rejsekort-politianmeldelse",
+  "archetype": null,
+  "prompt_sha256": "58a3fa895aa68917ef89169643d13d5252e3ec7aae2fad5a7ea64fb7ee1a405c",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 3860,
+    "reasoning_effort": "low"
+  },
+  "text": "Forbrugerombudsmanden politianmelder Rejsekort & Rejseplan A/S for vildledende markedsføring. Ifølge ombudsmanden har virksomheden givet forbrugerne det indtryk, at de var nødt til at bruge en billet-app for fremover at kunne rejse med offentlig transport, når det fysiske rejsekort lukkede. Virksomheden oplyste ikke klart og tydeligt, at der stadig ville være et ikke-digitalt alternativ. Ombudsmanden vurderer, at flere elementer i kampagnen har været egnet til at vildlede, og ser det som en skærpende omstændighed, at kampagnen var så omfattende og angår betaling for noget så basalt som offentlig transport. Kampagnen kørte blandt andet på sociale medier, reklameskilte på stationer, informationsskærme i busser og tog samt hætter over tjek ind-standere.\n\nAnmeldelsen fremhæver bl.a. fem eksempler:\n- Videoen \"Dit fysiske kort lukker - Hent Rejsekort-appen\" på Nordjyllands Trafikselskabs Facebook-side og på en busskærm. Oplysningen om alternativet fremgik kun af Facebook-opslaget, hvis man trykkede \"se mere\".\n- Videoen \"Har du sagt farvel til dit Rejsekort? Skift til appen\" på Fynbus', Midttrafiks og Sydtrafiks kanaler.\n- Hætter på standere fra oktober 2025 med teksten \"Rejs med digitalt…\", også vist i en video på DSB's Facebook-side.\n- Opslag i metroen med \"RIP fysisk Rejsekort og DOT-app\".\n- Reklameskilte med \"Det fysiske Rejsekort checker snart ud…\".\n\nOver 35 forbrugere har klaget. Virksomheden mener ikke, markedsføringen er vildledende.\n\nForbrugerombudsmand Torben Jensen kalder kampagnen et klart eksempel på vildledning, hvor væsentlige oplysninger er udeladt, så forbrugerne ikke kunne vælge på oplyst grundlag. Han henviser til markedsføringslovens §§ 5, stk. 1, og 6, stk. 1.",
+  "prompt_tokens": 2607,
+  "completion_tokens": 785,
+  "latency_ms": 5453,
+  "cost_usd": 0.013064,
+  "created": "2026-11-10T07:17:49.865355Z",
+  "error": null
+}

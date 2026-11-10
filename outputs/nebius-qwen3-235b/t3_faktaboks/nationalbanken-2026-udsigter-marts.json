@@ -1,0 +1,21 @@
+{
+  "model_id": "nebius-qwen3-235b",
+  "pinned_version": "Qwen/Qwen3-235B-A22B-Instruct-2507",
+  "task_id": "t3_faktaboks",
+  "source_id": "nationalbanken-2026-udsigter-marts",
+  "archetype": null,
+  "prompt_sha256": "c8a53826a36cac90b19c0cbdc9c10a538368a99e760126bf36c2a8e9334238af",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 575,
+    "reasoning_effort": null
+  },
+  "text": "- Nationalbanken offentliggjorde sin prognose for dansk økonomi i dag.  \n- Inflationen forventes at være 1,8 pct. i år, 2,0 pct. i 2027 og 1,9 pct. i 2028.  \n- I et risikoscenarie kan inflationen i år nå 4,5 pct. ved begrænset olie- og gasforsyning fra Den Persiske Golf.  \n- Danmarks BNP forventes at vokse med 1,8 pct. i år og næste år og 2 pct. i 2028.  \n- Forsvarsudgifterne er løftet permanent med 75 mia. kr. i forhold til før Ruslands invasion af Ukraine.",
+  "prompt_tokens": 1126,
+  "completion_tokens": 179,
+  "latency_ms": 13751,
+  "cost_usd": 0.0003326,
+  "created": "2026-11-10T05:40:50.620546Z",
+  "error": null
+}

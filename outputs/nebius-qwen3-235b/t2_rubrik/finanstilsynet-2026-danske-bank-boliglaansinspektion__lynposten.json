@@ -1,0 +1,21 @@
+{
+  "model_id": "nebius-qwen3-235b",
+  "pinned_version": "Qwen/Qwen3-235B-A22B-Instruct-2507",
+  "task_id": "t2_rubrik",
+  "source_id": "finanstilsynet-2026-danske-bank-boliglaansinspektion",
+  "archetype": "lynposten",
+  "prompt_sha256": "52b6da0151c3f72844b8611f9d23af74f3e2c42a2f6e04309fcfc6eea9ca1036",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 400,
+    "reasoning_effort": null
+  },
+  "text": "RUBRIK: 4 af 58 boliglån burde ikke være bevilget  \nUNDERRUBRIK: Finanstilsynet pålægger Danske Bank at rette op på mangelfuld dokumentation og skærpet kreditvurdering af højriskokunder med høj gæld og belåning.",
+  "prompt_tokens": 1993,
+  "completion_tokens": 79,
+  "latency_ms": 1729,
+  "cost_usd": 0.000446,
+  "created": "2026-11-10T05:39:37.617511Z",
+  "error": null
+}

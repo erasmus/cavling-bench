@@ -1,0 +1,21 @@
+{
+  "model_id": "anthropic-mid",
+  "pinned_version": "claude-sonnet-5-5",
+  "task_id": "t5_forkortelse",
+  "source_id": "politi-2026-nsk-cpr-opslag",
+  "archetype": null,
+  "prompt_sha256": "c47343722506643b4f3e6dbe835b4226a77bd836fce6f89f736b5c808b9a6841",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 3860,
+    "reasoning_effort": "low"
+  },
+  "text": "En 27-årig mand fra Storkøbenhavn er onsdag ved Københavns Byret idømt fængsel i 3 år og 6 måneder for at muliggøre personfarlig kriminalitet ved opslag i CPR-registret. Sagen er efterforsket af National enhed for Særlig Kriminalitet (NSK).\n\nRetten fandt det bevist, at den 27-årige i perioden fra juni 2023 til juli 2024 misbrugte sin stilling som studentermedhjælper i Københavns Kommune. På kommunens vielseskontor havde han via Det Centrale Personregister (CPR) adgang til blandt andet bopælsadresser og familienetværk på konkrete personer. Oplysningerne solgte han til medgerningsmænd i det kriminelle miljø, og han medvirkede dermed til 34 tilfælde af forsøg på grov vold.\n\nHan blev desuden dømt for at have misbrugt sin offentligt betroede stilling ved de uberettigede CPR-opslag og for uberettiget at have videregivet oplysningerne mod betaling.\n\nSpecialanklager i NSK Rikke Holm Schønsted siger, at den dømte har haft forsæt til at facilitere, at personfarlig kriminalitet kunne planlægges mod konkrete forurettede. Hun er tilfreds med, at retten mener, han kan straffes for medvirken til forsøg på personfarlig kriminalitet ved at sælge oplysningerne.\n\nAnklager i NSK Tine Graakjær kalder det en særlig sag uden lignende retspraksis fra tidligere straffesager. Den dømte har ikke direkte deltaget i planlægningen af konkret kriminalitet, men retten fandt bevist, at han måtte have indset, at oplysningerne skulle bruges til personfarlig kriminalitet.\n\nDen 27-årige har taget betænkningstid i forhold til eventuelt at anke dommen.",
+  "prompt_tokens": 1792,
+  "completion_tokens": 669,
+  "latency_ms": 4196,
+  "cost_usd": 0.010274,
+  "created": "2026-11-10T07:18:07.151741Z",
+  "error": null
+}

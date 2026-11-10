@@ -1,0 +1,21 @@
+{
+  "model_id": "anthropic-frontier",
+  "pinned_version": "claude-fable-5-1",
+  "task_id": "t3_faktaboks",
+  "source_id": "kfst-2026-fibernet-prislofter",
+  "archetype": null,
+  "prompt_sha256": "4404edab87f2a2f3813ebf20441851896253f18e1e8f7e12f69bc680e054cade",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 3575,
+    "reasoning_effort": "low"
+  },
+  "text": "- Konkurrence- og Forbrugerstyrelsen fastsætter de endelige prislofter for de kommende fem år til december.\n- De nye prislofter forventes at blive op til 35 procent højere end de nuværende prislofter, alt efter selskab og område.\n- Der vil blive truffet afgørelser om 13 fibernetselskaber for den kommende femårsperiode.\n- Fem fibernetselskaber – Aura, BornFiber, EnergiFyn, Fibia og Norlys – lægges op til at blive bundet til egne tilsagn.\n- TDC får pålagt forpligtelser, da selskabet ikke har præsenteret tilsagn, som Konkurrence- og Forbrugerstyrelsen kan acceptere.",
+  "prompt_tokens": 2346,
+  "completion_tokens": 259,
+  "latency_ms": 4547,
+  "cost_usd": 0.03641,
+  "created": "2026-11-10T07:21:31.423231Z",
+  "error": null
+}

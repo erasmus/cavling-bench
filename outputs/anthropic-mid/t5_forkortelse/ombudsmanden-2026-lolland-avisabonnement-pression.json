@@ -1,0 +1,21 @@
+{
+  "model_id": "anthropic-mid",
+  "pinned_version": "claude-sonnet-5-5",
+  "task_id": "t5_forkortelse",
+  "source_id": "ombudsmanden-2026-lolland-avisabonnement-pression",
+  "archetype": null,
+  "prompt_sha256": "e47b9ec99ec5c3ec2a0a85a29675d4117b8f29fa9102726b43b828dff01927ef",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 3860,
+    "reasoning_effort": "low"
+  },
+  "text": "Folketingets Ombudsmand indledte i maj 2026 en undersøgelse efter medieomtale af, at Lolland Kommune havde opsagt abonnementer på Lolland-Falsters Folketidende i forlængelse af en artikel i avisen. I sin udtalelse til kommunen fastslår ombudsmanden, at en myndighed har relativt vide rammer i sin administration, men også skal overholde almindelige forvaltningsretlige grundsætninger om saglighed og lighed. En opsigelse af abonnementer må derfor ikke bruges som pression eller \"straffeaktion\" over for pressen.\n\nKommunen har oplyst, at de opsagte abonnementer tilhørte borgmesteren og to byrådsmedlemmer, at opsigelserne skete efter anmodning fra dem, og at formålet efter kommunens opfattelse ikke var at straffe avisen. Ombudsmanden mener dog, at nogle af politikernes udtalelser kan efterlade et andet indtryk. Han går derfor ud fra, at kommunen overvejer, om udtalelserne ændrer grundlaget for dens opfattelse af formålet, og han har bedt om en orientering om resultatet.\n\n\"Det er ikke sagligt, hvis det sker for at straffe eller lægge pres på bestemte journalister eller medier,\" siger ombudsmand Christian Britten Lundblad.\n\nDen 29. april 2026 skrev journalisten.dk, at kommunen havde opsagt borgmesterens abonnement, fordi hun var vred over en kritisk artikel. Hun skrev på sociale medier, at kritikken skal være \"fair, åben og ansvarlig\", og at hun \"overvejer yderligere skridt\". Et byrådsmedlem skrev på Facebook, at han ikke længere ville betale for avisen. Et andet nævnte i en intern mail manglende journalistisk kvalitet som \"dråben\".\n\nMyndigheder må ikke sanktionere mulige brud på de presseetiske regler.",
+  "prompt_tokens": 1936,
+  "completion_tokens": 694,
+  "latency_ms": 4628,
+  "cost_usd": 0.010812,
+  "created": "2026-11-10T07:18:05.129320Z",
+  "error": null
+}

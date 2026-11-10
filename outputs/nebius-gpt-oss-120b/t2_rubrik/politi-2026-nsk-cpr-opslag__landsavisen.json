@@ -1,0 +1,21 @@
+{
+  "model_id": "nebius-gpt-oss-120b",
+  "pinned_version": "openai/gpt-oss-120b",
+  "task_id": "t2_rubrik",
+  "source_id": "politi-2026-nsk-cpr-opslag",
+  "archetype": "landsavisen",
+  "prompt_sha256": "cd834d144baa5e59db8ce6e2c16fbbab7d966d00aeceab3f7573330a6aeab93e",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 1900,
+    "reasoning_effort": "low"
+  },
+  "text": "RUBRIK: 27-årig dømt for at sælge CPR-data til kriminelle  \nUNDERRUBRIK: Københavns Byret idømte en 27-årig studentermedhjælper fra Storkøbenhavn tre år og seks måneder for at misbruge sin stilling til at sælge personfølsomme CPR-oplysninger, der blev brugt i 34 forsøg på grov vold.",
+  "prompt_tokens": 1481,
+  "completion_tokens": 158,
+  "latency_ms": 677,
+  "cost_usd": 0.00031695,
+  "created": "2026-11-10T05:38:10.440897Z",
+  "error": null
+}

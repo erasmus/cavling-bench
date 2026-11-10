@@ -1,0 +1,21 @@
+{
+  "model_id": "anthropic-mid",
+  "pinned_version": "claude-sonnet-5-5",
+  "task_id": "t1_telegram",
+  "source_id": "fo-2026-rejsekort-politianmeldelse",
+  "archetype": null,
+  "prompt_sha256": "be11c21421c063aa6658337bf9aa13ec5fc42c1621bc8c30c578a2c6251b6e6c",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 3560,
+    "reasoning_effort": "low"
+  },
+  "text": "Forbrugerombudsmanden politianmelder Rejsekort & Rejseplan A/S for vildledende markedsføring, fordi virksomheden i en omfattende kampagne gav indtryk af, at forbrugerne skulle bruge en billet-app, når det fysiske rejsekort lukker. Ifølge ombudsmanden fremgik det ikke klart, at et ikke-digitalt alternativ fortsat ville findes. Kampagnen kørte blandt andet på sociale medier, reklameskilte, informationsskærme og hætter over tjek ind-standere fra oktober 2025. Over 35 forbrugere har klaget. Forbrugerombudsmand Torben Jensen kalder sagen \"et klart eksempel på vildledning\" og ser omfanget som skærpende. Rejsekort & Rejseplan mener ikke, at markedsføringen er vildledende.",
+  "prompt_tokens": 2589,
+  "completion_tokens": 306,
+  "latency_ms": 2598,
+  "cost_usd": 0.008238,
+  "created": "2026-11-10T07:14:41.907729Z",
+  "error": null
+}

@@ -1,0 +1,21 @@
+{
+  "model_id": "nebius-gpt-oss-120b",
+  "pinned_version": "openai/gpt-oss-120b",
+  "task_id": "t6_lydmanus",
+  "source_id": "kk-2026-vandkulturhus-papiroeen",
+  "archetype": "lynposten",
+  "prompt_sha256": "1bd15ee58a01eb2440be961d6bc778b95ddc91341834eab3e3773546bdd42a13",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 2120,
+    "reasoning_effort": "low"
+  },
+  "text": "Fem tusind otte hundrede kvadratmeter stort vandkulturhus åbner på Papirøen den femte december. KAI byder på ti bassiner inde og ude, fra 25‑meter svømmehal til legebassiner for de mindste. Overborgmester Sisse Marie Welling siger, at byen har brug for nye svømmefaciliteter og håber, at huset bliver byens nye samlingssted for vandglade københavnere. Kultur‑ og fritidsborgmester Christopher Røhl beskriver KAI som en ny perle på havnen, med motions‑, terapibassin og udendørs bassiner med havudsigt. Nordea‑fonden har bidraget med fem hundrede femogfyrre millioner kroner, hvoraf femogtyve millioner er øremærket til bæredygtighed. Arkitekt Yuki Ikeguchi kalder huset et markant pejlemærke ved havnefronten. Ifølge Danmarks Statistik vil KAI styrke byens svømmekapacitet og fællesskab.",
+  "prompt_tokens": 2375,
+  "completion_tokens": 276,
+  "latency_ms": 1438,
+  "cost_usd": 0.00052185,
+  "created": "2026-11-10T05:38:43.429370Z",
+  "error": null
+}

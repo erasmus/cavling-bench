@@ -1,0 +1,21 @@
+{
+  "model_id": "anthropic-mid",
+  "pinned_version": "claude-sonnet-5-5",
+  "task_id": "t5_forkortelse",
+  "source_id": "jm-2026-nyt-ledelseshold-politi",
+  "archetype": null,
+  "prompt_sha256": "cc9cf5d90e64b0e59d81925622d8eb3a5cd8c6d4dcd0b58be74b94b796b8f7f0",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 3860,
+    "reasoning_effort": "low"
+  },
+  "text": "Der gennemføres en større ledelsesrokade på Justitsministeriets område, fordi åremålsansættelserne for en betydelig del af de øverste chefer udløber. Formålet er at stille det ledelsesmæssigt stærkeste hold for dansk politi og anklagemyndighed. Justitsminister Nicolai Wammen siger, at holdet skal lede frem mod 2030, og at det består af en god blanding af nye og gamle kræfter. Han takker Thorkild Fogde og de øvrige, der forlader deres stillinger.\n\nRokaden indebærer, at Thorkild Fogde går fra rigspolitichef til politidirektør i Københavns Vestegns Politi. Lasse Boje Nielsen går fra rigsadvokat til rigspolitichef. Caroline Østergaard Nielsen, i dag statsadvokat ved Rigsadvokaten, fungerer som rigsadvokat indtil videre. Rasmus Kieffer-Kristensen, tidligere ministerråd ved Danmarks Faste Mission ved FN i New York, bliver chef for PET.\n\nFinn Borch Andersen kommer fra chefposten i PET og bliver politidirektør i Københavns Politi. Steen Bechmann Jacobsen, tidligere statsadvokat, bliver politidirektør i National enhed for Særlig Kriminalitet. Frits Villy Kjeldsen går til Østjyllands Politi, Lene Frank til Syd- og Sønderjyllands Politi og Henriette Rosenborg Larsen til Sydsjællands- og Lolland-Falsters Politi. Brian Sølvberg Fussing bliver direktør i Sydøstjyllands Politi, Lars Kirkegaard i Fyns Politi og Andreas Langsted i Midt- og Vestsjællands Politi.\n\nAnne Marie Roum Svendsen (Nordjylland), Bjørn Tegner Bay (Grønland), Helle Kyndesen (Midt- og Vestjylland) og Martin Preisz Gravesen (Bornholm) udnævnes på ny. Marie Bindslev bliver statsadvokat i København, og Jens-Christian Bülow udnævnes på ny som statsadvokat for Særlig Kriminalitet.",
+  "prompt_tokens": 2219,
+  "completion_tokens": 790,
+  "latency_ms": 4961,
+  "cost_usd": 0.012338,
+  "created": "2026-11-10T07:17:53.475995Z",
+  "error": null
+}

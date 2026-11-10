@@ -1,0 +1,21 @@
+{
+  "model_id": "anthropic-mid",
+  "pinned_version": "claude-sonnet-5-5",
+  "task_id": "t4_versionering",
+  "source_id": "dst-2026-bnp-2-kvartal-revideret",
+  "archetype": "landsavisen",
+  "prompt_sha256": "bf3a136a137883a53626df2901ca8bfbd33f27136f0bb5194ba36e1dc5c58cf6",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 4025,
+    "reasoning_effort": "low"
+  },
+  "text": "Bruttonationalproduktet (BNP) steg med 0,9 pct. i andet kvartal 2026, når der korrigeres for prisudvikling og sæsonbevægelser. Tallet kommer fra den anden offentliggørelse af nationalregnskabet for kvartalet og er 0,6 procentpoint højere end ved første opgørelse. Opjusteringen skyldes primært, at nye kildedata er indarbejdet, især om industriens produktion og omsætning, om firmaernes køb og salg og om betalingsbalance og udenrigshandel.\n\nMedicinalindustrien bidrog til væksten. Bruttoværditilvæksten (BVT) for hele økonomien steg med 1,1 pct., mens den var 0,7 pct., hvis man ser bort fra medicinalindustrien. Ud over den bidrog især den øvrige industri og den offentlige sektor positivt. I første halvår af 2026 er BNP 6,0 pct. højere end i samme periode året før. Beskæftigelsen steg med 0,2 pct., svarende til 7.800 personer, og de præsterede timer steg med 0,3 pct.\n\nDe faste bruttoinvesteringer steg med 1,5 pct., en opjustering på 0,7 procentpoint. Investeringer i intellektuelle rettigheder er revideret fra et fald på 1,2 pct. til en stigning på 1,5 pct., fordi et patentkøb i udlandet er indarbejdet. Købet forklarer også en stor del af væksten i tjenesteimporten på 2,6 pct. Den samlede import steg med 1,8 pct. og eksporten med 1,5 pct.\n\nDet offentlige forbrug og husholdningernes forbrug var begge uændrede. Husholdningerne brugte 0,8 pct. mere på tjenester, men 0,8 pct. mindre på varer. Køb af køretøjer faldt med 1,8 pct. efter en stigning på 12,7 pct. i første kvartal.\n\nLagerændringer bidrog mekanisk beregnet med 0,4 procentpoint til BNP-væksten i andet kvartal og 2,4 i første kvartal. Tallene skal ifølge opgørelsen fortolkes med stor påpasselighed, blandt andet fordi sæsonkorrektionen af lagre er behæftet med betydelig usikkerhed.",
+  "prompt_tokens": 3852,
+  "completion_tokens": 817,
+  "latency_ms": 5147,
+  "cost_usd": 0.015874,
+  "created": "2026-11-10T07:16:09.840486Z",
+  "error": null
+}

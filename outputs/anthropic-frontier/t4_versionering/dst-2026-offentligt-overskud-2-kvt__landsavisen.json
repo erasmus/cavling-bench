@@ -1,0 +1,21 @@
+{
+  "model_id": "anthropic-frontier",
+  "pinned_version": "claude-fable-5-1",
+  "task_id": "t4_versionering",
+  "source_id": "dst-2026-offentligt-overskud-2-kvt",
+  "archetype": "landsavisen",
+  "prompt_sha256": "8f300c61fefa83ad7b8349dbeebf5d22bf5f8518d8270739aa3bd9ca3e5f03e3",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 4025,
+    "reasoning_effort": "low"
+  },
+  "text": "De offentlige finanser viste i andet kvartal 2026 et overskud på 35,5 mia. kr., viser det offentlige kvartalsregnskab, der blev offentliggjort 25. september 2026. Det er 12,3 mia. kr. mere end i første kvartal, hvor overskuddet nu er opgjort til 23,2 mia. kr.\n\nBag overskuddet ligger offentlige indtægter på 415,3 mia. kr. og udgifter på 379,9 mia. kr. De to største udgiftsposter var indkomstoverførsler til husholdningerne på 116,9 mia. kr. og aflønning af ansatte på 116,2 mia. kr. Indtægterne fra personlige indkomstskatter samt selskabs- og pensionsafkastskatten i 2026 er ved denne offentliggørelse baseret på Skatte- og Vækstministeriets seneste Økonomisk Redegørelse.\n\nSelv om saldoen var positiv, faldt den offentlige finansielle nettoformue med 11 mia. kr. i kvartalet til 871 mia. kr. Faldet skyldes hovedsageligt negative omvurderinger af børsnoterede aktier og andre ejerandelsbeviser på 14,1 mia. kr., positive omvurderinger af statens forpligtelser på langfristede statsobligationer samt øvrige negative omvurderinger og mængdemæssige ændringer i finansielle aktiver og passiver. Set over det seneste år er nettoformuen dog steget med 98,1 mia. kr.\n\nØMU-gælden, der er en bruttoopgørelse af offentlig forvaltning og services væsentligste gældsposter i nominel værdi, steg samtidig med 19,4 mia. kr. til 859,1 mia. kr. Det svarer til 27 pct. af BNP ved udgangen af andet kvartal. Stigningen tilskrives især, at staten har udstedt flere statsobligationer med lang løbetid, og at kommuner og regioner har øget deres lån med kort løbetid.\n\nTallene for første kvartal 2026 er desuden revideret markant. Overskuddet er opjusteret med 13,9 mia. kr. fra 9,3 mia. kr. ved sidste offentliggørelse til 23,2 mia. kr. Revisionen forklares med en opjustering af pensionsafkastskatten på 10,9 mia. kr.",
+  "prompt_tokens": 1910,
+  "completion_tokens": 831,
+  "latency_ms": 8727,
+  "cost_usd": 0.06065,
+  "created": "2026-11-10T07:22:28.827135Z",
+  "error": null
+}

@@ -1,0 +1,21 @@
+{
+  "model_id": "anthropic-mid",
+  "pinned_version": "claude-sonnet-5-5",
+  "task_id": "t2_rubrik",
+  "source_id": "dst-2026-ledighed-september",
+  "archetype": "erhvervsnyt",
+  "prompt_sha256": "a3031b6353345a7384ddf5d3cf4ddea856634c05bae72030370f745b69eb7037",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 3400,
+    "reasoning_effort": "low"
+  },
+  "text": "RUBRIK: Ledigheden faldt med 200 til 93.600 fuldtidspersoner i september\nUNDERRUBRIK: Ledighedsprocenten var uændret på 3,1 pct. af arbejdsstyrken fra august til september. Ledigheden steg for 25-29-årige og faldt for 30-39-årige.",
+  "prompt_tokens": 1839,
+  "completion_tokens": 119,
+  "latency_ms": 1477,
+  "cost_usd": 0.004868,
+  "created": "2026-11-10T07:15:01.171030Z",
+  "error": null
+}

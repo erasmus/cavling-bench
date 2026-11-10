@@ -1,0 +1,21 @@
+{
+  "model_id": "nebius-qwen3-235b",
+  "pinned_version": "Qwen/Qwen3-235B-A22B-Instruct-2507",
+  "task_id": "t3_faktaboks",
+  "source_id": "fm-2026-finanslovforslag-2027",
+  "archetype": null,
+  "prompt_sha256": "f52eb64dcd7a7e2f60913d9d8cceb82f1458ccb284e700edcec36551f8812cc7",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 575,
+    "reasoning_effort": null
+  },
+  "text": "- Regeringen vil i 2030 øge forsvarsudgifterne til 3,5 pct. af BNP som reaktion på Ruslands trussel mod Danmarks sikkerhed.  \n- Regeringen investerer 1,2 mia. kr. i 2027 og 1,1 mia. kr. årligt i 2028-2030 i folkeskolen og dagtilbud.  \n- Regeringen afsætter 0,6 mia. kr. i 2027 og 0,9 mia. kr. årligt fra 2028 til vederlagsfri tandpleje for førtidspensionister og udsatte grupper.  \n- Regeringen indfører et permanent løft i folkepensionen på godt 1.600 kr. månedligt for de pensionister, der har mindst.  \n- Regeringen sætter 650 mio. kr. af i 2027 og 850 mio. kr. årligt i 2028-2030 til elektrificering og omstilling fra fossile brændsler.",
+  "prompt_tokens": 2021,
+  "completion_tokens": 269,
+  "latency_ms": 29320,
+  "cost_usd": 0.0005656,
+  "created": "2026-11-10T05:40:55.534044Z",
+  "error": null
+}

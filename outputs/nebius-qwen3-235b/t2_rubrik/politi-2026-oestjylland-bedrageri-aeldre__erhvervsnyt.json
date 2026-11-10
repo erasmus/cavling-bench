@@ -1,0 +1,21 @@
+{
+  "model_id": "nebius-qwen3-235b",
+  "pinned_version": "Qwen/Qwen3-235B-A22B-Instruct-2507",
+  "task_id": "t2_rubrik",
+  "source_id": "politi-2026-oestjylland-bedrageri-aeldre",
+  "archetype": "erhvervsnyt",
+  "prompt_sha256": "e2e4038549cb0a3bf8528c0e0f87bfbe68dd8ed9281956bf575a75ededf3cf9a",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 400,
+    "reasoning_effort": null
+  },
+  "text": "RUBRIK: 32-årig idømt 1,5 år for svindel mod 48 ældre  \nUNDERRUBRIK: Manden svindlet for 270.000 kr. ved at udgive sig for bankbud – og forsøgte yderligere 150 svindelforsøg mod ældre borgere.",
+  "prompt_tokens": 2010,
+  "completion_tokens": 87,
+  "latency_ms": 5826,
+  "cost_usd": 0.0004542,
+  "created": "2026-11-10T05:40:13.475879Z",
+  "error": null
+}

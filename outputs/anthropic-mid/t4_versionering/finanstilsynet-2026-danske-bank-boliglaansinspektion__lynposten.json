@@ -1,0 +1,21 @@
+{
+  "model_id": "anthropic-mid",
+  "pinned_version": "claude-sonnet-5-5",
+  "task_id": "t4_versionering",
+  "source_id": "finanstilsynet-2026-danske-bank-boliglaansinspektion",
+  "archetype": "lynposten",
+  "prompt_sha256": "048073112fbb6bfd46b68a3cb449b0a72262ab77764a1a84ca9da6ab85d014e1",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 4025,
+    "reasoning_effort": "low"
+  },
+  "text": "4 af 58 boliglån i Danske Bank burde ikke have været bevilget. Det har Finanstilsynet konstateret efter en inspektion. Banken har fået et påbud.\n\nTilsynet gennemgik 58 bevillinger. Sagerne var udvalgt blandt kunder med gældsfaktor over 3,5, belåningsgrad over 60 procent og et engagement på over 200.000 kroner. Det er sager med højere risiko end gennemsnittet.\n\nTilsynet peger på høj gældsætning og høj belåning. Det peger også på store fald i rådighedsbeløb, usikkert indkomstgrundlag og begrænset likvid buffer. Banken havde ikke analyseret de risici godt nok. Den havde heller ikke dokumenteret, at kunderne kunne bære lånene.\n\nDanske Bank har en forenklet kreditproces for en særlig gruppe kunder. Banken har defineret dem som særlig robuste. Her fandt tilsynet væsentlige fejl i 6 af 23 sager. Det svarer til 26 procent. Én af sagerne burde ikke have været bevilget.\n\nHos de øvrige kunder var tallet højere. Her var der væsentlige fejl i 13 af 35 sager. Det svarer til 37 procent. Tre af sagerne burde ikke have været bevilget.\n\nDanske Bank har en højere andel af lån med høj gældsfaktor og høj belåningsgrad end de andre banker i undersøgelsen. Bankens data stammer dog fra en senere periode. Udviklingen på boligmarkedet kan have påvirket tallene.\n\nTilsynet har også fundet svagheder i et af bankens kreditindstillingsformater. Det gør det sværere at kontrollere, om bevillingen er korrekt.\n\nPåbuddet kræver, at banken sikrer et korrekt og dokumenteret grundlag for boliglån. Banken skal vurdere hver kundes økonomi individuelt og konkret.\n\nInspektionen ændrer ikke på bankens solvensbehov.",
+  "prompt_tokens": 2625,
+  "completion_tokens": 713,
+  "latency_ms": 5504,
+  "cost_usd": 0.01238,
+  "created": "2026-11-10T07:16:23.197138Z",
+  "error": null
+}

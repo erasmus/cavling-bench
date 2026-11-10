@@ -1,0 +1,21 @@
+{
+  "model_id": "anthropic-frontier",
+  "pinned_version": "claude-fable-5-1",
+  "task_id": "t4_versionering",
+  "source_id": "kk-2026-vandkulturhus-papiroeen",
+  "archetype": "landsavisen",
+  "prompt_sha256": "45f38b792adb7ee477f425cdc57347c7f67bffd12b6e7d6a3e4e8d09893e5d53",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 4025,
+    "reasoning_effort": "low"
+  },
+  "text": "Københavns nye vandkulturhus, KAI, på Papirøen åbner den 5. december 2026. Huset på 5.800 kvadratmeter med ti bassiner inde og ude er resultatet af en idékonkurrence, som Københavns Kommune afholdt i 2015, hvor københavnerne indsendte 160 forslag. Langt størstedelen ønskede en svømmefacilitet med plads til ro og fordybelse samt et mødested for lokalt foreningsliv.\n\nBygningen er tegnet af den japanske tegnestue Kengo Kuma & Associates. Nordea-fonden har støttet projektet med 546 millioner kroner, hvoraf 25 millioner kroner er øremærket til bæredygtighedstiltag. Det har blandt andet muliggjort lodret jordpumpevarme med ti boringer til 250 meters dybde, som opvarmer de udendørs bassiner året rundt. Ejendomsfonden Vandkulturhuset Papirøen er bygherre.\n\nOverborgmester Sisse Marie Welling (SF) peger på, at byen mangler svømmefaciliteter: \"København er presset på svømmekapacitet, så det er supervigtigt, at vi nu får nye bassiner for voksne og legebassiner til de mindste. Jeg håber, at det bliver byens nye samlingssted for vandglade københavnere og gæster.\"\n\nStueetagen rummer et 25-metersbassin, et undervisningsbassin og tre legebassiner, og herfra er der direkte adgang til havnen med badezone og dyppezone ved en træbrygge. På første etage ligger Dalbassinet mellem husets fem teglstubbe og bassinet Onsen, begge under åben himmel.\n\nKAI skal også fungere som kulturhus med aktiviteter om, i, ved og på vandet. I det højeste tårn indrettes bevægelses- og kulturlokaler til kulturhusgæster og foreningsliv, og borgere kan indsende idéer til kulturprogrammet.\n\nKultur-, fritids- og borgerserviceborgmester Christopher Røhl (R) siger: \"Det nye vandkulturhus på Papirøen udspringer af københavnernes egne ønsker, da ideen tog form for over 10 år siden, og bygger samtidig videre på de bedste erfaringer fra aktiveringen af havnen.\"\n\nNavnet KAI betyder hav på japansk. Programmet for indvielsen offentliggøres senere, og huset er lukket for offentligheden frem til åbningen.",
+  "prompt_tokens": 3478,
+  "completion_tokens": 876,
+  "latency_ms": 10324,
+  "cost_usd": 0.07858,
+  "created": "2026-11-10T07:23:42.295871Z",
+  "error": null
+}

@@ -1,0 +1,21 @@
+{
+  "model_id": "anthropic-frontier",
+  "pinned_version": "claude-fable-5-1",
+  "task_id": "t4_versionering",
+  "source_id": "jm-2026-nyt-ledelseshold-politi",
+  "archetype": "lynposten",
+  "prompt_sha256": "5455fcf40c775cb09dba64aa944c2cc42fe168ec29f777842629b55072cc9e76",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 4025,
+    "reasoning_effort": "low"
+  },
+  "text": "Thorkild Fogde stopper som rigspolitichef. Han bliver i stedet politidirektør i Københavns Vestegns Politi. Ny rigspolitichef bliver Lasse Boje Nielsen, der i dag er rigsadvokat.\n\nSkiftet er en del af en stor rokade i toppen af dansk politi og anklagemyndighed. Den kommer, fordi åremålsansættelserne for en betydelig del af de øverste chefer på Justitsministeriets område udløber. Målet er at sætte det stærkeste ledelseshold frem mod 2030.\n\nJustitsminister Nicolai Wammen står bag rokaden.\n\n\"Samlet set er det holdet, som jeg vurderer bedst vil kunne lede politi og anklagemyndighed i de kommende år,\" siger han.\n\nHan takker samtidig Thorkild Fogde og de andre, der forlader deres stillinger, for deres indsats.\n\nLasse Boje Nielsen har tidligere været politidirektør for National enhed for Særlig Kriminalitet. Han har også erfaring fra Danmarks Fængsler, Justitsministeriet og Beskæftigelsesministeriet. Caroline Østergaard Nielsen fungerer som rigsadvokat indtil videre. Hun er i dag statsadvokat ved Rigsadvokaten.\n\nOgså Politiets Efterretningstjeneste får ny chef. Rasmus Kieffer-Kristensen overtager posten. Han kommer fra en stilling som ministerråd ved Danmarks Faste Mission ved FN i New York. Han har tidligere været juridisk chef i PET. Den hidtidige PET-chef Finn Borch Andersen bliver politidirektør i Københavns Politi.\n\nSteen Bechmann Jacobsen bliver politidirektør i National enhed for Særlig Kriminalitet. Han er i dag statsadvokat ved Rigsadvokaten.\n\nFlere politikredse får nye chefer. Frits Villy Kjeldsen rykker til Østjyllands Politi. Lene Frank overtager Syd- og Sønderjyllands Politi. Henriette Rosenborg Larsen skifter til Sydsjællands- og Lolland-Falsters Politi. Brian Sølvberg Fussing bliver politidirektør i Sydøstjyllands Politi. Lars Kirkegaard overtager Fyns Politi, og Andreas Langsted bliver chef i Midt- og Vestsjællands Politi.\n\nFire politidirektører fortsætter på deres poster. Det gælder Anne Marie Roum Svendsen i Nordjylland, Bjørn Tegner Bay i Grønland, Helle Kyndesen i Midt- og Vestjylland og Martin Preisz Gravesen på Bornholm.\n\nMarie Bindslev bliver ny statsadvokat i København. Jens-Christian Bülow fortsætter som statsadvokat for Særlig Kriminalitet.",
+  "prompt_tokens": 2671,
+  "completion_tokens": 1027,
+  "latency_ms": 11455,
+  "cost_usd": 0.07806,
+  "created": "2026-11-10T07:23:29.760545Z",
+  "error": null
+}

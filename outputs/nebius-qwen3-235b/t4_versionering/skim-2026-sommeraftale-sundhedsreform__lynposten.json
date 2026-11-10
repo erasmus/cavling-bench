@@ -1,0 +1,21 @@
+{
+  "model_id": "nebius-qwen3-235b",
+  "pinned_version": "Qwen/Qwen3-235B-A22B-Instruct-2507",
+  "task_id": "t4_versionering",
+  "source_id": "skim-2026-sommeraftale-sundhedsreform",
+  "archetype": "lynposten",
+  "prompt_sha256": "c995fdf250e9fc959a57c59c1e5f3ff6fed7a61839a13b1c520f57fec2b1623d",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 1025,
+    "reasoning_effort": null
+  },
+  "text": "Sundhedsreformens første store forbedringer træder i kraft fra 2027. Borgere med KOL og kroniske lænderygsmerter får ret til behandlingsplan og forebyggelsestilbud inden for 21 dage.\n\nAftalen mellem regeringen, Danske Regioner og KL sikrer konkrete skridt i sundhedsreformen. Der skabes rammer for kronikerpakker, 96 timers behandlingsansvar og kvalitetsløft af sundheds- og omsorgspladser.\n\nSundhedsminister Ida Auken siger:  \nVi sætter gang i de første kronikerpakker. Mennesker med kroniske sygdomme får hurtigere adgang til behandling og forebyggelse. Vi gør overgangen fra hospital til hjem mere tryg.\n\nDe første pakker gælder patienter med KOL og kroniske lænderygsmerter. Senere følger type 2-diabetes, hjertesygdom og kompleks multisygdom. Derudover styrkes digitale løsninger for bedre sammenhæng i forløb.\n\n96 timers behandlingsansvar udvides. Ældre medicinske patienter og visse psykiatriske patienter har sygehuslægens ansvar i fire døgn efter udskrivelse. Målet er færre genindlæggelser og bedre samarbejde mellem regioner, kommuner og praktikker.\n\nFormand for Danske Regioner Mads Duedahl siger:  \nSundhedsreformen bliver først en succes, når patienterne mærker den. Nu får vi vigtige rammer for de store opgaver – især i sundhedsrådene.\n\nFormand for KL’s Sundheds- og Ældreudvalg Dorte West siger:  \nSundhedsrådene skal have stærkt mandat. Vi skal samarbejde tæt politisk for at skabe sammenhæng i borgerens forløb.\n\nAftalen indebærer et løft på knap 800 mio. kr. i 2027. Beløbet stiger til 1,1 mia. kr. årligt fra 2030. Pengene går bl.a. til frit valg af sundheds- og omsorgspladser og lettere adgang til praktiserende speciallæger.\n\nDen første nationale sundhedsplan for 2027-2030 er nu fastlagt. Planen sætter retningen for en omstilling tættere på borgeren.",
+  "prompt_tokens": 2752,
+  "completion_tokens": 620,
+  "latency_ms": 6424,
+  "cost_usd": 0.0009224,
+  "created": "2026-11-10T05:43:18.820477Z",
+  "error": null
+}

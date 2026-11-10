@@ -1,0 +1,21 @@
+{
+  "model_id": "nebius-gpt-oss-120b",
+  "pinned_version": "openai/gpt-oss-120b",
+  "task_id": "t4_versionering",
+  "source_id": "fm-2026-2035-plan",
+  "archetype": "lynposten",
+  "prompt_sha256": "3a77c7e0bfc94c94b66585ce9b8702934ee2cdb9991f3cc21f0ad072950b3129",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 2525,
+    "reasoning_effort": "low"
+  },
+  "text": "2035‑planen øger Danmarks forsvarsbudget til 3,5 % af BNP og afsætter 70 mia. kr. til Ukraine‑fondens militære ramme 2023‑2028. Regeringen vil dermed blive et af de første NATO‑lande, der når 3,5‑procent‑målet allerede i 2030. Samtidig får beredskabet en akutpakke på 1,2 mia. kr. i år og et løft til 5 mia. kr. i 2035.  \n\nFinansminister Nicolai Wammen siger, at de massive investeringer i forsvar og sikkerhed går hånd i hånd med økonomisk ansvarlighed. Økonomiminister Stephanie Lose tilføjer, at planen også gør det billigere at være dansker og nemmere at drive virksomhed.  \n\nPlanen fastholder den strukturelle saldo på –0,5 % af BNP i 2030 og sætter et nyt mål på –0,6 % i 2035. Offentlig gæld forbliver lav, og Danmark har ni år i træk offentligt overskud – de seneste seks med det højeste i EU.  \n\nKlimamålet for 2035 er en CO₂e‑reduktion på 82 % i forhold til 1990. Regeringen afsætter 4 mia. kr. årligt til den grønne omstilling og ca. 15 mia. kr. (2029‑2040) til kystbeskyttelse mod stormflod.  \n\nUdenrigsminister Lars Løkke Rasmussen påpeger, at de store regninger kan betales takket være tidligere reformer, men advarer om strukturelle udfordringer efter 2035.  \n\nRegeringen har også indført en fødevarecheck til grupper, der rammes af høje fødevarepriser, og fortsætter med at udvikle velfærd lokalt i kommuner og regioner. Samlet set kombinerer 2035‑planen styrket forsvar, robust beredskab, ambitiøs klimaindsats og vedvarende velfærd med et sundt økonomisk grundlag.",
+  "prompt_tokens": 1995,
+  "completion_tokens": 499,
+  "latency_ms": 1835,
+  "cost_usd": 0.0005986499999999999,
+  "created": "2026-11-10T05:38:21.838701Z",
+  "error": null
+}

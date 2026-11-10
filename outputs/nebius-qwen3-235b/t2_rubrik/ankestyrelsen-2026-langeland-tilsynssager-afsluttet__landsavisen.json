@@ -1,0 +1,21 @@
+{
+  "model_id": "nebius-qwen3-235b",
+  "pinned_version": "Qwen/Qwen3-235B-A22B-Instruct-2507",
+  "task_id": "t2_rubrik",
+  "source_id": "ankestyrelsen-2026-langeland-tilsynssager-afsluttet",
+  "archetype": "landsavisen",
+  "prompt_sha256": "bb7468b686ffcd6a039fa4b21aa513869a6fadc1e82010391a22b772df961e3d",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 400,
+    "reasoning_effort": null
+  },
+  "text": "RUBRIK: Ankestyrelsen afslutter tilsynssager mod Langeland  \nUNDERRUBRIK: Efter gennemgang af 295 sager og omorganisering af Familieafdelingen konkluderer Ankestyrelsen, at der ikke er grundlag for yderligere opfølgning.",
+  "prompt_tokens": 1733,
+  "completion_tokens": 80,
+  "latency_ms": 1067,
+  "cost_usd": 0.0003946,
+  "created": "2026-11-10T05:39:20.325763Z",
+  "error": null
+}

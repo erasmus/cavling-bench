@@ -1,0 +1,21 @@
+{
+  "model_id": "anthropic-frontier",
+  "pinned_version": "claude-fable-5-1",
+  "task_id": "t2_rubrik",
+  "source_id": "politi-2026-nsk-tidligere-advokat",
+  "archetype": "erhvervsnyt",
+  "prompt_sha256": "654274ddc3dd48d0e11c2104e81724ca6a1d4222de440e6ba5d7e849dbc4ead5",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 3400,
+    "reasoning_effort": "low"
+  },
+  "text": "RUBRIK: Tidligere advokat får seks måneders fængsel for kuratormisbrug\nUNDERRUBRIK: Retten i Lyngby fandt den 53-årige skyldig i groft stillingsmisbrug i to konkursboer. Han frakendes retten til at drive advokatvirksomhed.",
+  "prompt_tokens": 1711,
+  "completion_tokens": 112,
+  "latency_ms": 1978,
+  "cost_usd": 0.02271,
+  "created": "2026-11-10T07:20:52.838899Z",
+  "error": null
+}

@@ -1,0 +1,21 @@
+{
+  "model_id": "nebius-gpt-oss-120b",
+  "pinned_version": "openai/gpt-oss-120b",
+  "task_id": "t5_forkortelse",
+  "source_id": "skim-2026-sommeraftale-sundhedsreform",
+  "archetype": null,
+  "prompt_sha256": "0e4db8adfb96821687e9a8845b37bf0d03c7f777bfe3ddc6be237cea70e6795b",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 2360,
+    "reasoning_effort": "low"
+  },
+  "text": "Regeringen, Danske Regioner og KL har i dag indgået en sommeraftale om implementeringen af sundhedsreformen, som skal give borgere et mere sammenhængende og lokalt tilgængeligt sundhedsvæsen. Aftalen omsætter centrale reforminitiativer til konkrete forbedringer fra 2027, herunder de første kronikerpakker for patienter med KOL og kroniske lænderygsmerter, som får ret til en behandlingsplan og opstart på forebyggelsestilbud inden for 21 dage. Samtidig udvides 96 timers behandlingsansvar efter udskrivelse til ældre medicinske patienter og visse psykiatriske patienter, for at sikre tryg overgang fra hospital til hjem.  \n\nAftalen bakker op om Sundhedsstyrelsens oplæg til den første nationale sundhedsplan for perioden 2027‑2030, som skal styrke lokalt arbejde i sundhedsrådene og fordele ressourcerne bedre. Derudover får de nye regionale sundheds‑ og omsorgspladser et kvalitetsløft, frit valg og befordring uden egenbetaling.  \n\nFor at øge ligheden i adgangen til speciallæger justeres loftet over speciallægestillinger i store byer, uden begrænsning for læger over 67 år, og undtagelsen for kombinationsstillinger forlænges til 1. kvartal 2028. Endelig afsættes 128 mio. kr. i 2027 til at nedbringe ventetider hos praktiserende speciallæger og forberede hurtigere udredning og behandling.  \n\nAftalen giver et løft på knap 800 mio. kr. i 2027, stigende til 1,1 mia. kr. årligt fra 2030.",
+  "prompt_tokens": 2044,
+  "completion_tokens": 433,
+  "latency_ms": 1783,
+  "cost_usd": 0.0005664,
+  "created": "2026-11-10T05:38:40.465562Z",
+  "error": null
+}

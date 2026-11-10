@@ -1,0 +1,21 @@
+{
+  "model_id": "anthropic-mid",
+  "pinned_version": "claude-sonnet-5-5",
+  "task_id": "t2_rubrik",
+  "source_id": "regeringen-2026-kystbeskyttelse-14-9-mia",
+  "archetype": "lynposten",
+  "prompt_sha256": "81ed566ccb4754736b5027355ae33ca8ad7e8e23520cb34e297af2a949a7703e",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 3400,
+    "reasoning_effort": "low"
+  },
+  "text": "RUBRIK: Regeringen sætter 14,9 mia. kr. af til kystbeskyttelse\nUNDERRUBRIK: Staten betaler 85 procent af diger og højvandsmure. 1 mio. danskere bor under en kilometer fra kysten. Kommunerne betaler resten af anlægsudgiften.",
+  "prompt_tokens": 2554,
+  "completion_tokens": 117,
+  "latency_ms": 1892,
+  "cost_usd": 0.006278,
+  "created": "2026-11-10T07:15:34.834586Z",
+  "error": null
+}

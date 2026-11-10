@@ -1,0 +1,21 @@
+{
+  "model_id": "anthropic-frontier",
+  "pinned_version": "claude-fable-5-1",
+  "task_id": "t4_versionering",
+  "source_id": "aarhus-2026-budgetaftale-2027",
+  "archetype": "landsavisen",
+  "prompt_sha256": "1bb9487084ce6086f8713574dd18e3d902d3186d42b43ecd79f9c93a7388a3b3",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 4025,
+    "reasoning_effort": "low"
+  },
+  "text": "Et enigt Aarhus Byråd indgik torsdag den 17. september en aftale om kommunens budget for de kommende fire år. Aftalen prioriterer blandt andet socialområdet, hvor udgifterne ifølge forligsteksten er under betydeligt pres, og den holder samtidig kommuneskatten i ro.\n\nSocialområdet får et årligt løft på i alt 138 mio. kr. Pengene kommer dels fra ekstra tildelinger, dels fra en solidarisk \"socialprocent\" på tværs af kommunens afdelinger. Løftet skal imødegå det, aftalen kalder områdets strukturelle udfordringer, og holde hånden under kommunens mest udsatte borgere.\n\nSamlet har partierne afsat 197 mio. kr. årligt til drift i budgetperioden. Dertil kommer 810 mio. kr. til anlæg, som blandt andet skal gå til bedre fremkommelighed for busser, cyklister og andre trafikanter samt tiltag mod trængsel. Partierne peger desuden på flere fagprofessionelle i folkeskolen, indsatser for demente ældre og tidligere anbragte børn, bedre og billigere kollektiv trafik samt styrkede vilkår for erhvervslivet, herunder nemmere erhvervsparkering.\n\nBudgettet rummer derudover et løft af velfærden på omkring 2 mia. kr. over perioden som følge af kommunens budgetmodeller, og knap 500 mio. kr. til blandt andet flere pædagoger og lavere forældrebetaling i dagtilbud som følge af nationale aftaler.\n\nFinansieringen skal blandt andet komme fra mindre administration og effektivisering. Centralt står et nyt velfærdsbidrag, som fra 2028 skal frigøre penge til nye velfærdsløsninger, for eksempel gennem nye arbejdsgange eller teknologi.\n\nBorgmester Anders Winnerskjold siger: \"Vi skal bruge færre kræfter på administration og være mere effektive, så vi kan frigøre ressourcer til det, borgerne kan mærke. Det kræver politiske prioriteringer, og det er jeg glad for at have samlet alle partier i byrådet omkring.\"\n\nBag aftalen står Socialdemokratiet, SF, Venstre, Enhedslisten, Det Konservative Folkeparti, Radikale Venstre, Liberal Alliance, Danmarksdemokraterne og Dansk Folkeparti.",
+  "prompt_tokens": 2218,
+  "completion_tokens": 869,
+  "latency_ms": 10131,
+  "cost_usd": 0.06563,
+  "created": "2026-11-10T07:21:58.797294Z",
+  "error": null
+}

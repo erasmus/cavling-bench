@@ -1,0 +1,21 @@
+{
+  "model_id": "nebius-qwen3-235b",
+  "pinned_version": "Qwen/Qwen3-235B-A22B-Instruct-2507",
+  "task_id": "t4_versionering",
+  "source_id": "finanstilsynet-2026-danske-bank-boliglaansinspektion",
+  "archetype": "lynposten",
+  "prompt_sha256": "048073112fbb6bfd46b68a3cb449b0a72262ab77764a1a84ca9da6ab85d014e1",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 1025,
+    "reasoning_effort": null
+  },
+  "text": "Danske Bank har fået påbud efter en inspektion af 58 boliglån med høj risiko. Fire af lånene burde aldrig være bevilget.\n\nSagerne omfattede kunder med gældsfaktor over 3,5, belåningsgrad over 60 pct. og engagement over 200.000 kr. Det er kunder med højere risiko end gennemsnittet.\n\nFinanstilsynet konstaterer, at banken har en højere andel af lån med høj gæld og belåning end andre banker. Dataene er fra en senere periode, men det ændrer ikke på, at mange kunder har forhøjet økonomisk følsomhed.\n\n43 pct. af de gennemgåede sager har væsentlige fejl. For kunder uden særlig behandling er tallet 37 pct. Her vurderer tilsynet, at tre lån ikke burde være bevilget. Fejl omfatter manglende dokumentation for rådighedsbeløb, indkomst, likviditet og forbrugstilpasning.\n\nEn særskilt kundegruppe gennemgår en forenklet proces. Her fandt tilsynet fejl i 26 pct. af sagerne. Én bevilget sag burde ikke være det. Banken kan ikke dokumentere, at alle i gruppen har utvivlsomt robust økonomi.\n\nFinanstilsynets chef for tilsyn efter Solvens II, Karin Byager-Petersen, siger: \"Vi forventer, at banken dokumenterer, at kunder kan bære deres gæld – især hvor risikoen er høj.\"\n\nBankens kreditindstillinger er utilstrækkelige. De understøtter ikke gennemsigtighed i udgifter, beregninger og vurderinger. Det gør det svært at efterprøve, om beslutninger er betryggende.\n\nDanske Bank skal nu sikre, at alle bevilget grundlag er korrekt og dokumenteret. Tilsynet ser behov for skærpet vurdering af rådighedsbeløb, opsparing og samlet økonomisk robusthed.\n\nInspektionen fører ikke til ændring i bankens solvensbehov.",
+  "prompt_tokens": 1979,
+  "completion_tokens": 552,
+  "latency_ms": 7967,
+  "cost_usd": 0.000727,
+  "created": "2026-11-10T05:41:37.106307Z",
+  "error": null
+}

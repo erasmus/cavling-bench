@@ -1,0 +1,21 @@
+{
+  "model_id": "nebius-gpt-oss-120b",
+  "pinned_version": "openai/gpt-oss-120b",
+  "task_id": "t4_versionering",
+  "source_id": "kefm-2026-akutplan-elnettet-vedtaget",
+  "archetype": "lynposten",
+  "prompt_sha256": "04f6fe506cfa22ae80a4c0d1169f5f87bd4b1caa464bcf0f8083ed1a0658ded1",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 2525,
+    "reasoning_effort": "low"
+  },
+  "text": "Bredt flertal i Folketinget har vedtaget akutplanen for elnettet, som skal prioritere den knappe netkapacitet. Planen erstatter først‑til‑mølle‑princippet med en ny model, hvor Energinet og netvirksomhederne kan vælge, hvilke projekter der får adgang til nettet.  \n\n\"Situationen i vores elnet er dybt alvorlig. Pladsen i elnettet er blevet en knap ressource, og det kan bremse både elektrificeringen og den grønne omstilling,\" siger klima‑, energi‑ og forsyningsminister Samira Nawa. \"Jeg er rigtig glad for, at et bredt flertal nu har stemt for akutplanen.\"  \n\nJesper Petersen (S), klima‑, energi‑ og forsyningsordfører, tilføjer: \"Det er positivt, at den politiske forståelse om en akutplan nu bliver til en egentlig politisk aftale.\"  \n\nNanna Bonde (SF) understreger, at den grønne omstilling og forsyningssikkerheden må prioriteres korrekt, så datacentre ikke blokerer for kollektiv transport og fjernvarme.  \n\nMathilde Hjort Bressum (V) advarer: \"Prioriteringsmodellen skal kun være et styringsværktøj i en akut situation, ikke den nye normal.\"  \n\nMalte Larsen (DF) siger, at den begrænsede kapacitet først skal bruges på samfundets vigtigste behov.  \n\nLars Aagaard (M) peger på, at næste skridt er hurtigere udbygning og fleksible elforbrugsrammer.  \n\nAnders Storgaard (K) forklarer, at kollektive netselskaber får et år til at udvikle nye netprodukter, med et genbesøg i 2027.  \n\nLisbeth Torfing (EL) bemærker, at datacentre placeres bagerst i køen, mens danske hjem får fortrinsret.  \n\nAkutplanen træder i kraft 12. oktober. Herefter kan Energinet administrere kapaciteten efter de nye regler, mens der fortsat arbejdes på udbygning og en energiinfrastrukturplan for 2035.",
+  "prompt_tokens": 2737,
+  "completion_tokens": 520,
+  "latency_ms": 1812,
+  "cost_usd": 0.00072255,
+  "created": "2026-11-10T05:38:24.881487Z",
+  "error": null
+}

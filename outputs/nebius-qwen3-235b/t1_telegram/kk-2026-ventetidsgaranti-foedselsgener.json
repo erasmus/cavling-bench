@@ -1,0 +1,21 @@
+{
+  "model_id": "nebius-qwen3-235b",
+  "pinned_version": "Qwen/Qwen3-235B-A22B-Instruct-2507",
+  "task_id": "t1_telegram",
+  "source_id": "kk-2026-ventetidsgaranti-foedselsgener",
+  "archetype": null,
+  "prompt_sha256": "b23dad9dda06871c1bd4096a289f72295a2f1bf9c8a31549ea5b5e8166339f68",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 560,
+    "reasoning_effort": null
+  },
+  "text": "Københavns Kommune indfører fra 2027 en ventetidsgaranti for kvinder med fødselsgener, så de senest 7 dage efter henvisning får tilbudt første samtale og en undersøgelse inden for yderligere 3 uger – ellers tilbydes hjælp via private leverandører. Det sker efter, at ventetiden i 2026 var på 17 dage til samtale og 44 dage til undersøgelse, skriver sundhedsborgmester Jens-Kristian Lütken (V). Garantien følger en stigende efterspørgsel på det gratis efterfødselstilbud i Vanløse, hvor antallet af årlige forløb stiger fra 800 i 2026 til 1.500 fra 2027. Partierne bag budgetaftalen har afsat knap 12,5 mio. kr. til udvidelsen, der dækker 320 forløb i kommunen og 180 hos private.",
+  "prompt_tokens": 1959,
+  "completion_tokens": 263,
+  "latency_ms": 4132,
+  "cost_usd": 0.0005496,
+  "created": "2026-11-10T05:39:01.969714Z",
+  "error": null
+}

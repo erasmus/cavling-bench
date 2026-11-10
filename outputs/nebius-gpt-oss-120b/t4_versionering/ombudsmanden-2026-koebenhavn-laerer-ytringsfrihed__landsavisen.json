@@ -1,0 +1,21 @@
+{
+  "model_id": "nebius-gpt-oss-120b",
+  "pinned_version": "openai/gpt-oss-120b",
+  "task_id": "t4_versionering",
+  "source_id": "ombudsmanden-2026-koebenhavn-laerer-ytringsfrihed",
+  "archetype": "landsavisen",
+  "prompt_sha256": "0cecc115f86e978841f2d54203dd59824c5a257bed3e0f123dfaaf6ba342d453",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 2525,
+    "reasoning_effort": "low"
+  },
+  "text": "Københavns Kommune har efter en lærerens interview om voldelig elevadfærd indkaldt hende til en tilrettevisningssamtale, hvorefter Folketingets Ombudsmand har konkluderet, at kommunens håndtering ikke har vist respekt for hendes ytringsfrihed. Interviewet, der blev offentliggjort med overskriften ”Lærer fik hjernerystelse og blå mærker efter slag: ’Som at være i en krigszone’”, beskrev lærerens personlige oplevelser på en tidligere skole og hendes syn på elevers adfærdsproblemer. Kommunen har efterfølgende erkendt, at opfordringen til at holde lav profil over for pressen var “yderst beklagelig”, og Ombudsmanden er enig i denne vurdering. \n\nOmbudsmand Christian Britten Lundblad understreger, at offentligt ansatte har en lovfæstet ret til at bidrage til den offentlige debat uden negative ledelsesreaktioner. ”Offentligt ansatte har en nu lovfæstet ret til at gøre brug af deres ytringsfrihed … uden at blive udsat for negative reaktioner fra ledelsen,” udtaler han. Han påpeger, at lærerens udtalelser fremstår som personlige og falder inden for kerneområdet for ytringsfrihed. \n\nKommunen har forklaret, at indkaldelsen skyldtes et pressefoto, som læreren ikke havde givet tilladelse til, og ikke selve artiklens indhold. Ombudsmanden finder dog, at samtalen og den efterfølgende pressekontakt fra kommunens side kan opfattes som en negativ ledelsesreaktion på lærerens udtalelser. Han påpeger også, at skolelederen ikke vejledte læreren om fotooptagelse, selvom hun havde orienteret om interviewet. \n\nSom følge af konklusionen henstilles kommunen til at genoptage sagen og inden tre måneder orientere Ombudsmanden om, hvilke tiltag der vil blive iværksat. Ombudsmanden kritiserer desuden den efterfølgende kontakt fra kommunens pressemedarbejdere til flere medier som “meget uheldig”.",
+  "prompt_tokens": 1773,
+  "completion_tokens": 499,
+  "latency_ms": 1965,
+  "cost_usd": 0.0005653499999999999,
+  "created": "2026-11-10T05:38:28.691705Z",
+  "error": null
+}

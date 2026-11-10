@@ -1,0 +1,21 @@
+{
+  "model_id": "anthropic-mid",
+  "pinned_version": "claude-sonnet-5-5",
+  "task_id": "t4_versionering",
+  "source_id": "politi-2026-fyn-spraengning-beboelsesejendom",
+  "archetype": "landsavisen",
+  "prompt_sha256": "b9ca15a4596e27a26eda28972d47d1dfbf2ee9a46847b300237cae26cce03e4c",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 4025,
+    "reasoning_effort": "low"
+  },
+  "text": "Tre mænd er fredag den 20. februar 2026 blevet idømt hver 14 års fængsel ved Retten i Odense for forsøg på sprængning ved en beboelsesejendom i Odense. Dommen falder i en sag, hvor fire andre personer tidligere har fået lange fængselsstraffe for deres roller i planlægningen og håndteringen af sprængstoffet.\n\nForsøget fandt sted i december 2023 på Nyborgvej i Odense, hvor gerningsmændene ville sprænge en bombe med mere end fire kilo dynamit i en opgang. På tidspunktet opholdt der sig mellem 19 og 25 personer i ejendommen. Forsøget mislykkedes, blandt andet fordi gerningsmændene ikke kunne få adgang til opgangen, og fordi politiet ankom og forstyrrede dem. De tre er også dømt for indførsel, transport og besiddelse af sprængstof under særligt skærpende omstændigheder samt for overtrædelser af våbenloven.\n\nDommen omfatter desuden et andet forhold. Mændene er dømt for at have planlagt og foranlediget skud mod en beboelsesejendom i Seden i Odense i marts 2023, hvor en familie med to børn opholdt sig i boligen. Skuddene skabte ifølge dommen nærliggende fare for beboernes liv og førlighed.\n\nEn af mændene er yderligere dømt for grov og langvarig frihedsberøvelse og mishandling af en mand i februar 2023. Offeret blev i mindst to uger holdt tilbage under stærkt uhygiejniske forhold og udsat for slag, spark og forbrændinger i ansigtet. Han blev også udsat for en voldtægt under særligt skærpende omstændigheder, som blev filmet og delt på sociale medier.\n\n”Retten har i dag sendt et klart signal om, at denne form for ekstrem og organiseret kriminalitet bliver straffet hårdt. Det er tale om meget alvorlige forhold, hvor både konkrete ofre og helt tilfældige borgere har været i livsfare”, siger specialanklager Daniel Dokkedahl fra Fyns Politi.\n\nRetten har besluttet at konfiskere sprængstof, våben og en mobiltelefon og har pålagt sletning af videoen. De tre mænd er varetægtsfængslet efter dommen. To af dem ankede på stedet, mens den 22-årige udbad sig betænkningstid.",
+  "prompt_tokens": 1862,
+  "completion_tokens": 862,
+  "latency_ms": 5803,
+  "cost_usd": 0.012344,
+  "created": "2026-11-10T05:23:53.501041Z",
+  "error": null
+}

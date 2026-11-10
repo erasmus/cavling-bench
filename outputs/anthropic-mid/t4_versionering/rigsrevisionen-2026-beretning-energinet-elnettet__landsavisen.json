@@ -1,0 +1,21 @@
+{
+  "model_id": "anthropic-mid",
+  "pinned_version": "claude-sonnet-5-5",
+  "task_id": "t4_versionering",
+  "source_id": "rigsrevisionen-2026-beretning-energinet-elnettet",
+  "archetype": "landsavisen",
+  "prompt_sha256": "aea366a09b092cb0b94aeb472bfc586dc2b49b094b9a4c30429e2f657a22c867",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 4025,
+    "reasoning_effort": "low"
+  },
+  "text": "Statsrevisorerne har den 9. april 2026 kritiseret både Energinets styring af udbygningen af elnettet og Klima-, Energi- og Forsyningsministeriets tilsyn med den. Kritikken fremgår af Beretning nr. 12/2025, som Statsrevisorerne har afgivet til Folketinget. Den falder, fordi en udbygning af elnettet er en forudsætning for den vedvarende energi, som et flertal af Folketingets partier i juni 2022 aftalte at udbygge markant i Klimaaftale om grøn strøm og varme.\n\nIfølge Statsrevisorerne er ca. 70 pct. af de igangsatte udbygningsprojekter forsinkede. De projekter, der ikke er forsinkede, er generelt nystartede. De forsinkede tager i gennemsnit ca. 80 pct. længere tid end forventet, og Energinet har systematisk undervurderet projekternes tidsforbrug. Udbygningen er desuden foreløbig blevet mere end 10 mia. kr. dyrere end planlagt.\n\nEnerginet, der ejes af staten, har kun delvist overblik over årsagerne til forsinkelserne. Selskabet peger på både interne og eksterne forhold, men forklaringerne er ifølge Statsrevisorerne ikke entydige og viser ikke, hvordan nye forsinkelser kan undgås.\n\nSiden den langsigtede udviklingsplan fra maj 2024 er der færdiggjort 206 km elnet af de 490 km, planen krævede pr. 1. januar 2026. Hastigheden skal mere end fordobles, fra 120 til 250 km om året, hvis Energinets forventede udbygning i 2050 skal nås.\n\nOm ministeriet skriver Statsrevisorerne, at det har et tilstrækkeligt grundlag for tilsyn, men er blevet gjort opmærksom på store og stigende forsinkelser gentagne gange siden starten af 2023 og har reageret for sent. Først primo februar 2026 tog ministeriet initiativ til en ekstern analyse af rammerne for Energinet. Ministeriet har heller ikke beregnet forsinkelsernes betydning for CO2-udledningen eller for tilslutningen af nye solcelle- og vindmølleparker.\n\nStatsrevisorerne tilslutter sig Rigsrevisionens anbefaling om, at ministeriet undersøger konsekvenserne nærmere.",
+  "prompt_tokens": 2377,
+  "completion_tokens": 854,
+  "latency_ms": 5584,
+  "cost_usd": 0.013294,
+  "created": "2026-11-10T07:17:29.445178Z",
+  "error": null
+}

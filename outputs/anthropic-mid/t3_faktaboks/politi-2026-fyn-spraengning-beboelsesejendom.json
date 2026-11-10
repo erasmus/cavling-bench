@@ -1,0 +1,21 @@
+{
+  "model_id": "anthropic-mid",
+  "pinned_version": "claude-sonnet-5-5",
+  "task_id": "t3_faktaboks",
+  "source_id": "politi-2026-fyn-spraengning-beboelsesejendom",
+  "archetype": null,
+  "prompt_sha256": "5eed86b2070ea12a0423f570a4137e245c39c88fc911d1f693983c6933def1a0",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 3575,
+    "reasoning_effort": "low"
+  },
+  "text": "- Retten i Odense dømte fredag den 20. februar 2026 tre mænd på henholdsvis 19, 21 og 22 år for forsøg på sprængning.\n- Forsøget gjaldt en bombe med mere end fire kilo dynamit i en opgang på Nyborgvej i Odense i december 2023.\n- Ifølge kilden opholdt der sig mellem 19 og 25 personer i ejendommen, da sprængningsforsøget fandt sted.\n- Hver af de tre mænd er idømt 14 års fængsel.\n- Den 22-årige udbad sig betænkningstid, mens de to øvrige ankede dommen på stedet.",
+  "prompt_tokens": 1430,
+  "completion_tokens": 229,
+  "latency_ms": 2049,
+  "cost_usd": 0.00515,
+  "created": "2026-11-10T05:23:42.564498Z",
+  "error": null
+}

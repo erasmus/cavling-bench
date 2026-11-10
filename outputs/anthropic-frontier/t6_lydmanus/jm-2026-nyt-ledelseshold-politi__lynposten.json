@@ -1,0 +1,21 @@
+{
+  "model_id": "anthropic-frontier",
+  "pinned_version": "claude-fable-5-1",
+  "task_id": "t6_lydmanus",
+  "source_id": "jm-2026-nyt-ledelseshold-politi",
+  "archetype": "lynposten",
+  "prompt_sha256": "b45acacc6bb5f4c0b564bd64f574e0c109d3a8df69f8c02a1a21447d9e27a74a",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 3620,
+    "reasoning_effort": "low"
+  },
+  "text": "Lasse Boje Nielsen bliver ny rigspolitichef. Han afløser Thorkild Fogde, der i stedet bliver politidirektør i Københavns Vestegns Politi. Det oplyser Justitsministeriet.\n\nSkiftet er en del af en større rokade i politi og anklagemyndighed. Den sker, fordi åremålsansættelser for en stor del af de øverste chefer udløber.\n\nLasse Boje Nielsen kommer fra posten som rigsadvokat. Caroline Østergaard Nielsen overtager den post indtil videre.\n\nRasmus Kieffer-Kristensen bliver ny chef for Politiets Efterretningstjeneste. Han afløser Finn Borch Andersen, der bliver politidirektør i Københavns Politi.\n\nDer kommer også nye politidirektører i Østjylland, Fyn, Syd- og Sønderjylland, Sydøstjylland, Sydsjælland og Lolland-Falster, Midt- og Vestsjælland samt National enhed for Særlig Kriminalitet.\n\nJustitsminister Nicolai Wammen kalder det et stærkt hold frem mod 2030. Han takker Thorkild Fogde og de øvrige, der forlader deres stillinger.",
+  "prompt_tokens": 2720,
+  "completion_tokens": 435,
+  "latency_ms": 6251,
+  "cost_usd": 0.04895,
+  "created": "2026-11-10T07:27:30.749804Z",
+  "error": null
+}

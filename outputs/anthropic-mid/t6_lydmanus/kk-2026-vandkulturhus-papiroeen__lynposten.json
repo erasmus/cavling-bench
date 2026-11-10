@@ -1,0 +1,21 @@
+{
+  "model_id": "anthropic-mid",
+  "pinned_version": "claude-sonnet-5-5",
+  "task_id": "t6_lydmanus",
+  "source_id": "kk-2026-vandkulturhus-papiroeen",
+  "archetype": "lynposten",
+  "prompt_sha256": "1bd15ee58a01eb2440be961d6bc778b95ddc91341834eab3e3773546bdd42a13",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 3620,
+    "reasoning_effort": "low"
+  },
+  "text": "Københavns nye vandkulturhus åbner den femte december 2026. Huset hedder KAI og ligger på Papirøen. Det har ti bassiner, både inde og ude.\n\nHuset fylder otte tusind og femhundrede kvadratmeter. Nej, det rigtige tal er fem tusind og otte hundrede kvadratmeter. Den japanske tegnestue Kengo Kuma og Associates har tegnet det.\n\nNordea-fonden har givet femhundrede og seksogfyrre millioner kroner. Pengene dækker også bæredygtighed.\n\nOverborgmester Sisse Marie Welling fra SF siger: \"København er presset på svømmekapacitet.\"\n\nIdéen kom fra københavnerne selv. I 2015 sendte de hundrede og tres forslag ind.\n\nHuset er lukket, til det åbner. Programmet for indvielsen offentliggøres senere.",
+  "prompt_tokens": 3547,
+  "completion_tokens": 310,
+  "latency_ms": 2992,
+  "cost_usd": 0.010194,
+  "created": "2026-11-10T07:18:32.560132Z",
+  "error": null
+}

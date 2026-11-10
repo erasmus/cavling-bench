@@ -1,0 +1,21 @@
+{
+  "model_id": "nebius-gpt-oss-120b",
+  "pinned_version": "openai/gpt-oss-120b",
+  "task_id": "t2_rubrik",
+  "source_id": "finanstilsynet-2026-danske-bank-boliglaansinspektion",
+  "archetype": "lynposten",
+  "prompt_sha256": "52b6da0151c3f72844b8611f9d23af74f3e2c42a2f6e04309fcfc6eea9ca1036",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 1900,
+    "reasoning_effort": "low"
+  },
+  "text": "RUBRIK: Finanstilsynet finder fire boliglån fejlbehæftede  \nUNDERRUBRIK: Inspektionen viser, at Danske Bank har for høj andel af risikable lån og får påbud om strengere kreditvurdering og dokumentation.",
+  "prompt_tokens": 1690,
+  "completion_tokens": 207,
+  "latency_ms": 800,
+  "cost_usd": 0.00037769999999999997,
+  "created": "2026-11-10T05:38:04.222990Z",
+  "error": null
+}

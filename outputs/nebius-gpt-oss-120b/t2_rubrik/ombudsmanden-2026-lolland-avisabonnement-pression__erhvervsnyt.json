@@ -1,0 +1,21 @@
+{
+  "model_id": "nebius-gpt-oss-120b",
+  "pinned_version": "openai/gpt-oss-120b",
+  "task_id": "t2_rubrik",
+  "source_id": "ombudsmanden-2026-lolland-avisabonnement-pression",
+  "archetype": "erhvervsnyt",
+  "prompt_sha256": "acc2db8c95f9902a196500b7bae753ee3c014a7b35ba7d64ef596c04e26dc8b8",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 1900,
+    "reasoning_effort": "low"
+  },
+  "text": "RUBRIK: Lolland Kommune får påtale fra Ombudsmand om avisabonnement  \nUNDERRUBRIK: Ombudsmand Christian Britten Lundblad minder Lolland Kommune om, at opsigelse af avisabonnementer skal ske på sagligt grundlag og ikke som pression eller straffeaktion over for pressen.",
+  "prompt_tokens": 1532,
+  "completion_tokens": 242,
+  "latency_ms": 1016,
+  "cost_usd": 0.000375,
+  "created": "2026-11-10T05:38:10.326459Z",
+  "error": null
+}

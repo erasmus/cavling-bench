@@ -1,0 +1,21 @@
+{
+  "model_id": "anthropic-mid",
+  "pinned_version": "claude-sonnet-5-5",
+  "task_id": "t4_versionering",
+  "source_id": "odense-2026-skolefravaer-95-mio",
+  "archetype": "lynposten",
+  "prompt_sha256": "b5321f9f54a3b7ad8fc89ef7a42df302988432ff5ebfc722c14ba844230ba05b",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 4025,
+    "reasoning_effort": "low"
+  },
+  "text": "Knap hver femte elev i Odense har et bekymrende skolefravær på mere end 10 procent. Nu sætter kommunen 9,5 millioner kroner af om året til at få dem tilbage i skole.\n\nBørn- og Ungeudvalget besluttede det på sit møde i dag. Pengene kom med budgetaftalen for 2026.\n\nForældre får en ny fraværslinje i starten af 2027. Her kan de få råd og vejledning.\n\nFamilier med særligt bekymrende fravær kan få en fast tovholder. Tovholderen skal give familien overblik og hjælpe med at koordinere mellem alle, der er omkring barnet.\n\nSkolerne får flere ressourcer til indsatser i barnets hverdag. Der kommer mere støtte på skolen. Medarbejdere, der hjælper børn med komplekse fraværsudfordringer, får flere timer. Kommunen vil også opspore børn med bekymrende fravær tidligere.\n\nIndsatsen retter sig mod børn, hvor fraværet hænger sammen med mistrivsel eller andre udfordringer.\n\nKilden peger på, at der ofte gemmer sig mistrivsel bag de tomme stole. Det rammer både barnet, familien og klassen.\n\n– Det er katastrofalt, når en elev ikke kommer i skole. Det er det for barnet, det er det for familien, og det er det for klassefællesskabet, siger Brian Dybro, børn- og ungerådmand (SF).\n\nHan vil have hjælpen ind tidligere, før problemerne vokser sig større.\n\nKristian Fahnøe Munksgaard, udviklingschef i Familie- og Forebyggelsesafdelingen, peger på, at et barn ofte har flere grunde til sit fravær.\n\n– Familierne skal ikke opleve at stå alene med ansvaret, siger han.\n\nIfølge Munksgaard har Odense allerede positive resultater med tværfagligt samarbejde. De nye tiltag giver bedre muligheder for at sætte tidligere ind.",
+  "prompt_tokens": 2539,
+  "completion_tokens": 703,
+  "latency_ms": 5367,
+  "cost_usd": 0.012108,
+  "created": "2026-11-10T07:17:00.970697Z",
+  "error": null
+}

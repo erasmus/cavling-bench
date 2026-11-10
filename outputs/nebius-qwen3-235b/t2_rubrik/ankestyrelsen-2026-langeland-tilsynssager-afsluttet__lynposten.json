@@ -1,0 +1,21 @@
+{
+  "model_id": "nebius-qwen3-235b",
+  "pinned_version": "Qwen/Qwen3-235B-A22B-Instruct-2507",
+  "task_id": "t2_rubrik",
+  "source_id": "ankestyrelsen-2026-langeland-tilsynssager-afsluttet",
+  "archetype": "lynposten",
+  "prompt_sha256": "1ea8b1aa1e07e39ad2afd015b52ea1aa40591dc690f9de571a69802d2ffdc00a",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 400,
+    "reasoning_effort": null
+  },
+  "text": "RUBRIK: Ankestyrelsen afslutter tilsynssager mod Langeland  \nUNDERRUBRIK: 295 sager gennemgået efter fejl i Familieafdelingen. Tilsynet slår fast: Kommunen har fulgt op, og sagen er lukket.",
+  "prompt_tokens": 1734,
+  "completion_tokens": 72,
+  "latency_ms": 1261,
+  "cost_usd": 0.00039,
+  "created": "2026-11-10T05:39:19.257891Z",
+  "error": null
+}

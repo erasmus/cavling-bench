@@ -1,0 +1,21 @@
+{
+  "model_id": "nebius-qwen3-235b",
+  "pinned_version": "Qwen/Qwen3-235B-A22B-Instruct-2507",
+  "task_id": "t4_versionering",
+  "source_id": "fo-2026-tankstationer-reservation-beloeb",
+  "archetype": "lynposten",
+  "prompt_sha256": "427307f2dc944fabf0cad261f004aafb88351c91c47389704eff3421e14df506",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 1025,
+    "reasoning_effort": null
+  },
+  "text": "Q8 og OK ændrer reservationspraksis efter pres fra Forbrugerombudsmanden. Forbrugerne får nu større kontrol med deres penge ved tankning.\n\nTankstationskæder har reserveret op til 1.500 kroner på kundernes konti – langt mere end de fleste bruger. Det er urimeligt, siger Forbrugerombudsmanden. Beløbet lå langt over det, små biler og minibiler normalt tanker for.\n\nQ8 reserverer fortsat 950 kroner. Men virksomheden lover at ændre praksis. En ny løsning er undervejs. Fuld implementering forventes midt i 2026. OK har midlertidigt sat reservationsbeløbet ned til 100 kroner. En permanent løsning er på vej.\n\nShell og Uno-X har allerede ændret systemet. Kunder kan nu vælge reservationsbeløbet selv. Det svarer til det maksimale beløb, de kan tanke for. Det giver større gennemsigtighed og kontrol.\n\nForbrugerombudsmand Torben Jensen siger:  \n\"Det er urimeligt, når tankstationer reserverer omkring 900 kroner eller mere hos kunder med små køretøjer.\"  \nHan er glad for, at tre af de fire kæder nu har justeret.\n\nMange kunder har ikke fået frigivet reserverede beløb hurtigt nok. Hos OK, Uno-X og Shell har det i nogle tilfælde taget op til 11 dage. Reservationer skal frigives umiddelbart, når betalingen er klar. Tekniske fejl hos banken er ofte årsagen. Tankstationskæderne arbejder nu på at forbedre processen.\n\nForbrugerne skal samtykke til det præcise reservationsbeløb. Det kræver loven. Q8 og OK mangler stadig en løsning for brugere af Apple Pay og Google Pay. Skiltning er ikke nok, siger Forbrugerombudsmanden. Samtykket skal ske i skærmflowet.\n\nForbrugerombudsmanden afslutter sagerne – men kræver, at Q8 og OK fuldt ud efterlever reglerne fremover.",
+  "prompt_tokens": 2864,
+  "completion_tokens": 540,
+  "latency_ms": 26051,
+  "cost_usd": 0.0008968000000000001,
+  "created": "2026-11-10T05:42:16.759433Z",
+  "error": null
+}

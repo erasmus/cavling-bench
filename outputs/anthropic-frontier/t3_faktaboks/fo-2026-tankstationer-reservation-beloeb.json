@@ -1,0 +1,21 @@
+{
+  "model_id": "anthropic-frontier",
+  "pinned_version": "claude-fable-5-1",
+  "task_id": "t3_faktaboks",
+  "source_id": "fo-2026-tankstationer-reservation-beloeb",
+  "archetype": null,
+  "prompt_sha256": "ed314c5bd2e0cda0b375b120c55b7b37688a38739b949c8bad98864fcf689992",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 3575,
+    "reasoning_effort": "low"
+  },
+  "text": "- Forbrugerombudsmanden har vurderet, at Uno-X og Shells reservationer på henholdsvis 1.200 og 1.500 kroner var urimelige.\n- Q8 reserverer fortsat 950 kroner, men oplyser, at de arbejder på en løsning.\n- OK har for nuværende ændret reservationsbeløbet til 100 kroner, men forventer en anden løsning fremover.\n- I nogle tilfælde gik der op til 11 dage, før reserverede beløb blev frigivet hos OK, Uno-X og Shell.\n- Q8 oplyser, at samtykke til reservationsbeløbet i skærmflowet vil være fuldt implementeret i midten af 2026.",
+  "prompt_tokens": 3350,
+  "completion_tokens": 248,
+  "latency_ms": 4158,
+  "cost_usd": 0.0459,
+  "created": "2026-11-10T07:21:26.875080Z",
+  "error": null
+}

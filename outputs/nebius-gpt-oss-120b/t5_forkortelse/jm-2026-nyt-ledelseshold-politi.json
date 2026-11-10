@@ -1,0 +1,21 @@
+{
+  "model_id": "nebius-gpt-oss-120b",
+  "pinned_version": "openai/gpt-oss-120b",
+  "task_id": "t5_forkortelse",
+  "source_id": "jm-2026-nyt-ledelseshold-politi",
+  "archetype": null,
+  "prompt_sha256": "cc9cf5d90e64b0e59d81925622d8eb3a5cd8c6d4dcd0b58be74b94b796b8f7f0",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 2360,
+    "reasoning_effort": "low"
+  },
+  "text": "Holdet, der skal stå i spidsen for dansk politi og anklagemyndighed, udgør en større ledelsesmæssig rokade i forbindelse med udløbne årsmålsansættelser. Justitsminister Nicolai Wammen udtaler, at de nye udnævnelser sammensætter et stærkt hold med både nye og erfarne kræfter, og takker Thorkild Fogde og øvrige, der forlader deres stillinger. Rokaden omfatter: Thorkild Fogde rokerer fra rigspolitichef til politidirektør i Københavns Vestegns Politi; Lasse Boje Nielsen rokerer fra rigsadvokat til rigspolitichef; Caroline Østergaard Nielsen fungerer midlertidigt som rigsadvokat og er statsadvokat ved Rigsadvokaten. Rasmus Kieffer‑Kristensen udnævnes som chef for Politiets Efterretningstjeneste efter en stilling som ministerråd ved Danmarks Faste Mission i FN, New York. Finn Borch Andersen bliver politidirektør i Københavns Politi; Steen Bechmann Jacobsen i National enhed for Særlig Kriminalitet; Frits Villy Kjeldsen i Østjyllands Politi; Lene Frank i Syd‑ og Sønderjyllands Politi; Henriette Rosenborg Larsen i Sydsjællands‑ og Lolland‑Falsters Politi; Brian Sølvberg Fussing i Sydøstjyllands Politi; Lars Kirkegaard i Fyns Politi; Andreas Langsted i Midt‑ og Vestsjællands Politi; Anne Marie Roum Svendsen i Nordjyllands Politi; Bjørn Tegner Bay i Grønlands Politi; Helle Kyndesen i Midt‑ og Vestjyllands Politi; Martin Preisz Gravesen i Bornholms Politi. Marie Bindslev udnævnes som statsadvokat i København, og Jens‑Christian Bülow som statsadvokat for Særlig Kriminalitet.",
+  "prompt_tokens": 1465,
+  "completion_tokens": 477,
+  "latency_ms": 1507,
+  "cost_usd": 0.00050595,
+  "created": "2026-11-10T05:38:36.488578Z",
+  "error": null
+}

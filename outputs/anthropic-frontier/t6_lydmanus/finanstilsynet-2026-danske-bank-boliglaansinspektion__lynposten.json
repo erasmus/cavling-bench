@@ -1,0 +1,21 @@
+{
+  "model_id": "anthropic-frontier",
+  "pinned_version": "claude-fable-5-1",
+  "task_id": "t6_lydmanus",
+  "source_id": "finanstilsynet-2026-danske-bank-boliglaansinspektion",
+  "archetype": "lynposten",
+  "prompt_sha256": "576c19b713e492f357a81581071cdbbca52642dbfa577298d806bddb4b8658ae",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 3620,
+    "reasoning_effort": "low"
+  },
+  "text": "Danske Bank får påbud fra Finanstilsynet efter en inspektion af bankens boliglån. Tilsynet gennemgik otteoghalvtreds bevillinger til privatkunder med høj gæld og høj belåning. Fire af dem burde ikke være bevilget, vurderer Finanstilsynet.\n\nKunderne havde blandt andet høj gældsætning, usikker indkomst og begrænset opsparing. Banken havde ikke dokumenteret, at kunderne kunne bære lånene.\n\nDanske Bank har flere lån til kunder med høj gældsfaktor og høj belåningsgrad end de andre banker i undersøgelsen. Det stiller større krav til kreditvurderingen, skriver tilsynet.\n\nBanken bruger en forenklet kreditproces for kunder, den anser som særligt robuste. Her fandt tilsynet væsentlige fejl i seks ud af treogtyve sager. For øvrige kunder var der fejl i tretten ud af femogtredive sager.\n\nBanken skal nu sikre, at grundlaget for boliglån er korrekt og dokumenteret. Inspektionen ændrer ikke bankens solvensbehov.",
+  "prompt_tokens": 2674,
+  "completion_tokens": 409,
+  "latency_ms": 7254,
+  "cost_usd": 0.04719,
+  "created": "2026-11-10T07:27:18.805075Z",
+  "error": null
+}

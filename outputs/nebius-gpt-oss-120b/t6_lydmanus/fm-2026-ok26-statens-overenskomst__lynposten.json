@@ -1,0 +1,21 @@
+{
+  "model_id": "nebius-gpt-oss-120b",
+  "pinned_version": "openai/gpt-oss-120b",
+  "task_id": "t6_lydmanus",
+  "source_id": "fm-2026-ok26-statens-overenskomst",
+  "archetype": "lynposten",
+  "prompt_sha256": "f036cdaf303d213d4500aaadbb91e6d285e45cd04ed3a937aec59b79b4c14416",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 2120,
+    "reasoning_effort": "low"
+  },
+  "text": "Tohundredeogfemtusinde statslige medarbejdere får lønstigning fra foråret. Finansminister Nicolai Wammen har sammen med Centralorganisationernes Fællesudvalg og Akademikerne indgået et treårigt overenskomstforlig. Forliget giver en økonomisk ramme på otte komma syv procent over de kommende tre år. Det indeholder et ekstraordinært lønløft til Forsvarets militært ansatte på to hundrede femoghalvfjerds millioner kroner. Derudover afsættes to hundrede og halvtreds millioner kroner til lokal løn og tyve millioner til erhvervsskolelærerne. En ny fritvalgsordning giver medarbejderne valg mellem løn, pension og frihed. Barselsvilkårene forbedres, og børnefamilier får løn på hjemkaldelsesdagen og på barnets tredje sygedag. Ifølge kildeteksten gælder aftalen fra den første april toogtyve seksten til den sidste marts toogtyve ni.",
+  "prompt_tokens": 1372,
+  "completion_tokens": 336,
+  "latency_ms": 1400,
+  "cost_usd": 0.0004074,
+  "created": "2026-11-10T05:38:42.328861Z",
+  "error": null
+}

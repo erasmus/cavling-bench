@@ -1,0 +1,21 @@
+{
+  "model_id": "nebius-gpt-oss-120b",
+  "pinned_version": "openai/gpt-oss-120b",
+  "task_id": "t3_faktaboks",
+  "source_id": "regeringen-2026-kystbeskyttelse-14-9-mia",
+  "archetype": null,
+  "prompt_sha256": "cefcfca0a8a01b846fe3636fdfeeed40262018ce613f2ac4bd70698c0c08474d",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 2075,
+    "reasoning_effort": "low"
+  },
+  "text": "- Regeringen afsætter 14,9 mia. kroner til en national investeringsplan for kystbeskyttelse i Danmark.  \n- Staten vil medfinansiere 85 % af anlægsinvesteringerne i den kommende kystbeskyttelsesplan.  \n- Kommunerne skal bidrage med 15 % af investeringsomkostningerne, hvilket giver samlet mulighed for op til 20 mia. kroner frem til 2040.  \n- Stormfloder, der i dag forventes hvert 100. år, forventes at forekomme hvert tredje år i år 2100.  \n- 1 million danskere bor inden for én kilometer fra kysten, og op til 100 000 husstande samt 175 000 arbejdspladser er i risiko for oversvømmelse.",
+  "prompt_tokens": 1352,
+  "completion_tokens": 203,
+  "latency_ms": 983,
+  "cost_usd": 0.0003246,
+  "created": "2026-11-10T05:38:16.648265Z",
+  "error": null
+}

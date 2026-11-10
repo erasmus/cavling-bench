@@ -1,0 +1,21 @@
+{
+  "model_id": "anthropic-mid",
+  "pinned_version": "claude-sonnet-5-5",
+  "task_id": "t2_rubrik",
+  "source_id": "ombudsmanden-2026-lolland-avisabonnement-pression",
+  "archetype": "lynposten",
+  "prompt_sha256": "73f5bb30030d7793017bc3dea1a4f65fda393cedb8519c7dfa0ac2d660044a1b",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 3400,
+    "reasoning_effort": "low"
+  },
+  "text": "RUBRIK: Ombudsmand irettesætter Lolland Kommune om avisopsigelser\nUNDERRUBRIK: Kommunen opsagde tre abonnementer på Folketidende efter kritisk artikel. Ombudsmand Christian Britten Lundblad siger, at udtalelser giver indtryk af straf.",
+  "prompt_tokens": 2405,
+  "completion_tokens": 118,
+  "latency_ms": 1463,
+  "cost_usd": 0.00599,
+  "created": "2026-11-10T07:15:25.276525Z",
+  "error": null
+}

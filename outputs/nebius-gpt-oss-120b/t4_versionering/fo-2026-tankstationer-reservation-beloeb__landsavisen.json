@@ -1,0 +1,21 @@
+{
+  "model_id": "nebius-gpt-oss-120b",
+  "pinned_version": "openai/gpt-oss-120b",
+  "task_id": "t4_versionering",
+  "source_id": "fo-2026-tankstationer-reservation-beloeb",
+  "archetype": "landsavisen",
+  "prompt_sha256": "ede9e8a415c49ee12129e9dbfbc6937dc10e1d795912765ff0bc1ee76b5fc209",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 2525,
+    "reasoning_effort": "low"
+  },
+  "text": "Forbrugerombudsmanden har i år afsluttet en række sager, der omhandler urimelige reservationsbeløb på forbrugernes betalingskonti ved tankning. Sagerne blev indledt efter en dialog med brancheorganisationen Drivkraft Danmark i 2023, hvor medlemmerne forpligtede sig til at oplyse det præcise beløb, der reserveres, i betalings‑skærmflowet i stedet for kun på klistermærker ved terminalerne. \n\nFlere af de store kæder – Q8, OK, Shell og Uno‑X – havde tidligere reserveret beløb, der langt oversteg den faktiske betaling. Forbrugerombudsmand Torben Jensen udtaler, at “det er urimeligt, når tankstationer reserverer omkring 900 kroner eller mere hos kunder, der skal tanke et mindre køretøj”. Han påpeger også, at reservationen skal frigives straks, når banken modtager den endelige betalingsinformation. \n\nSom følge af myndighedens påmindelser har Uno‑X og Shell indført en funktion, hvor forbrugeren på skærmen kan vælge det maksimale reservationsbeløb, svarende til den største mulige tankning. OK har nedsat reservationsbeløbet til 100 kroner og planlægger yderligere løsninger, mens Q8 fortsat reserverer 950 kroner, men arbejder på en softwareløsning, der skal implementeres i midten af 2026. Begge kæder mangler i øjeblikket en løsning for betalinger med Apple‑ eller Google‑Pay, hvor forbrugeren ikke ser skærmflowet; OK vil i stedet opsætte tydelig skiltning ved terminalerne. \n\nKlager fra forbrugere har vist, at beløb i nogle tilfælde har været låst i op til 11 dage, ofte på grund af tekniske fejl hos banken. Tankstationskæderne har nu iværksat tiltag for at forbedre frigivelsesprocessen, og Forbrugerombudsmanden har anmodet Q8 og OK om at efterleve de gældende regler.",
+  "prompt_tokens": 2413,
+  "completion_tokens": 492,
+  "latency_ms": 1998,
+  "cost_usd": 0.00065715,
+  "created": "2026-11-10T05:38:24.343269Z",
+  "error": null
+}

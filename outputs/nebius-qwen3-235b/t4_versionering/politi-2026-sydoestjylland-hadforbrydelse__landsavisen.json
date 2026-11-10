@@ -1,0 +1,21 @@
+{
+  "model_id": "nebius-qwen3-235b",
+  "pinned_version": "Qwen/Qwen3-235B-A22B-Instruct-2507",
+  "task_id": "t4_versionering",
+  "source_id": "politi-2026-sydoestjylland-hadforbrydelse",
+  "archetype": "landsavisen",
+  "prompt_sha256": "08d963b556a00c1ca6a68eba77dc21c44ae425fafda8fa5d0e9b98dc5d49543d",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 1025,
+    "reasoning_effort": null
+  },
+  "text": "Tre unge mænd er dømt ved Retten i Horsens for en række voldshandlinger begået i byen i januar 2026, herunder en grov voldshandling, der er vurderet som en hadforbrydelse. Dommen kommer efter en række episoder, der har rystet lokalsamfundet, og hvor ofrene blev angrebet på baggrund af deres seksuelle orientering.\n\nDe to 18-årige mænd blev dømt for vold og trusler med kniv under et overfald i Vitus Beringsparken den 2. januar. Den ene af dem blev desuden kendt skyldig i et voldsoverfald i nattelivet samme måned. Den samme mand og den 17-årige tiltalte blev begge dømt for grov vold som hadforbrydelse, efter at de den 17. januar ved Horsens banegård råbte homofobe skældsord mod to kvinder og angreb dem med en totenschlæger og peberspray. Retten konkluderede, at angrebet delvist var motiveret af ofrenes seksuelle orientering.\n\nDen 18-årige, der blev dømt for hadforbrydelsen, idømmes et år og tre måneders fængsel, opholdsforbud i nattelivet i seks måneder samt udvisning fra Danmark med indrejseforbud i seks år. Han blev fængslet umiddelbart efter dommen. Den 17-årige tiltalte idømmes 10 måneders fængsel. Den anden 18-årige modtog tre måneders fængsel og en advarsel om udvisning.\n\nAnklagerfuldmægtig Thomas Vestergaard fra Sydøstjyllands Politi siger: ”Dommen i dag understreger blandt andet, at man som borger ikke skal diskrimineres eller udsættes for vold på baggrund af sin seksuelle orientering, kønsidentitet, kønsudtryk eller lignede.” Den ene 18-årige modtog dommen, mens de to andre udbad sig betænkningstid.",
+  "prompt_tokens": 1414,
+  "completion_tokens": 538,
+  "latency_ms": 20869,
+  "cost_usd": 0.0006056,
+  "created": "2026-11-10T05:43:20.418738Z",
+  "error": null
+}

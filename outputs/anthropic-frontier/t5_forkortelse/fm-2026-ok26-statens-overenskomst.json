@@ -1,0 +1,21 @@
+{
+  "model_id": "anthropic-frontier",
+  "pinned_version": "claude-fable-5-1",
+  "task_id": "t5_forkortelse",
+  "source_id": "fm-2026-ok26-statens-overenskomst",
+  "archetype": null,
+  "prompt_sha256": "0f78d9fb9657cbd7d7b63d9085d5a93dd8bfff3a6ff747c951b0ef131cce5d39",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 3860,
+    "reasoning_effort": "low"
+  },
+  "text": "Finansministeren har sammen med Centralorganisationernes Fællesudvalg (CFU) og Akademikerne indgået et treårigt overenskomstforlig for de omkring 200.000 medarbejdere i staten. Forliget indebærer en økonomisk ramme på 8,7 pct. over de kommende tre år og giver en pæn reallønsfremgang. De første lønstigninger sker allerede i foråret.\n\nParterne er enige om at prioritere 275 mio. kr. af rammen til at understøtte rekruttering og fastholdelse af Forsvarets militært ansatte. Den konkrete udmøntning aftales efterfølgende med organisationerne på forsvarsområdet. Derudover prioriteres 250 mio. kr. mere til lokal løn og 20 mio. kr. til et lønløft til erhvervsskolelærerne.\n\nDer etableres en fritvalgskonto, hvor den ansatte kan vælge mellem løn, pension og frihed, samt en fritvalgsdag for udvalgte personalegrupper og to ekstra seniordage. Dagene er uden løn, men medarbejderen kan få et beløb fra sin Fritvalgs Lønkonto.\n\nBørnefamilier får mulighed for fri med løn på hjemkaldelsesdagen og på barnets tredje sygedag. Der er aftalt forbedret lønret ved barselsorlov, som tilgodeser flere grupper, herunder aleneforældre, sociale forældre og nærtstående. Lønretten øges desuden med to uger til deleorlov.\n\nFinansminister Nicolai Wammen fremhæver behovet for store investeringer i forsvar og sikkerhed og understreger, at de grupper i Forsvaret, der nu får mindst, skal opleve den største relative stigning – udover de generelle lønstigninger.\n\nResultatet sendes til afstemning hos de faglige organisationer og vil, hvis det tiltrædes, gælde fra 1. april 2026 til 31. marts 2029.",
+  "prompt_tokens": 1564,
+  "completion_tokens": 694,
+  "latency_ms": 6660,
+  "cost_usd": 0.05034,
+  "created": "2026-11-10T07:25:40.382008Z",
+  "error": null
+}

@@ -1,0 +1,21 @@
+{
+  "model_id": "nebius-qwen3-235b",
+  "pinned_version": "Qwen/Qwen3-235B-A22B-Instruct-2507",
+  "task_id": "t6_lydmanus",
+  "source_id": "fm-2026-ok26-statens-overenskomst",
+  "archetype": "lynposten",
+  "prompt_sha256": "f036cdaf303d213d4500aaadbb91e6d285e45cd04ed3a937aec59b79b4c14416",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 620,
+    "reasoning_effort": null
+  },
+  "text": "To hundrede tusind statlige medarbejdere får en lønforhøjelse på otte komma syv procent over tre år. Forliget er indgået mellem finansministeren, Centralorganisationernes Fællesudvalg og Akademikerne. Lønstigningerne træder i kraft allerede i foråret. Finansminister Nicolai Wammen kalder resultatet afbalanceret og nødvendigt. \n\nTo hundrede femogsyvogtyve millioner kroner går ekstra til løn for Forsvarets militært ansatte. Det skal sikre rekruttering og fastholdelse. Yderligere to hundrede femten millioner kroner bruges på lokal løn. Tyve millioner kroner går til lønforhøjelse for erhvervsskolelærere.\n\nDer kommer en ny fritvalgskonto. Medarbejdere kan vælge mellem løn, pension og frihed. Udvalgte får en fritvalgsdag. To ekstra seniordage indføres. Familier får fri med løn på barnets tredje sygedag og på hjemkaldelsesdagen. Barselsvilkårene forbedres også. Aftalen gælder fra første april to tusind og seksogtyve til tredje og trediveste marts to tusind og niogtyve, hvis den godkendes.",
+  "prompt_tokens": 1588,
+  "completion_tokens": 335,
+  "latency_ms": 24266,
+  "cost_usd": 0.0005186,
+  "created": "2026-11-10T05:45:16.909009Z",
+  "error": null
+}

@@ -1,0 +1,21 @@
+{
+  "model_id": "nebius-gpt-oss-120b",
+  "pinned_version": "openai/gpt-oss-120b",
+  "task_id": "t5_forkortelse",
+  "source_id": "kefm-2026-akutplan-elnettet-vedtaget",
+  "archetype": null,
+  "prompt_sha256": "72650e5c64281b68b4b12b36b764e834e8273a08b183a10f966d0a943cc28b2f",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 2360,
+    "reasoning_effort": "low"
+  },
+  "text": "Bredt flertal i Folketinget har vedtaget en akutplan for elnettet, som erstatter først‑til‑mølle‑princippet med en prioriteringsmodel, så Energinet og netvirksomhederne kan fordele den knappe plads bedre. Klima‑, energi‑ og forsyningsminister Samira Nawa kalder situationen “dybt alvorlig” og ser planen som første skridt i en genopretningsplan, der skal prioritere, bygge, optimere og gentænke elnettet. Jesper Petersen (S) roser den politiske forståelse, der nu er konkretiseret til en aftale. Nanna Bonde (SF) understreger, at den grønne omstilling og forsyningssikkerhed må prioriteres korrekt, så datacentre ikke blokerer for transport og fjernvarme. Mathilde Hjort Bressum (V) vil have, at prioriteringsmodellen kun er et midlertidigt styringsværktøj, og opfordrer til forhandlinger om en samlet plan for dansk energiinfrastruktur. Malte Larsen (DF) vil have, at den begrænsede kapacitet bruges på samfundets vigtigste behov og fremmer en mere effektiv udnyttelse. Lars Aagaard (M) ser planen som første skridt mod hurtigere udbygning og fleksibelt elforbrug. Anders Storgaard (K) vil have, at akutplanen forbliver kriselovgivning med faste genbesøg af reglerne. Lisbeth Torfing (EL) prioriterer danske hjem og samfundskritisk infrastruktur foran datacentre. Anastasia Milthers (RV) peger på, at Energinet, netselskaberne og Forsyningstilsynet skal godkende nye fleksible netprodukter. Anna Bjerre (ALT) fremhæver, at hyperscale‑datacentre skal placeres bagerst i køen. Aftalen bygger på en politisk forståelse fra før sommeren, justeret efter høring, Folketingets behandling og partiernes bemærkninger. Klima‑, energi‑ og forsyningsministeriet vurderer, at prioriteringen på samfundshensyn ikke kræver metodegodkendelse fra Forsyningstilsynet, men netvenlighed skal baseres på godkendte metoder. Loven træder i kraft 12. oktober, hvorefter Energinet kan anvende de nye regler ved efterårets kapacitetsfordeling. De aftagende partier inviteres til videre drøftelser om udbygning af elnettet og Energiinfrastrukturplan 2035.",
+  "prompt_tokens": 2458,
+  "completion_tokens": 597,
+  "latency_ms": 2104,
+  "cost_usd": 0.0007268999999999999,
+  "created": "2026-11-10T05:38:37.367733Z",
+  "error": null
+}

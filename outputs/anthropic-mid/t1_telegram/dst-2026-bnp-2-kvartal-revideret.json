@@ -1,0 +1,21 @@
+{
+  "model_id": "anthropic-mid",
+  "pinned_version": "claude-sonnet-5-5",
+  "task_id": "t1_telegram",
+  "source_id": "dst-2026-bnp-2-kvartal-revideret",
+  "archetype": null,
+  "prompt_sha256": "63306dcc1fc78ed5d4f1e592f9c57d1b066f11e97f8eaa952d0d607edf3df39d",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 3560,
+    "reasoning_effort": "low"
+  },
+  "text": "Danmarks BNP steg med 0,9 pct. i andet kvartal 2026, viser den reviderede opgørelse af nationalregnskabet fra 30. september. Det er 0,6 procentpoint mere end i første opgørelse, primært på grund af opdaterede kildedata. Bruttoværditilvæksten steg med 1,1 pct., men med 0,7 pct. uden Medicinalindustrien. Første halvår er 6,0 pct. højere end samme periode året før. Beskæftigelsen voksede med 0,2 pct., svarende til 7.800 personer. De faste bruttoinvesteringer steg med 1,5 pct., blandt andet på grund af et patentkøb i udlandet. Privat og offentligt forbrug var uændret på 0,0 pct. Eksporten steg med 1,5 pct. og importen med 1,8 pct. BNP-væksten i første kvartal er opjusteret med 0,2 procentpoint til 1,7 pct.",
+  "prompt_tokens": 3402,
+  "completion_tokens": 339,
+  "latency_ms": 3441,
+  "cost_usd": 0.010194,
+  "created": "2026-11-10T07:14:34.459161Z",
+  "error": null
+}

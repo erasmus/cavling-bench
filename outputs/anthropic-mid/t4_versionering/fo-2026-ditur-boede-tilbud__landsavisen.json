@@ -1,0 +1,21 @@
+{
+  "model_id": "anthropic-mid",
+  "pinned_version": "claude-sonnet-5-5",
+  "task_id": "t4_versionering",
+  "source_id": "fo-2026-ditur-boede-tilbud",
+  "archetype": "landsavisen",
+  "prompt_sha256": "3b3865e02f31f460fd2c209dd4d4faa83329181dfba1dea878ce8fe1cf9a1846",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 4025,
+    "reasoning_effort": "low"
+  },
+  "text": "Ditur.dk ApS har accepteret at betale en bøde på 4,25 millioner kroner for vildledende markedsføring af smykker og ure. Forbrugerombudsmanden politianmeldte i maj 2026 virksomheden for i 26 tilfælde at overtræde markedsføringslovens vildledningsforbud og prismærkningsbekendtgørelsen. Virksomheden har erkendt alle sagens forhold.\n\nForbrugerombudsmanden overvågede i fem måneder priserne på en række tilfældigt udvalgte varer på hjemmesiderne avile.dk og ditur.dk. Myndighedens vurdering var, at varerne blev markedsført som tilbud så længe, at der reelt ikke længere var tale om tilbud. Når en nedsat pris gælder i så lange perioder, bliver den oplyste normalpris ifølge Forbrugerombudsmanden mere teoretisk end faktisk, og tilbudsprisen må anses for at være den egentlige normalpris.\n\nPrismærkningsbekendtgørelsens § 9 a kræver, at normalprisen er den laveste pris, virksomheden har brugt for varen i mindst 30 dage forud for prisnedsættelsen. Reglen skal forhindre, at priser manipuleres, så en kortvarig forhøjelse efterfølges af en nedsættelse, der fremstår som en rabat.\n\nI et eksempel fra sagen var en halskæde på tilbud i 28 af 50 dage. Den blev markedsført med forskellige tilbudspriser og en fast normalpris på 599 kroner. De laveste priser i de to foregående 30-dages perioder var 199 kroner og 179 kroner. Besparelserne var derfor ikke så store, som virksomheden gav udtryk for.\n\nBøden er udmålt efter den bødemodel, der trådte i kraft 1. januar 2022 med det formål generelt at skærpe bødeniveauet for overtrædelser af markedsføringsloven.\n\nForbrugerombudsmand Torben Jensen siger: ”Sagen og bødens størrelse understreger vigtigheden af, at virksomheder nøje følger reglerne for prismarkedsføring og sikrer, at forbrugerne ikke bliver vildledt ved angivelse af besparelser eller tilbudspriser.”",
+  "prompt_tokens": 3084,
+  "completion_tokens": 807,
+  "latency_ms": 5191,
+  "cost_usd": 0.014238,
+  "created": "2026-11-10T05:23:48.766468Z",
+  "error": null
+}

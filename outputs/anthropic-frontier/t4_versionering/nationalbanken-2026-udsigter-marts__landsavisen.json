@@ -1,0 +1,21 @@
+{
+  "model_id": "anthropic-frontier",
+  "pinned_version": "claude-fable-5-1",
+  "task_id": "t4_versionering",
+  "source_id": "nationalbanken-2026-udsigter-marts",
+  "archetype": "landsavisen",
+  "prompt_sha256": "47b9beae0b1c1665402bc7f4458726f2089898d74979136a0f3c2eb73c3fc279",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 4025,
+    "reasoning_effort": "low"
+  },
+  "text": "Nationalbanken vurderer, at dansk økonomi grundlæggende er i god balance med høj beskæftigelse og lav ledighed, selv om udsigterne for både dansk og global økonomi er præget af vedvarende geopolitisk usikkerhed, handelskonflikter og stigende energipriser. Det fremgår af bankens prognose for dansk økonomi, der er offentliggjort i dag.\n\nSamtidig kommer Nationalbanken med to anbefalinger til finanspolitikken. Banken vurderer, at der kun er begrænset ledig kapacitet til at øge produktionen uden at skubbe til lønstigninger og inflation.\n\n”Den nye regering bør i finansloven for 2027 derfor ikke skubbe til efterspørgslen ud over det, der allerede er lagt op til i den tidligere regerings 2035‑plan,” siger nationalbankdirektør Christian Kettel Thomsen.\n\nHan peger på, at Danmark de kommende år står over for store udgifter til blandt andet forsvar, klima og den demografiske udvikling. Det permanente løft af forsvarsudgifterne med 75 mia. kr. i forhold til før Ruslands invasion af Ukraine betyder ifølge ham, at rummet for yderligere prioriteringer nu er væsentligt mindre, og at råderummet kan ændre sig med nye skøn for den økonomiske udvikling.\n\n”Derfor vurderer vi, at den kommende regering bør udvise forsigtighed med at udmønte hele råderummet eller at øge råderummet yderligere i de enkelte år gennem svækkelser af den strukturelle saldo,” siger Christian Kettel Thomsen.\n\nNationalbanken forventer, at inflationen bliver 1,8 pct. i år, 2,0 pct. i 2027 og 1,9 pct. i 2028. Udviklingen i energipriserne som følge af krigen i Mellemøsten udgør dog en betydelig risiko. I et risikoscenarie, hvor olie- og gasforsyningen fra Den Persiske Golf begrænses, og priserne ligger betydeligt og langvarigt over markedsprisen, kan inflationen i år ende på 4,5 pct.\n\n”Trods de nuværende stigninger i energipriserne forventer vi ikke, at vi ser ind i en inflationskrise, som den vi oplevede efter Ruslands invasion af Ukraine,” siger Christian Kettel Thomsen.\n\nBruttonationalproduktet ventes at vokse med 1,8 pct. i år og næste år og 2 pct. i 2028.",
+  "prompt_tokens": 1899,
+  "completion_tokens": 901,
+  "latency_ms": 10013,
+  "cost_usd": 0.06404,
+  "created": "2026-11-10T07:24:00.871718Z",
+  "error": null
+}

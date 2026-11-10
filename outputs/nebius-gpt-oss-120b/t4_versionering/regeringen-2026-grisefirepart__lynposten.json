@@ -1,0 +1,21 @@
+{
+  "model_id": "nebius-gpt-oss-120b",
+  "pinned_version": "openai/gpt-oss-120b",
+  "task_id": "t4_versionering",
+  "source_id": "regeringen-2026-grisefirepart",
+  "archetype": "lynposten",
+  "prompt_sha256": "c50c75fd78e2e7d8d0246b727449ca6371aab74614659719f424f2fb609f7fe9",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 2525,
+    "reasoning_effort": "low"
+  },
+  "text": "Regeringen nedsætter firepart for fremtidens griseproduktion, og den rammer både landmænd, forbrugere og miljøet. Fireparten samler Landbrug & Fødevarer, Dyrenes Beskyttelse, Fødevareforbundet NNF, Danmarks Naturfredningsforening, Dansk Erhverv, Dansk Industri og regeringen selv. Formålet er at hæve dyrevelfærden og gøre produktionen mere bæredygtig.\n\nParterne skal finde løsninger, der giver grisene mere plads, mindsker haleklipning og reducerer antallet af døde pattegrise. Samtidig skal de sikre mere økologi, nedbringe antibiotikaforbruget og løfte den danske griseproduktion op i værdikæden. Ministeren for natur og dyrevelfærd, Christian Rabjerg Madsen, understreger, at “våre grise skal have et bedre griseliv” og at fireparten skal samle ansvarlige aktører for holdbare løsninger.\n\nUdenrigsminister Lars Løkke Rasmussen peger på, at antallet af slagtninger og slagteriarbejdere er faldet med en tredjedel, mens eksporten af smågrise er mere end tidoblet de sidste 15 år. Han forklarer, at et ekspertpanel skal “anvise vejen til mere forædling, bedre dyrevelfærd og en bæredygtig produktion”.\n\nErhvervs- og konkurrencekraftsminister Martin Lidegaard siger, at fireparten er et skridt mod en ny retning for dyrene i staldene og for maden på tallerkenerne. Han lover en ambitiøs national strategi, der skal styrke konkurrencekraften og skabe mere værdi i Danmark.\n\nMiljøminister Maria Reumert Gjerding advarer om, at svineproduktionen belaster fjorde, kystvande og lokalsamfund. Hun vil have en produktion, der tager større hensyn til både naturen og beboerne omkring staldene. Fireparten bygger videre på den grønne trepart, der tidligere har vist, at store forandringer er mulige, når parterne tager ansvar sammen.",
+  "prompt_tokens": 1511,
+  "completion_tokens": 502,
+  "latency_ms": 2188,
+  "cost_usd": 0.0005278500000000001,
+  "created": "2026-11-10T05:38:31.534010Z",
+  "error": null
+}

@@ -1,0 +1,21 @@
+{
+  "model_id": "nebius-gpt-oss-120b",
+  "pinned_version": "openai/gpt-oss-120b",
+  "task_id": "t6_lydmanus",
+  "source_id": "fm-2026-2035-plan",
+  "archetype": "lynposten",
+  "prompt_sha256": "e12ceae45a6a5b5f54ef5a883b8778c6c158f9c62ab61993b4393dd81ee30a68",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 2120,
+    "reasoning_effort": "low"
+  },
+  "text": "Tre procent af bruttonationalproduktet i forsvarsudgifter fra 2022 til 2035, siger regeringen i sin nye plan. Forsvarsbudgettet løftes til omkring syvti milliarder kroner i Ukraine‑fondens ramme. Samtidig afsættes en milliard to hundrede millioner kroner til akut beredskab i år, og fem milliarder kroner i 2035. Klimamålet er at reducere CO₂‑udledningen med tooghalvfems procent i forhold til 1990, med fire milliarder kroner årligt. Regeringen vil også investere femten milliarder kroner i kystbeskyttelse mellem to tusind niogtyve og to tusind fyrre. Finansminister Nicolai Wammen understreger, at investeringerne balanceres med ansvarlig økonomi. Ifølge regeringen er Danmark økonomisk stærkt og kan bære de nye udgifter.",
+  "prompt_tokens": 2030,
+  "completion_tokens": 269,
+  "latency_ms": 1338,
+  "cost_usd": 0.0004659,
+  "created": "2026-11-10T05:38:41.804687Z",
+  "error": null
+}

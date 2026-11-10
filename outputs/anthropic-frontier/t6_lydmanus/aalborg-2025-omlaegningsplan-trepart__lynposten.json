@@ -1,0 +1,21 @@
+{
+  "model_id": "anthropic-frontier",
+  "pinned_version": "claude-fable-5-1",
+  "task_id": "t6_lydmanus",
+  "source_id": "aalborg-2025-omlaegningsplan-trepart",
+  "archetype": "lynposten",
+  "prompt_sha256": "c06dd680f46b092d982eb0c21f4447d123ee0fca00b8cf3960e1c20843a8b41b",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 3620,
+    "reasoning_effort": "low"
+  },
+  "text": "Aalborg Byråd har vedtaget en omlægningsplan med fireoghalvfems grønne projekter i hele kommunen. Planen fik grønt lys på byrådsmødet den femtende december. Det er en principvedtagelse. Projekterne kan kun gennemføres, hvis de berørte lodsejere er enige.\n\nPlanen rummer syvoghalvfjerds lavbundsprojekter. Aalborg er den kommune i Danmark med det største areal af tørveholdige lavbundsjorde. Når jorden vådlægges, falder udledningen af CO2. Dertil kommer tretten forslag om at sikre drikkevandet og tre forslag til store naturområder. De ligger ved Hals og Ulsted Rimmer, syd for Aalborg og ved Halkær Bredning vest for Nibe.\n\nJan Nymark Rose Thaysen, rådmand for By og Land, kalder opgaven stor og kompleks. Han siger, at planen viser vejen mod renere vand og mere natur, mens fødevareproduktionen fastholdes.\n\nI 2026 begynder dialogmøder med de berørte borgere. Hovedparten af lavbunds- og kvælstofindsatsen skal være færdig i 2030.",
+  "prompt_tokens": 2871,
+  "completion_tokens": 428,
+  "latency_ms": 5502,
+  "cost_usd": 0.05011,
+  "created": "2026-11-10T07:27:00.569153Z",
+  "error": null
+}

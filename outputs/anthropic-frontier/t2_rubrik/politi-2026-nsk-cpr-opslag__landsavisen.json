@@ -1,0 +1,21 @@
+{
+  "model_id": "anthropic-frontier",
+  "pinned_version": "claude-fable-5-1",
+  "task_id": "t2_rubrik",
+  "source_id": "politi-2026-nsk-cpr-opslag",
+  "archetype": "landsavisen",
+  "prompt_sha256": "cd834d144baa5e59db8ce6e2c16fbbab7d966d00aeceab3f7573330a6aeab93e",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 3400,
+    "reasoning_effort": "low"
+  },
+  "text": "RUBRIK: Studentermedhjælper får 3,5 års fængsel for salg af CPR-data\nUNDERRUBRIK: Københavns Byret finder 27-årig skyldig i medvirken til 34 tilfælde af forsøg på grov vold efter uberettigede opslag i CPR-registret for Københavns Kommune.",
+  "prompt_tokens": 2241,
+  "completion_tokens": 119,
+  "latency_ms": 1828,
+  "cost_usd": 0.02836,
+  "created": "2026-11-10T07:20:47.844378Z",
+  "error": null
+}

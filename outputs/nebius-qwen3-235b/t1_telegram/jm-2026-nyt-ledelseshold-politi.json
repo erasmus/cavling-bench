@@ -1,0 +1,21 @@
+{
+  "model_id": "nebius-qwen3-235b",
+  "pinned_version": "Qwen/Qwen3-235B-A22B-Instruct-2507",
+  "task_id": "t1_telegram",
+  "source_id": "jm-2026-nyt-ledelseshold-politi",
+  "archetype": null,
+  "prompt_sha256": "74d7df920e087e24ca771cdcf4aef83e26bbe59d4b283c3ab9241fc6b9249472",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 560,
+    "reasoning_effort": null
+  },
+  "text": "Lasse Boje Nielsen er udpeget som ny rigspolitichef og afløser Thorkild Fogde, der tiltræder som politidirektør i Københavns Vestegns Politi. Udnævnelserne, annonceret af justitsminister Nicolai Wammen, indgår i en større ledelsesrokade, der skal styrke politi og anklagemyndighed frem mod 2030. Boje Nielsen, tidligere rigsadvokat og politidirektør for National enhed for Særlig Kriminalitet, efterfølges midlertidigt som rigsadvokat af Caroline Østergaard Nielsen. Rasmus Kieffer-Kristensen bliver ny chef for Politiets Efterretningstjeneste, mens Finn Borch Andersen, tidligere PET-chef, tiltræder som politidirektør i Københavns Politi. Yderligere 13 politidirektører og anklagemyndighedsledere er udnævnt eller genudnævnt, herunder Marie Bindslev som ny statsadvokat i København og Jens-Christian Bülow, der genudnævnes som statsadvokat for Særlig Kriminalitet.",
+  "prompt_tokens": 1600,
+  "completion_tokens": 298,
+  "latency_ms": 4617,
+  "cost_usd": 0.0004988,
+  "created": "2026-11-10T05:38:59.510813Z",
+  "error": null
+}

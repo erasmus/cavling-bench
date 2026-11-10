@@ -1,0 +1,21 @@
+{
+  "model_id": "anthropic-mid",
+  "pinned_version": "claude-sonnet-5-5",
+  "task_id": "t2_rubrik",
+  "source_id": "nationalbanken-2026-udsigter-marts",
+  "archetype": "erhvervsnyt",
+  "prompt_sha256": "4806a02c82d16fe15675ccf195c7ebe8bc609c28d0b00baafc106d3d8ed4735d",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 3400,
+    "reasoning_effort": "low"
+  },
+  "text": "RUBRIK: Nationalbanken venter inflation på 1,8 pct. i år\nUNDERRUBRIK: Energipriserne efter krigen i Mellemøsten er en risiko: I et scenarie med begrænset gasforsyning kan inflationen i år ende på 4,5 pct., vurderer Nationalbanken.",
+  "prompt_tokens": 1923,
+  "completion_tokens": 117,
+  "latency_ms": 1970,
+  "cost_usd": 0.005016,
+  "created": "2026-11-10T07:15:23.330125Z",
+  "error": null
+}

@@ -1,0 +1,21 @@
+{
+  "model_id": "anthropic-mid",
+  "pinned_version": "claude-sonnet-5-5",
+  "task_id": "t4_versionering",
+  "source_id": "ankestyrelsen-2026-langeland-tilsynssager-afsluttet",
+  "archetype": "landsavisen",
+  "prompt_sha256": "abc9a7106761b61d6f5a1fea5511cd59c95ad82ed71a3bb4cbbcfc9709a01d81",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 4025,
+    "reasoning_effort": "low"
+  },
+  "text": "Ankestyrelsens tilsyn har meddelt Langeland Kommune, at styrelsen afslutter opfølgningen på to tilsynssager om kommunens Familieafdeling. Beskeden følger efter et forløb, der begyndte med en udtalelse fra tilsynet i november 2022.\n\nI den sag vurderede tilsynet, at Familieafdelingen i sin sagsbehandling ikke havde overholdt en række bestemmelser i offentlighedsloven, forvaltningsloven, retssikkerhedsloven og serviceloven. Tilsynet mente derfor, at kommunen burde gennemgå alle igangværende og eventuelt afsluttede sager i afdelingen for at vurdere, om nogle af dem skulle tages op igen. Kommunen udpegede 295 sager som relevante at gennemgå.\n\nForløbet har ifølge tilsynet været præget af behov for præciseringer af grundlaget for kommunens tilbagemeldinger og af ændringer i tilrettelæggelsen af opfølgningen. I marts 2025 modtog tilsynet kommunens slutorientering efter en fornyet gennemgang af en stor del af sagerne. Tilsynet lægger vægt på, at sagerne er gennemgået, at der er foretaget en konkret og individuel vurdering, at fejl og mangler er identificeret, og at der er taget stilling til genoptagelse af relevante sager.\n\n\"Det er derfor vores vurdering i dag, at kommunen har fulgt op på vores udtalelse fra november 2022 og gennemført de fornødne tiltag i Familieafdelingen\", siger ankechef Hanne Østergaard, Tilsyn og Underretning i Ankestyrelsen.\n\nDen anden sag stammer fra 2024 og udsprang af en henvendelse om bekymrende forhold fra en taskforce på børneområdet, som dengang havde et verserende forløb med Familieafdelingen. Taskforcen består af medarbejdere fra Socialstyrelsen og Ankestyrelsen, og dens arbejde blev sat på pause. Tilsynet afsluttede sagen i august sidste år uden at rejse tilsynssag, men varslede opfølgning.\n\nKommunen oplyser, at den har omorganiseret og opnormeret Familieafdelingen, hvilket efter dens egen vurdering giver mere ensartet sagsbehandling. Samarbejdet med taskforcen genoptages, og forløbet løber fra maj 2026 til januar 2028.",
+  "prompt_tokens": 2270,
+  "completion_tokens": 872,
+  "latency_ms": 5803,
+  "cost_usd": 0.01326,
+  "created": "2026-11-10T07:16:04.692361Z",
+  "error": null
+}

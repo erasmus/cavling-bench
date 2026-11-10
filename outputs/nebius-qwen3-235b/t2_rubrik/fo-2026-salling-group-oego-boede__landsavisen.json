@@ -1,0 +1,21 @@
+{
+  "model_id": "nebius-qwen3-235b",
+  "pinned_version": "Qwen/Qwen3-235B-A22B-Instruct-2507",
+  "task_id": "t2_rubrik",
+  "source_id": "fo-2026-salling-group-oego-boede",
+  "archetype": "landsavisen",
+  "prompt_sha256": "04920bdcd97af52906eda0e002eaeeef1a5e09b0532f86cca9027f39feab35f2",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 400,
+    "reasoning_effort": null
+  },
+  "text": "RUBRIK: Salling Group betaler 10 mio. i bøde for vildledende markedsføring  \nUNDERRUBRIK: Bøden følger efter politianmeldelse fra Forbrugerombudsmanden for at have fremstillet Netto ØGO som mere bæredygtigt, end det kan dokumenteres",
+  "prompt_tokens": 2025,
+  "completion_tokens": 80,
+  "latency_ms": 1973,
+  "cost_usd": 0.000453,
+  "created": "2026-11-10T05:39:46.331244Z",
+  "error": null
+}

@@ -1,0 +1,21 @@
+{
+  "model_id": "nebius-qwen3-235b",
+  "pinned_version": "Qwen/Qwen3-235B-A22B-Instruct-2507",
+  "task_id": "t5_forkortelse",
+  "source_id": "skim-2026-sommeraftale-sundhedsreform",
+  "archetype": null,
+  "prompt_sha256": "0e4db8adfb96821687e9a8845b37bf0d03c7f777bfe3ddc6be237cea70e6795b",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 860,
+    "reasoning_effort": null
+  },
+  "text": "Regeringen, Danske Regioner og KL er blevet enige om en sommeraftale for implementeringen af sundhedsreformen, der skal sikre et mere sammenhængende sundhedsvæsen tættere på borgerens hverdag. Aftalen, som bygger på forårsaftalen fra 2025, indebærer konkrete forbedringer fra 2027, herunder de første kronikerpakker for patienter med KOL og kroniske lænderygsmerter. Disse patienter får ret til en behandlingsplan og tilbud om forebyggelsestilbud inden for 21 dage efter henvisning. Senere følger pakker for patienter med type 2-diabetes, hjertesygdom og kompleks multisygdom. Kvaliteten af forebyggelsestilbud styrkes, og der udvikles digitale løsninger. Aftalen udvider også 96 timers behandlingsansvar til ældre medicinske patienter og visse psykiatriske patienter, så sygehuslægen har ansvar i fire døgn efter udskrivelse, for at mindske genindlæggelser. Regeringen, KL og Danske Regioner støtter Sundhedsstyrelsens oplæg til den nationale sundhedsplan for 2027–2030, som skal lede omstillingen. Sundheds- og omsorgspladserne får et kvalitetsløft, frit valg og ret til befordring. Aftalen indebærer en finansiel forøgelse på knap 800 mio. kr. i 2027 og stiger til 1,1 mia. kr. årligt fra 2030. Loftet over speciallægestillinger i store byer forbliver for at forbedre ligheden i adgangen, men gælder ikke læger over 67 år. Undtagelsen for kombinationsstillinger gælder frem til 1. kvartal 2028. Desuden allokeres 128 mio. kr. i 2027 til at reducere ventetider hos praktiserende speciallæger.",
+  "prompt_tokens": 2428,
+  "completion_tokens": 524,
+  "latency_ms": 20938,
+  "cost_usd": 0.0008,
+  "created": "2026-11-10T05:44:53.064377Z",
+  "error": null
+}

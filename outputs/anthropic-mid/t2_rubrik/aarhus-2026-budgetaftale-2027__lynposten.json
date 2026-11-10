@@ -1,0 +1,21 @@
+{
+  "model_id": "anthropic-mid",
+  "pinned_version": "claude-sonnet-5-5",
+  "task_id": "t2_rubrik",
+  "source_id": "aarhus-2026-budgetaftale-2027",
+  "archetype": "lynposten",
+  "prompt_sha256": "d8f63e3fcd8f2cef31bfd9e056a0c55ac7a76df269ef964cc64b2f2563b4178c",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 3400,
+    "reasoning_effort": "low"
+  },
+  "text": "RUBRIK: Enigt byråd i Aarhus afsætter 138 mio. kr. til socialområdet\nUNDERRUBRIK: Ni partier står bag budgetaftalen for 2027. Der er også 810 mio. kr. til anlæg, bedre fremkommelighed og billigere kollektiv trafik. Kommuneskatten holdes i ro.",
+  "prompt_tokens": 2255,
+  "completion_tokens": 130,
+  "latency_ms": 1912,
+  "cost_usd": 0.00581,
+  "created": "2026-11-10T05:23:36.056641Z",
+  "error": null
+}

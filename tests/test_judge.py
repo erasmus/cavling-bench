@@ -2,6 +2,7 @@ import json
 
 from danews.generate import run_generate
 from danews.judge import (
+    _judges,
     extract_json,
     run_fluency,
     run_grounding,
@@ -68,7 +69,6 @@ def test_judges_end_to_end_on_fixtures(fixture_cfg):
     assert single_judge_cells(fixture_cfg) == [
         ("fake-echo", "tone"),
         ("fake-judge-a", "tone"),
-        ("fake-judge-b", "tone"),
     ]
     # model names never reach the judge prompt
     cache_files = list(fixture_cfg.paths.cache.glob("*.json"))
@@ -101,3 +101,9 @@ def test_unreachable_judge_is_skipped_and_error_records_are_retried(fixture_cfg,
     assert g2["fake-judge-a"] == 1
     a_recs = [r for r in _lines(path, GroundingRecord) if r.judge_id == "fake-judge-a"]
     assert all(r.error is None for r in a_recs)
+
+
+def test_disabled_row_is_judge_only(fixture_cfg):
+    """`enabled: false` keeps a row out of the generator set but it can still be a judge."""
+    assert "fake-judge-b" not in {m.id for m in fixture_cfg.models}
+    assert [j.id for j in _judges(fixture_cfg)] == ["fake-judge-a", "fake-judge-b"]

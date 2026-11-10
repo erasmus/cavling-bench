@@ -1,0 +1,21 @@
+{
+  "model_id": "nebius-qwen3-235b",
+  "pinned_version": "Qwen/Qwen3-235B-A22B-Instruct-2507",
+  "task_id": "t4_versionering",
+  "source_id": "aalborg-2025-omlaegningsplan-trepart",
+  "archetype": "landsavisen",
+  "prompt_sha256": "c9990e77c86bee8b2ddce225f5fe0927433d1cfafb3993fcc71a08f3542b435a",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 1025,
+    "reasoning_effort": null
+  },
+  "text": "Aalborg Byråd har vedtaget en principafgørelse om en omfattende omlægningsplan for kommunen, som skal sikre mere natur, renere drikkevand og et sundere vandmiljø. Beslutningen er et resultat af arbejdet i den lokale Aalborg Trepart, der er nedsat i forlængelse af den landsdækkende aftale om et Grønt Danmark, indgået mellem regeringen, landbruget og Danmarks Naturfredningsforening i 2024. Planen skal nu gennemføres i tæt samarbejde med Naturstyrelsen, landbrugssektoren og de berørte lodsejere.\n\nPlanen omfatter 94 projekter, heraf 77 lavbundsprojekter, der sigter mod at nedbringe CO2-udledningen ved vådlægning af tørveholdige jorde. Aalborg er den danske kommune med det største areal af sådanne jorde, hvilket giver projektet særlig klimamæssig betydning. Derudover indeholder planen 13 forslag til beskyttelse af drikkevand, primært ved omdannelse af dyrket jord til skov og natur i særligt sårbare indvindingsoplande. Yderligere tre projekter fokuserer på at etablere større sammenhængende naturområder ved Hals og Ulsted Rimmer, området syd for Aalborg samt ved Halkær Bredning og Halkær Sø.\n\nRådmand for By og Land og næstformand i Aalborg Trepart, Jan Nymark Rose Thaysen, siger: \"Det har været en stor og kompleks opgave at nå i mål med en samlet omlægningsplan for hele Aalborg Kommune. Jeg vil gerne kvittere for et godt og konstruktivt samarbejde i den lokale Aalborg Trepart, hvor det er lykkes at nå i mål med en ambitiøs plan, der viser vejen frem mod et renere vandmiljø, mere natur, mindre udledning af klimagasser og renere drikkevand, samtidigt med at vi fastholder en stærk fødevareproduktion.\"\n\nI 2026 skal dialogen med berørte borgere intensiveres. Målet er, at hovedparten af klima- og vandrelaterede projekter er afsluttet i 2030, mens natur- og skovprojekter fortsætter ud over denne horisont.",
+  "prompt_tokens": 2148,
+  "completion_tokens": 629,
+  "latency_ms": 9001,
+  "cost_usd": 0.000807,
+  "created": "2026-11-10T05:41:02.771604Z",
+  "error": null
+}

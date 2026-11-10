@@ -1,0 +1,21 @@
+{
+  "model_id": "anthropic-mid",
+  "pinned_version": "claude-sonnet-5-5",
+  "task_id": "t1_telegram",
+  "source_id": "finanstilsynet-2026-danske-bank-boliglaansinspektion",
+  "archetype": null,
+  "prompt_sha256": "3b72233b9fa917a61c523dca041fe0b54f7ad350a8e1f2e1c01831a41dfb2e0f",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 3560,
+    "reasoning_effort": "low"
+  },
+  "text": "Finanstilsynet vurderer, at 4 ud af 58 gennemgåede boliglånsbevillinger i Danske Bank ikke burde have været bevilget på det foreliggende grundlag, og banken har fået påbud om at sikre et korrekt og dokumenteret bevillingsgrundlag. Stikprøven bestod af sager med gældsfaktor over 3,5, belåningsgrad over 60 pct. og engagement over 200.000 kr. Der var væsentlige fejl i 6 af 23 sager (26 pct.) for en særskilt kundegruppe med forenklet kreditproces og i 13 af 35 sager (37 pct.) for øvrige kunder. Banken har en højere andel af høj gældsfaktor og belåning end de øvrige institutter, men Danske Banks data vedrører en senere periode. Inspektionen gav ikke anledning til ændring af solvensbehovet.",
+  "prompt_tokens": 2155,
+  "completion_tokens": 316,
+  "latency_ms": 2465,
+  "cost_usd": 0.00747,
+  "created": "2026-11-10T07:14:39.308620Z",
+  "error": null
+}

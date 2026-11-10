@@ -1,0 +1,21 @@
+{
+  "model_id": "anthropic-mid",
+  "pinned_version": "claude-sonnet-5-5",
+  "task_id": "t6_lydmanus",
+  "source_id": "aalborg-2025-omlaegningsplan-trepart",
+  "archetype": "lynposten",
+  "prompt_sha256": "c06dd680f46b092d982eb0c21f4447d123ee0fca00b8cf3960e1c20843a8b41b",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 3620,
+    "reasoning_effort": "low"
+  },
+  "text": "Fireoghalvfems projekter skal give Aalborg mere natur, renere drikkevand og et sundere vandmiljø. Byrådet vedtog omlægningsplanen på mødet femtende december. Det er en principvedtagelse.\n\nSyvoghalvfjerds af projekterne er lavbundsprojekter. Aalborg har landets største areal med tørveholdige lavbundsjorde. Når de vådlægges, falder udledningen af kuldioxid. Tretten forslag skal sikre drikkevandet. Tre forslag handler om store naturområder.\n\nProjekterne kræver enighed med de berørte lodsejere.\n\nRådmand Jan Nymark Rose Thaysen siger: \"Det har været en stor og kompleks opgave.\" Han er næstformand i Aalborg Trepart.\n\nI 2026 starter dialogmøderne med borgerne. Hovedparten af lavbundsindsatsen skal være færdig i 2030.",
+  "prompt_tokens": 2871,
+  "completion_tokens": 327,
+  "latency_ms": 3670,
+  "cost_usd": 0.009012,
+  "created": "2026-11-10T07:18:17.182713Z",
+  "error": null
+}

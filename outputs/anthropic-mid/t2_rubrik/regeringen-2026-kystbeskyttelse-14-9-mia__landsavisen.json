@@ -1,0 +1,21 @@
+{
+  "model_id": "anthropic-mid",
+  "pinned_version": "claude-sonnet-5-5",
+  "task_id": "t2_rubrik",
+  "source_id": "regeringen-2026-kystbeskyttelse-14-9-mia",
+  "archetype": "landsavisen",
+  "prompt_sha256": "7a39078847720f2324785d35c7a696d8a612faecaa569f63fb6f18a32ca7a4ed",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 3400,
+    "reasoning_effort": "low"
+  },
+  "text": "RUBRIK: Regeringen afsætter 14,9 mia. kr. til national kystbeskyttelse\nUNDERRUBRIK: Staten vil dække 85 procent af kommunernes anlægsudgifter, fordi stormfloder ventes hyppigere. Ekspertgruppe skal se på lodsejernes bidrag.",
+  "prompt_tokens": 2534,
+  "completion_tokens": 120,
+  "latency_ms": 1354,
+  "cost_usd": 0.006268,
+  "created": "2026-11-10T07:15:34.328617Z",
+  "error": null
+}

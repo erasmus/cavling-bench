@@ -1,0 +1,21 @@
+{
+  "model_id": "anthropic-frontier",
+  "pinned_version": "claude-fable-5-1",
+  "task_id": "t2_rubrik",
+  "source_id": "fo-2026-tankstationer-reservation-beloeb",
+  "archetype": "lynposten",
+  "prompt_sha256": "a5f86f3abfb4a32eb64fc28e10932241d3a9b458d5e02f806f0356e876b6844a",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 3400,
+    "reasoning_effort": "low"
+  },
+  "text": "RUBRIK: Q8 reserverer stadig 950 kroner, når du tanker\nUNDERRUBRIK: Forbrugerombudsmanden kalder beløb på op til 1.500 kroner urimelige. Shell, Uno-X og OK har ændret praksis, mens Q8 arbejder på en løsning.",
+  "prompt_tokens": 3819,
+  "completion_tokens": 114,
+  "latency_ms": 3452,
+  "cost_usd": 0.04389,
+  "created": "2026-11-10T07:20:20.450218Z",
+  "error": null
+}

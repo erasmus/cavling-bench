@@ -1,0 +1,21 @@
+{
+  "model_id": "nebius-gpt-oss-120b",
+  "pinned_version": "openai/gpt-oss-120b",
+  "task_id": "t2_rubrik",
+  "source_id": "dst-2026-bnp-2-kvartal-revideret",
+  "archetype": "erhvervsnyt",
+  "prompt_sha256": "a0c1c578f6789680a90803f2a2d07f9a2d33d3a238e15838d5d798d160fede0d",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 1900,
+    "reasoning_effort": "low"
+  },
+  "text": "RUBRIK: BNP opjusteret 0,9 % i 2. kvartal – vækst i medicin og industri  \nUNDERRUBRIK: BNP stiger 0,9 % efter revision, beskæftigelsen +0,2 % (7.800 jobs) og investeringerne i intellektuelle rettigheder vender fra -1,2 % til +1,5 %.",
+  "prompt_tokens": 2531,
+  "completion_tokens": 256,
+  "latency_ms": 827,
+  "cost_usd": 0.00053325,
+  "created": "2026-11-10T05:38:03.217662Z",
+  "error": null
+}

@@ -1,0 +1,21 @@
+{
+  "model_id": "anthropic-frontier",
+  "pinned_version": "claude-fable-5-1",
+  "task_id": "t4_versionering",
+  "source_id": "kefm-2026-akutplan-elnettet-vedtaget",
+  "archetype": "landsavisen",
+  "prompt_sha256": "fac7f24b636ff2ee6b717e2d65cb4178fa74aadfe39f1071334f4cc0f06c75ac",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 4025,
+    "reasoning_effort": "low"
+  },
+  "text": "Et bredt flertal i Folketinget har vedtaget akutplanen for elnettet, og dermed er de lovgivningsmæssige rammer for en ny prioriteringsmodel på plads. Planen er et svar på, at presset på elnettet nu er så stort, at der flere steder ikke er plads til alle de projekter, der ønsker at blive tilsluttet. Partierne blev enige om planen før sommeren, og den er nu vedtaget af samme flertal.\n\nMed loven erstattes det nuværende først-til-mølle-princip af en model, hvor Energinet og netvirksomhederne i højere grad får mulighed for at prioritere, hvem der får adgang til den begrænsede plads i nettet.\n\n\"Situationen i vores elnet er dybt alvorlig. Pladsen i elnettet er blevet en knap ressource, og det kan bremse både elektrificeringen og den grønne omstilling,\" siger klima-, energi- og forsyningsminister Samira Nawa, der kalder loven \"kun første skridt i en genopretningsplan\".\n\nAkutplanen var oprindeligt en politisk forståelse, men partierne er nu enige om, at situationens alvor kalder på en egentlig aftale. Aftalen er justeret på baggrund af den offentlige høring, Folketingets behandling og partiernes spørgsmål.\n\nFlere partier understreger, at modellen skal være midlertidig. \"For Venstre er det afgørende, at prioriteringsmodellen benyttes som et styringsværktøj i en akut situation og ikke bliver den nye normal,\" siger Mathilde Hjort Bressum (V), klima-, energi- og forsyningsordfører. Anders Storgaard (K) peger på, at faste genbesøg af reglerne er skrevet ind, og at reglerne skal genbesøges i 2027.\n\nEfter planen træder loven i kraft 12. oktober. Herefter kan Energinet og netvirksomhederne administrere efter de nye regler, når kapaciteten i elnettet næste gang skal fordeles i efteråret. Aftalepartierne vil samtidig blive inviteret til de kommende drøftelser om udbygning af elnettet og Energiinfrastrukturplan 2035.",
+  "prompt_tokens": 4240,
+  "completion_tokens": 762,
+  "latency_ms": 7351,
+  "cost_usd": 0.0805,
+  "created": "2026-11-10T07:23:31.970266Z",
+  "error": null
+}

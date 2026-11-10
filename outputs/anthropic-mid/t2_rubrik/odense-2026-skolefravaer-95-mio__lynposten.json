@@ -1,0 +1,21 @@
+{
+  "model_id": "anthropic-mid",
+  "pinned_version": "claude-sonnet-5-5",
+  "task_id": "t2_rubrik",
+  "source_id": "odense-2026-skolefravaer-95-mio",
+  "archetype": "lynposten",
+  "prompt_sha256": "d100d72b9c06fd0ac91e3d3287376bfc5d3a301248ba303c988707005fb03db1",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 3400,
+    "reasoning_effort": "low"
+  },
+  "text": "RUBRIK: Odense sætter 9,5 mio. kr. af til børn med skolefravær\nUNDERRUBRIK: Knap hver femte elev har over 10 procent fravær. Nu får familier en fraværslinje i 2027 og en fast tovholder, og skolerne får flere ressourcer.",
+  "prompt_tokens": 2556,
+  "completion_tokens": 109,
+  "latency_ms": 1399,
+  "cost_usd": 0.006202,
+  "created": "2026-11-10T07:15:23.025085Z",
+  "error": null
+}

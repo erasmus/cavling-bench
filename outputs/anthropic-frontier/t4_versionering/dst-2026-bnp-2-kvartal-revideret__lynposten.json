@@ -1,0 +1,21 @@
+{
+  "model_id": "anthropic-frontier",
+  "pinned_version": "claude-fable-5-1",
+  "task_id": "t4_versionering",
+  "source_id": "dst-2026-bnp-2-kvartal-revideret",
+  "archetype": "lynposten",
+  "prompt_sha256": "20292ae37f60f9d02864a534e0d015f9a20ac67a6787664a303eea20def82655",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 4025,
+    "reasoning_effort": "low"
+  },
+  "text": "Dansk økonomi voksede 0,9 procent i andet kvartal 2026. Det viser nye reviderede tal for nationalregnskabet. Væksten er dermed skruet op med 0,6 procentpoint i forhold til den første opgørelse.\n\nOpjusteringen skyldes nye kildedata. Det gælder især industriens produktion og omsætning, firmaernes køb og salg samt betalingsbalance og udenrigshandel.\n\nMedicinalindustrien trak væksten op. Bruttoværditilvæksten for hele økonomien steg 1,1 procent. Uden medicinalindustrien var væksten 0,7 procent. Den øvrige industri og den offentlige sektor bidrog også positivt.\n\nSet over det seneste år er fremgangen markant. BNP i første halvår 2026 lå 6,0 procent over samme periode året før.\n\nBeskæftigelsen steg 0,2 procent i andet kvartal. Det svarer til 7.800 personer. De præsterede timer steg 0,3 procent.\n\nInvesteringerne steg 1,5 procent. Et patentkøb i udlandet løftede investeringerne i intellektuelle rettigheder. De er revideret fra et fald på 1,2 procent til en stigning på 1,5 procent. Byggeri og anlæg bidrog også positivt. Til gengæld faldt investeringer i transportmidler og maskiner kraftigt.\n\nForbruget stod stille. Både det offentlige og husholdningernes forbrug havde en udvikling på 0,0 procent. Husholdningerne brugte 0,8 procent mere på tjenester. Varekøbet faldt 0,8 procent. Køb af køretøjer faldt 1,8 procent. Det kommer efter en stigning på 12,7 procent i første kvartal.\n\nEksporten steg 1,5 procent. Vareeksporten steg 2,8 procent, især drevet af maskiner. Tjenesteeksporten faldt 0,5 procent. Importen steg 1,8 procent.\n\nVæksten i første kvartal er også revideret op. Den ligger nu på 1,7 procent. Det er 0,2 procentpoint mere end tidligere opgjort.\n\nLagrene gav et vækstbidrag på 0,4 procentpoint i andet kvartal. Tallet skal dog tolkes med stor påpasselighed. Sæsonkorrektionen af lagre er behæftet med betydelig usikkerhed.",
+  "prompt_tokens": 3872,
+  "completion_tokens": 843,
+  "latency_ms": 9003,
+  "cost_usd": 0.08087,
+  "created": "2026-11-10T07:22:13.828728Z",
+  "error": null
+}

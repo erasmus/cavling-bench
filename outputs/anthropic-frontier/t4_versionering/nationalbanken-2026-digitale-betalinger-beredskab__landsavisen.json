@@ -1,0 +1,21 @@
+{
+  "model_id": "anthropic-frontier",
+  "pinned_version": "claude-fable-5-1",
+  "task_id": "t4_versionering",
+  "source_id": "nationalbanken-2026-digitale-betalinger-beredskab",
+  "archetype": "landsavisen",
+  "prompt_sha256": "d12b3da773f51b25f9a03035ae8c7d04c1968d9d5247580e03008f6660d58890",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 4025,
+    "reasoning_effort": "low"
+  },
+  "text": "Nationalbanken opfordrer flere butikker til at tilslutte sig et offline-kortberedskab, efter at tekniske fejl hos Nets to gange det seneste år har ramt betalingerne. Opfordringen følger to analyser, som Nationalbanken udgiver i dag, og som viser, at mere end 90 pct. af alle betalinger i Danmark nu er digitale.\n\nKontanter blev ifølge analyserne brugt til 9 pct. af alle betalinger i fysisk handel i 2025 mod 11 pct. i 2023 og 23 pct. i 2017. Wallet-betalinger, for eksempel med Apple Pay og Google Pay, udgør nu hver tredje betaling i fysisk handel, mens straksbetalinger, for eksempel via MobilePay, står for under 5 pct.\n\nSamtidig har flere borgere en kontantreserve. 41 pct. har over 1.000 kr. i kontanter mod 33 pct. i 2023, og syv ud af ti med en kontantbeholdning betragter den som et beredskab.\n\nNationalbankdirektør Ulrik Nødgaard peger på to områder, der kan styrkes. ”At endnu flere butikker er klar til at tage imod digitale betalinger offline, og at der bliver en større udbredelse af straksbetalinger via fx MobilePay,” siger han.\n\nNedbruddene hos Nets i juli 2025 og maj 2026 viste ifølge Nationalbanken, at betalingsløsninger kan svigte, selv om infrastrukturen er sikker og effektiv. ”Offline-kortberedskabet sørgede for, at mange kunder i dagligvarehandlen ikke mærkede Nets-nedbruddet i maj 2026,” siger Ulrik Nødgaard.\n\nBeredskabet er etableret af dagligvarebutikker og apoteker sammen med den finansielle sektor og Betalingsrådets øvrige medlemmer. Det sikrer, at borgere over 18 år kan betale med kort og wallets i mindst syv dage, selv om kortinfrastrukturen ikke virker. Andre butikker kan tilslutte sig samme løsning.\n\nNationalbanken anbefaler, at husstande har mindst to betalingskort fra forskellige mærker, et mindre kontantbeløb med 250 kr. pr. person som pejlemærke samt en mobilløsning til kontooverførsler.",
+  "prompt_tokens": 2787,
+  "completion_tokens": 839,
+  "latency_ms": 9046,
+  "cost_usd": 0.06982,
+  "created": "2026-11-10T07:23:53.374908Z",
+  "error": null
+}

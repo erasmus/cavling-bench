@@ -1,0 +1,21 @@
+{
+  "model_id": "nebius-gpt-oss-120b",
+  "pinned_version": "openai/gpt-oss-120b",
+  "task_id": "t1_telegram",
+  "source_id": "politi-2026-sydoestjylland-hadforbrydelse",
+  "archetype": null,
+  "prompt_sha256": "10bbbf3769e2d96423a9bfbc30a414cc0243aebb1779901afc33fd58d705f99f",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 2060,
+    "reasoning_effort": "low"
+  },
+  "text": "Tre unge mænd på 18, 18 og 17 år er i dag idømt fængselsstraffe i Horsens Ret for en række voldsepisoder i januar 2026 og overtrædelse af våbenlovgivningen. Den 18‑årige, som også blev dømt for en hadforbrydelse, får et år og tre måneders fængsel, seks måneders opholdsforbud i nattelivet, udvisning af Danmark og seks års indrejseforbud. Den 17‑årige får 10 måneders fængsel, mens den anden 18‑årige får tre måneders fængsel og en advarsel om udvisning. Dommen omfatter vold med kniv, grov vold mod to kvinder ved banegården, brug af totenschlæger og peberspray samt diskriminerende motiv. Thomas Vestergaard understreger, at dommen viser, at ingen må udsættes for vold på grund af seksuel orientering eller kønsidentitet.",
+  "prompt_tokens": 957,
+  "completion_tokens": 239,
+  "latency_ms": 884,
+  "cost_usd": 0.00028695,
+  "created": "2026-11-10T05:38:00.541884Z",
+  "error": null
+}

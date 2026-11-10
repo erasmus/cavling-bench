@@ -1,0 +1,21 @@
+{
+  "model_id": "anthropic-mid",
+  "pinned_version": "claude-sonnet-5-5",
+  "task_id": "t3_faktaboks",
+  "source_id": "politi-2026-sydoestjylland-hadforbrydelse",
+  "archetype": null,
+  "prompt_sha256": "2005c022571aa89d41ce796683a1ce0b3612396d500214a1da255416b9887061",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 3575,
+    "reasoning_effort": "low"
+  },
+  "text": "- Retten i Horsens idømte tre unge mænd på 18, 18 og 17 år fængselsstraffe for voldsepisoder begået i Horsens i januar 2026.\n- De to 18-årige blev dømt for vold og trusler med kniv mod en mand i Vitus Beringsparken den 2. januar 2026.\n- Den 17-årige og en af de 18-årige blev dømt for grov vold som hadforbrydelse ved banegården i Horsens den 17. januar 2026.\n- Den 18-årige, der blev dømt for hadforbrydelsen, fik et år og tre måneders fængsel samt udvisning med indrejseforbud i seks år.\n- Den 17-årige fik 10 måneders fængsel, mens den anden 18-årige fik tre måneders fængsel og en advarsel om udvisning.",
+  "prompt_tokens": 1361,
+  "completion_tokens": 286,
+  "latency_ms": 2248,
+  "cost_usd": 0.005582,
+  "created": "2026-11-10T07:15:56.019729Z",
+  "error": null
+}

@@ -1,0 +1,21 @@
+{
+  "model_id": "anthropic-mid",
+  "pinned_version": "claude-sonnet-5-5",
+  "task_id": "t4_versionering",
+  "source_id": "politi-2026-nsk-cpr-opslag",
+  "archetype": "lynposten",
+  "prompt_sha256": "9799c03e5c1ab9711e17414f97a0cd8acbf51ff73ff6805416e9663bddf4854c",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 4025,
+    "reasoning_effort": "low"
+  },
+  "text": "En 27-årig mand fra Storkøbenhavn har fået 3 år og 6 måneders fængsel. Han solgte personoplysninger fra CPR-registret til det kriminelle miljø. Oplysningerne hjalp medgerningsmænd i 34 tilfælde af forsøg på grov vold.\n\nKøbenhavns Byret afsagde dommen onsdag. Retten fandt det bevist, at han misbrugte sin stilling som studentermedhjælper i Københavns Kommune. Det skete fra juni 2023 til juli 2024.\n\nManden arbejdede på kommunens vielseskontor. Derfra havde han adgang til bopælsadresser og familienetværk på konkrete personer. Han slog dem op uden lov. Derefter solgte han oplysningerne til medgerningsmænd.\n\nHan er også dømt for at misbruge en offentligt betroet stilling. Desuden er han dømt for uberettiget at videregive oplysninger mod betaling.\n\nHan planlagde ikke selv den konkrete vold. Retten mener alligevel, at han måtte have indset, hvad oplysningerne skulle bruges til. Derfor er han dømt for medvirken.\n\nSagen er den første af sin art. Det siger anklager Tine Graakjær fra National enhed for Særlig Kriminalitet (NSK).\n\n– Det er en særlig sag, som vi ikke har lignende retspraksis på fra tidligere straffesager, siger hun.\n\nSpecialanklager Rikke Holm Schønsted, NSK, kalder forholdet alvorligt.\n\n– Den dømte har haft forsæt til at facilitere, at personfarlig kriminalitet kunne planlægges mod konkrete forurettede, siger hun.\n\nBegge anklagere er tilfredse med afgørelsen. NSK har efterforsket sagen.\n\nDen 27-årige har bedt om betænkningstid. Han har ikke besluttet, om han anker dommen.",
+  "prompt_tokens": 2244,
+  "completion_tokens": 668,
+  "latency_ms": 4905,
+  "cost_usd": 0.011168,
+  "created": "2026-11-10T07:17:11.334588Z",
+  "error": null
+}

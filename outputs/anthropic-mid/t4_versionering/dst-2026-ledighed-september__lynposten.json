@@ -1,0 +1,21 @@
+{
+  "model_id": "anthropic-mid",
+  "pinned_version": "claude-sonnet-5-5",
+  "task_id": "t4_versionering",
+  "source_id": "dst-2026-ledighed-september",
+  "archetype": "lynposten",
+  "prompt_sha256": "f70c7c0433207b691c0a46e5f483d9090399e4235b56de4fcf8802de34f3ff71",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 4025,
+    "reasoning_effort": "low"
+  },
+  "text": "Ledigheden faldt med 200 fuldtidspersoner fra august til september. Dermed var 93.600 fuldtidspersoner ledige. Ledighedsprocenten var uændret på 3,1 pct. af arbejdsstyrken.\n\nAntallet af aktiverede ledige faldt med 500. Antallet af ikke-aktiverede ledige steg med 300. Tallene er sæsonkorrigerede og afrundet til hele 100.\n\nDer er 78.600 fuldtidsledige på dagpenge. Det er 100 færre end i august. På kontanthjælp er der 15.000 fuldtidsledige. Også her er tallet faldet med 100.\n\nUnge i midten af 20'erne rammes hårdest. Ledighedsprocenten for de 25-29-årige steg med 0,1 procentpoint til 5,0 pct. Det er den højeste i alle aldersgrupper. For de 30-39-årige faldt den med 0,1 procentpoint. De 16-24-årige har den laveste ledighed med 1,6 pct.\n\nMænd og kvinder ligger begge på 3,1 pct. Ingen af kønnene ændrede sig.\n\nForskellene mellem landsdelene er store. Byen København har fortsat landets højeste ledighed med 4,0 pct. Her steg procenten med 0,1 procentpoint. Den samme stigning ramte Bornholm.\n\nVestjylland har landets laveste ledighed med 2,1 pct. Her faldt procenten med 0,1 procentpoint. Det samme skete i Københavns omegn. I de øvrige syv landsdele var ledigheden uændret.\n\nTallene for sommeren er også ændret. Ledigheden for juni, juli og august er alle nedjusteret med 100 siden sidste offentliggørelse 30. september.",
+  "prompt_tokens": 1835,
+  "completion_tokens": 624,
+  "latency_ms": 5016,
+  "cost_usd": 0.00991,
+  "created": "2026-11-10T07:16:12.704314Z",
+  "error": null
+}

@@ -1,0 +1,21 @@
+{
+  "model_id": "anthropic-mid",
+  "pinned_version": "claude-sonnet-5-5",
+  "task_id": "t4_versionering",
+  "source_id": "regeringen-2026-grisefirepart",
+  "archetype": "landsavisen",
+  "prompt_sha256": "63d5afbfe4352a5f16840e1f312cd251b92aee5cd103b657132c04cb1805a1c6",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 4025,
+    "reasoning_effort": "low"
+  },
+  "text": "Regeringen nedsætter en firepart for fremtidens griseproduktion. Formålet er at forene bedre dyrevelfærd med en stærk og bæredygtig produktion. Parterne begynder arbejdet efter nytår, og regeringen bygger videre på en tradition for at samle forskellige interesser om samme bord for at finde løsninger.\n\nVed bordet sidder Landbrug & Fødevarer, Dyrenes Beskyttelse, Fødevareforbundet NNF, Danmarks Naturfredningsforening, Dansk Erhverv, Dansk Industri og regeringen selv. Parterne skal i fællesskab finde løsninger, der kan løfte dyrevelfærden og samtidig sikre griseproduktionen. Opgaverne omfatter også mere økologi, et lavere antibiotikaforbrug og en placering højere oppe i værdikæden.\n\nMinisteren for natur og dyrevelfærd, Christian Rabjerg Madsen, peger på problemerne i dag: ”I dag har mange grise for lidt plads, omkring 95 procent får klippet en del af halen af, og millioner af pattegrise dør hvert år. Det skal vi gøre bedre.” Han understreger, at parterne ikke er enige om alt, men deler ansvaret for at finde en vej frem.\n\nUdenrigsminister Lars Løkke Rasmussen henviser til udviklingen i forarbejdningen: ”I de sidste 15 år er antallet af slagtninger og slagteriarbejdere i Danmark faldet med omtrent en tredjedel, mens antallet af eksporterede smågrise er mere end tidoblet.” Svaret på, hvordan udviklingen vendes, har regeringen ifølge ham ikke i dag. Derfor nedsættes et ekspertpanel, hvis rådgivning ifølge ham bliver grundlæggende for fireparten.\n\nMiljøminister Maria Reumert Gjerding fremhæver, at svineproduktionen belaster fjorde og kystvande og lægger pres på naturen, og at naboer tæt på staldene mærker konsekvenserne. Hun henviser til den grønne trepart som erfaring at bygge videre på.\n\nErhvervs- og konkurrencekraftsminister Martin Lidegaard kalder fireparten et vigtigt skridt på vejen mod en national strategi for fødevaresektoren, som regeringen vil præsentere.",
+  "prompt_tokens": 2329,
+  "completion_tokens": 842,
+  "latency_ms": 5696,
+  "cost_usd": 0.013078,
+  "created": "2026-11-10T07:17:23.860095Z",
+  "error": null
+}

@@ -1,0 +1,21 @@
+{
+  "model_id": "nebius-qwen3-235b",
+  "pinned_version": "Qwen/Qwen3-235B-A22B-Instruct-2507",
+  "task_id": "t6_lydmanus",
+  "source_id": "aalborg-2025-omlaegningsplan-trepart",
+  "archetype": "lynposten",
+  "prompt_sha256": "c06dd680f46b092d982eb0c21f4447d123ee0fca00b8cf3960e1c20843a8b41b",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 620,
+    "reasoning_effort": null
+  },
+  "text": "Nioghalvfems projekter skal gøre Aalborg Kommune grønnere og renere. Byrådet har godkendt omlægningsplanen for den grønne trepart. Planen kommer fra en aftale mellem regeringen, landbruget og Danmarks Naturfredningsforening. Aftalen blev vedtaget i Folketinget i to tusind fireogtyve. Nu skal kommunen arbejde med de nioghalvfems projekter sammen med berørte lodsejere. Der skal være mere natur, bedre drikkevand og mindre klimagasudledning. Syvoghalvfjers projekter handler om vådlægning af tørvejord. Det nedbringer udledningen af kuldioxid. Tretten projekter sikrer drikkevandet. Tre projekter skaber større naturområder. Områderne ligger ved Hals, Lundby Bakker og Halkær Bredning. Dialog med borgere starter i to tusind seksogtyve. Målet er, at kvælstofindsatsen er færdig i to tusind tredive. Skovrejsning og naturindsats fortsætter derefter. Det siger rådmand for By og Land, Jan Nymark Rose Thaysen.",
+  "prompt_tokens": 2188,
+  "completion_tokens": 308,
+  "latency_ms": 4938,
+  "cost_usd": 0.0006224,
+  "created": "2026-11-10T05:44:37.328892Z",
+  "error": null
+}

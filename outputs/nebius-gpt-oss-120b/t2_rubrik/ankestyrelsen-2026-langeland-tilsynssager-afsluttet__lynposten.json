@@ -1,0 +1,21 @@
+{
+  "model_id": "nebius-gpt-oss-120b",
+  "pinned_version": "openai/gpt-oss-120b",
+  "task_id": "t2_rubrik",
+  "source_id": "ankestyrelsen-2026-langeland-tilsynssager-afsluttet",
+  "archetype": "lynposten",
+  "prompt_sha256": "1ea8b1aa1e07e39ad2afd015b52ea1aa40591dc690f9de571a69802d2ffdc00a",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 1900,
+    "reasoning_effort": "low"
+  },
+  "text": "RUBRIK: Ankestyrelsen lukker to tilsynssager mod Langeland Kommune  \nUNDERRUBRIK: Kommunen har gennemgået 295 sager, omorganiseret Familieafdelingen og genoptaget taskforce‑samarbejdet, så tilsynet ser ingen grund til yderligere indgriben.",
+  "prompt_tokens": 1488,
+  "completion_tokens": 220,
+  "latency_ms": 671,
+  "cost_usd": 0.0003552,
+  "created": "2026-11-10T05:38:01.833025Z",
+  "error": null
+}

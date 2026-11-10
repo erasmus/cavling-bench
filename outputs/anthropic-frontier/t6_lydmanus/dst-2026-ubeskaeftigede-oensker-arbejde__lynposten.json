@@ -1,0 +1,21 @@
+{
+  "model_id": "anthropic-frontier",
+  "pinned_version": "claude-fable-5-1",
+  "task_id": "t6_lydmanus",
+  "source_id": "dst-2026-ubeskaeftigede-oensker-arbejde",
+  "archetype": "lynposten",
+  "prompt_sha256": "2855c5316257bd3b05356a13494331b99bd05e93b58034fe1acf62550b94ecce",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 3620,
+    "reasoning_effort": "low"
+  },
+  "text": "Fire hundrede halvfjerds tusind danskere uden job vil gerne arbejde. Det viser nye tal fra Danmarks Statistik. Det svarer til hver anden ubeskæftiget mellem femten og fireogtres år. I første kvartal 2026 var der i alt ni hundrede og fem tusind ubeskæftigede. Andelen, der ønsker arbejde, er steget fra femogfyrre procent i 2024 til tooghalvtreds procent i dag. Det er femogfirs tusind flere mennesker.\n\nLysten er størst blandt de femogtyve til fireogtredive-årige. Her vil to ud af tre gerne have et job. Blandt de ældste ubeskæftigede er det kun otteogtyve procent. Syv ud af ti i den gruppe peger på pension, efterløn eller førtidspension som årsag.\n\nLedigheden stiger også. To hundrede seksogtredive tusind personer er ledige efter de internationale regler. Det er syv komma fem procent af arbejdsstyrken. Ifølge Danmarks Statistik hænger stigningen blandt andet sammen med mange opsigelser i andet halvår af 2025.",
+  "prompt_tokens": 2588,
+  "completion_tokens": 408,
+  "latency_ms": 8227,
+  "cost_usd": 0.04628,
+  "created": "2026-11-10T07:27:16.765577Z",
+  "error": null
+}

@@ -1,0 +1,21 @@
+{
+  "model_id": "nebius-gpt-oss-120b",
+  "pinned_version": "openai/gpt-oss-120b",
+  "task_id": "t4_versionering",
+  "source_id": "regeringen-2026-kystbeskyttelse-14-9-mia",
+  "archetype": "lynposten",
+  "prompt_sha256": "2e6f2475f8609ad336a6dcd22adb73b21dc64f734490b16694378fd477c26222",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 2525,
+    "reasoning_effort": "low"
+  },
+  "text": "14,9 milliarder kroner afsættes til en national kystbeskyttelsesplan, der skal sikre Danmarks kystområder mod hyppigere stormfloder. Planen rammer de 1 million danskere, der bor inden for en kilometer fra havet, samt op til 100 000 husstande og 175 000 arbejdspladser, som ellers risikerer oversvømmelser.\n\nRegeringen vil med Klimatilpasningsplan II øge tempoet i kystsikringen. Staten medfinansierer 85 procent af anlægsinvesteringerne, mens kommunerne bidrager med 15 procent. Sammen med Finansloven 2026 kan investeringerne nå op på næsten 20 milliarder kroner frem til 2040.\n\nMiljøminister Magnus Heunicke understreger, at “Danmark skal rustes til den nye klimavirkelighed”. Han tilføjer, at planens midler skal bruges til diger, højvandmure og sluser, så både boliger og samfundsværdier beskyttes. Klima‑, energi‑ og forsyningsminister Lars Aagard siger, at “klimaforandringerne kommer med en regning” og roser regeringens “solide håndsrækning” til de mest udsatte områder. Minister for byer og landdistrikter Morten Dahlin påpeger, at “store milliardinvesteringer” er nødvendige, og at lovgivning ikke må stå i vejen for beskyttelsen.\n\nPlanen kræver lokal forankring, men staten fjerner barrierer for at sikre fremdrift. En ekspertgruppe skal finde en model for, hvordan lodsejere eventuelt kan bidrage til udgifterne. Miljøministeren vil indkalde Folketingets partier til drøftelser om en politisk aftale om den nationale kystbeskyttelsesplan.",
+  "prompt_tokens": 1633,
+  "completion_tokens": 465,
+  "latency_ms": 1593,
+  "cost_usd": 0.00052395,
+  "created": "2026-11-10T05:38:31.470957Z",
+  "error": null
+}

@@ -1,0 +1,21 @@
+{
+  "model_id": "nebius-qwen3-235b",
+  "pinned_version": "Qwen/Qwen3-235B-A22B-Instruct-2507",
+  "task_id": "t6_lydmanus",
+  "source_id": "fo-2026-rejsekort-politianmeldelse",
+  "archetype": "lynposten",
+  "prompt_sha256": "09353e7cf43f2d33d0480738fe66e7a151aa6c5033d81a56a6c3bf12639cd63d",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 620,
+    "reasoning_effort": null
+  },
+  "text": "Rejsekort & Rejseplan politianmeldes for vildledende markedsføring. Forbrugerombudsmanden siger, at virksomheden har givet forbrugerne forkert indtryk. Forbrugerne har fået det til at lyde, som om de skal bruge en billet-app for at kunne rejse med offentlig transport. Det er ikke rigtigt. Der findes stadig et ikke-digitalt alternativ. Kampagnen har løbet på sociale medier, i busser og tog og på stationer. Der har stået tekster som Rejs med digitalt og RIP fysisk Rejsekort. Det har ikke været klart, at det fysiske kort stadig kan bruges. Over tredive forbrugerklager er kommet ind. Forbrugerombudsmand Torben Jensen kalder det en skærpende omstændighed, at det gælder noget så vigtigt som offentlig transport. Rejsekort & Rejseplan mener selv, at markedsføringen ikke er vildledende. Men ifølge Forbrugerombudsmanden bryder virksomheden både paragraf fem og seks i markedsføringsloven.",
+  "prompt_tokens": 2279,
+  "completion_tokens": 289,
+  "latency_ms": 4741,
+  "cost_usd": 0.0006292,
+  "created": "2026-11-10T05:44:57.806120Z",
+  "error": null
+}

@@ -1,0 +1,21 @@
+{
+  "model_id": "anthropic-mid",
+  "pinned_version": "claude-sonnet-5-5",
+  "task_id": "t1_telegram",
+  "source_id": "rm-2026-kultur-sundhed-pulje-78-mio",
+  "archetype": null,
+  "prompt_sha256": "8ed1ebf22728b4cf3db47b7db0907049b7fdc3d496739e0632c2e54a70f2b100",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 3560,
+    "reasoning_effort": "low"
+  },
+  "text": "Region Midtjylland har åbnet en pulje på 7,8 mio. kr., der skal bruge kultur til at styrke sundheden for borgere og patienter i regionen. Puljen kan søges af kulturaktører i samarbejde med partnere fra sundhedsområdet til projekter på op til tre år. Der skal søges mindst 200.000 kr., og medfinansieringen skal udgøre mindst 25 procent af budgettet. Ansøgningsfristen er 26. august 2026 kl. 12.00, og ansøgninger behandles i november 2026. Regionen holder dialogmøder på Godsbanen i Aarhus 21. maj kl. 10-13 og digitalt 2. juni kl. 13-14.30. \"Kulturen kan spille en afgørende rolle for vores sundhed,\" siger udvalgsformand Per Møller Jensen (S).",
+  "prompt_tokens": 1844,
+  "completion_tokens": 301,
+  "latency_ms": 2348,
+  "cost_usd": 0.006698,
+  "created": "2026-11-10T07:14:55.522581Z",
+  "error": null
+}

@@ -1,0 +1,21 @@
+{
+  "model_id": "nebius-gpt-oss-120b",
+  "pinned_version": "openai/gpt-oss-120b",
+  "task_id": "t4_versionering",
+  "source_id": "dst-2026-offentligt-overskud-2-kvt",
+  "archetype": "lynposten",
+  "prompt_sha256": "3279ad24bfa945bb1e7185aa1f6280d91f107c3a16772fbced6b96c2d715ec94",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 2525,
+    "reasoning_effort": "low"
+  },
+  "text": "35,5 mia. kr. offentligt overskud i andet kvartal 2026 rammer skattebetalere og offentlige tjenesteydelser. Overskuddet er 12,3 mia. kr. højere end i første kvartal. De samlede offentlige udgifter udgjorde 379,9 mia. kr. i perioden. Aflønning af ansatte kostede 116,2 mia. kr., mens indkomstoverførsler til husholdningerne udgjorde 116,9 mia. kr. De offentlige indtægter lå på 415,3 mia. kr. og er baseret på Skatte‑ og Vækstministeriets seneste økonomiske redegørelse for personlige indkomstskatter, selskabs‑ og pensionsafkastskatten.\n\nDen finansielle nettoformue faldt med 11 mia. kr. i andet kvartal og lå ved kvartalsslut på 871 mia. kr. Faldet skyldes primært negative omvurderinger på børsnoterede aktier og andre ejerandelsbeviser på 14,1 mia. kr. Positive omvurderinger af statens langfristede statsobligationer og øvrige ændringer i finansielle aktiver og passiver påvirkede også resultatet. På årsbasis er nettoformuen steget med 98,1 mia. kr.\n\nØMU‑gælden steg med 19,4 mia. kr. til 859,1 mia. kr., svarende til 27 % af BNP ved udgangen af andet kvartal. Stigningen skyldes øget udstedelse af langsigtede statsobligationer og kortfristede lån fra kommuner og regioner. ØMU‑gælden er en bruttogældsopgørelse for den offentlige forvaltning, opgjort i nominel værdi.\n\nRevisionen af første kvartals saldo viste en opjustering på 13,9 mia. kr. Overskuddet i første kvartal er nu 23,2 mia. kr. i stedet for 9,3 mia. kr., primært på grund af en opjustering af pensionsafkastskatten på 10,9 mia. kr. Det nye kvartalsregnskab giver et klarere billede af statens finansielle position.",
+  "prompt_tokens": 1322,
+  "completion_tokens": 611,
+  "latency_ms": 1755,
+  "cost_usd": 0.0005649,
+  "created": "2026-11-10T05:38:19.781168Z",
+  "error": null
+}

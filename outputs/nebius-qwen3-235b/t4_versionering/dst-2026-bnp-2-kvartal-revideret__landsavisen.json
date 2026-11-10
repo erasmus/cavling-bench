@@ -1,0 +1,21 @@
+{
+  "model_id": "nebius-qwen3-235b",
+  "pinned_version": "Qwen/Qwen3-235B-A22B-Instruct-2507",
+  "task_id": "t4_versionering",
+  "source_id": "dst-2026-bnp-2-kvartal-revideret",
+  "archetype": "landsavisen",
+  "prompt_sha256": "bf3a136a137883a53626df2901ca8bfbd33f27136f0bb5194ba36e1dc5c58cf6",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 1025,
+    "reasoning_effort": null
+  },
+  "text": "Bruttonationalproduktet (BNP) voksede med 0,9 procent i andet kvartal 2026, når der korrigeres for prisudvikling og sæsonudsving. Det viser den reviderede opgørelse fra Danmarks Statistik, som bygger på mere fuldstændige data end den foreløbige rapport. Væksten er dermed revideret op med 0,6 procentpoint, primært på grund af indarbejdelsen af opdaterede oplysninger om industriproduktion, firmaernes handel og udenrigshandel.\n\nMedicinalindustrien var en vigtig vækstdriver, hvor bruttoværditilvæksten for hele økonomien steg med 1,1 procent. Uden medicinalindustrien ville væksten have ligget på 0,7 procent. Den øvrige industri og den offentlige sektor bidrog også positivt. Samlet set har dansk økonomi vist markant styrke i første halvår, hvor BNP er 6,0 procent højere end i samme periode året før.\n\nDe faste bruttoinvesteringer steg med 1,5 procent, en opjustering fra den foreløbige opgørelse. Stigningen skyldes især en revision af investeringer i intellektuelle rettigheder, der nu viser en vækst på 1,5 procent mod et fald på 1,2 procent i første opgørelse. Dette følger af et større patentkøb i udlandet. Byggeri og anlæg bidrog også til væksten, mens der var fald i investeringer i transportmidler og maskiner.\n\nBåde det offentlige og husholdningernes forbrug var uændret i kvartalet. Husholdningernes forbrug af tjenester steg med 0,8 procent, mens forbruget af varer faldt med 0,8 procent – især på grund af et kraftigt fald i køb af køretøjer. Eksporten af varer voksede med 2,8 procent, mens tjenesteeksporten faldt let. Importen steg samlet med 1,8 procent, heriblandt en stigning i tjenesteimporten på 2,6 procent.\n\nLageropbygningen gav et vækstbidrag på 0,4 procentpoint, men Danmarks Statistik advarer mod at fortolke dette mekanisk, da lagerændringer er behæftet med sæsonrelateret usikkerhed.",
+  "prompt_tokens": 3002,
+  "completion_tokens": 623,
+  "latency_ms": 24840,
+  "cost_usd": 0.0009742,
+  "created": "2026-11-10T05:41:30.214680Z",
+  "error": null
+}

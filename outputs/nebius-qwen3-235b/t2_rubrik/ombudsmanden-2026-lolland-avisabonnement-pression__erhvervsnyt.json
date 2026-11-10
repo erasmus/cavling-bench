@@ -1,0 +1,21 @@
+{
+  "model_id": "nebius-qwen3-235b",
+  "pinned_version": "Qwen/Qwen3-235B-A22B-Instruct-2507",
+  "task_id": "t2_rubrik",
+  "source_id": "ombudsmanden-2026-lolland-avisabonnement-pression",
+  "archetype": "erhvervsnyt",
+  "prompt_sha256": "acc2db8c95f9902a196500b7bae753ee3c014a7b35ba7d64ef596c04e26dc8b8",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 400,
+    "reasoning_effort": null
+  },
+  "text": "RUBRIK: Lolland Kommune skal forklare avisopsigelse  \nUNDERRUBRIK: Ombudsmanden kræver klarhed, efter at kommunen opsagde abonnementer til lokalavisen efter en kritisk artikel – handlingen må ikke være straf for pressefrihed.",
+  "prompt_tokens": 1784,
+  "completion_tokens": 71,
+  "latency_ms": 1722,
+  "cost_usd": 0.00039940000000000006,
+  "created": "2026-11-10T05:40:03.785453Z",
+  "error": null
+}

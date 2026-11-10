@@ -1,0 +1,21 @@
+{
+  "model_id": "nebius-qwen3-235b",
+  "pinned_version": "Qwen/Qwen3-235B-A22B-Instruct-2507",
+  "task_id": "t6_lydmanus",
+  "source_id": "politi-2026-nsk-cpr-opslag",
+  "archetype": "lynposten",
+  "prompt_sha256": "0905497bb2d78c54998299436f79a09c994b0cebe2f4826eb44b07dc1ac09878",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 620,
+    "reasoning_effort": null
+  },
+  "text": "En 27-årig mand er dømt til tre år og seks måneder i fængsel. Han har muliggjort personfarlig kriminalitet ved at snyde i CPR-registret. Det skete ved Københavns Byret. Manden arbejdede som studentermedhjælper på Københavns Kommunes vielseskontor. Fra juni 2023 til juli 2024 søgte han ulovligt oplysninger om bopæl og familienetværk. Han solgte data til kriminelle. Oplysningerne blev brugt i 34 forsøg på grov vold. Han er dømt for at have misbrugt sin stilling og for at have videregivet oplysninger mod betaling. Specialanklager Rikke Holm Schønsted fra National enhed for Særlig Kriminalitet siger, at han forsætligt har hjulpet med at planlægge vold. Anklager Tine Graakjær kalder sagen usædvanlig. Retten mener, han vidste, hvad oplysningerne skulle bruges til. Han har taget betænkningstid om at anke.",
+  "prompt_tokens": 1734,
+  "completion_tokens": 289,
+  "latency_ms": 6601,
+  "cost_usd": 0.0005202000000000001,
+  "created": "2026-11-10T05:45:23.511415Z",
+  "error": null
+}

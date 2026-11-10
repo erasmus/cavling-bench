@@ -3,7 +3,7 @@
 # regional endpoint; "no" = not documented; "self-hosted" = local.
 judges:
   A: nebius-gpt-oss-120b
-  B: anthropic-mid
+  B: nebius-deepseek-v4-pro
 judge_b_sample_fraction: 0.25
 
 models:
@@ -22,6 +22,8 @@ models:
     eu_residency: "no"
     supports_seed: false
     supports_temperature: false
+    reasoning_effort: low
+    reasoning_budget_tokens: 3000
     notes: "Anthropic API 2026-10-21 removed temperature/top_p/top_k; inference_geo only global/us."
 
   - id: anthropic-mid
@@ -39,7 +41,9 @@ models:
     eu_residency: "no"
     supports_seed: false
     supports_temperature: false
-    notes: "Judge B."
+    reasoning_effort: low
+    reasoning_budget_tokens: 3000
+    notes: "Was Judge B until 2026-11-10 (replaced by nebius-deepseek-v4-pro, see DECISIONS.md)."
 
   - id: openai-frontier
     display: "GPT-6 Astra"
@@ -176,6 +180,26 @@ models:
     max_concurrency: 8
     supports_seed: false
     notes: "Spec asked for Llama or Qwen; Nebius removed Llama 3.3 70B on 2026-08-31."
+
+  - id: nebius-deepseek-v4-pro
+    display: "DeepSeek-V4-Pro (Nebius)"
+    family: deepseek
+    tier: open_global
+    litellm_model: openai/deepseek-ai/DeepSeek-V4-Pro
+    pinned_version: deepseek-ai/DeepSeek-V4-Pro
+    billing: credit_nebius
+    api_base: https://api.tokenfactory.nebius.com/v1/
+    api_key_env: NEBIUS_API_KEY
+    price_in_per_m: 1.75
+    price_out_per_m: 3.50
+    open_weights: true
+    licence: MIT
+    eu_residency: "cloud region"
+    params_b: 1000
+    max_concurrency: 8
+    supports_seed: false
+    enabled: false
+    notes: "Judge B only (enabled: false keeps it out of the generator set). Called without reasoning_effort, which makes DeepSeek-V4 answer directly (0 reasoning tokens observed); with reasoning_effort it thinks first. No generator shares the family, so every tone cell has two judges."
 
   - id: dfm-mimir-1.5
     display: "DFM Mimir v1.5 (1.8B)"

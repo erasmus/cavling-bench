@@ -1,0 +1,21 @@
+{
+  "model_id": "nebius-qwen3-235b",
+  "pinned_version": "Qwen/Qwen3-235B-A22B-Instruct-2507",
+  "task_id": "t2_rubrik",
+  "source_id": "nationalbanken-2026-digitale-betalinger-beredskab",
+  "archetype": "landsavisen",
+  "prompt_sha256": "1216059e5662de77f9afa208ffa08a3fbfd43e51b3638e10306208bb3c893e16",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 400,
+    "reasoning_effort": null
+  },
+  "text": "RUBRIK: Danskerne betaler mere digitalt – men forbereder sig på nedbrud  \nUNDERRUBRIK: 90 pct. af betalinger er digitale, men flere har nu over 1.000 kr. i kontanter som beredskab, viser Nationalbankens analyser efter to store nedbrud i betalingssystemet.",
+  "prompt_tokens": 2080,
+  "completion_tokens": 86,
+  "latency_ms": 3102,
+  "cost_usd": 0.00046760000000000004,
+  "created": "2026-11-10T05:39:59.563688Z",
+  "error": null
+}

@@ -1,0 +1,21 @@
+{
+  "model_id": "anthropic-frontier",
+  "pinned_version": "claude-fable-5-1",
+  "task_id": "t6_lydmanus",
+  "source_id": "fo-2026-ditur-boede-tilbud",
+  "archetype": "lynposten",
+  "prompt_sha256": "c2549273a78997f6b144c5d4ccaf8814fd2145be08121df26011cb4eaf1c4452",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 3620,
+    "reasoning_effort": "low"
+  },
+  "text": "Urfirmaet Ditur betaler fire millioner to hundrede halvtreds tusinde kroner i bøde. Virksomheden Ditur.dk ApS har erkendt at vildlede kunderne med falske tilbud.\n\nForbrugerombudsmanden politianmeldte virksomheden i maj 2026 for seksogtyve overtrædelser af markedsføringsloven og prismærkningsreglerne.\n\nI fem måneder overvågede Forbrugerombudsmanden priserne på ditur.dk og avile.dk. Smykker og ure var på tilbud så længe, at der reelt ikke var tale om tilbud. Normalprisen blev dermed teoretisk.\n\nEt eksempel er en halskæde. Den var på tilbud i otteogtyve ud af halvtreds dage. Normalprisen stod til fem hundrede nioghalvfems kroner. Men de laveste priser i de to foregående tredive dages perioder var et hundrede nioghalvfems og et hundrede nioghalvfjerds kroner.\n\nIfølge forbrugerombudsmand Torben Jensen tror forbrugerne, at de gør et godt køb. Det er vildledende, siger han.\n\nBøden er udmålt efter den bødemodel, der blev indført i 2022.",
+  "prompt_tokens": 3153,
+  "completion_tokens": 440,
+  "latency_ms": 7140,
+  "cost_usd": 0.05353,
+  "created": "2026-11-10T07:27:24.497666Z",
+  "error": null
+}

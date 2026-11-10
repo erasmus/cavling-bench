@@ -1,0 +1,21 @@
+{
+  "model_id": "nebius-qwen3-235b",
+  "pinned_version": "Qwen/Qwen3-235B-A22B-Instruct-2507",
+  "task_id": "t4_versionering",
+  "source_id": "politi-2026-nsk-tidligere-advokat",
+  "archetype": "landsavisen",
+  "prompt_sha256": "094fc1559d0d181c3202bb56d8d3cb5bcf8e3041eded30ed5869f5385da2f497",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 1025,
+    "reasoning_effort": null
+  },
+  "text": "En 53-årig tidligere advokat er idømt seks måneders ubetinget fængsel efter en dom fra Retten i Lyngby. Dommen falder i en sag, der er behandlet af National Enhed for Særlig Kriminalitet (NSK), og skyldes groft stillingsmisbrug og pligtforsømmelse i forbindelse med hans virke som kurator i to konkursboer. Han er samtidig frakendt retten til at udøve advokatvirksomhed.\n\nRetten har fundet, at den dømte lod sig udpege som kurator, trods at han var inhabil. Før udpegelsen havde han rådgivet ejeren og direktøren af de to selskaber om, hvordan de kunne sikre en overfladisk og kortvarig konkursbehandling. Dette rådgivningssamarbejde gjorde ham ifølge retten uegnet til at fungere som kurator. Alligevel afgav han urigtige oplysninger til skifteretten for at opnå udpegelsen.\n\nSom kurator undlod han at videregive væsentlige oplysninger om kriminelle forhold, der var begået i selskaberne. Retten vurderer, at hans handlinger har vanskeliggjort og forsinket både politiefterforskning, skattemæssig undersøgelse og konkursbehandlingen. Desuden har han efter rettens opfattelse handlet med henblik på at skaffe sig selv eller andre en fordel gennem sit stillingsmisbrug.\n\nSpecialanklager Konrad Joe Frank fra NSK siger:  \n“I NSK har vi et vedvarende fokus på at sætte ind over for professionelle rådgivere, der med deres handlinger eller undladelser gør det lettere at være kriminel. Derfor er jeg tilfreds med dommen i dag. Dommen viser, at retten ser strengt på, når en advokat og kurator tilsidesætter sine forpligtelser, og understreger, hvor afgørende tilliden til kuratorer er for systemet.”",
+  "prompt_tokens": 1313,
+  "completion_tokens": 514,
+  "latency_ms": 20187,
+  "cost_usd": 0.000571,
+  "created": "2026-11-10T05:43:12.395108Z",
+  "error": null
+}

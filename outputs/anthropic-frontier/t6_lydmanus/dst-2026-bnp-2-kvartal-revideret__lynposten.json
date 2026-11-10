@@ -1,0 +1,21 @@
+{
+  "model_id": "anthropic-frontier",
+  "pinned_version": "claude-fable-5-1",
+  "task_id": "t6_lydmanus",
+  "source_id": "dst-2026-bnp-2-kvartal-revideret",
+  "archetype": "lynposten",
+  "prompt_sha256": "5f705b47c0d4e6fcbb98c97fd4a0a7866528825b8be1ad01a8718f9803e0ea10",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 3620,
+    "reasoning_effort": "low"
+  },
+  "text": "Dansk økonomi voksede med nul komma ni procent i andet kvartal 2026. Det viser nye tal fra Danmarks Statistik. Væksten er revideret op med nul komma seks procentpoint siden den første opgørelse. Årsagen er opdaterede kildedata fra blandt andet industrien og udenrigshandlen.\n\nMedicinalindustrien trak væksten op. Også den øvrige industri og den offentlige sektor bidrog positivt. Set over et år er fremgangen markant. Bruttonationalproduktet lå i første halvår seks procent højere end året før.\n\nBeskæftigelsen steg med syv tusinde otte hundrede personer i andet kvartal.\n\nInvesteringerne steg med en komma fem procent. Byggeri og anlæg trak op. Et patentkøb i udlandet løftede også tallet. Både det offentlige forbrug og husholdningernes forbrug stod stille. Danskerne købte flere tjenester, men færre varer. Især bilkøbet faldt.\n\nEksporten steg med en komma fem procent. Importen steg med en komma otte procent.",
+  "prompt_tokens": 3921,
+  "completion_tokens": 381,
+  "latency_ms": 6056,
+  "cost_usd": 0.05826,
+  "created": "2026-11-10T07:27:06.626068Z",
+  "error": null
+}

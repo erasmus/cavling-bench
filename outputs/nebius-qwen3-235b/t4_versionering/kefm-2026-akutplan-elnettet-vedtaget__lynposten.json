@@ -1,0 +1,21 @@
+{
+  "model_id": "nebius-qwen3-235b",
+  "pinned_version": "Qwen/Qwen3-235B-A22B-Instruct-2507",
+  "task_id": "t4_versionering",
+  "source_id": "kefm-2026-akutplan-elnettet-vedtaget",
+  "archetype": "lynposten",
+  "prompt_sha256": "04f6fe506cfa22ae80a4c0d1169f5f87bd4b1caa464bcf0f8083ed1a0658ded1",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 1025,
+    "reasoning_effort": null
+  },
+  "text": "Et bredt flertal i Folketinget har vedtaget en akutplan for det danske elnet. Lovændringen træder i kraft 12. oktober og ændrer, hvordan der prioriteres ved nye tilslutninger til strømnettet.\n\nPresset på elnettet er stort. Der er ikke plads til alle, der vil tilslutte sig. Derfor erstattes først-til-mølle-princippet med en ny model. Energinet og netvirksomhederne kan nu prioritere, hvem der får adgang.\n\nKlima-, energi- og forsyningsminister Samira Nawa kalder situationen dybt alvorlig. Pladsen i elnettet er en knap ressource. Det kan bremse den grønne omstilling. Hun er glad for, at flertallet har handlet. Lovændringen er første skridt i en større genopretning.\n\nFlere partier bakker op om loven. De pointerer, at samfundskritiske funktioner skal prioriteres. Det gælder blandt andet kollektiv transport, fjernvarme og sundhedsvæsenet.\n\nJesper Petersen (S) siger, det er nødvendigt at prioritere ud fra samfundshensyn. Nanna Bonde (SF) advarer mod, at datacentre blokerer for grøn omstilling. Mathilde Hjort Bressum (V) understreger, at modellen kun må gælde i en akut periode. Der skal hurtigt handles på udbygning.\n\nMalte Larsen (DF) mener, kapaciteten skal bruges til det vigtigste for samfundet. Lars Aagaard (M) ser akutplanen som første skridt mod et mere fleksibelt elsystem. Anders Storgaard (K) lægger vægt på, at reglerne skal genbesøges. Akutplanen må ikke blive ny normal.\n\nLisbeth Torfing (EL) siger, danske hjem skal stå forrest. Datacentre står bagerst. Anastasia Milthers (RV) kalder det en god dag for elnettet. Anna Bjerre (ALT) siger, nu kan Danmark prioritere sine egne kritiske funktioner.\n\nAftalen bygger på en politisk forståelse fra sommeren. Den er nu styrket gennem høring og behandling. Energinet og netvirksomhederne kan nu arbejde efter de nye regler.",
+  "prompt_tokens": 3246,
+  "completion_tokens": 586,
+  "latency_ms": 9233,
+  "cost_usd": 0.0010008,
+  "created": "2026-11-10T05:42:10.022366Z",
+  "error": null
+}

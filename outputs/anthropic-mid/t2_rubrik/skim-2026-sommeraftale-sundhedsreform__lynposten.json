@@ -1,0 +1,21 @@
+{
+  "model_id": "anthropic-mid",
+  "pinned_version": "claude-sonnet-5-5",
+  "task_id": "t2_rubrik",
+  "source_id": "skim-2026-sommeraftale-sundhedsreform",
+  "archetype": "lynposten",
+  "prompt_sha256": "8381da0d6ae8e9368ee7995ebd04027dd53c39841abe6ca92ee036f75a895f6f",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 3400,
+    "reasoning_effort": "low"
+  },
+  "text": "RUBRIK: Aftale giver sundhedsvæsenet knap 800 mio. kr. i 2027\nUNDERRUBRIK: Regeringen, regionerne og KL er enige om sommeraftale. Patienter med KOL og lænderygsmerter får ret til behandlingsplan inden for 21 dage fra 2027.",
+  "prompt_tokens": 3648,
+  "completion_tokens": 118,
+  "latency_ms": 1497,
+  "cost_usd": 0.008476,
+  "created": "2026-11-10T07:15:38.044822Z",
+  "error": null
+}

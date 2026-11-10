@@ -1,0 +1,21 @@
+{
+  "model_id": "anthropic-mid",
+  "pinned_version": "claude-sonnet-5-5",
+  "task_id": "t6_lydmanus",
+  "source_id": "dst-2026-inflation-september",
+  "archetype": "lynposten",
+  "prompt_sha256": "38fec05aae24ac799955c90a544d78c5a1fff2dadeb8b75c0a5146444d2c01b1",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 3620,
+    "reasoning_effort": "low"
+  },
+  "text": "Inflationen steg til to komma to procent i september. Det viser tal fra Danmarks Statistik. I august var den to komma nul procent. Det er årsstigningen, altså prisen i forhold til samme måned året før.\n\nTransport trækker mest op. Især brændstof er blevet dyrere.\n\nKerneinflationen faldt til én komma ni procent. Den lå på to komma to procent i august. Ifølge Danmarks Statistik skyldes den primært dyrere husleje.\n\nFra august til september var forbrugerprisindekset uændret. Dyrere brændstof, tøj og flyrejser trak op. Billigere sommerhusleje, pakkerejser og fødevarer trak ned.\n\nDen EU-harmoniserede inflation lå i Danmark på to komma én procent. Eurostat offentliggør tallene for hele EU den sekstende oktober.",
+  "prompt_tokens": 1806,
+  "completion_tokens": 297,
+  "latency_ms": 3047,
+  "cost_usd": 0.006582,
+  "created": "2026-11-10T05:23:19.360661Z",
+  "error": null
+}

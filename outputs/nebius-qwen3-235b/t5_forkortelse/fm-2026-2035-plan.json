@@ -1,0 +1,21 @@
+{
+  "model_id": "nebius-qwen3-235b",
+  "pinned_version": "Qwen/Qwen3-235B-A22B-Instruct-2507",
+  "task_id": "t5_forkortelse",
+  "source_id": "fm-2026-2035-plan",
+  "archetype": null,
+  "prompt_sha256": "72fe56f89919949d56b729a1c6042be086c03ee674e89d789a409e2c02ef0371",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 860,
+    "reasoning_effort": null
+  },
+  "text": "Verden er blevet mere usikker, og med 2035-planen prioriterer regeringen midler til sikkerhed, velfærd og klima. Danmark har et stærkt økonomisk udgangspunkt: rekordmange på arbejdsmarkedet, høj levestandard, lav offentlig gæld og offentlige overskud i niende år i træk – de seneste seks med det højeste overskud i EU. Forsvarsudgifterne er steget fra 1,36 pct. af BNP i 2022 til forventet 3½ pct. i 2024. Danmark bliver et af de første NATO-lande til at leve op til 3,5-procent-målsætningen, allerede i 2030. Ca. 70 mia. kr. er afsat under Ukrainefondens militære ramme 2023–2028. Regeringen prioriterer samtidig velfærd med historiske løft i kommuner og regioner og har indgået aftale om en fødevarecheck. Samfundssikkerhed og beredskab er centrale; der iværksættes en akutpakke på 1,2 mia. kr. i 2024 og et løft på 5 mia. kr. i 2035. Klimamålet for 2030 er inden for rækkevidde, og regeringen prioriterer 4 mia. kr. årligt til at nå målet om 82 pct. reduktion af CO2e-udledning i 2035 i forhold til 1990. Der afsættes ca. 15 mia. kr. (2029–2040) til statslig medfinansiering i Klimatilpasningsplan II. Finansminister Nicolai Wammen understreger, at investeringer i forsvar, grøn omstilling og velfærd går hånd i hånd med økonomisk ansvarlighed. Økonomiminister Stephanie Lose fremhæver ambitiøse investeringer, men også behov for skarp prioritering. Udenrigsminister Lars Løkke Rasmussen advarer om, at kassen efter 2035 er næsten tom, og at strukturelle udfordringer kræver fortsat reformarbejde. Den strukturelle saldo mål fastholdes til -0,5 pct. af BNP i 2030 og sættes til -0,6 pct. i 2035.",
+  "prompt_tokens": 2028,
+  "completion_tokens": 618,
+  "latency_ms": 9427,
+  "cost_usd": 0.0007764000000000001,
+  "created": "2026-11-10T05:43:36.010218Z",
+  "error": null
+}

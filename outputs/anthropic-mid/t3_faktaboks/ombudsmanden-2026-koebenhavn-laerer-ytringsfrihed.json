@@ -1,0 +1,21 @@
+{
+  "model_id": "anthropic-mid",
+  "pinned_version": "claude-sonnet-5-5",
+  "task_id": "t3_faktaboks",
+  "source_id": "ombudsmanden-2026-koebenhavn-laerer-ytringsfrihed",
+  "archetype": null,
+  "prompt_sha256": "3edc092c557dff45ca927696439e63efe8599a1143921953794999710d006514",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 3575,
+    "reasoning_effort": "low"
+  },
+  "text": "- Folketingets Ombudsmand, Christian Britten Lundblad, konkluderede, at Københavns Kommunes håndtering af sagen ikke skete med respekt for lærerens ytringsfrihed.\n- Avisartiklen, som læreren gav interview til, havde overskriften ”Lærer fik hjernerystelse og blå mærker efter slag: ’Som at være i en krigszone’”.\n- Under tilrettevisningssamtalen blev læreren opfordret til at holde lav profil over for pressen, hvilket kommunen efterfølgende kaldte yderst beklageligt.\n- Kommunen forklarede, at samtalen skyldtes et pressefoto, som læreren ikke havde indhentet tilladelse til at få taget.\n- Ombudsmanden har bedt kommunen om inden tre måneder at orientere ham om, hvad henstillingen om at genoptage sagen giver anledning til.",
+  "prompt_tokens": 2301,
+  "completion_tokens": 319,
+  "latency_ms": 2848,
+  "cost_usd": 0.007792,
+  "created": "2026-11-10T07:15:53.057217Z",
+  "error": null
+}

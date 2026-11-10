@@ -1,0 +1,21 @@
+{
+  "model_id": "anthropic-mid",
+  "pinned_version": "claude-sonnet-5-5",
+  "task_id": "t5_forkortelse",
+  "source_id": "fo-2026-tankstationer-reservation-beloeb",
+  "archetype": null,
+  "prompt_sha256": "a35d7b2682cc3a89e64d1eb8cdcd8fb9f2e58b7b54a47775d35228a5f5379ffd",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 3860,
+    "reasoning_effort": "low"
+  },
+  "text": "Tankstationer må ikke reservere urimeligt høje beløb på forbrugernes konti i forhold til det beløb, forbrugerne ender med at betale. Forbrugerombudsmanden har gjort kæderne opmærksomme på reglerne, og de fleste har ændret praksis.\n\nQ8, OK, Shell og Uno-X har reserveret urimeligt høje beløb. Virksomheden bag Q8 driver også de ubemandede F24-stationer. Reservationer er flere gange ikke frigivet hurtigt nok, og kunder hos Q8 og OK er ikke blevet tydeligt oplyst om reservationen. Uno-X og Shell lader nu forbrugerne vælge reservationsbeløbet på standerens skærm. OK har for nuværende sat beløbet til 100 kroner, men forventer en anden løsning. Q8 reserverer fortsat 950 kroner og arbejder på en løsning.\n\nSagerne udspringer af en dialog i 2023 med brancheorganisationen Drivkraft Danmark om manglende samtykke. Medlemmerne forpligtede sig til at oplyse det præcise beløb i skærmflowet, men parterne blev ikke enige om, om det er berettiget at reservere et langt større beløb, end forbrugeren skal betale.\n\nOmbudsmanen vurderer, at Uno-X' og Shells reservationer på henholdsvis 1.200 og 1.500 kroner var urimelige, fordi de ikke stod i rimeligt forhold til, hvad de fleste tanker for. 950 kroner (Q8) og 850 kroner (OK) var urimelige for minibiler, små biler og mindre køretøjer.\n\nForbrugeren skal samtykke til reservationens størrelse, og den skal frigives umiddelbart efter, at banken modtager endelig besked. Q8 forventer fuldt implementeret samtykke i midten af 2026. Q8 og OK mangler en løsning for Apple/Google Pay-brugere; OK vil bruge skiltning, men ombudsmanen mener, det skal stå i skærmflowet. Frigivelse tog op til 11 dage hos OK, Uno-X og Shell, ofte på grund af tekniske fejl hos banken.\n\nSagerne afsluttes, og Q8 og OK er anmodet om at efterleve reglerne. Torben Jensen er tilfreds med Shells, Uno-X' og OKs nye løsninger. Reglerne findes i betalingsloven § 95, aftaleloven § 38 c, jf. § 36, og markedsføringslovens § 3.",
+  "prompt_tokens": 3350,
+  "completion_tokens": 899,
+  "latency_ms": 6041,
+  "cost_usd": 0.01569,
+  "created": "2026-11-10T07:17:54.460480Z",
+  "error": null
+}

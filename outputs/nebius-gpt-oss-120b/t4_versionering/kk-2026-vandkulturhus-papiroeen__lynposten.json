@@ -1,0 +1,21 @@
+{
+  "model_id": "nebius-gpt-oss-120b",
+  "pinned_version": "openai/gpt-oss-120b",
+  "task_id": "t4_versionering",
+  "source_id": "kk-2026-vandkulturhus-papiroeen",
+  "archetype": "lynposten",
+  "prompt_sha256": "9ffa1b6a712396b9fe579016a0bb1dea8ca1d61a8cdbc8b068d4243482d2ed48",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 2525,
+    "reasoning_effort": "low"
+  },
+  "text": "5 december 2026 åbner KAI – Københavns nye vandkulturhus på Papirøen. Det 5 800 m² store byggeri byder på ti bassiner inde og ude og skal løse byens svømmekapacitets‑udfordring. Overborgmester Sisse Marie Welling (SF) siger, at de nye bassiner for voksne og legebassiner for børn er “supervigtige” for byens vandglade borgere. \n\nKAI er designet af Kengo Kuma & Associates. Ansvarlig arkitekt Yuki Ikeguchi beskriver huset som et “markant nyt pejlemærke ved Københavns havnefront”. Bygningen kombinerer indendørs 25‑meters‑bassin, undervisningsbassin og tre legebassiner med udendørs bassiner med havudsigt. På første etage ligger Dalbassin og Onsen, hvor svømning foregår under åben himmel. \n\nNordea‑fonden har bidraget med 546 mio. kr., hvoraf 25 mio. kr. er øremærket til bæredygtighed. Fondens adm. direktør Henrik Lehmann Andersen udtaler, at KAI bliver “et folkeligt og et ikonisk sted på en af byens absolut bedste beliggelser”. Projektet bruger lodret jordpumpevarme fra ti boringer på 250 m for at opvarme de udendørs bassiner året rundt. \n\nKultur‑ og fritidsborgmester Christopher Røhl (R) fremhæver, at KAI tilføjer en ny perle til samlingspunkterne ved Bryggen, Den Sorte Diamant og Operaen. Huset skal også fungere som kulturhus med et program om vand, herunder et kulturtårn for foreninger og kunstnere. \n\nEjendomsfonden Vandkulturhuset Papirøen er bygherre. Bestyrelsesformand Erik Jæger siger, at de er “utroligt stolte af det færdige resultat” og ser frem til, at huset fyldes med liv. KAI betyder hav på japansk og signalerer mødet mellem dansk og japansk arkitektur. Information om indvielsen offentliggøres senere.",
+  "prompt_tokens": 2340,
+  "completion_tokens": 526,
+  "latency_ms": 1894,
+  "cost_usd": 0.0006665999999999999,
+  "created": "2026-11-10T05:38:25.929929Z",
+  "error": null
+}

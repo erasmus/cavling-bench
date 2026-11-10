@@ -1,0 +1,21 @@
+{
+  "model_id": "nebius-qwen3-235b",
+  "pinned_version": "Qwen/Qwen3-235B-A22B-Instruct-2507",
+  "task_id": "t5_forkortelse",
+  "source_id": "ombudsmanden-2026-lolland-avisabonnement-pression",
+  "archetype": null,
+  "prompt_sha256": "e47b9ec99ec5c3ec2a0a85a29675d4117b8f29fa9102726b43b828dff01927ef",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 860,
+    "reasoning_effort": null
+  },
+  "text": "Folketingets Ombudsmand indledte i maj 2026 en undersøgelse efter medieomtale af, at Lolland Kommune havde opsagt abonnementer på Lolland-Falsters Folketidende i forlængelse af en artikel i avisen. En myndighed har vide rammer i sin administration, men skal handle i overensstemmelse med almindelige forvaltningsretlige grundsætninger om saglighed og lighed. Beslutninger om bl.a. avisabonnementer må ikke anvendes som pression eller straffeaktion over for pressen.  \n\nLolland Kommune oplyste, at abonnementer til borgmesteren og to byrådsmedlemmer blev opsagt efter deres anmodning og uden strafformål. Ombudsmanden bemærker dog, at nogle udtalelser fra de pågældende politikere kan efterlade et andet indtryk. Den 29. april 2026 skrev journalisten.dk, at borgmesteren var vred over en kritisk artikel og overvejede yderligere skridt. Hun skrev på sociale medier, at kritik skal være fair, åben og ansvarlig, ellers mister den legitimitet. Det ene byrådsmedlem skrev på Facebook, at de ikke længere ville betale for journalister, der sætter loven til side, og havde opsagt abonnementet. Det andet skrev i en intern mail, at den sidste manglende journalistiske kvalitet var dråben, der fik bægeret til at flyde over.  \n\nOmbudsmanden, Christian Britten Lundblad, understreger, at myndigheder ikke må straffe eller lægge pres på medier på baggrund af nyhedsformidling. Han går ud fra, at kommunen vil overveje, om udtalelserne ændrer på grundlaget for opfattelsen af opsigelsens formål, og har bedt om orientering om resultatet.",
+  "prompt_tokens": 1444,
+  "completion_tokens": 482,
+  "latency_ms": 9182,
+  "cost_usd": 0.000578,
+  "created": "2026-11-10T05:44:12.628856Z",
+  "error": null
+}

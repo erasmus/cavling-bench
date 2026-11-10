@@ -1,0 +1,21 @@
+{
+  "model_id": "anthropic-mid",
+  "pinned_version": "claude-sonnet-5-5",
+  "task_id": "t2_rubrik",
+  "source_id": "nationalbanken-2026-digitale-betalinger-beredskab",
+  "archetype": "landsavisen",
+  "prompt_sha256": "1216059e5662de77f9afa208ffa08a3fbfd43e51b3638e10306208bb3c893e16",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 3400,
+    "reasoning_effort": "low"
+  },
+  "text": "RUBRIK: Kontantandelen falder til 9 pct., men flere har kontanter i reserve\nUNDERRUBRIK: Nationalbankens nye analyser viser, at over 90 pct. af betalinger er digitale, mens 41 pct. har over 1.000 kr. i kontanter. Banken vil have flere butikker klar til offline-betaling.",
+  "prompt_tokens": 2804,
+  "completion_tokens": 127,
+  "latency_ms": 2066,
+  "cost_usd": 0.006878,
+  "created": "2026-11-10T07:15:21.625019Z",
+  "error": null
+}

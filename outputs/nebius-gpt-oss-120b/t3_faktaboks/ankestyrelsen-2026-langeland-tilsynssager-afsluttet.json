@@ -1,0 +1,21 @@
+{
+  "model_id": "nebius-gpt-oss-120b",
+  "pinned_version": "openai/gpt-oss-120b",
+  "task_id": "t3_faktaboks",
+  "source_id": "ankestyrelsen-2026-langeland-tilsynssager-afsluttet",
+  "archetype": null,
+  "prompt_sha256": "28912c2898bc280a7349116e59da0cd8319df3fd0c25991a6a7015daa8e838b3",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 2075,
+    "reasoning_effort": "low"
+  },
+  "text": "- Ankestyrelsens tilsyn afsluttede to tilsynssager mod Langeland Kommune i marts 2025.  \n- I november 2022 fandt tilsynet, at Familieafdelingen overtrådte flere love, herunder offentlighedsloven.  \n- Langeland Kommune identificerede 295 sager, der skulle gennemgås efter tilsynets påbud.  \n- Den anden sag fra 2024 blev afsluttet i august 2023 uden ny tilsynssag, men med løbende opfølgning.  \n- Et taskforce-forløb for børn og unge starter i maj 2026 og løber til januar 2028.",
+  "prompt_tokens": 1192,
+  "completion_tokens": 168,
+  "latency_ms": 910,
+  "cost_usd": 0.00027959999999999997,
+  "created": "2026-11-10T05:38:13.514364Z",
+  "error": null
+}

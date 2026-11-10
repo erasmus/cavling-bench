@@ -1,0 +1,21 @@
+{
+  "model_id": "anthropic-frontier",
+  "pinned_version": "claude-fable-5-1",
+  "task_id": "t4_versionering",
+  "source_id": "fm-2026-finanslovforslag-2027",
+  "archetype": "landsavisen",
+  "prompt_sha256": "161ccd2cc7292422e90b3f7d51f7181e25f5b1e295944fbf5f7b9c4458ebcb5b",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 4025,
+    "reasoning_effort": "low"
+  },
+  "text": "Regeringen fremlægger i dag sit forslag til finanslov for 2027. Forslaget afsætter midler til at løfte forsvarsudgifterne til 3,5 pct. af BNP i 2030, investerer i folkeskole og dagtilbud og giver et permanent løft til de folkepensionister, der har mindst. Regeringen begrunder forsvarsprioriteringen med krigen på det europæiske kontinent og Rusland, som fortsat betegnes som en trussel mod Danmarks sikkerhed.\n\nPå velfærdsområdet vil regeringen investere 1,2 mia. kr. i 2027 og 1,1 mia. kr. årligt i 2028-2030 i folkeskolen og dagtilbud. Som et første skridt mod ambitionen om vederlagsfri tandpleje for hele befolkningen i 2035 afsættes 0,6 mia. kr. i 2027 og 0,9 mia. kr. årligt fra 2028 til vederlagsfri tandpleje for førtidspensionister og udsatte grupper.\n\nDe folkepensionister, der har mindst, skal ifølge forslaget have et permanent løft af den månedlige ydelse på godt 1.600 kr., svarende til 1.000 kr. om måneden efter skat.\n\nTil grøn omstilling afsætter regeringen 650 mio. kr. i 2027 og 850 mio. kr. årligt i 2028-2030 til elektrificering og omstilling væk fra fossile brændsler. Desuden afsættes 800 mio. kr. i 2027 og 1.000 mio. kr. i helårsniveau til at påbegynde indfasning af gratis kollektiv transport for unge under 22 år.\n\nFinansminister Peter Hummelgaard siger: \"Vi er en regering af stædige optimister, der tror på, at i morgen skal være bedre end i dag. Den optimisme skal omsættes til resultater, der kan mærkes i hele landet.\"\n\nØkonomi- og indenrigsminister Pia Olsen Dyhr fremhæver, at 900 mio. kr. går til folkeskolen, og at indsatsen målrettes de 100 skoler, hvor udfordringerne er størst.\n\nSkatte- og vækstminister Jakob Engel-Schmidt siger: \"Sygeplejersken, ingeniøren og VVS'eren skal ikke straffes med en mellemskat for at tage en ekstra vagt eller blive et par timer ekstra.\"\n\nRegeringen oplyser desuden, at forslaget skal styrke erhvervslivets produktivitet og konkurrenceevne, men kilden angiver ikke beløb for den del.",
+  "prompt_tokens": 3018,
+  "completion_tokens": 911,
+  "latency_ms": 10370,
+  "cost_usd": 0.07573,
+  "created": "2026-11-10T07:22:58.608629Z",
+  "error": null
+}

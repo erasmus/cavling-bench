@@ -1,0 +1,21 @@
+{
+  "model_id": "nebius-gpt-oss-120b",
+  "pinned_version": "openai/gpt-oss-120b",
+  "task_id": "t2_rubrik",
+  "source_id": "kefm-2026-akutplan-elnettet-vedtaget",
+  "archetype": "lynposten",
+  "prompt_sha256": "ff96de00130757683b66c727c89a3a7f79f1868a841e86a5a19dbff2d0ef187b",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 1900,
+    "reasoning_effort": "low"
+  },
+  "text": "RUBRIK: Stort flertal vedtager akutplan for elnettet  \nUNDERRUBRIK: Planen erstatter først‑til‑mølle‑princippet, giver Energinet mulighed for at prioritere kritisk strøm til samfundsvigtige formål fra 12. oktober.",
+  "prompt_tokens": 2752,
+  "completion_tokens": 197,
+  "latency_ms": 803,
+  "cost_usd": 0.000531,
+  "created": "2026-11-10T05:38:07.251064Z",
+  "error": null
+}

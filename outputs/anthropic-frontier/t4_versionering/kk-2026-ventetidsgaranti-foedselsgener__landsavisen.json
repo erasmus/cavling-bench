@@ -1,0 +1,21 @@
+{
+  "model_id": "anthropic-frontier",
+  "pinned_version": "claude-fable-5-1",
+  "task_id": "t4_versionering",
+  "source_id": "kk-2026-ventetidsgaranti-foedselsgener",
+  "archetype": "landsavisen",
+  "prompt_sha256": "8c7f7146ac6b666bb7e8274e3f82755c7f7a15b8e0b21dec5059922cbe476fd5",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 4025,
+    "reasoning_effort": "low"
+  },
+  "text": "Partierne bag Københavns Kommunes nye budgetaftale indfører en ventetidsgaranti for kvinder med fødselsgener. Beslutningen er et svar på en efterspørgsel, der har overrasket kommunen, siden det gratis efterfødselstilbud i Vanløse åbnede i foråret 2025.\n\nI dag venter kvinderne 17 dage fra henvisning til visitationssamtale og yderligere 44 dage til afklarende samtale og undersøgelse. Fremover skal første samtale tilbydes efter højst 7 dage og undersøgelsen senest 3 uger senere. Kan kommunen ikke overholde garantien, tilbydes et forløb hos en privat leverandør, som kommunen løbende vil føre tilsyn med.\n\nTilbuddet er målrettet kvinder med fysiske gener efter fødsel, blandt andet inkontinens, bristninger, delte mavemuskler, rygsmerter og smerter efter kejsersnit. Første samtale varetages af gynækologisk obstetriske fysioterapeuter, som giver rådgivning og øvelser til hjemmebrug frem mod undersøgelsen.\n\nI år kan Sundheds- og Omsorgsforvaltningen hjælpe omtrent 800 kvinder og næste år godt 1.000. Fremskrivninger viser et behov for 1.500 forløb i 2027. Af de ekstra 500 forløb skal kommunen selv stå for 320 ved at udvide det eksisterende tilbud, mens 180 forventes varetaget af private leverandører. Partierne har afsat knap 12,5 millioner kroner over fire år oven i de knap 19 millioner kroner fra tidligere budgetaftaler.\n\n”Oplever en kvinde gener efter en fødsel, så skal hun have adgang til kompetent hjælp med det samme. Nu indfører vi Danmarks mest ambitiøse garanti,” siger sundheds- og omsorgsborgmester Jens-Kristian Lütken (V).\n\nOverborgmester Sisse Marie Welling (SF), der som tidligere sundheds- og omsorgsborgmester var med til at åbne tilbuddet, kalder garantien ”næste skridt”.\n\nAlexander Ryle, gruppeformand for Liberal Alliance i Borgerrepræsentationen, siger: ”Det handler ikke om privat eller offentlig. Det handler om at sætte mennesket før systemet.”\n\nIdeen om en garanti blev vedtaget som mål ved Overførselssagen i foråret 2026.",
+  "prompt_tokens": 2977,
+  "completion_tokens": 889,
+  "latency_ms": 11020,
+  "cost_usd": 0.07422,
+  "created": "2026-11-10T07:23:50.856976Z",
+  "error": null
+}

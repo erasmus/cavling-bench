@@ -1,0 +1,21 @@
+{
+  "model_id": "nebius-qwen3-235b",
+  "pinned_version": "Qwen/Qwen3-235B-A22B-Instruct-2507",
+  "task_id": "t3_faktaboks",
+  "source_id": "politi-2026-sydoestjylland-hadforbrydelse",
+  "archetype": null,
+  "prompt_sha256": "2005c022571aa89d41ce796683a1ce0b3612396d500214a1da255416b9887061",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 575,
+    "reasoning_effort": null
+  },
+  "text": "- Tre unge mænd på 18, 18 og 17 år blev dømt ved Retten i Horsens for vold, grov vold og overtrædelse af våbenlovgivningen.  \n- De to 18-årige mænd overfaldt en mand med kniv i Vitus Beringsparken i Horsens den 2. januar 2026.  \n- Den 18-årige mand blev den 4. januar 2026 dømt for vold mod en mand på en bar i Horsens.  \n- Den 17. januar 2026 omkring kl. 02.10 begik den 18-årige og den 17-årige grov vold mod to kvinder ved banegården i Horsens med totenschlæger og peberspray.  \n- Den 18-årige mand, der blev dømt for hadforbrydelse, modtog et år og tre måneders fængsel og et indrejseforbud i seks år.",
+  "prompt_tokens": 1094,
+  "completion_tokens": 251,
+  "latency_ms": 51568,
+  "cost_usd": 0.0003694,
+  "created": "2026-11-10T05:41:40.346796Z",
+  "error": null
+}

@@ -1,0 +1,21 @@
+{
+  "model_id": "anthropic-mid",
+  "pinned_version": "claude-sonnet-5-5",
+  "task_id": "t6_lydmanus",
+  "source_id": "kfst-2026-fibernet-prislofter",
+  "archetype": "lynposten",
+  "prompt_sha256": "498e4bf1b34fa2bf386d206b87cff2410a6ca148856f71cbf4b50ebc790c037e",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 3620,
+    "reasoning_effort": "low"
+  },
+  "text": "Op til femogtredive procent højere prisloft rammer fibernettet. Det forventer Konkurrence- og Forbrugerstyrelsen. Prisen på bredbånd stiger en del de næste fem år, og det kan ramme både husholdninger og mindre virksomheder.\n\nIfølge styrelsen er der tre grunde. Priserne på udstyr er steget. Renten er steget, så selskaberne må forrente deres investeringer højere. Og selskaberne skal kunne dække udgifter til beskyttelse mod angreb på nettet.\n\nStyrelsen fastsætter kun prislofter, hvor ejeren af nettet har monopollignende status. For TDC gælder det kun en mindre del af forretningen. Mobilområdet er ikke omfattet.\n\nStyrelsen fastsætter de endelige prislofter til december. Afgørelserne vedrører tretten selskaber. Europa-Kommissionen skal først gennemgå dem. De nye prislofter skal gælde fra årsskiftet.",
+  "prompt_tokens": 2847,
+  "completion_tokens": 350,
+  "latency_ms": 3650,
+  "cost_usd": 0.009194,
+  "created": "2026-11-10T07:18:32.574802Z",
+  "error": null
+}

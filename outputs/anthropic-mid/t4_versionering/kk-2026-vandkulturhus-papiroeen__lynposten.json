@@ -1,0 +1,21 @@
+{
+  "model_id": "anthropic-mid",
+  "pinned_version": "claude-sonnet-5-5",
+  "task_id": "t4_versionering",
+  "source_id": "kk-2026-vandkulturhus-papiroeen",
+  "archetype": "lynposten",
+  "prompt_sha256": "9ffa1b6a712396b9fe579016a0bb1dea8ca1d61a8cdbc8b068d4243482d2ed48",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 4025,
+    "reasoning_effort": "low"
+  },
+  "text": "546 millioner kroner fra Nordea-fonden har givet København et nyt vandkulturhus. KAI åbner på Papirøen den 5. december 2026. Huset har 10 bassiner inde og ude.\n\nKAI er 5.800 kvadratmeter stort. Det ligger midt på havnekajen. Den japanske tegnestue Kengo Kuma & Associates har tegnet det.\n\nStueetagen har et 25-metersbassin, et undervisningsbassin og tre legebassiner. Derfra går de badende direkte ud til havnen. Der er badezone og dyppezone ved en træbrygge.\n\nPå første etage ligger Dalbassinet mellem husets fem teglstubbe. Her svømmer gæsterne under åben himmel. Bassinet Onsen har også udsigt over havnen.\n\nKøbenhavnerne har selv bedt om huset. Kommunen holdt en idékonkurrence i 2015. Københavnerne sendte 160 forslag ind. De fleste ønskede en svømmefacilitet.\n\n”København er presset på svømmekapacitet, så det er supervigtigt, at vi nu får nye bassiner”, siger overborgmester Sisse Marie Welling (SF).\n\nAf de 546 millioner kroner er 25 millioner øremærket til bæredygtighed. Pengene har betalt for lodret jordpumpevarme. Ti boringer går 250 meter ned. De varmer de udendørs bassiner på første etage året rundt.\n\n”Vi er utroligt stolte af det færdige resultat”, siger Erik Jæger, bestyrelsesformand i Ejendomsfonden Vandkulturhuset Papirøen. Fonden er bygherre.\n\nKAI er også kulturhus. Kulturtårnet i den højeste teglstub får bevægelses- og kulturlokaler til foreninger og gæster. Borgere og kulturskabere kan indsende idéer til kulturprogrammet.\n\nNavnet betyder hav på japansk.\n\nHuset er stadig under opførelse. Det er lukket for offentligheden indtil åbningen. Programmet for indvielsen offentliggøres senere.",
+  "prompt_tokens": 3498,
+  "completion_tokens": 733,
+  "latency_ms": 5432,
+  "cost_usd": 0.014326,
+  "created": "2026-11-10T07:16:49.886699Z",
+  "error": null
+}

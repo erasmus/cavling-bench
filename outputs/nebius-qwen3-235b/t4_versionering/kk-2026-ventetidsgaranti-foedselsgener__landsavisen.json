@@ -1,0 +1,21 @@
+{
+  "model_id": "nebius-qwen3-235b",
+  "pinned_version": "Qwen/Qwen3-235B-A22B-Instruct-2507",
+  "task_id": "t4_versionering",
+  "source_id": "kk-2026-ventetidsgaranti-foedselsgener",
+  "archetype": "landsavisen",
+  "prompt_sha256": "8c7f7146ac6b666bb7e8274e3f82755c7f7a15b8e0b21dec5059922cbe476fd5",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 1025,
+    "reasoning_effort": null
+  },
+  "text": "Københavns Kommune indfører en ventetidsgaranti for kvinder, der søger hjælp til fysiske gener efter fødsel. Aftalen er en del af den nye budgetaftale og kommer som svar på den store efterspørgsel på det offentlige efterfødselstilbud, der åbnede i foråret 2025. Ventetiden til første samtale er i dag 17 dage, og yderligere 44 dage til undersøgelse – en forsinkelse, som kommunen nu vil afhjælpe.\n\nFremover skal kvinder tilbydes en første samtale senest syv dage efter henvisning og en afklarende undersøgelse inden for tre uger. Hvis kommunen ikke kan overholde fristerne, tilbydes kvinderne hjælp hos en godkendt privat leverandør. Sundheds- og omsorgsborgmester Jens-Kristian Lütken (V) kalder det ”Danmarks mest ambitiøse garanti” og understreger, at kvinder med fødselsgener ikke længere må vente for længe på kompetent støtte.\n\nOverborgmester Sisse Marie Welling (SF) peger på, at tilbuddet er en naturlig udvikling af kommunens arbejde med at styrke efterfødselshjælpen. Allerede ved første samtale, som varetages af specialiserede fysioterapeuter, får kvinder konkret rådgivning og træningsvejledning. I 2026 kan kommunen hjælpe omkring 1.000 kvinder, og fra 2027 forventes kapaciteten at stige til 1.500 årligt. Af de nye forløb står kommunen for 320, mens 180 forventes dækket af private aktører.\n\nPartierne bag budgetaftalen har afsat knap 12,5 millioner kroner til forløbet over fire år, heraf 320 forløb finansieret direkte af kommunen. Kommunen vil føre tilsyn med private leverandører for at sikre kvalitet. Grænsen for, hvilke kvinder der kan modtage hjælp, udvides også: fra 2028 er der intet tidsmæssigt loft.",
+  "prompt_tokens": 2300,
+  "completion_tokens": 573,
+  "latency_ms": 8422,
+  "cost_usd": 0.0008037999999999999,
+  "created": "2026-11-10T05:42:25.880299Z",
+  "error": null
+}

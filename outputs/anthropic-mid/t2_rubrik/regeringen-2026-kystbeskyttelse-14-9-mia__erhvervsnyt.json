@@ -1,0 +1,21 @@
+{
+  "model_id": "anthropic-mid",
+  "pinned_version": "claude-sonnet-5-5",
+  "task_id": "t2_rubrik",
+  "source_id": "regeringen-2026-kystbeskyttelse-14-9-mia",
+  "archetype": "erhvervsnyt",
+  "prompt_sha256": "fa5e8cd966f26c9c3dbbd238b4f8489b6b8f3284a178293b2b7b039b5535949d",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 3400,
+    "reasoning_effort": "low"
+  },
+  "text": "RUBRIK: Staten afsætter 14,9 mia. kr. til kystbeskyttelse\nUNDERRUBRIK: Staten vil dække 85 pct. af kommunernes anlægsudgifter. Med øvrige midler kan der investeres op mod 20 mia. kr. frem mod 2040, og lodsejere kan få en regning.",
+  "prompt_tokens": 2541,
+  "completion_tokens": 124,
+  "latency_ms": 1503,
+  "cost_usd": 0.006322,
+  "created": "2026-11-10T07:15:34.752040Z",
+  "error": null
+}

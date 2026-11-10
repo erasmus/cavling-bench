@@ -1,0 +1,21 @@
+{
+  "model_id": "anthropic-frontier",
+  "pinned_version": "claude-fable-5-1",
+  "task_id": "t5_forkortelse",
+  "source_id": "ombudsmanden-2026-lolland-avisabonnement-pression",
+  "archetype": null,
+  "prompt_sha256": "e47b9ec99ec5c3ec2a0a85a29675d4117b8f29fa9102726b43b828dff01927ef",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 3860,
+    "reasoning_effort": "low"
+  },
+  "text": "Folketingets Ombudsmand indledte i maj 2026 en undersøgelse efter medieomtale af, at Lolland Kommune havde opsagt abonnementer på Lolland-Falsters Folketidende i forlængelse af en artikel i avisen.\n\nOmbudsmanden fastslår i sin udtalelse til kommunen, at en myndighed har vide rammer for sin administration, men skal handle i overensstemmelse med forvaltningsretlige grundsætninger om saglighed og lighed. Opsigelse af abonnementer må derfor ikke bruges som pression eller \"straffeaktion\" over for pressen.\n\nLolland Kommune har oplyst, at abonnementerne tilhørte borgmesteren og to byrådsmedlemmer, at opsigelserne skete efter deres anmodning, og at formålet ikke var at straffe avisen. Ombudsmanden mener dog, at udtalelser fra politikerne kan efterlade et andet indtryk, og går ud fra, at kommunen vil overveje, om udtalelserne ændrer grundlaget for kommunens opfattelse af formålet. Han har bedt om en orientering om resultatet.\n\n\"Det er ikke sagligt, hvis det sker for at straffe eller lægge pres på bestemte journalister eller medier,\" siger ombudsmand Christian Britten Lundblad.\n\nDen 29. april 2026 skrev journalisten.dk i artiklen \"Borgmester opsiger lokalavis efter kritisk artikel\", at borgmesteren var \"vred over en kritisk artikel\" og \"overvejer yderligere skridt\". Et byrådsmedlem skrev på Facebook, at journalister \"sætter loven for godt håndværk til side\", og et andet skrev i en intern mail om \"manglende journalistisk kvalitet\" som \"dråben\".\n\nMyndigheder kan ikke sanktionere mulige krænkelser af de presseetiske regler.",
+  "prompt_tokens": 1936,
+  "completion_tokens": 661,
+  "latency_ms": 8704,
+  "cost_usd": 0.05241,
+  "created": "2026-11-10T07:26:24.776078Z",
+  "error": null
+}

@@ -1,0 +1,21 @@
+{
+  "model_id": "anthropic-mid",
+  "pinned_version": "claude-sonnet-5-5",
+  "task_id": "t5_forkortelse",
+  "source_id": "odense-2026-skolefravaer-95-mio",
+  "archetype": null,
+  "prompt_sha256": "2200fabfe582254203caf848506daf81fab4ff75f30868714cc0c4298bf0048f",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 3860,
+    "reasoning_effort": "low"
+  },
+  "text": "Odense Kommune investerer 9,5 millioner kroner om året i en styrket indsats mod ufrivilligt skolefravær. Knap hver femte elev i Odense har et bekymrende fravær på mere end 10 procent. Bag fraværet gemmer der sig ofte mistrivsel eller andre udfordringer, og det rammer både barnet, familien og klassefællesskabet. Børn- og Ungeudvalget besluttede på sit møde i dag at udvide den nuværende indsats med en række nye tiltag. Pengene blev afsat med budgetaftalen for 2026.\n\nI starten af 2027 åbner en ny fraværslinje, hvor forældre kan få råd og vejledning. Familier, hvor fraværet er særligt bekymrende, kan desuden tilbydes en fast tovholder, der skaber overblik, koordinerer mellem aktørerne omkring familien og barnets forløb og hjælper med at reducere kompleksiteten i familiens møde med systemet.\n\nDer bliver også flere ressourcer til indsatser på barnets skole, blandt andet mere støtte og udvikling af kompetencer, samt øget kapacitet og flere timer til de medarbejdere, der hjælper børn og unge med komplekse fraværsudfordringer. Desuden skal børn med bekymrende fravær spores tidligere, og det tværfaglige samarbejde skal styrkes.\n\nBørn- og ungerådmand Brian Dybro (SF) kalder det katastrofalt, når en elev ikke kommer i skole, og vil have hjælp tidligere og med udgangspunkt i familiens behov. Udviklingschef Kristian Fahnøe Munksgaard, Familie- og Forebyggelsesafdelingen, peger på gode erfaringer og positive resultater med tværfagligt samarbejde i Odense.",
+  "prompt_tokens": 2087,
+  "completion_tokens": 636,
+  "latency_ms": 4488,
+  "cost_usd": 0.010534,
+  "created": "2026-11-10T07:18:02.954976Z",
+  "error": null
+}

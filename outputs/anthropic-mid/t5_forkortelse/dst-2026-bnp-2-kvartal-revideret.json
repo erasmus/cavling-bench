@@ -1,0 +1,21 @@
+{
+  "model_id": "anthropic-mid",
+  "pinned_version": "claude-sonnet-5-5",
+  "task_id": "t5_forkortelse",
+  "source_id": "dst-2026-bnp-2-kvartal-revideret",
+  "archetype": null,
+  "prompt_sha256": "823b554d4e3321679fe5c98a56b60574262aeeff4cb098f20a35e67f7a3864a4",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 3860,
+    "reasoning_effort": "low"
+  },
+  "text": "Bruttonationalproduktet (BNP) steg med 0,9 pct. i andet kvartal 2026, korrigeret for prisudvikling og sæsonbevægelser. Det er en opjustering på 0,6 procentpoint i forhold til første opgørelse, primært på grund af nye data fra Industriens produktion og omsætning, Firmaernes køb og salg samt Betalingsbalance og udenrigshandel. Væksten i første kvartal er på 1,7 pct. og opjusteret med 0,2 procentpoint. Bruttoværditilvæksten (BVT) steg med 1,1 pct., men kun 0,7 pct. uden Medicinalindustrien. Også den øvrige industri og den offentlige sektor bidrog positivt. BNP i første halvår af 2026 er 6,0 pct. højere end samme periode året før. Beskæftigelsen steg med 0,2 pct., svarende til 7.800 personer, og de præsterede timer steg med 0,3 pct.\n\nDe faste bruttoinvesteringer steg med 1,5 pct., en opjustering på 0,7 procentpoint, særligt som følge af et patentkøb i udlandet. Investeringerne i intellektuelle rettigheder er revideret fra et fald på 1,2 pct. til en stigning på 1,5 pct. Transportmidler og maskiner faldt kraftigt.\n\nOffentligt og privat forbrug var uændret på 0,0 pct. Husholdningernes forbrug af tjenester steg med 0,8 pct., mens varer faldt med 0,8 pct., heraf køretøjer med 1,8 pct. efter en stigning på 12,7 pct. i første kvartal. Året til andet kvartal 2026 steg husholdningernes forbrug 2,8 pct. og det offentlige 2,0 pct.\n\nImporten steg med 1,8 pct. og eksporten med 1,5 pct. Vareeksporten steg med 2,8 pct., mens tjenesteeksporten faldt med 0,5 pct.\n\nLagre bidrog med 0,4 procentpoint i andet og 2,4 procentpoint i første kvartal, men tallene er meget usikre.",
+  "prompt_tokens": 3420,
+  "completion_tokens": 754,
+  "latency_ms": 5015,
+  "cost_usd": 0.01438,
+  "created": "2026-11-10T07:17:39.655621Z",
+  "error": null
+}

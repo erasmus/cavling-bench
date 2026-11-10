@@ -1,0 +1,21 @@
+{
+  "model_id": "nebius-qwen3-235b",
+  "pinned_version": "Qwen/Qwen3-235B-A22B-Instruct-2507",
+  "task_id": "t2_rubrik",
+  "source_id": "politi-2026-midtvestsjaelland-idraetsforening",
+  "archetype": "erhvervsnyt",
+  "prompt_sha256": "38e92803e6206291acbb265130624fd0c108c9eac8411e474fc3678ce9c138bf",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 400,
+    "reasoning_effort": null
+  },
+  "text": "RUBRIK: 46-årig idømt 1 år for seksuelle overgreb mod drenge i idrætsforening  \nUNDERRUBRIK: Manden, der var ansat i en idrætsforening, tilstod at have begået blufærdighedskrænkelser og voldtaget en dreng under 12 år. Retten frakendte ham adgang til børn og unge.",
+  "prompt_tokens": 1302,
+  "completion_tokens": 108,
+  "latency_ms": 2328,
+  "cost_usd": 0.00032520000000000004,
+  "created": "2026-11-10T05:40:05.903153Z",
+  "error": null
+}

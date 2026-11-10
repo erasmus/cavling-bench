@@ -69,3 +69,13 @@ def test_generate_records_tokens_and_cost_for_empty_completions(fixture_cfg):
     assert rec["error"] and rec["error"].startswith("EmptyCompletion")
     assert rec["text"] == ""
     assert rec["completion_tokens"] > 0 and rec["cost_usd"] > 0
+
+
+def test_generate_retries_outputs_that_recorded_an_error(fixture_cfg):
+    run_generate(fixture_cfg, models=["fake-echo"])
+    f = fixture_cfg.paths.outputs / "fake-echo" / "t1_telegram" / "fx-dst-2026-ledighed.json"
+    rec = json.loads(f.read_text())
+    rec["text"], rec["error"] = "", "RateLimitError: quota"
+    f.write_text(json.dumps(rec))
+    assert run_generate(fixture_cfg, models=["fake-echo"]) == {"fake-echo": 1}
+    assert json.loads(f.read_text())["error"] is None

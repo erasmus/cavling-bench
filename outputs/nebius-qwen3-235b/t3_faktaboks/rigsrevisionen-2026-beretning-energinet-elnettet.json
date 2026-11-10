@@ -1,0 +1,21 @@
+{
+  "model_id": "nebius-qwen3-235b",
+  "pinned_version": "Qwen/Qwen3-235B-A22B-Instruct-2507",
+  "task_id": "t3_faktaboks",
+  "source_id": "rigsrevisionen-2026-beretning-energinet-elnettet",
+  "archetype": null,
+  "prompt_sha256": "c7a421c55f7affb6da16fc230cb1b4682fc49b0a98c991c152e9c396eb0694ba",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 575,
+    "reasoning_effort": null
+  },
+  "text": "- Den 9. april 2026 behandlede Statsrevisorerne Beretning nr. 12/2025 om Energinets udbygning af elnettet.  \n- Elnettet omfatter i dag ca. 9.000 km jordkabler og luftledninger.  \n- Ifølge planen fra maj 2024 skulle der være færdiggjort 490 km elnet pr. 1. januar 2026, men kun 206 km var færdige.  \n- Ca. 70 % af Energinets igangsatte udbygningsprojekter er forsinkede, og de tager i gennemsnit 80 % længere tid end forventet.  \n- Udbygningen af elnettet er foreløbigt blevet mere end 10 mia. kr. dyrere end oprindeligt planlagt.",
+  "prompt_tokens": 1555,
+  "completion_tokens": 225,
+  "latency_ms": 2588,
+  "cost_usd": 0.000446,
+  "created": "2026-11-10T05:40:53.210057Z",
+  "error": null
+}

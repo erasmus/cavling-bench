@@ -1,0 +1,21 @@
+{
+  "model_id": "anthropic-frontier",
+  "pinned_version": "claude-fable-5-1",
+  "task_id": "t2_rubrik",
+  "source_id": "politi-2026-oestjylland-bedrageri-aeldre",
+  "archetype": "landsavisen",
+  "prompt_sha256": "ca0d514d17feb06069289674a4555c7cc0cff1b438b738bacb0bb5999dee9d86",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 3400,
+    "reasoning_effort": "low"
+  },
+  "text": "RUBRIK: 32-årig idømt halvandet års fængsel for bankbudsbedrageri\nUNDERRUBRIK: Retten i Aarhus dømte manden for at have svindlet 48 ældre for 270.000 kroner som falsk bankbud. Han erkendte også forsøg mod omkring 150 andre.",
+  "prompt_tokens": 2558,
+  "completion_tokens": 116,
+  "latency_ms": 3468,
+  "cost_usd": 0.03138,
+  "created": "2026-11-10T07:20:55.611841Z",
+  "error": null
+}

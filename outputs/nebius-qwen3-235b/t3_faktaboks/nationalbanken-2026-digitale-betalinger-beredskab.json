@@ -1,0 +1,21 @@
+{
+  "model_id": "nebius-qwen3-235b",
+  "pinned_version": "Qwen/Qwen3-235B-A22B-Instruct-2507",
+  "task_id": "t3_faktaboks",
+  "source_id": "nationalbanken-2026-digitale-betalinger-beredskab",
+  "archetype": null,
+  "prompt_sha256": "26e5f7a808e29ec90cbf9162ebfee8a21b1902adb0313d49ff89d8ee83e67153",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 575,
+    "reasoning_effort": null
+  },
+  "text": "- Mere end 90 pct. af alle betalinger i Danmark er digitale, ifølge analyser udgivet af Nationalbanken i 2025.  \n- Kontanter blev brugt til 9 pct. af alle betalinger i fysisk handel i 2025, ned fra 11 pct. i 2023.  \n- Wallet-betalinger som Apple Pay og Google Pay udgør nu hver tredje betaling i fysisk handel.  \n- 41 pct. af borgerne har en kontantbeholdning over 1.000 kr., en stigning fra 33 pct. i 2023.  \n- Tekniske fejl hos Nets i juli 2025 og maj 2026 viste, at offline-kortberedskabet kan fungere i mindst syv dage.",
+  "prompt_tokens": 1746,
+  "completion_tokens": 206,
+  "latency_ms": 9487,
+  "cost_usd": 0.00047280000000000005,
+  "created": "2026-11-10T05:40:42.948317Z",
+  "error": null
+}

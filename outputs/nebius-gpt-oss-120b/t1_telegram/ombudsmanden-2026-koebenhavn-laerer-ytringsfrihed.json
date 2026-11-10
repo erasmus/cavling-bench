@@ -1,0 +1,21 @@
+{
+  "model_id": "nebius-gpt-oss-120b",
+  "pinned_version": "openai/gpt-oss-120b",
+  "task_id": "t1_telegram",
+  "source_id": "ombudsmanden-2026-koebenhavn-laerer-ytringsfrihed",
+  "archetype": null,
+  "prompt_sha256": "0a040f3aadee2427097828d36b1c3eef2f3eba35f37eb53174a694a0e151e87a",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 2060,
+    "reasoning_effort": "low"
+  },
+  "text": "Københavns Kommune indkaldte en folkeskolelærer til en tilrettevisningssamtale den 12. april 2024, efter hun i et interview til avisen “Lærer fik hjernerystelse og blå mærker efter slag: ’Som at være i en krigszone’” beskrev voldelig elevadfærd og sine perspektiver på adfærdsproblemer. Ombudsmand Christian Britten Lundblad konkluderer, at kommunens håndtering ikke viste respekt for hendes ytringsfrihed, selvom kommunen hævder, at indkaldelsen skyldtes et uautoriseret pressefoto. Læreren blev opfordret til lav profil over for pressen, og kommunens efterfølgende pressekontakt med flere medier blev kaldt “meget uheldig”. Ombudsmanden har pålagt kommunen at genoptage sagen og inden tre måneder orientere ham om, hvad henstillingen betyder.",
+  "prompt_tokens": 1485,
+  "completion_tokens": 223,
+  "latency_ms": 972,
+  "cost_usd": 0.00035654999999999997,
+  "created": "2026-11-10T05:38:00.108047Z",
+  "error": null
+}

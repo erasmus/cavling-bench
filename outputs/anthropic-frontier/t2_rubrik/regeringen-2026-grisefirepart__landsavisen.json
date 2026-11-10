@@ -1,0 +1,21 @@
+{
+  "model_id": "anthropic-frontier",
+  "pinned_version": "claude-fable-5-1",
+  "task_id": "t2_rubrik",
+  "source_id": "regeringen-2026-grisefirepart",
+  "archetype": "landsavisen",
+  "prompt_sha256": "cb9d20fd9744b54cd3be554d9a4e6dc724281c10955aa0b7c562f683f203ca97",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 3400,
+    "reasoning_effort": "low"
+  },
+  "text": "RUBRIK: Regeringen nedsætter firepart om fremtidens griseproduktion\nUNDERRUBRIK: Landbrug, dyreværn, fagbevægelse og erhverv skal efter nytår finde løsninger, der løfter dyrevelfærden og sikrer en bæredygtig griseproduktion.",
+  "prompt_tokens": 2346,
+  "completion_tokens": 115,
+  "latency_ms": 3382,
+  "cost_usd": 0.02921,
+  "created": "2026-11-10T07:20:58.994782Z",
+  "error": null
+}

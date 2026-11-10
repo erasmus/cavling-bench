@@ -1,0 +1,21 @@
+{
+  "model_id": "anthropic-frontier",
+  "pinned_version": "claude-fable-5-1",
+  "task_id": "t4_versionering",
+  "source_id": "politi-2026-fyn-spraengning-beboelsesejendom",
+  "archetype": "lynposten",
+  "prompt_sha256": "ebe1e128904256576d04dac03085e8645273aa93e40782ccc97aeea83e0bab10",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 4025,
+    "reasoning_effort": "low"
+  },
+  "text": "Tre mænd på 19, 21 og 22 år er idømt 14 års fængsel hver. Retten i Odense afsagde dommen fredag den 20. februar 2026. Mændene er dømt for forsøg på sprængning af en beboelsesejendom i Odense og en række andre alvorlige forbrydelser.\n\nSagen handler om en bombe med mere end fire kilo dynamit. Den skulle sprænges i en opgang på Nyborgvej i december 2023. Mellem 19 og 25 personer opholdt sig i ejendommen på det tidspunkt.\n\nForsøget mislykkedes. Gerningsmændene kunne ikke komme ind i opgangen. Politiet ankom og forstyrrede dem.\n\nDe tre er også dømt for at indføre, transportere og besidde sprængstof under særligt skærpende omstændigheder. Dertil kommer overtrædelser af våbenloven. Fire andre personer har tidligere fået lange fængselsstraffe i samme sag.\n\nMændene er desuden dømt for at planlægge skud mod en beboelsesejendom i Seden i marts 2023. En familie med to børn var hjemme. Skuddene bragte beboernes liv og førlighed i fare.\n\nEn af de tre er derudover dømt for grov frihedsberøvelse og mishandling i februar 2023. Offeret blev holdt tilbage i mindst to uger under stærkt uhygiejniske forhold. Han blev slået, sparket og fik forbrændinger i ansigtet. Offeret blev også voldtaget under særligt skærpende omstændigheder. Overgrebet blev filmet og delt på sociale medier.\n\nAlle tre mænd er fra Odense Kommune.\n\n\"Retten har i dag sendt et klart signal om, at denne form for ekstrem og organiseret kriminalitet bliver straffet hårdt. Det er tale om meget alvorlige forhold, hvor både konkrete ofre og helt tilfældige borgere har været i livsfare,\" siger specialanklager Daniel Dokkedahl fra Fyns Politi.\n\nRetten har konfiskeret sprængstof, våben og en mobiltelefon. Videoen skal slettes.\n\nDe tre mænd er varetægtsfængslet efter dommen. Den 22-årige bad om betænkningstid. De to andre ankede på stedet.",
+  "prompt_tokens": 1882,
+  "completion_tokens": 972,
+  "latency_ms": 11665,
+  "cost_usd": 0.06742,
+  "created": "2026-11-10T07:24:21.634481Z",
+  "error": null
+}

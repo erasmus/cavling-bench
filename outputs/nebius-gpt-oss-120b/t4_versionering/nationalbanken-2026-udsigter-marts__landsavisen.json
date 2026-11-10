@@ -1,0 +1,21 @@
+{
+  "model_id": "nebius-gpt-oss-120b",
+  "pinned_version": "openai/gpt-oss-120b",
+  "task_id": "t4_versionering",
+  "source_id": "nationalbanken-2026-udsigter-marts",
+  "archetype": "landsavisen",
+  "prompt_sha256": "47b9beae0b1c1665402bc7f4458726f2089898d74979136a0f3c2eb73c3fc279",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 2525,
+    "reasoning_effort": "low"
+  },
+  "text": "Nationalbanken har i dag offentliggjort sin seneste prognose for dansk økonomi, som placerer den i en grundlæggende god balance trods vedvarende geopolitisk usikkerhed, handelskonflikter og stigende energipriser. Prognosen svarer på den aktuelle usikkerhed omkring krigen i Mellemøsten og dens indvirkning på energipriserne, som Nationalbanken vurderer som en væsentlig risiko for fremtidig inflation.\n\nIfølge Nationalbanken vil inflationen forblive lav de kommende år, med en forventet rate på 1,8 % i 2024, 2,0 % i 2027 og 1,9 % i 2028. I et risikoscenarie, hvor olie‑ og gasforsyningen fra Den Persiske Golf begrænses, kan inflationen i år nå 4,5 %. ”Trods de nuværende stigninger i energipriserne forventer vi ikke, at vi ser ind i en inflationskrise, som den vi oplevede efter Ruslands invasion af Ukraine,” udtaler nationalbankdirektør Christian Kettel Thomsen.\n\nNationalbanken forudser, at Danmarks BNP vil vokse med 1,8 % i både 2024 og 2025 og med 2 % i 2028. Kerneinflationen forventes at ligge på 2,2 % i 2026, 2,1 % i 2027 og 1,7 % i 2028. På baggrund af begrænset ledig produktionskapacitet advarer Thomsen: ”Den nye regering bør i finansloven for 2027 derfor ikke skubbe til efterspørgslen ud over det, der allerede er lagt op til i den tidligere regerings 2035‑plan.” \n\nDe kommende år vil også bringe store udgifter til forsvar, klima og demografisk udvikling. ”Det permanente løft af forsvarsudgifterne med 75 mia. kr. betyder, at rummet for yderligere prioriteringer nu er væsentligt mindre,” siger Thomsen og tilføjer, at råderummet kan ændre sig med nye økonomiske skøn. Nationalbanken har desuden udgivet analyser om privatforbruget og monetære tendenser, som kan findes på www.nationalbanken.dk.",
+  "prompt_tokens": 1245,
+  "completion_tokens": 547,
+  "latency_ms": 1790,
+  "cost_usd": 0.00051495,
+  "created": "2026-11-10T05:38:27.520381Z",
+  "error": null
+}

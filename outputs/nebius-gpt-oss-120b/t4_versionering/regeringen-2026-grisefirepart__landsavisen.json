@@ -1,0 +1,21 @@
+{
+  "model_id": "nebius-gpt-oss-120b",
+  "pinned_version": "openai/gpt-oss-120b",
+  "task_id": "t4_versionering",
+  "source_id": "regeringen-2026-grisefirepart",
+  "archetype": "landsavisen",
+  "prompt_sha256": "63d5afbfe4352a5f16840e1f312cd251b92aee5cd103b657132c04cb1805a1c6",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 2525,
+    "reasoning_effort": "low"
+  },
+  "text": "Regeringen har besluttet at nedsætte en firepart for fremtidens griseproduktion, et skridt der skal kombinere bedre dyrevelfærd med en mere bæredygtig og konkurrencedygtig branche. Beslutningen kommer som svar på kritik af den nuværende produktion, hvor omkring 95 % af grisene får halen klippet, og millioner af pattegrise dør hvert år. Fireparten samler Landbrug & Fødevarer, Dyrenes Beskyttelse, Fødevareforbundet NNF, Danmarks Naturfredningsforening, Dansk Erhverv, Dansk Industri samt regeringen, og den skal arbejde på at løfte dyrevelfærden, øge økologien, nedbringe antibiotikaforbruget og flytte den danske griseproduktion op i værdikæden.\n\nMinister for natur og dyrevelfærd, Christian Rabjerg Madsen, understreger, at “effektivitet må aldrig ske på bekostning af det gode dyreliv” og at fireparten skal finde holdbare løsninger for både grisene og producenterne. Udenrigsminister Lars Løkke Rasmussen peger på, at antallet af slagtninger og slagteriarbejdere er faldet med en tredjedel, mens eksporten af smågrise er mere end tidoblet, og at et ekspertpanel skal vejlede i forædling, dyrevelfærd og bæredygtighed. \n\nErhvervs- og konkurrencekraftsminister Martin Lidegaard beskriver fireparten som et vigtigt skridt i en ambitiøs national fødevarestrategi, der skal styrke konkurrencekraften og skabe mere værdi i Danmark. Miljøminister Maria Reumert Gjerding påpeger, at svineproduktionen belaster fjorde, kystvande og lokalsamfund, og at den nye firepart skal sikre større hensyn til både natur og beboere. Sammen skal de involverede parter, som ikke er enige om alt, men deler ansvaret, udforme en ny generation af dansk griseproduktion, hvor dyrevelfærd, kvalitet og konkurrencekraft går hånd i hånd.",
+  "prompt_tokens": 1504,
+  "completion_tokens": 503,
+  "latency_ms": 1822,
+  "cost_usd": 0.0005274,
+  "created": "2026-11-10T05:38:31.576586Z",
+  "error": null
+}

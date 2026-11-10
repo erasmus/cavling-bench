@@ -1,0 +1,21 @@
+{
+  "model_id": "anthropic-mid",
+  "pinned_version": "claude-sonnet-5-5",
+  "task_id": "t2_rubrik",
+  "source_id": "nationalbanken-2026-digitale-betalinger-beredskab",
+  "archetype": "erhvervsnyt",
+  "prompt_sha256": "dc5756c0584013b4d41919b3c3efec1656c76b108fa4ad3d55d0fe580c8f07da",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 3400,
+    "reasoning_effort": "low"
+  },
+  "text": "RUBRIK: Kontanter nede på 9 pct. af butiksbetalinger i 2025\nUNDERRUBRIK: Nationalbanken: 41 pct. har over 1.000 kr. i kontanter som beredskab. Banken opfordrer flere butikker til at tage imod offline-kortbetalinger ved nedbrud.",
+  "prompt_tokens": 2811,
+  "completion_tokens": 120,
+  "latency_ms": 1575,
+  "cost_usd": 0.006822,
+  "created": "2026-11-10T07:15:21.359190Z",
+  "error": null
+}

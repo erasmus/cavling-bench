@@ -1,0 +1,21 @@
+{
+  "model_id": "nebius-gpt-oss-120b",
+  "pinned_version": "openai/gpt-oss-120b",
+  "task_id": "t3_faktaboks",
+  "source_id": "fo-2026-rejsekort-politianmeldelse",
+  "archetype": null,
+  "prompt_sha256": "4a7a98699478f9ce0b3b5e89222ad6a1a52cba87e9030e1196bf9b62db95f153",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 2075,
+    "reasoning_effort": "low"
+  },
+  "text": "- Forbrugerombudsmanden politianmelder Rejsekort & Rejseplan for vildledende markedsføring.  \n- Over 35 forbrugerklager er modtaget vedrørende kampagnen om lukning af det fysiske rejsekort.  \n- Fra oktober 2025 blev rejsekort‑tjek‑ind‑standere på stationer overdækket med hætter med budskabet “Rejs med digitalt”.  \n- Videoen “Dit fysiske kort lukker – Hent Rejsekort‑appen” blev delt på Nordjyllands Trafikselskabs Facebook‑side.  \n- Markedsføringslovens § 5, stk. 1 forbyder urigtige oplysninger eller handlinger, der kan vildlede gennemsnitsforbrugeren.",
+  "prompt_tokens": 1696,
+  "completion_tokens": 200,
+  "latency_ms": 716,
+  "cost_usd": 0.0003744,
+  "created": "2026-11-10T05:38:14.536998Z",
+  "error": null
+}

@@ -1,0 +1,21 @@
+{
+  "model_id": "nebius-gpt-oss-120b",
+  "pinned_version": "openai/gpt-oss-120b",
+  "task_id": "t4_versionering",
+  "source_id": "rigsrevisionen-2026-beretning-energinet-elnettet",
+  "archetype": "lynposten",
+  "prompt_sha256": "88756b28cc266abc840a4b819ce1d256a96861e65b4f063e7177f36f0997430f",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 2525,
+    "reasoning_effort": "low"
+  },
+  "text": "70 % af Energinets elnetudbygning er forsinket, skriver Statsrevisorerne i deres seneste beretning til Folketinget. Forsinkelserne truer den grønne omstilling og har gjort projektet mere end 10 mia. kr. dyrere end planlagt.\n\nEnerginet ejer og driver Danmarks 9.000 km elnet, men har ifølge revisorerne systematisk undervurderet tidsforbruget. De igangsatte projekter tager i gennemsnit 80 % længere tid end forventet. Kun 206 km af de 490 km, der skulle være færdiggjort inden 1. januar 2026, er klar. Resten er enten nystartet eller forsinket.\n\nStatsrevisorerne kritiserer også Klima-, Energi- og Forsyningsministeriet for sent at reagere på de stigende forsinkelser. Ministeriet har haft information om problemer siden starten af 2023, men har først i februar 2026 iværksat en ekstern analyse af Energinets rammer – en analyse, der ifølge Rigsrevisionen burde være startet tidligere.\n\nEnerginet peger på både interne og eksterne forhold som årsager, men giver ingen klare løsninger. Revisorerne påpeger, at hastigheden i udbygningen skal fordobles fra 120 km til 250 km om året for at nå målet om 3.000–4.000 km ekstra elnet frem mod 2050.\n\nKlimaaftalen fra juni 2022, som skal sikre en markant udbygning af vedvarende energi, afhænger af et velfungerende elnet. Forsinkelserne betyder, at både CO₂‑reduktionen og tilslutningen af nye sol‑ og vindparker risikerer at blive forsinket. Statsrevisorerne anbefaler, at ministeriet undersøger konsekvenserne nærmere for at sikre, at klimamålet for 2030 kan nås.",
+  "prompt_tokens": 1585,
+  "completion_tokens": 463,
+  "latency_ms": 1895,
+  "cost_usd": 0.0005155499999999999,
+  "created": "2026-11-10T05:38:32.373709Z",
+  "error": null
+}

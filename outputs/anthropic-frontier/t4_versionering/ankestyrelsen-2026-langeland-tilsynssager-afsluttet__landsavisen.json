@@ -1,0 +1,21 @@
+{
+  "model_id": "anthropic-frontier",
+  "pinned_version": "claude-fable-5-1",
+  "task_id": "t4_versionering",
+  "source_id": "ankestyrelsen-2026-langeland-tilsynssager-afsluttet",
+  "archetype": "landsavisen",
+  "prompt_sha256": "abc9a7106761b61d6f5a1fea5511cd59c95ad82ed71a3bb4cbbcfc9709a01d81",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 4025,
+    "reasoning_effort": "low"
+  },
+  "text": "Ankestyrelsens tilsyn har meddelt Langeland Kommune, at opfølgningen på to tilsynssager mod kommunens Familieafdeling afsluttes. Beslutningen kommer, efter at kommunen har gennemgået 295 sager på børneområdet og gennemført en omorganisering og opnormering af afdelingen.\n\nDen første sag stammer fra november 2022. Dengang vurderede tilsynet, at Familieafdelingen i sin sagsbehandling ikke havde overholdt bestemmelser i offentlighedsloven, forvaltningsloven, retssikkerhedsloven og serviceloven. Tilsynet mente derfor, at kommunen burde gennemgå samtlige igangværende og eventuelt afsluttede sager for at vurdere, om de skulle ses på igen. Kommunen fandt 295 sager relevante.\n\nForløbet har ifølge tilsynet været præget af behov for yderligere præciseringer af grundlaget for kommunens tilbagemeldinger og af ændringer i tilrettelæggelsen af opfølgningen. I marts 2025 modtog tilsynet kommunens slutorientering efter en fornyet gennemgang af en stor del af sagerne.\n\n\"Det er derfor vores vurdering i dag, at kommunen har fulgt op på vores udtalelse fra november 2022 og gennemført de fornødne tiltag i Familieafdelingen. På den baggrund mener vi ikke, at der grundlag for, at tilsynet foretager sig mere i sagen\", siger ankechef Hanne Østergaard, Tilsyn og Underretning i Ankestyrelsen.\n\nDen anden sag fra 2024 blev indledt efter en henvendelse om bekymrende forhold fra Taskforcen på børneområdet, der består af medarbejdere fra Socialstyrelsen og Ankestyrelsen. Taskforcens forløb med kommunen blev sat på pause. Sagen blev afsluttet i august sidste år uden en egentlig tilsynssag, men tilsynet ville følge kommunens tiltag.\n\nKommunen oplyser, at den nu har en mere ensartet sagsbehandling og kan deltage i et skræddersyet taskforce-forløb. Forløbet varer fra maj 2026 til januar 2028, og resultatet afrapporteres til politikerne i Langeland Kommune.",
+  "prompt_tokens": 2270,
+  "completion_tokens": 825,
+  "latency_ms": 9466,
+  "cost_usd": 0.06395,
+  "created": "2026-11-10T07:22:04.824631Z",
+  "error": null
+}

@@ -1,0 +1,21 @@
+{
+  "model_id": "nebius-qwen3-235b",
+  "pinned_version": "Qwen/Qwen3-235B-A22B-Instruct-2507",
+  "task_id": "t5_forkortelse",
+  "source_id": "regeringen-2026-grisefirepart",
+  "archetype": null,
+  "prompt_sha256": "a6d27bbd41265002bc62d696b22f4847df08ed451d336b0e8da80d798d8b4d3d",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 860,
+    "reasoning_effort": null
+  },
+  "text": "Regeringen nedsætter en firepart for fremtidens griseproduktion med mål om bedre dyrevelfærd og en mere bæredygtig produktion. Parterne er Landbrug & Fødevarer, Dyrenes Beskyttelse, Fødevareforbundet NNF, Danmarks Naturfredningsforening, Dansk Erhverv, Dansk Industri og regeringen. De skal efter nytår finde fælles løsninger, der løfter dyrevelfærden og samtidig sikrer en stærk og bæredygtig produktion, herunder mere økologi, mindre antibiotikaforbrug og mere forædling i Danmark. Minister for natur og dyrevelfærd, Christian Rabjerg Madsen, peger på, at 95 procent af grise får klippet halen, og millioner af pattegrise dør årligt – forhold, der skal forbedres. Han understreger, at produktionen skal fokusere på grise, der enten spises i Danmark eller eksporteres som forædlede produkter. Udenrigsminister Lars Løkke Rasmussen fremhæver, at antallet af slagtninger og slagteriarbejdere i Danmark er faldet med omkring en tredjedel de sidste 15 år, mens eksporten af smågrise er mere end tidoblet. Derfor nedsættes et ekspertpanel for at anbefale mere forædling og bedre dyrevelfærd. Erhvervsminister Martin Lidegaard kalder det et skridt i retning af en ambitiøs national fødevarestrategi, der styrker konkurrencekraft og skaber værdi i Danmark. Miljøminister Maria Reumert Gjerding pointerer, at svineproduktionen belaster fjorde, kystvande og naboer, og at der skal tages større hensyn til natur og mennesker. Erfaringen fra den grønne trepart bygges videre på.",
+  "prompt_tokens": 1404,
+  "completion_tokens": 487,
+  "latency_ms": 33244,
+  "cost_usd": 0.000573,
+  "created": "2026-11-10T05:44:45.696933Z",
+  "error": null
+}

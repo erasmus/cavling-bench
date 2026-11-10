@@ -1,0 +1,21 @@
+{
+  "model_id": "nebius-qwen3-235b",
+  "pinned_version": "Qwen/Qwen3-235B-A22B-Instruct-2507",
+  "task_id": "t2_rubrik",
+  "source_id": "skim-2026-sommeraftale-sundhedsreform",
+  "archetype": "lynposten",
+  "prompt_sha256": "8381da0d6ae8e9368ee7995ebd04027dd53c39841abe6ca92ee036f75a895f6f",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 400,
+    "reasoning_effort": null
+  },
+  "text": "RUBRIK: Regeringen og regionerne lukker sommeraftale på 800 mio.  \nUNDERRUBRIK: Aftalen giver patienter med KOL og kroniske smerter ret til behandlingsplan inden for 21 dage fra 2027. Ældre og psykiatriske patienter får også 96 timers sygehusansvar efter udskrivelse.",
+  "prompt_tokens": 2766,
+  "completion_tokens": 96,
+  "latency_ms": 2106,
+  "cost_usd": 0.0006108000000000001,
+  "created": "2026-11-10T05:40:20.547828Z",
+  "error": null
+}

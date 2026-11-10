@@ -1,0 +1,21 @@
+{
+  "model_id": "anthropic-frontier",
+  "pinned_version": "claude-fable-5-1",
+  "task_id": "t3_faktaboks",
+  "source_id": "dst-2026-offentligt-overskud-2025",
+  "archetype": null,
+  "prompt_sha256": "d029e09914398253c345cf6e519e2e386cf2548ffba4c582f01705fd4ad6c9b9",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 3575,
+    "reasoning_effort": "low"
+  },
+  "text": "- I 2025 var der et overskud på 90,9 mia. kr. på de offentlige finanser.\n- I 2024 var overskuddet på de offentlige finanser 123,5 mia. kr.\n- Social beskyttelse udgjorde 41 pct. af de samlede offentlige udgifter i 2025.\n- Udgifterne til sociale ydelser steg med 18,8 mia. kr. og udgjorde 438,4 mia. kr. i 2025.\n- Indtægterne fra pensionsafkastskatten er opgjort til 47,0 mia. kr. i 2025.",
+  "prompt_tokens": 1472,
+  "completion_tokens": 202,
+  "latency_ms": 3476,
+  "cost_usd": 0.02482,
+  "created": "2026-11-10T07:21:18.411966Z",
+  "error": null
+}

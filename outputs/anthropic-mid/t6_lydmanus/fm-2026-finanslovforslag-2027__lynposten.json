@@ -1,0 +1,21 @@
+{
+  "model_id": "anthropic-mid",
+  "pinned_version": "claude-sonnet-5-5",
+  "task_id": "t6_lydmanus",
+  "source_id": "fm-2026-finanslovforslag-2027",
+  "archetype": "lynposten",
+  "prompt_sha256": "9e0a0498c70323cd46b5ab9b6cdbbba0132fef4ba2b72a27366a94e84b4dfec5",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 3620,
+    "reasoning_effort": "low"
+  },
+  "text": "Regeringen vil give folkepensionister med mindst et permanent løft på godt et tusind og seks hundrede kroner om måneden. Det svarer til et tusind kroner efter skat. Det fremgår af regeringens forslag til finanslov for 2027.\n\nForsvaret får også mere. Regeringen vil løfte udgifterne til tre komma fem procent af bruttonationalproduktet i 2030.\n\nFolkeskolen og dagtilbud får en komma to milliarder kroner i 2027. Derefter får de en komma en milliard kroner hvert år i 2028 til 2030.\n\nTandpleje bliver gratis for førtidspensionister og udsatte grupper. Regeringen afsætter nul komma seks milliarder kroner i 2027.\n\nUnge under toogtyve år får gratis kollektiv transport. Regeringen afsætter otte hundrede millioner kroner i 2027.\n\nFinansminister Peter Hummelgaard siger: \"Vi er en regering af stædige optimister.\"",
+  "prompt_tokens": 3087,
+  "completion_tokens": 345,
+  "latency_ms": 2947,
+  "cost_usd": 0.009624,
+  "created": "2026-11-10T07:18:25.729353Z",
+  "error": null
+}

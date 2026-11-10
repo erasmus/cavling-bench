@@ -1,0 +1,21 @@
+{
+  "model_id": "anthropic-mid",
+  "pinned_version": "claude-sonnet-5-5",
+  "task_id": "t4_versionering",
+  "source_id": "politi-2026-midtvestsjaelland-idraetsforening",
+  "archetype": "lynposten",
+  "prompt_sha256": "4e8086dd858e1aa1e5af120631b26140b4747b0954480aa8985274bcf893cce7",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 4025,
+    "reasoning_effort": "low"
+  },
+  "text": "En 46-årig mand fra Roskilde har fået et års fængsel for seksuelle overgreb og blufærdighedskrænkelser mod et stort antal drenge. Dommen faldt i dag ved Retten i Roskilde. Manden har tilstået.\n\nManden var ansat i en idrætsforening i byen. Alle drengene på nær én var tilknyttet foreningen.\n\nHan har tilstået at have krænket et større antal drenge. Han har også tilstået at have voldtaget en dreng under 12 år ved andet seksuelt forhold end samleje.\n\nNogle drenge blev befølt. Mindst 42 drenge blev filmet uden deres viden. Det skete fra januar 2022 til april 2024. Manden er dømt for uberettiget at have filmet på et ikke frit tilgængeligt sted.\n\nPolitiet fik adgang til hans telefon efter anholdelsen. Her lå en større mængde seksuelt billed- og videomateriale med personer under 18 år. Materialet dækkede alle tre kategorier af seksuelt overgrebsmateriale med børn.\n\nRetten har også frakendt ham retten til at arbejde med børn og unge under 18 år.\n\n\"Der er tale om en meget alvorlig sag, hvor et stort antal drenge er blevet udsat for seksuelle krænkelser af en voksen, som de burde kunne have tillid til,\" siger senioranklager Pernille Fredin fra anklagemyndigheden hos Midt- og Vestsjællands Politi. Hun kalder det et groft tillidsbrud.\n\nSagen har været længe undervejs. Der skulle foretages en vurdering af mandens mentale tilstand.\n\n\"Jeg håber, at dommen nu kan være med til at give drengene og deres familier en følelse af retfærdighed og den afklaring, de har ventet på,\" siger Pernille Fredin.\n\nManden har taget betænkningstid til at beslutte, om han vil anke dommen.",
+  "prompt_tokens": 1633,
+  "completion_tokens": 672,
+  "latency_ms": 5022,
+  "cost_usd": 0.009986,
+  "created": "2026-11-10T07:17:08.451918Z",
+  "error": null
+}

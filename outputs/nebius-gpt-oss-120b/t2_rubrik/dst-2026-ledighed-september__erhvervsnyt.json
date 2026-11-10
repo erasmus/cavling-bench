@@ -1,0 +1,21 @@
+{
+  "model_id": "nebius-gpt-oss-120b",
+  "pinned_version": "openai/gpt-oss-120b",
+  "task_id": "t2_rubrik",
+  "source_id": "dst-2026-ledighed-september",
+  "archetype": "erhvervsnyt",
+  "prompt_sha256": "a3031b6353345a7384ddf5d3cf4ddea856634c05bae72030370f745b69eb7037",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 1900,
+    "reasoning_effort": "low"
+  },
+  "text": "RUBRIK: 200 færre ledige i september  \nUNDERRUBRIK: Arbejdsløsheden faldt til 93.600 fuldtidspersoner, mens ledighedsprocenten holdt sig på 3,1 % i september 2026.",
+  "prompt_tokens": 1262,
+  "completion_tokens": 104,
+  "latency_ms": 561,
+  "cost_usd": 0.0002517,
+  "created": "2026-11-10T05:38:03.190731Z",
+  "error": null
+}

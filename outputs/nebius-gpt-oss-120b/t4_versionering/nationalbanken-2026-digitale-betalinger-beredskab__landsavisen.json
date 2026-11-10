@@ -1,0 +1,21 @@
+{
+  "model_id": "nebius-gpt-oss-120b",
+  "pinned_version": "openai/gpt-oss-120b",
+  "task_id": "t4_versionering",
+  "source_id": "nationalbanken-2026-digitale-betalinger-beredskab",
+  "archetype": "landsavisen",
+  "prompt_sha256": "d12b3da773f51b25f9a03035ae8c7d04c1968d9d5247580e03008f6660d58890",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 2525,
+    "reasoning_effort": "low"
+  },
+  "text": "Nationalbanken har i dag offentliggjort to analyser, der viser, hvordan den digitale betalingsudvikling påvirker behovet for et robust betalingsberedskab. Analysen “Danskernes brug af kontanter falder fortsat” og “Danskerne betaler mere med mobilen” dokumenterer, at mere end 90 % af alle betalinger i Danmark nu er digitale, mens kontantandelen i fysisk handel er faldet til 9 % i 2025 fra 11 % i 2023 og 23 % i 2017. Samtidig vokser wallet‑betalinger – som Apple Pay og Google Pay – og udgør i dag hver tredje betaling i fysiske butikker.\n\nSamtidig viser tallene, at 41 % af befolkningen har over 1.000 kr. i kontanter, en stigning fra 33 % i 2023, og at syv ud af ti af dem betragter kontanter som et beredskab, hvis digitale løsninger svigter. Mindre end 5 % af betalingerne i fysisk handel er straksbetalinger via MobilePay, men disse har spillet en vigtig rolle under de tekniske fejl hos Nets i juli 2025 og maj 2026.\n\n“Vores analysearbejde viser, hvor meget digitale betalinger fylder i et moderne samfund, og det understreger igen, hvor vigtigt det er, at alle danskere og butikker har et betalingsberedskab, som er gearet til det betalingsmønster,” siger nationalbankdirektør Ulrik Nødgaard. Han tilføjer, at “særligt to ting kan styrkes for at underbygge det: at endnu flere butikker er klar til at tage imod digitale betalinger offline, og at der bliver en større udbredelse af straksbetalinger via fx MobilePay.”\n\nSom svar på de seneste nedbrud har Nationalbanken sammen med detailhandlen og Betalingsrådet lanceret et offline‑kortberedskab, der sikrer, at borgere over 18 år kan betale med kort og wallets i dagligvarebutikker og apoteker i mindst syv dage, selvom kortinfrastrukturen er nede. Nationalbanken anbefaler desuden, at husstande har mindst to fysiske betalingskort, et mindre kontantbeløb på omkring 250 kr. pr. person og en mobil betalingsløsning, mens detailhandlen bør forberede konkrete offline‑procedurer.",
+  "prompt_tokens": 1757,
+  "completion_tokens": 576,
+  "latency_ms": 2435,
+  "cost_usd": 0.0006091499999999999,
+  "created": "2026-11-10T05:38:27.645227Z",
+  "error": null
+}

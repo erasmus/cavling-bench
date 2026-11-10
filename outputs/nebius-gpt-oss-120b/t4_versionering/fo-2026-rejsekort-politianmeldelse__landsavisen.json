@@ -1,0 +1,21 @@
+{
+  "model_id": "nebius-gpt-oss-120b",
+  "pinned_version": "openai/gpt-oss-120b",
+  "task_id": "t4_versionering",
+  "source_id": "fo-2026-rejsekort-politianmeldelse",
+  "archetype": "landsavisen",
+  "prompt_sha256": "4e51f6cecc255ffdbec9a1edcfbaf3a1e7c439bafa593eec6f2cb8d8af498319",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 2525,
+    "reasoning_effort": "low"
+  },
+  "text": "Forbrugerombudsmanden har politianmeldt Rejsekort & Rejseplan A/S for vildledende markedsføring, efter at en omfattende kampagne har givet forbrugerne indtryk af, at de kun kan rejse med offentlig transport via en billet‑app, når det fysiske rejsekort lukkes. Ifølge forbrugerombudsmanden blev det ikke tydeligt oplyst, at et ikke‑digitalt alternativ fortsat ville være tilgængeligt, hvilket udgør en væsentlig udeladelse i markedsføringen.\n\nKampagnen blev udbredt på sociale medier, på reklameskilte på stationer, på informationsskærme i busser og tog samt på hætter, der dækkede tjek‑ind‑standere fra oktober 2025. Eksempler på vildledende udsagn omfatter videoen “Dit fysiske kort lukker – Hent Rejsekort‑appen”, som kun afslørede den fortsatte mulighed for et fysisk kort, når brugeren klikkede “se mere”. Lignende budskaber blev brugt på Facebook‑sider for Nordjyllands Trafikselskab, Fynbus, Midttrafik, Sydtrafik og DSB, samt i metro‑ og letbaneposter, hvor der kun stod, at både kortet og DOT‑appen lukkede, uden at nævne et fysisk alternativ.\n\nForbrugerombudsmand Torben Jensen udtaler, at kampagnen “giver nogle oplysninger, men udelader andre væsentlige oplysninger – for at påvirke en bestemt adfærd hos forbrugeren”. Han påpeger, at offentlig transport er en grundlæggende service, som mange ikke kan eller vil benytte via en app, og at manglende information om et fysisk alternativ gør det umuligt for forbrugerne at træffe et informeret valg.\n\nOver 35 forbrugerklager er indgivet, og lovgivningen understøtter anmeldelsen: Markedsføringslovens §§ 5 og 6 forbyder både urigtige oplysninger og vildledende udeladelser, herunder skjulte væsentlige oplysninger. Rejsekort & Rejseplan har meddelt, at de ikke anser deres markedsføring for vildledende, men sagen vil nu blive behandlet af politiet.",
+  "prompt_tokens": 1970,
+  "completion_tokens": 541,
+  "latency_ms": 2146,
+  "cost_usd": 0.0006201,
+  "created": "2026-11-10T05:38:23.670043Z",
+  "error": null
+}

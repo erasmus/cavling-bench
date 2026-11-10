@@ -1,0 +1,21 @@
+{
+  "model_id": "nebius-gpt-oss-120b",
+  "pinned_version": "openai/gpt-oss-120b",
+  "task_id": "t2_rubrik",
+  "source_id": "jm-2026-nyt-ledelseshold-politi",
+  "archetype": "lynposten",
+  "prompt_sha256": "3561e9368d255244bc91c2a7cc5cd1774d704db1c5342e1fd85363de10c45acc",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 1900,
+    "reasoning_effort": "low"
+  },
+  "text": "RUBRIK: Nyt ledelseshold udnævnt til politi og anklagemyndighed  \nUNDERRUBRIK: Justitsminister Nicolai Wammen præsenterer Lasse Boje Nielsen som ny rigspolitichef og en række nye politidirektører og rigsadvokater.",
+  "prompt_tokens": 1759,
+  "completion_tokens": 186,
+  "latency_ms": 1003,
+  "cost_usd": 0.00037544999999999994,
+  "created": "2026-11-10T05:38:07.191048Z",
+  "error": null
+}

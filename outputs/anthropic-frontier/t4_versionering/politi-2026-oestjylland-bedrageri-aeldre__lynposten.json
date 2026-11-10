@@ -1,0 +1,21 @@
+{
+  "model_id": "anthropic-frontier",
+  "pinned_version": "claude-fable-5-1",
+  "task_id": "t4_versionering",
+  "source_id": "politi-2026-oestjylland-bedrageri-aeldre",
+  "archetype": "lynposten",
+  "prompt_sha256": "b2394ef0c73ea31cbba57f3354a71bfb4efe815a3b287dd360174d280a6204a0",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 4025,
+    "reasoning_effort": "low"
+  },
+  "text": "En 32-årig mand fra Tilst skal halvandet år i fængsel. Han har svindlet 48 ældre borgere for 270.000 kroner. Det afgjorde Retten i Aarhus i dag.\n\nManden udgav sig for at være fra ofrenes bank. I de fleste tilfælde var han bankbud. Han kørte ud til de ældre og hentede deres kort og koder. Bagefter hævede han kontanter på kortene. Svindlen skete sammen med flere medgerningsmænd. Kun i få tilfælde ringede han selv ud til ofrene.\n\nHan erkendte sig delvist skyldig i de 48 forhold. Han tilstod også at have forsøgt at svindle omkring 150 andre borgere over telefonen.\n\n\"Bankbudsbedragerier er noget, som myndighederne ser på med stor alvor, da ofrene oftest er enten ældre, svage eller øvrigt udsatte borgere,\" siger anklager Jakob Christensen fra Anklagemyndigheden ved Østjyllands Politi. Han er tilfreds med dommen.\n\nAnklageren ser også et lyspunkt i de mange forsøg. Han mener, at det tyder på, at mange nu lægger røret på, når en ukendt person ringer og siger, at de er fra banken.\n\nManden blev anholdt den 28. januar i Højbjerg. Østjyllands Politi havde fået en anmeldelse om bankbudsbedrageri mod ældre, blandt andet en kvinde i det centrale Aarhus. Hun fik hævet 15.000 kroner, efter hun havde udleveret hævekort og personlige oplysninger til en mand, hun troede kom fra banken.\n\nPolitiet havde identificeret bilen, han kom kørende i. Han havde flere værdigenstande og nogle tusinde kroner i kontanter på sig. Pengene formodes at stamme fra svindel.\n\nDen 18. februar anholdt politiet fem medgerningsmænd. Enkelte af dem er allerede dømt. Efterforskningen fortsætter.\n\nDen 32-årige skal også betale erstatning til ofrene. Han har siddet varetægtsfængslet siden januar og forbliver fængslet frem til afsoning. Han modtog dommen, men kærede kendelsen om fortsat varetægtsfængsling til landsretten.",
+  "prompt_tokens": 2561,
+  "completion_tokens": 810,
+  "latency_ms": 10640,
+  "cost_usd": 0.06611,
+  "created": "2026-11-10T07:24:38.574791Z",
+  "error": null
+}

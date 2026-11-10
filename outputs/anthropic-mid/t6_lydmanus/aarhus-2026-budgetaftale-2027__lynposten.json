@@ -1,0 +1,21 @@
+{
+  "model_id": "anthropic-mid",
+  "pinned_version": "claude-sonnet-5-5",
+  "task_id": "t6_lydmanus",
+  "source_id": "aarhus-2026-budgetaftale-2027",
+  "archetype": "lynposten",
+  "prompt_sha256": "f3b551c5ce948c535931f9a097b664efc7f5caab24cdf594bb28eff7deba1664",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 3620,
+    "reasoning_effort": "low"
+  },
+  "text": "Hundrede og treogtredive millioner kroner. Nej, ret: otteoghalvfems... \n\nAarhus Byråd er enigt om budgettet. Aftalen blev indgået torsdag den syttende september og gælder de kommende fire år. Alle byrådets partier står bag.\n\nSocialområdet får et årligt løft på i alt hundrede og otteogtredive millioner kroner. Pengene skal holde hånden under de mest udsatte borgere.\n\nPartierne har prioriteret hundrede og syvoghalvfems millioner kroner årligt til drift. Dertil kommer otte hundrede og ti millioner kroner til anlæg. Pengene skal give bedre fremkommelighed for busser, cyklister og andre trafikanter.\n\nDer kommer flere fagprofessionelle i folkeskolen og bedre og billigere kollektiv trafik. Kommuneskatten holdes i ro.\n\nBorgmester Anders Winnerskjold siger: \"Et godt budget skal kunne mærkes i aarhusianernes hverdag.\"",
+  "prompt_tokens": 2287,
+  "completion_tokens": 362,
+  "latency_ms": 4229,
+  "cost_usd": 0.008194,
+  "created": "2026-11-10T05:24:03.234506Z",
+  "error": null
+}

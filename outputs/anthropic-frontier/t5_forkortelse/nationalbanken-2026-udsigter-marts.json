@@ -1,0 +1,21 @@
+{
+  "model_id": "anthropic-frontier",
+  "pinned_version": "claude-fable-5-1",
+  "task_id": "t5_forkortelse",
+  "source_id": "nationalbanken-2026-udsigter-marts",
+  "archetype": null,
+  "prompt_sha256": "26c9697f4a3da91108af378dabe74e9ae733e3a41f2d3229e36e135f91b9d341",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 3860,
+    "reasoning_effort": "low"
+  },
+  "text": "Udsigterne for dansk og global økonomi er præget af geopolitisk usikkerhed, handelskonflikter og stigende energipriser, men dansk økonomi er grundlæggende i god balance med høj beskæftigelse og lav ledighed, vurderer Nationalbanken i sin prognose, der er offentliggjort i dag.\n\nInflationen ventes lav de kommende år, men energipriserne som følge af krigen i Mellemøsten udgør en betydelig risiko. ”Trods de nuværende stigninger i energipriserne forventer vi ikke, at vi ser ind i en inflationskrise, som den vi oplevede efter Ruslands invasion af Ukraine,” siger nationalbankdirektør Christian Kettel Thomsen.\n\nNationalbanken forventer en inflation på 1,8 pct. i år, 2,0 pct. i 2027 og 1,9 pct. i 2028. I et risikoscenarie, hvor olie- og gasforsyningen fra Den Persiske Golf begrænses, og priserne ligger betydeligt og langvarigt over de nuværende, kan inflationen i år ende på 4,5 pct.\n\nNationalbanken har to anbefalinger til finanspolitikken. Da der kun er begrænset ledig kapacitet, bør den nye regering i finansloven for 2027 ikke øge efterspørgslen ud over den tidligere regerings 2035-plan. Desuden betyder det permanente løft af forsvarsudgifterne med 75 mia. kr. i forhold til før Ruslands invasion af Ukraine, at rummet for yderligere prioriteringer er væsentligt mindre, og råderummet kan ændre sig med nye skøn. Regeringen bør derfor udvise forsigtighed med at udmønte hele råderummet eller øge det gennem svækkelser af den strukturelle saldo.\n\nBNP ventes at vokse 1,8 pct. i år og næste år og 2 pct. i 2028. Kerneinflationen vurderes til 2,2 pct. i 2026, 2,1 pct. i 2027 og 1,7 pct. i 2028. Nationalbanken har torsdag også udgivet analyser om privatforbruget og om monetære og finansielle tendenser på www.nationalbanken.dk.",
+  "prompt_tokens": 1467,
+  "completion_tokens": 790,
+  "latency_ms": 7666,
+  "cost_usd": 0.05417,
+  "created": "2026-11-10T07:26:14.718108Z",
+  "error": null
+}

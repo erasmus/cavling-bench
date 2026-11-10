@@ -1,0 +1,21 @@
+{
+  "model_id": "nebius-qwen3-235b",
+  "pinned_version": "Qwen/Qwen3-235B-A22B-Instruct-2507",
+  "task_id": "t4_versionering",
+  "source_id": "nationalbanken-2026-digitale-betalinger-beredskab",
+  "archetype": "landsavisen",
+  "prompt_sha256": "d12b3da773f51b25f9a03035ae8c7d04c1968d9d5247580e03008f6660d58890",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 1025,
+    "reasoning_effort": null
+  },
+  "text": "Mere end 90 procent af alle betalinger i Danmark foregår digitalt, viser to nye analyser fra Danmarks Nationalbank. Analyserne, der undersøger danskeres brug af kontanter og mobile betalinger, peger på en stadig stigende afhængighed af digitale løsninger – og samtidig en styrket opfattelse af kontanter som betalingsberedskab.\n\nI fysisk handel blev kontanter brugt til 9 procent af betalingerne i 2025, ned fra 11 procent i 2023 og 23 procent i 2017. Wallet-betalinger som Apple Pay og Google Pay udgør nu hver tredje betaling i butikker. Samtidig har andelen af borgere med mere end 1.000 kroner i kontanter stiget fra 33 procent i 2023 til 41 procent i 2025. Syv ud af ti, der har kontanter, betragter dem som et beredskab, hvis digitale betalinger fejler.\n\nNationalbankdirektør Ulrik Nødgaard understreger, at trods en generelt stabil betalingsinfrastruktur har der været to nedbrud hos Nets – i juli 2025 og maj 2026 – hvor digitale betalinger delvist var nede. \"Offline-kortberedskabet sørgede for, at mange kunder i dagligvarehandlen ikke mærkede nedbruddet i maj 2026,\" siger han og tilføjer, at flere butikker bør forberede sig ved at modtage offline-kortbetalinger.\n\nNationalbanken, detailhandlen og Betalingsrådet har sammen etableret et offline-kortberedskab, der gør det muligt at betale med kort og mobilwallets i op til syv dage uden internet. Borgere anbefales at have to fysiske betalingskort, et mindre kontantbeløb og adgang til straksbetalinger som MobilePay. Detailhandlen opfordres til at have konkrete beredskabsplaner og modtage flere betalingsformer.",
+  "prompt_tokens": 2066,
+  "completion_tokens": 525,
+  "latency_ms": 6892,
+  "cost_usd": 0.0007282,
+  "created": "2026-11-10T05:42:28.412085Z",
+  "error": null
+}

@@ -1,0 +1,21 @@
+{
+  "model_id": "nebius-qwen3-235b",
+  "pinned_version": "Qwen/Qwen3-235B-A22B-Instruct-2507",
+  "task_id": "t5_forkortelse",
+  "source_id": "datatilsynet-2026-faaborg-midtfyn-ai-aeldrepleje",
+  "archetype": null,
+  "prompt_sha256": "4d9285fe8200304204c490d24445a27268b2af3b677e6dbb06533734a6351c1f",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 860,
+    "reasoning_effort": null
+  },
+  "text": "Datatilsynet har kritiseret Faaborg-Midtfyn Kommune for brug af et AI-baseret monitoreringssystem på et plejehjem, efter at tilsynet i januar 2026 indledte sagen af egen drift. Kommunen havde brugt systemet over for 18 beboere i en seksmåneders prøveperiode med formål om at øge tryghed, forebygge fald og støtte personalet. Systemet anvender en sensorenhed med AI og kamerateknologi til at analysere bevægelsesmønstre, søvnkvalitet, uro og vejrtrækning. Kameraet aktiveres ifølge kommunen kun i korte sekvenser ved mistanke om fald. Risikovurderingen var utilstrækkelig, da den kun indeholdt generelle trusler, alle vurderet til lav risiko uden nærmere begrundelse. Datatilsynet konkluderer, at kommunen ikke har sikret et tilstrækkeligt sikkerhedsniveau i forhold til risiciene. Kommunen burde have gennemført en konsekvensanalyse før brug, især givet anvendelsen af ny teknologi og behandling af følsomme oplysninger om sårbare borgere. Prøveperiodens varighed ændrer ikke på pligten til at overholde databeskyttelsesregler. Kommunen henviste til generelle bestemmelser i serviceloven og ældreloven som retsgrundlag, men Datatilsynet vurderer, at disse alene ikke dækker behandlingen. I stedet peger tilsynet på regler om tryghedsskabende velfærdsteknologi, som særligt gælder for personer med svær psykisk nedsættelse, herunder demens, og som indeholder betingelser for AI-brug. Disse regler var ikke inddraget. Datatilsynet understreger, at kommuner før brug af ny teknologi skal foretage fuldstændige vurderinger, herunder konkrete risikovurderinger og konsekvensanalyser, hvor krævet.",
+  "prompt_tokens": 1280,
+  "completion_tokens": 529,
+  "latency_ms": 52229,
+  "cost_usd": 0.0005734,
+  "created": "2026-11-10T05:44:08.300119Z",
+  "error": null
+}

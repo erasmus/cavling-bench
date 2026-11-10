@@ -1,0 +1,21 @@
+{
+  "model_id": "nebius-gpt-oss-120b",
+  "pinned_version": "openai/gpt-oss-120b",
+  "task_id": "t6_lydmanus",
+  "source_id": "skim-2026-sommeraftale-sundhedsreform",
+  "archetype": "lynposten",
+  "prompt_sha256": "fee60da27a08235220b482fa68a05cc116b9be8236d1b6671da2cf89334cb4c9",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 2120,
+    "reasoning_effort": "low"
+  },
+  "text": "Tretten millioner borgere får et sundhedsvæsen, der hænger bedre sammen, efter at regeringen, Danske Regioner og KL i dag har indgået en sommeraftale om implementeringen af sundhedsreformen. Aftalen omsætter centrale initiativer til konkrete forbedringer, som patienter gradvist vil mærke fra to‑og‑tyve syv. De første kronikerpakker til personer med KOL og kroniske lænderygsmerter træder i kraft fra to‑og‑tyve syv, med ret til behandlingsplan og opstart på forebyggelsestilbud inden for en‑og‑tyve dage efter lægehenvisning. Ordningen med ni‑og‑halvfems timers behandlingsansvar udvides, så ældre medicinske patienter og visse psykiatriske patienter får tryghed i ni‑og‑halvfems timer efter udskrivelse. Samtidig får de nye sundheds‑ og omsorgspladser et kvalitetsløft, og der afsættes knap otte hundrede millioner kroner i to‑og‑tyve syv, med en årlig bevilling på over en‑og‑en million fra to‑og‑tredivte. Ifølge Danmarks Statistik er målet at skabe større lighed i adgangen til sundhedstilbud på tværs af landet.",
+  "prompt_tokens": 2358,
+  "completion_tokens": 345,
+  "latency_ms": 1269,
+  "cost_usd": 0.0005607,
+  "created": "2026-11-10T05:38:46.056282Z",
+  "error": null
+}

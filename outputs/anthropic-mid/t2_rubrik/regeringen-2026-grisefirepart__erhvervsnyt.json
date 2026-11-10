@@ -1,0 +1,21 @@
+{
+  "model_id": "anthropic-mid",
+  "pinned_version": "claude-sonnet-5-5",
+  "task_id": "t2_rubrik",
+  "source_id": "regeringen-2026-grisefirepart",
+  "archetype": "erhvervsnyt",
+  "prompt_sha256": "d9e0a4430b63bcc1ce1a44cfebb0d72becba1ae26b297ff3a922f67b46e5fb99",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 3400,
+    "reasoning_effort": "low"
+  },
+  "text": "RUBRIK: Regeringen samler seks parter om fremtidens griseproduktion\nUNDERRUBRIK: Firepart skal efter nytår finde løsninger på dyrevelfærd, antibiotikaforbrug og mere forædling i Danmark. Slagtninger er faldet med en tredjedel på 15 år.",
+  "prompt_tokens": 2353,
+  "completion_tokens": 116,
+  "latency_ms": 2344,
+  "cost_usd": 0.005866,
+  "created": "2026-11-10T07:15:34.588640Z",
+  "error": null
+}

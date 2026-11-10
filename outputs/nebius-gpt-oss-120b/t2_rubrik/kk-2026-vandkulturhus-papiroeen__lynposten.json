@@ -1,0 +1,21 @@
+{
+  "model_id": "nebius-gpt-oss-120b",
+  "pinned_version": "openai/gpt-oss-120b",
+  "task_id": "t2_rubrik",
+  "source_id": "kk-2026-vandkulturhus-papiroeen",
+  "archetype": "lynposten",
+  "prompt_sha256": "393658bd49f57d1ad714ab0312e9916ee830b6d3baac64fe615b793a07e4b882",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 1900,
+    "reasoning_effort": "low"
+  },
+  "text": "RUBRIK: KAI åbner 5. december: Nyt vandkulturhus på Papirøen  \nUNDERRUBRIK: Det 5.800 m² store hus byder på 10 bassiner indendørs og udendørs, er designet af Kengo Kuma & Associates og er finansieret af Nordea‑fonden med 546 mio. kr.",
+  "prompt_tokens": 2355,
+  "completion_tokens": 408,
+  "latency_ms": 1279,
+  "cost_usd": 0.0005980499999999999,
+  "created": "2026-11-10T05:38:08.471123Z",
+  "error": null
+}

@@ -1,0 +1,21 @@
+{
+  "model_id": "anthropic-frontier",
+  "pinned_version": "claude-fable-5-1",
+  "task_id": "t6_lydmanus",
+  "source_id": "dst-2026-offentligt-overskud-2025",
+  "archetype": "lynposten",
+  "prompt_sha256": "a04e485b1a35f35e3351b6e936b0b39a4bff5749ddf7502631a68e0d9cb19285",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 3620,
+    "reasoning_effort": "low"
+  },
+  "text": "Overskuddet på de offentlige finanser landede på halvfems komma ni milliarder kroner i 2025. Det viser nye tal fra Danmarks Statistik. Året før var overskuddet på et hundrede treogtyve komma fem milliarder kroner. Overskuddet er altså skrumpet.\n\nUdgifterne steg med femogfirs milliarder kroner. Indtægterne steg kun med tooghalvtreds komma fire milliarder kroner. Pensionsafkastskatten gav syvogfyrre milliarder kroner. Det er lidt mere end året før. Personskatter og selskabsskatter steg også.\n\nPengene gik især til socialområdet, sundhedsområdet og forsvaret. Social beskyttelse er den største post med enogfyrre procent af udgifterne. Sundhedsvæsenet står for sytten procent. Forsvaret udgør nu fem procent. Den andel er steget de seneste år.\n\nUdgifterne til sociale ydelser steg med atten komma otte milliarder kroner. Alene pensionerne steg med elleve komma otte milliarder kroner. Ifølge Danmarks Statistik skyldes det flere pensionister og højere satser.",
+  "prompt_tokens": 1973,
+  "completion_tokens": 412,
+  "latency_ms": 5948,
+  "cost_usd": 0.04033,
+  "created": "2026-11-10T07:27:12.605590Z",
+  "error": null
+}

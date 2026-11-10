@@ -1,0 +1,21 @@
+{
+  "model_id": "anthropic-mid",
+  "pinned_version": "claude-sonnet-5-5",
+  "task_id": "t6_lydmanus",
+  "source_id": "regeringen-2026-kystbeskyttelse-14-9-mia",
+  "archetype": "lynposten",
+  "prompt_sha256": "1ccedf05cfdd5caacbaa2d3482472341397a21e4d36219b9ee85b12d0a2a885c",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 3620,
+    "reasoning_effort": "low"
+  },
+  "text": "Fjorten komma ni milliarder kroner skal sikre Danmarks kyster. Det har regeringen besluttet i Klimatilpasningsplan to. Pengene går til kystbeskyttelse i kommunerne.\n\nOp mod hundrede tusinde husstande og virksomheder risikerer oversvømmelse fra havet. Der er hundrede og femoghalvfjerds tusind arbejdspladser langs kysten. Stormfloder, der i dag kommer en gang hvert hundrede år, kommer i år 2100 hvert tredje år.\n\nStaten betaler femogfirs procent af anlægsudgifterne. Kommunerne betaler femten procent. Samlet giver det mulighed for investeringer på op mod tyve milliarder kroner frem mod 2040.\n\nMiljøminister Magnus Heunicke siger: \"Det bliver nu et fælles ansvar at beskytte Danmark mod stormfloderne.\"\n\nEn ekspertgruppe skal se på, hvad lodsejerne skal bidrage med. Miljøministeren indkalder nu Folketingets partier til forhandlinger.",
+  "prompt_tokens": 2586,
+  "completion_tokens": 383,
+  "latency_ms": 3642,
+  "cost_usd": 0.009002,
+  "created": "2026-11-10T07:18:43.512268Z",
+  "error": null
+}

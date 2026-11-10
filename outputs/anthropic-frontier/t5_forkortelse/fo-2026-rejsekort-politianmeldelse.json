@@ -1,0 +1,21 @@
+{
+  "model_id": "anthropic-frontier",
+  "pinned_version": "claude-fable-5-1",
+  "task_id": "t5_forkortelse",
+  "source_id": "fo-2026-rejsekort-politianmeldelse",
+  "archetype": null,
+  "prompt_sha256": "58a3fa895aa68917ef89169643d13d5252e3ec7aae2fad5a7ea64fb7ee1a405c",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 3860,
+    "reasoning_effort": "low"
+  },
+  "text": "Forbrugerombudsmanden politianmelder Rejsekort & Rejseplan A/S for vildledende markedsføring. Virksomheden har ifølge Forbrugerombudsmanden givet forbrugerne indtryk af, at de skulle bruge en billet-app, når det fysiske rejsekort lukkede, uden klart at oplyse, at der stadig ville være et ikke-digitalt alternativ.\n\nDet ses som en skærpende omstændighed, at kampagnen var så omfattende og vedrørte betaling for offentlig transport. Kampagnen blev ført på sociale medier, reklameskilte på stationer og informationsskærme i busser og tog, ligesom tjek ind-standere blev dækket med hætter.\n\nI politianmeldelsen fremhæves blandt andet en video med teksten \"Dit fysiske kort lukker - Hent Rejsekort-appen\" på Facebook-siden Nordjyllands Trafikselskab og i en bus, en video med teksten \"Har du sagt farvel til dit Rejsekort? Skift til appen\" på Facebook-siderne Fynbus og Midttrafik samt YouTube-kanalen Sydtrafik, hætter på tjek ind-standere fra oktober 2025 – også vist på DSB's Facebook-side – opslag i metroen med teksten \"RIP fysisk Rejsekort og DOT-app\" samt reklameskilte med teksten \"Det fysiske Rejsekort checker snart ud\". I flere Facebook-opslag fremgik oplysningen om alternativet kun ved tryk på \"se mere\".\n\nForbrugerombudsmanden har modtaget over 35 klager. Rejsekort & Rejseplan mener ikke, markedsføringen er vildledende.\n\nForbrugerombudsmand Torben Jensen kalder kampagnen et klart eksempel på vildledning, hvor væsentlige oplysninger udelades. Anmeldelsen bygger på markedsføringslovens paragraf 5, stk. 1, og paragraf 6, stk. 1.",
+  "prompt_tokens": 2607,
+  "completion_tokens": 707,
+  "latency_ms": 7194,
+  "cost_usd": 0.06142,
+  "created": "2026-11-10T07:25:46.150314Z",
+  "error": null
+}

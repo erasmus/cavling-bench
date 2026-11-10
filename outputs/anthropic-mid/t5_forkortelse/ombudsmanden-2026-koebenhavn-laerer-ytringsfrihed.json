@@ -1,0 +1,21 @@
+{
+  "model_id": "anthropic-mid",
+  "pinned_version": "claude-sonnet-5-5",
+  "task_id": "t5_forkortelse",
+  "source_id": "ombudsmanden-2026-koebenhavn-laerer-ytringsfrihed",
+  "archetype": null,
+  "prompt_sha256": "5699dc7c7a7f391dfed46443bc18c4da0374f3d0be8cc7468ad4ff7a072be783",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 3860,
+    "reasoning_effort": "low"
+  },
+  "text": "Københavns Kommune indkaldte en folkeskolelærer til en tilrettevisningssamtale, efter at hun havde givet interview til en avisartikel med overskriften ”Lærer fik hjernerystelse og blå mærker efter slag: ’Som at være i en krigszone’”. Interviewet handlede om voldelig elevadfærd på hendes tidligere skole og om hendes perspektiver på elevers adfærdsproblemer. Under samtalen blev hun bl.a. opfordret til at holde lav profil over for pressen. Kommunen har kaldt opfordringen yderst beklagelig, og det er ombudsmanden enig i.\n\nOmbudsmanden konkluderer, at håndteringen ikke skete med respekt for hendes ytringsfrihed. Folketingets Ombudsmand, Christian Britten Lundblad, siger, at udtalelserne klart fremstår som fremsat på egne vegne og ligger i kerneområdet for offentligt ansattes ytringsfrihed.\n\nKommunen har forklaret, at samtalen skyldtes et pressefoto, hun ikke havde indhentet tilladelse til at få taget, og ikke hendes udtalelser. Ombudsmanden mener alligevel, at forløbet berettiget kunne opfattes som en negativ ledelsesreaktion på udtalelserne. Kommunen har heller ikke sikret, at hun fik samlet og korrekt information om sin situation og sin ret til at udtale sig. Hun orienterede desuden på forhånd skolelederen, som efter det oplyste ikke spurgte til eller vejledte om fotooptagelse.\n\nOmbudsmanden har henstillet, at kommunen genoptager sagen, og bedt om besked inden tre måneder. Pressemedarbejderes efterfølgende kontakt til flere medier om udtalelserne var meget uheldig.\n\nFakta: Offentligt ansatte kan på egne vegne deltage i debatten uden krav om tilladelse eller orientering af ledelsen og må ikke mødes med negative ansættelsesretlige reaktioner. På myndighedens vegne kan ledelsen bestemme, hvem der udtaler sig. Reglerne er lovfæstet ved lov nr. 557 af 27. maj 2025 med virkning fra 1. juli 2025.",
+  "prompt_tokens": 2301,
+  "completion_tokens": 805,
+  "latency_ms": 5107,
+  "cost_usd": 0.012652,
+  "created": "2026-11-10T07:18:04.565862Z",
+  "error": null
+}

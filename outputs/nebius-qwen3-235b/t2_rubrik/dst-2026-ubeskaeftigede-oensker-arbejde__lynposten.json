@@ -1,0 +1,21 @@
+{
+  "model_id": "nebius-qwen3-235b",
+  "pinned_version": "Qwen/Qwen3-235B-A22B-Instruct-2507",
+  "task_id": "t2_rubrik",
+  "source_id": "dst-2026-ubeskaeftigede-oensker-arbejde",
+  "archetype": "lynposten",
+  "prompt_sha256": "482ed29d7f861d8d1938059701c67013c735f0bad0927aded6ad2dcd6907793c",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 400,
+    "reasoning_effort": null
+  },
+  "text": "RUBRIK: 470.000 ubeskæftigede søger arbejde  \nUNDERRUBRIK: Siden 2024 er tallet steget med 85.000. To tredjedele af dem, der søger job, er mellem 25 og 34 år.",
+  "prompt_tokens": 2004,
+  "completion_tokens": 77,
+  "latency_ms": 4040,
+  "cost_usd": 0.000447,
+  "created": "2026-11-10T05:39:36.607816Z",
+  "error": null
+}

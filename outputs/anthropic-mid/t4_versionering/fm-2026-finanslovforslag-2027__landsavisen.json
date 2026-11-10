@@ -1,0 +1,21 @@
+{
+  "model_id": "anthropic-mid",
+  "pinned_version": "claude-sonnet-5-5",
+  "task_id": "t4_versionering",
+  "source_id": "fm-2026-finanslovforslag-2027",
+  "archetype": "landsavisen",
+  "prompt_sha256": "161ccd2cc7292422e90b3f7d51f7181e25f5b1e295944fbf5f7b9c4458ebcb5b",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 4025,
+    "reasoning_effort": "low"
+  },
+  "text": "Regeringen har i dag fremlagt sit forslag til finanslov for 2027. Forslaget skal ifølge regeringen give mere tryghed og sikkerhed, løfte velfærden og sætte gang i den grønne omstilling. Regeringen begrunder det blandt andet med, at der er krig på det europæiske kontinent, og at Rusland fortsat er en trussel mod Danmarks sikkerhed.\n\nPå forsvarsområdet afsætter regeringen midler til at løfte udgifterne til 3,5 procent af BNP i 2030. Til folkeskolen og dagtilbud går 1,2 mia. kr. i 2027 og 1,1 mia. kr. årligt i 2028-2030.\n\nSom første skridt mod vederlagsfri tandpleje for hele befolkningen i 2035 afsættes 0,6 mia. kr. i 2027 og 0,9 mia. kr. årligt fra 2028 til førtidspensionister og udsatte grupper. De folkepensionister, der har mindst, får et permanent løft i den månedlige ydelse på godt 1.600 kr., svarende til 1.000 kr. om måneden efter skat.\n\nTil elektrificering og omstilling væk fra fossile brændsler afsætter regeringen 650 mio. kr. i 2027 og 850 mio. kr. årligt i 2028-2030. Til kollektiv transport går 800 mio. kr. i 2027 og 1.000 mio. kr. i helårsniveau, så indfasningen af gratis kollektiv transport for unge under 22 år kan begynde.\n\nØkonomi- og indenrigsminister Pia Olsen Dyhr peger på, at 900 mio. kr. går til folkeskolen, og at indsatsen målrettes de 100 skoler, hvor udfordringerne er størst. Der afsættes også penge til videreuddannelse af pædagoger og pædagogiske assistenter. Frem mod 2030 styrkes desuden demensområdet.\n\nSkatte- og vækstminister Jakob Engel-Schmidt fremhæver skattelettelser og siger: ”Sygeplejersken, ingeniøren og VVS’eren skal ikke straffes med en mellemskat for at tage en ekstra vagt eller blive et par timer ekstra.”\n\nFinansminister Peter Hummelgaard siger: ”Vi er en regering af stædige optimister, der tror på, at i morgen skal være bedre end i dag.”",
+  "prompt_tokens": 3018,
+  "completion_tokens": 847,
+  "latency_ms": 5469,
+  "cost_usd": 0.014506,
+  "created": "2026-11-10T07:16:30.329742Z",
+  "error": null
+}

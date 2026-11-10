@@ -1,0 +1,21 @@
+{
+  "model_id": "nebius-gpt-oss-120b",
+  "pinned_version": "openai/gpt-oss-120b",
+  "task_id": "t6_lydmanus",
+  "source_id": "jm-2026-nyt-ledelseshold-politi",
+  "archetype": "lynposten",
+  "prompt_sha256": "b45acacc6bb5f4c0b564bd64f574e0c109d3a8df69f8c02a1a21447d9e27a74a",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 2120,
+    "reasoning_effort": "low"
+  },
+  "text": "Tretti chefer i Danmark får nye ledere. Ifølge Danmarks Statistik er der nu udnævnt et helt nyt hold til politiet og anklagemyndighed. Justitsminister Nicolai Wammen siger, at de nye udnævnelser vil lede frem mod tolv årti. Lasse Boje Nielsen overtager som rigspolitichef efter at Thorkild Fogde skifter til politidirektør i Københavns Vestegns Politi. Rasmus Kieffer‑Kristensen bliver chef for Politiets Efterretningstjeneste. Finn Borch Andersen får posten som politidirektør i Københavns Politi. Steen Bechmann Jacobsen udnævnes til politidirektør i National enhed for Særlig Kriminalitet. Frits Villy Kjeldsen leder Østjyllands Politi. Lene Frank får ledelsen af Syd‑ og Sønderjyllands Politi. Henriette Rosenborg Larsen roker til Sydsjællands‑ og Lolland‑Falsters Politi. Brian Sølvberg Fussing bliver politidirektør i Sydøstjyllands Politi. Lars Kirkegaard får Fyns Politi. Andreas Langsted leder Midt‑ og Vestsjællands Politi. Anne Marie Roum Svendsen genudnævnes i Nordjyllands Politi. Bjørn Tegner Bay får Grønlands Politi. Helle Kyndesen leder Midt‑ og Vestjyllands Politi. Martin Preisz Gravesen får Bornholms Politi. Marie Bindslev udnævnes som statsadvokat i København. Jens‑Christian Bülow genudnævnes som statsadvokat for Særlig Kriminalitet. Alt sammen skal sikre, at myndighederne leverer på de store forventninger.",
+  "prompt_tokens": 1779,
+  "completion_tokens": 426,
+  "latency_ms": 1564,
+  "cost_usd": 0.0005224499999999999,
+  "created": "2026-11-10T05:38:43.330420Z",
+  "error": null
+}

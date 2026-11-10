@@ -1,0 +1,21 @@
+{
+  "model_id": "anthropic-mid",
+  "pinned_version": "claude-sonnet-5-5",
+  "task_id": "t2_rubrik",
+  "source_id": "rigsrevisionen-2026-beretning-pesticider",
+  "archetype": "erhvervsnyt",
+  "prompt_sha256": "21deba0f10a3a26db66fce9657bc6adb8e13d73aee97b4197fb5b6921f4165a2",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 3400,
+    "reasoning_effort": "low"
+  },
+  "text": "RUBRIK: Statsrevisorer: Pesticidkontrol hviler på selvangivelser\nUNDERRUBRIK: 7.800 tons glyfosat købt siden 2011 er ikke indberettet som brugt. Statsrevisorerne kalder Miljøministeriets kontrol \"helt utilstrækkelig\" og stærkt foruroligende.",
+  "prompt_tokens": 2884,
+  "completion_tokens": 129,
+  "latency_ms": 1778,
+  "cost_usd": 0.007058,
+  "created": "2026-11-10T05:23:40.514740Z",
+  "error": null
+}

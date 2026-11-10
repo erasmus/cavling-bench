@@ -1,0 +1,21 @@
+{
+  "model_id": "nebius-gpt-oss-120b",
+  "pinned_version": "openai/gpt-oss-120b",
+  "task_id": "t4_versionering",
+  "source_id": "dst-2026-ledighed-september",
+  "archetype": "landsavisen",
+  "prompt_sha256": "088d510bbf852e9501babc49f58cb8acb195edc1799795cc14d782d997362f11",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 2525,
+    "reasoning_effort": "low"
+  },
+  "text": "Ledigheden faldt i september, hvilket afspejler en fortsat svagning af den samlede arbejdsløshed efter to år med højere tal. Fra august til september faldt antallet af fuldtidsledige med 200 personer til 93 600, mens ledighedsprocenten holdt sig stabil på 3,1 % af arbejdsstyrken. Faldet skyldes primært et fald i antallet af aktiverede ledige, som gik ned med 500, mens de ikke‑aktiverede steg med 300. Alle tal er sæsonkorrigeret, omregnet til fuldtidspersoner og afrundet til hele 100.\n\nSamtidig faldt antallet af ledige på dagpenge med 100, så der i september var 78 600 fuldtidsledige på dagpenge. Antallet af ledige på kontanthjælp faldt også med 100 og lå på 15 000. På aldersgruppeniveau faldt ledighedsprocenten med 0,1 procentpoint for de 30‑39‑årige, mens den steg med 0,1 procentpoint for de 25‑29‑årige. For begge køn og de øvrige aldersgrupper forblev procenttallet uændret på 3,1 %. Den laveste ledighedsprocent blev fortsat registreret for 16‑24‑årige (1,6 %) og den højeste for 25‑29‑årige (5,0 %).\n\nGeografisk faldt ledighedsprocenten med 0,1 procentpoint i Københavns omegn og i Vestjylland, mens den steg med 0,1 procentpoint i Byen København og på Bornholm. Vestjylland havde i september den laveste ledighedsprocent i landet på 2,1 %, mens Byen København fortsat lå øverst med 4,0 %. Revisioner af de seneste sæsonkorrigerede tal viser, at juni, juli og august er blevet nedjusteret med 100, hvilket skyldes opdateringer af de faktiske indberettede tal og den løbende sæsonkorrektion.",
+  "prompt_tokens": 1257,
+  "completion_tokens": 504,
+  "latency_ms": 3509,
+  "cost_usd": 0.00049095,
+  "created": "2026-11-10T05:38:21.395431Z",
+  "error": null
+}

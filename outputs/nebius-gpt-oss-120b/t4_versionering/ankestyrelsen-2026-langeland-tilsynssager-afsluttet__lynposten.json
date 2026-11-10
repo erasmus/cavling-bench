@@ -1,0 +1,21 @@
+{
+  "model_id": "nebius-gpt-oss-120b",
+  "pinned_version": "openai/gpt-oss-120b",
+  "task_id": "t4_versionering",
+  "source_id": "ankestyrelsen-2026-langeland-tilsynssager-afsluttet",
+  "archetype": "lynposten",
+  "prompt_sha256": "40292cc14c2dfd5cba61ae7f90985c9126ed2f59530a24959dc6593d6cacd0e3",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 2525,
+    "reasoning_effort": "low"
+  },
+  "text": "295 sager i Langeland Kommunes Familieafdeling er nu gennemgået, og Ankestyrelsens tilsyn lukker de to tilsynssager mod kommunen.  \n\nDen første sag fra november 2022 påpegede, at kommunen ikke havde overholdt bestemmelser i offentlighedsloven, forvaltningsloven, retssikkerhedsloven og serviceloven. Tilsynet krævede, at alle igangværende og afsluttede sager i Familieafdelingen skulle gennemgås. Kommunen udvalgte 295 relevante sager og foretog en fornyet gennemgang. I marts 2025 leverede Langeland Kommune en slutorientering, hvormed tilsynet vurderer, at sagen kan lukkes.  \n\nAnkechef Hanne Østergaard, Tilsyn og Underretning i Ankestyrelsen, udtaler: “Det er derfor vores vurdering i dag, at kommunen har fulgt op på vores udtalelse fra november 2022 og gennemført de fornødne tiltag i Familieafdelingen.”  \n\nDen anden sag fra 2024 opstod, da Taskforce på børneområdet indberettede bekymrende forhold i samarbejdet med Familieafdelingen. Taskforcen, bestående af medarbejdere fra Socialstyrelsen og Ankestyrelsen, satte sit arbejde på pause. Tilsynet afsluttede sagen i august sidste år, men lovede at følge op på kommunens tiltag.  \n\nLangeland Kommune har omorganiseret og opnormeret Familieafdelingen, hvilket ifølge kommunen giver en mere ensartet sagsbehandling. Samarbejdet med taskforcen genoptages fra maj 2026 til januar 2028 med fokus på lovmedholdelighed og socialfaglig kvalitet.  \n\nHanne Østergaard konkluderer: “Samarbejdet med taskforcen for børn og unge i udsatte positioner bliver nu genoptaget … Tilsynet foretager sig derfor ikke mere i sagen.”  \n\nTilsynet har dermed afsluttet begge sager, og Langeland Kommune kan nu fortsætte sit arbejde uden yderligere tilsynsindgreb.",
+  "prompt_tokens": 1473,
+  "completion_tokens": 486,
+  "latency_ms": 1732,
+  "cost_usd": 0.00051255,
+  "created": "2026-11-10T05:38:17.885587Z",
+  "error": null
+}

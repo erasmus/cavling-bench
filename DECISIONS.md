@@ -90,3 +90,12 @@ thinking counts against `max_tokens`. Both `anthropic-*` rows pinned at `reasoni
 `reasoning_budget_tokens: 3000`; after that 45/45 outputs on 5 sources. Three models × 5 sources
 now run end to end with both judges (Judge B 45 grounding, 45 fluency, 8 tone pairs). Spend so
 far: paid USD 1.54, Nebius credit USD 0.26.
+
+## 2026-11-10 07:30 — Nebius generators complete on all 40 sources
+`nebius-gpt-oss-120b` and `nebius-qwen3-235b`: 720/720 outputs, 0 errors. Mechanical checks and
+Judge A grounding + fluency run on everything (Judge A skipped for tone on all pairs between the two
+Nebius generators by the cross-family rule, so tone waits for Judge B). Judge B was deliberately
+held back on this pass pending the decision to move it from `anthropic-mid` (est. USD 33 paid for
+the full 25 % sample) to a DeepSeek-V4 row on Nebius credit. Spend: paid USD 1.54, credit USD 1.47.
+Gemini key is on the free tier (5 req/min) and unusable until billing is enabled or OpenRouter is
+used; OpenAI and Mistral keys do not exist yet. Owner will use Nebius GPU hours for Munin/DanskGPT.

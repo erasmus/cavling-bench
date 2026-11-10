@@ -1,0 +1,21 @@
+{
+  "model_id": "nebius-gpt-oss-120b",
+  "pinned_version": "openai/gpt-oss-120b",
+  "task_id": "t2_rubrik",
+  "source_id": "fo-2026-rejsekort-politianmeldelse",
+  "archetype": "landsavisen",
+  "prompt_sha256": "754d0aa0b11e141c1ce9f1b5c3084553305c43fb252e4bf7f2cfabe05530c196",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 1900,
+    "reasoning_effort": "low"
+  },
+  "text": "RUBRIK: Forbrugerombudsmanden politianmelder Rejsekort for vildledende kampagne  \nUNDERRUBRIK: Rejsekort & Rejseplan anklages for at skjule, at fysiske kort stadig kan bruges, efter omfattende markedsføring om app‑skifte.",
+  "prompt_tokens": 1985,
+  "completion_tokens": 97,
+  "latency_ms": 578,
+  "cost_usd": 0.00035595,
+  "created": "2026-11-10T05:38:05.782199Z",
+  "error": null
+}

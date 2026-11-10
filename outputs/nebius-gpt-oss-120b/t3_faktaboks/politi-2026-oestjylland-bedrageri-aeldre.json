@@ -1,0 +1,21 @@
+{
+  "model_id": "nebius-gpt-oss-120b",
+  "pinned_version": "openai/gpt-oss-120b",
+  "task_id": "t3_faktaboks",
+  "source_id": "politi-2026-oestjylland-bedrageri-aeldre",
+  "archetype": null,
+  "prompt_sha256": "a8debba75bc54842a85b856b7af065c1e8e27f0463a7eb1f94d1104753fcd907",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 2075,
+    "reasoning_effort": "low"
+  },
+  "text": "- Den 32‑årige mand fra Tilst blev idømt et år og seks måneders fængsel ved Retten i Aarhus.  \n- Han svindlede 48 ældre borgere for i alt 270 000 kroner.  \n- Han anerkendte også forsøg på at bedrage omkring 150 yderligere ældre borgere via telefonen.  \n- Anholdelsen fandt sted den 28. januar i Højbjerg efter en anmeldelse om svindel af 15 000 kroner.  \n- Dommen inkluderer erstatningsbetaling til de forurettede, og han forbliver varetægtsfængslet indtil afsoning.",
+  "prompt_tokens": 1436,
+  "completion_tokens": 173,
+  "latency_ms": 668,
+  "cost_usd": 0.0003192,
+  "created": "2026-11-10T05:38:16.127918Z",
+  "error": null
+}

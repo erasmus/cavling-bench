@@ -1,0 +1,21 @@
+{
+  "model_id": "nebius-qwen3-235b",
+  "pinned_version": "Qwen/Qwen3-235B-A22B-Instruct-2507",
+  "task_id": "t6_lydmanus",
+  "source_id": "kefm-2026-akutplan-elnettet-vedtaget",
+  "archetype": "lynposten",
+  "prompt_sha256": "8cbe701973998957b5312eb69277420f3f3e2f03d47b323e89c0500d77b88ae4",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 620,
+    "reasoning_effort": null
+  },
+  "text": "Et bredt flertal i Folketinget har stemt for en akutplan for elnettet. Planen træder i kraft den tolvte oktober. Nu kan Energinet og netvirksomhederne prioritere, hvem der får adgang til strømmen. Det sker, fordi der ikke er plads til alle. Først-til-mølle-princippet erstattes. Klima-, energi- og forsyningsminister Samira Nawa kalder situationen dybt alvorlig. Pladsen i elnettet er en knap ressource. Den grønne omstilling må ikke bremse. Forsyningsministeriet siger, at samfundshensyn nu vejer tungt. Datacentre kommer bagerst i køen. Danske hjem, kollektiv transport og fjernvarme kommer forrest. Venstre og Dansk Folkeparti understreger, at det er en akut løsning. Det må ikke blive den nye normal. SF og Alternativet siger, at det er et første skridt. Lovgivningen skal genbesøges i to tusen syvogtyve. Aftalen er ifølge ministeriet kun starten. Udbygning og modernisering skal følge hurtigt efter.",
+  "prompt_tokens": 3285,
+  "completion_tokens": 299,
+  "latency_ms": 32730,
+  "cost_usd": 0.0008364,
+  "created": "2026-11-10T05:45:30.844923Z",
+  "error": null
+}

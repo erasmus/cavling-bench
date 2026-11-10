@@ -1,0 +1,21 @@
+{
+  "model_id": "nebius-gpt-oss-120b",
+  "pinned_version": "openai/gpt-oss-120b",
+  "task_id": "t4_versionering",
+  "source_id": "rm-2026-kultur-sundhed-pulje-78-mio",
+  "archetype": "landsavisen",
+  "prompt_sha256": "bbf92e12ecf567c17349b2021c852662b4bc43f657bc390c854fb11f313dffc3",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 2525,
+    "reasoning_effort": "low"
+  },
+  "text": "Region Midtjylland har oprettet en ny pulje på 7,8 millioner kroner, der skal omsætte forskning om kulturens sundhedsmæssige virkning til konkrete tilbud for borgere og patienter i hele regionen. Beslutningen er et svar på den stigende erkendelse, at kulturaktiviteter kan forebygge sygdom, lindre symptomer, øge trivsel og støtte recovery, både under og efter sygdom, ifølge regionens egne undersøgelser fra de seneste ti år.\n\nPuljen skal styrke samarbejdet mellem kultur‑ og sundhedsaktører og muliggøre udvikling af løsninger, der kan anvendes i praksis. Ambitionen er at skabe stærke, bæredygtige partnerskaber mellem kulturinstitutioner, kommuner, hospitaler og andre relevante aktører i de fem sundhedsråds geografier. Formanden for Region Midtjyllands Udvalg for Regional Udvikling, Per Møller Jensen (S), udtaler: “Vi ved, at kulturen kan spille en afgørende rolle for vores sundhed og trivsel, og at de her indsatser kan være med til at styrke kvaliteten af vores sundhedsvæsen. Med puljen vil vi bygge videre på den viden og sikre, at endnu flere gode indsatser bliver udviklet og når ud til dem, der har brug for dem.”\n\nPuljen fokuserer på fire temaer: forebyggelse og trivsel blandt børn, unge og pårørende; lindring af symptomer under behandling; mestring, rehabilitering og recovery for personer med psykisk eller kronisk sygdom; samt samarbejde mellem kommuner, hospitaler og socialområdet. Kulturaktører kan ansøge i partnerskab med sundhedssektoren, med en minimumssats på 200 000 kroner og krav om mindst 25 % medfinansiering. Ansøgningsfristen er 26. august 2026, og ansøgninger behandles i november samme år. Region Midtjylland afholder både fysiske og digitale dialogmøder for at informere om kriterier og partnersøgning, henholdsvis 21. maj på Godsbanen i Aarhus og 2. juni online.",
+  "prompt_tokens": 1478,
+  "completion_tokens": 506,
+  "latency_ms": 1661,
+  "cost_usd": 0.0005252999999999999,
+  "created": "2026-11-10T05:38:32.787722Z",
+  "error": null
+}

@@ -1,0 +1,21 @@
+{
+  "model_id": "nebius-gpt-oss-120b",
+  "pinned_version": "openai/gpt-oss-120b",
+  "task_id": "t3_faktaboks",
+  "source_id": "aalborg-2025-omlaegningsplan-trepart",
+  "archetype": null,
+  "prompt_sha256": "6f35ce24f92d64e8c0c8184bff6649d199d010758aa921f48a3bd15005605b29",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 2075,
+    "reasoning_effort": "low"
+  },
+  "text": "- Aalborg Byråd vedtog omlægningsplanen på byrådsmødet den 15. december.  \n- Planen indeholder 94 projekter, herunder 77 lavbundsprojekter.  \n- Der er 13 forslag til sikring af drikkevandet i de mest sårbare indvindingsoplande.  \n- Tre større naturområder foreslås: Hals og Ulsted Rimmer, Lundby Bakker‑Gistrup‑Poulstrup, samt Halkær Bredning‑Halkær Sø.  \n- Hoveddelen af lavbunds- og kvælstofindsatsen skal være afsluttet i 2030.",
+  "prompt_tokens": 1553,
+  "completion_tokens": 171,
+  "latency_ms": 764,
+  "cost_usd": 0.00033554999999999994,
+  "created": "2026-11-10T05:38:13.330394Z",
+  "error": null
+}

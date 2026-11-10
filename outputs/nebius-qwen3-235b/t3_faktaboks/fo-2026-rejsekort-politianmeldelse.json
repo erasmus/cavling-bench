@@ -1,0 +1,21 @@
+{
+  "model_id": "nebius-qwen3-235b",
+  "pinned_version": "Qwen/Qwen3-235B-A22B-Instruct-2507",
+  "task_id": "t3_faktaboks",
+  "source_id": "fo-2026-rejsekort-politianmeldelse",
+  "archetype": null,
+  "prompt_sha256": "4a7a98699478f9ce0b3b5e89222ad6a1a52cba87e9030e1196bf9b62db95f153",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 575,
+    "reasoning_effort": null
+  },
+  "text": "- Forbrugerombudsmanden politianmelder Rejsekort & Rejseplan for vildledende markedsføring.  \n- Rejsekort & Rejseplan oplyste ikke klart, at der stadig ville være et ikke-digitalt alternativ til billet-apps.  \n- Kampagnen blev blandt andet ført på sociale medier, på stationer og i busser og tog.  \n- Hætter over tjek ind-standere med kampagnebudskaber blev sat på plads fra oktober 2025.  \n- Forbrugerombudsmanden har modtaget over 35 forbrugerklager over markedsføringen.",
+  "prompt_tokens": 1919,
+  "completion_tokens": 161,
+  "latency_ms": 4060,
+  "cost_usd": 0.00048039999999999997,
+  "created": "2026-11-10T05:40:31.448638Z",
+  "error": null
+}

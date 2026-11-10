@@ -1,0 +1,21 @@
+{
+  "model_id": "nebius-gpt-oss-120b",
+  "pinned_version": "openai/gpt-oss-120b",
+  "task_id": "t6_lydmanus",
+  "source_id": "fo-2026-rejsekort-politianmeldelse",
+  "archetype": "lynposten",
+  "prompt_sha256": "09353e7cf43f2d33d0480738fe66e7a151aa6c5033d81a56a6c3bf12639cd63d",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 2120,
+    "reasoning_effort": "low"
+  },
+  "text": "Tretten millioner danskere kan blive påvirket af en vildledende kampagne fra Rejsekort og Rejseplan. Virksomheden har i en omfattende markedsføringsindsats fået forbrugerne til at tro, at de skulle skifte til en billet‑app, når det fysiske kort lukkede. Ifølge Forbrugerombudsmanden blev der i videoer på Facebook, i bus‑ og metro‑skærme samt på stationer udeladt, at et ikke‑digitalt alternativ stadig fandtes. Over femogtredive forbrugerklager er indgivet om den vildledende information. Forbrugerombudsmand Torben Jensen siger, at kampagnen bevidst udelader væsentlige oplysninger for at presse folk ind i en app. Han understreger, at loven forbyder både urigtige oplysninger og vildledende udeladelser. Rejsekort og Rejseplan politianmeldes nu for overtrædelse af markedsføringsloven.",
+  "prompt_tokens": 2012,
+  "completion_tokens": 278,
+  "latency_ms": 1249,
+  "cost_usd": 0.0004686,
+  "created": "2026-11-10T05:38:42.327722Z",
+  "error": null
+}

@@ -1,0 +1,21 @@
+{
+  "model_id": "nebius-qwen3-235b",
+  "pinned_version": "Qwen/Qwen3-235B-A22B-Instruct-2507",
+  "task_id": "t2_rubrik",
+  "source_id": "fo-2026-rejsekort-politianmeldelse",
+  "archetype": "landsavisen",
+  "prompt_sha256": "754d0aa0b11e141c1ce9f1b5c3084553305c43fb252e4bf7f2cfabe05530c196",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 400,
+    "reasoning_effort": null
+  },
+  "text": "RUBRIK: Forbrugerombudsmanden anmelder Rejsekort & Rejseplan  \nUNDERRUBRIK: Kampagnen for vildledte forbrugere til at tro, de måtte skifte til app, når det fysiske rejsekort lukker, vurderes som vildledende efter markedsføringsloven.",
+  "prompt_tokens": 2253,
+  "completion_tokens": 85,
+  "latency_ms": 3672,
+  "cost_usd": 0.0005016,
+  "created": "2026-11-10T05:39:46.488728Z",
+  "error": null
+}

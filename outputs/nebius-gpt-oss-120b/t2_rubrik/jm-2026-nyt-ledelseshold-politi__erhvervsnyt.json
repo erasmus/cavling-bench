@@ -1,0 +1,21 @@
+{
+  "model_id": "nebius-gpt-oss-120b",
+  "pinned_version": "openai/gpt-oss-120b",
+  "task_id": "t2_rubrik",
+  "source_id": "jm-2026-nyt-ledelseshold-politi",
+  "archetype": "erhvervsnyt",
+  "prompt_sha256": "430a153eeb66849cae8acf89f5a52f6e0b5a9d85748a8f625c249850a2fe1b2d",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 1900,
+    "reasoning_effort": "low"
+  },
+  "text": "RUBRIK: Ny ledelsesrokade styrker politi og anklagemyndighed frem mod 2030  \nUNDERRUBRIK: Justitsminister Nicolai Wammen udnævner Lasse Boje Nielsen som ny rigspolitichef og fylder ledelsen med 20 nye politidirektører og statsadvokater.",
+  "prompt_tokens": 1742,
+  "completion_tokens": 274,
+  "latency_ms": 989,
+  "cost_usd": 0.00042570000000000005,
+  "created": "2026-11-10T05:38:07.331768Z",
+  "error": null
+}

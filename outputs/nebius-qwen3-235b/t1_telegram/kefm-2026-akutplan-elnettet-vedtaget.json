@@ -1,0 +1,21 @@
+{
+  "model_id": "nebius-qwen3-235b",
+  "pinned_version": "Qwen/Qwen3-235B-A22B-Instruct-2507",
+  "task_id": "t1_telegram",
+  "source_id": "kefm-2026-akutplan-elnettet-vedtaget",
+  "archetype": null,
+  "prompt_sha256": "af57b4575ea229154e6e16b03d601c8ba7ccaa8e90fbfd97d3b218ff258cb2cc",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 560,
+    "reasoning_effort": null
+  },
+  "text": "Et bredt flertal i Folketinget har vedtaget en akutplan for elnettet, der træder i kraft 12. oktober. Planen erstatter først-til-mølle-princippet med en ny prioriteringsmodel, hvor Energinet og netvirksomhederne kan vurdere, hvem der får adgang til den begrænsede kapacitet. Klima-, energi- og forsyningsminister Samira Nawa (R) kalder situationen \"dybt alvorlig\" og fremhæver, at planen er første skridt i en større genopretningsindsats. Flere partier, herunder SF, V, DF, M, K, EL, RV og ALT, understreger, at samfundskritiske funktioner som offentlig transport, fjernvarme og sundhed skal prioriteres højt – især frem for datacentre. Aftalen bygger på en politisk forståelse fra før sommeren og omfatter krav om genbesøg i 2027 for at sikre, at loven forbliver midlertidig.",
+  "prompt_tokens": 2904,
+  "completion_tokens": 265,
+  "latency_ms": 4476,
+  "cost_usd": 0.0007398000000000001,
+  "created": "2026-11-10T05:39:02.079402Z",
+  "error": null
+}

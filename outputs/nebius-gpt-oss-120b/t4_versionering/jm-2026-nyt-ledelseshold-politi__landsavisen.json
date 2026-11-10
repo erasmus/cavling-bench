@@ -1,0 +1,21 @@
+{
+  "model_id": "nebius-gpt-oss-120b",
+  "pinned_version": "openai/gpt-oss-120b",
+  "task_id": "t4_versionering",
+  "source_id": "jm-2026-nyt-ledelseshold-politi",
+  "archetype": "landsavisen",
+  "prompt_sha256": "24a4a4ca78e5c0c9118390b915e6d38fed1489dee13880e62778f027a654ff5b",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 2525,
+    "reasoning_effort": "low"
+  },
+  "text": "Justitsminister Nicolai Wammen har i forbindelse med udløbet af flere åremålsansættelser på Justitsministeriets øverste niveau iværksat en omfattende ledelsesrokade, der skal sikre et stærkt hold i spidsen for dansk politi og anklagemyndighed frem til 2030. I en pressemeddelelse forklarer Wammen, at udnævnelserne kombinerer “dygtige nye og gamle kræfter” med solid erfaring fra både politi og anklagemyndighed, og at dette hold er bedst rustet til at lede myndighederne i de kommende år.\n\nRokaden betyder, at den nuværende rigspolitichef Thorkild Fogde skifter til stillingen som politidirektør i Københavns Vestegns Politi, mens Lasse Boje Nielsen, tidligere rigsadvokat og politidirektør for National enhed for Særlig Kriminalitet, overtager som ny rigspolitichef. Caroline Østergaard Nielsen fortsætter som rigsadvokat i en midlertidig rolle, mens Rasmus Kieffer‑Kristensen udnævnes til chef for Politiets Efterretningstjeneste efter en karriere i FN‑missionen i New York, PET og som statsadvokat.\n\nFlere nye politidirektører udnævnes på tværs af regionerne: Finn Borch Andersen overtager Københavns Politi, Steen Bechmann Jacobsen får National enhed for Særlig Kriminalitet, og Frits Villy Kjeldsen leder Østjyllands Politi. Lene Frank, Henriette Rosenborg Larsen, Brian Sølvberg Fussing, Lars Kirkegaard, Andreas Langsted, Anne Marie Roum Svendsen, Bjørn Tegner Bay, Helle Kyndesen og Martin Preisz Gravesen får tilsvarende poster i deres respektive distrikter.\n\nPå anklagemyndighedens side udnævnes Marie Bindslev til statsadvokat i København og Jens‑Christian Bülow til statsadvokat for Særlig Kriminalitet. Wammen takker de afgående ledere, herunder Fogde, for deres hidtidige indsats og udtrykker forventning om, at det nye ledelseshold vil levere på de store forventninger, der er til dansk politi og anklagemyndighed.",
+  "prompt_tokens": 1737,
+  "completion_tokens": 538,
+  "latency_ms": 2164,
+  "cost_usd": 0.0005833500000000001,
+  "created": "2026-11-10T05:38:25.208840Z",
+  "error": null
+}

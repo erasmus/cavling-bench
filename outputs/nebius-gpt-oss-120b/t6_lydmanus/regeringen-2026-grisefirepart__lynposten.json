@@ -1,0 +1,21 @@
+{
+  "model_id": "nebius-gpt-oss-120b",
+  "pinned_version": "openai/gpt-oss-120b",
+  "task_id": "t6_lydmanus",
+  "source_id": "regeringen-2026-grisefirepart",
+  "archetype": "lynposten",
+  "prompt_sha256": "fd98a5ba45e69c59bec0877244dbba4904758c52f22e7617d6680b705e2394f0",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 2120,
+    "reasoning_effort": "low"
+  },
+  "text": "Fireparten for fremtidens griseproduktion starter efter nytår. Den samler Landbrug og Fødevarer, Dyrenes Beskyttelse, Fødevareforbundet NNF, Danmarks Naturfredningsforening, Dansk Erhverv, Dansk Industri og regeringen. Formålet er at hæve dyrevelfærden og gøre produktionen mere bæredygtig. Parterne skal arbejde for mere økologi, mindre antibiotikaforbrug og højere værdi i værdikæden. Minister for natur og dyrevelfærd Christian Rabjerg Madsen siger, at mange grise får for lidt plads og at millioner af pattegrise dør hvert år. Udenrigsminister Lars Løkke Rasmussen peger på faldende slagterantal og stigende eksport af smågrise. Erhvervsminister Martin Lidegaard kalder det et skridt mod stærkere konkurrencekraft. Miljøminister Maria Reumert Gjerding advarer om belastning af fjorde og kystvande. Ifølge den officielle meddelelse vil fireparten finde holdbare løsninger for både grisene og producenterne.",
+  "prompt_tokens": 1546,
+  "completion_tokens": 307,
+  "latency_ms": 1096,
+  "cost_usd": 0.0004161,
+  "created": "2026-11-10T05:38:44.973138Z",
+  "error": null
+}

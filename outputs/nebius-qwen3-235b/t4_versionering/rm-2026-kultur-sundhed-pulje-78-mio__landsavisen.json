@@ -1,0 +1,21 @@
+{
+  "model_id": "nebius-qwen3-235b",
+  "pinned_version": "Qwen/Qwen3-235B-A22B-Instruct-2507",
+  "task_id": "t4_versionering",
+  "source_id": "rm-2026-kultur-sundhed-pulje-78-mio",
+  "archetype": "landsavisen",
+  "prompt_sha256": "bbf92e12ecf567c17349b2021c852662b4bc43f657bc390c854fb11f313dffc3",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 1025,
+    "reasoning_effort": null
+  },
+  "text": "Region Midtjylland har afsat 7,8 millioner kroner til at styrke samarbejdet mellem kultur- og sundhedssektoren. Pengene skal bruges til at omsætte eksisterende viden om kulturs betydning for sundhed til konkrete, praxisnære tilbud for borgere og patienter i hele regionen. Puljen er en del af regionens strategiske indsats efter vedtagelsen af Danmarks første regionale politik for sundhed og kultur i december 2023.\n\nPuljen retter sig mod projekter, der udvikler og forankrer kulturtilbud inden for fire temaer: forebyggelse og trivsel – især blandt børn og unge, lindring af symptomer under sygdom, rehabilitering og recovery, samt tværgående samarbejde mellem kommuner, hospitaler og socialområdet. Projektledere skal være kulturaktører, der samarbejder med partnere fra sundhedssektoren. Der kan søges op til tre års støtte, og ansøgninger skal mindst beløbe sig til 200.000 kr. Projektet skal desuden have en medfinansiering på minimum 25 procent.\n\nPer Møller Jensen (S), formand for Region Midtjyllands Udvalg for Regional Udvikling, peger på ti års erfaringer med kultur i sundhedssammenhænge:  \n– Vi ved, at kulturen kan spille en afgørende rolle for vores sundhed og trivsel, og at de her indsatser kan være med til at styrke kvaliteten af vores sundhedsvæsen.\n\nVivi Altenburg (DD), næstformand i udvalget, understreger vigtigheden af bæredygtige løsninger:  \n– Vi skal have flere løsninger, der virker i hverdagen, og som kan bruges på tværs af kommuner og institutioner.\n\nAnsøgningstillæg er 26. august 2026. Regionen afholder dialogmøder i Aarhus 21. maj og digitalt 2. juni for at støtte potentielles ansøgere.",
+  "prompt_tokens": 1747,
+  "completion_tokens": 530,
+  "latency_ms": 55769,
+  "cost_usd": 0.0006674000000000001,
+  "created": "2026-11-10T05:44:06.616415Z",
+  "error": null
+}

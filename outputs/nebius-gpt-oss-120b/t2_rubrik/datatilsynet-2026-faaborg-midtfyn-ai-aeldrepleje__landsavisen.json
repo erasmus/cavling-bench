@@ -1,0 +1,21 @@
+{
+  "model_id": "nebius-gpt-oss-120b",
+  "pinned_version": "openai/gpt-oss-120b",
+  "task_id": "t2_rubrik",
+  "source_id": "datatilsynet-2026-faaborg-midtfyn-ai-aeldrepleje",
+  "archetype": "landsavisen",
+  "prompt_sha256": "dcbe3110958594df0752a61c4305efda515e5fd3cb7c2035f90fe00bdaa9b965",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 1900,
+    "reasoning_effort": "low"
+  },
+  "text": "RUBRIK: Datatilsynet kritiserer AI‑monitorering i Faaborg-Midtfyn  \nUNDERRUBRIK: Datatilsynet finder, at kommunen ikke har foretaget nødvendig konsekvensanalyse eller konkret risikovurdering, og at de lovmæssige grundlag er utilstrækkelige.",
+  "prompt_tokens": 1382,
+  "completion_tokens": 459,
+  "latency_ms": 1379,
+  "cost_usd": 0.0004826999999999999,
+  "created": "2026-11-10T05:38:02.771510Z",
+  "error": null
+}

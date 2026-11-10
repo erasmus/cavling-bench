@@ -1,0 +1,21 @@
+{
+  "model_id": "nebius-gpt-oss-120b",
+  "pinned_version": "openai/gpt-oss-120b",
+  "task_id": "t5_forkortelse",
+  "source_id": "regeringen-2026-grisefirepart",
+  "archetype": null,
+  "prompt_sha256": "a6d27bbd41265002bc62d696b22f4847df08ed451d336b0e8da80d798d8b4d3d",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 2360,
+    "reasoning_effort": "low"
+  },
+  "text": "Regeringen nedsætter en firepart for fremtidens griseproduktion med mål om bedre dyrevelfærd og en mere bæredygtig produktion. Når fireparten starter efter nytår, sidder Landbrug & Fødevarer, Dyrenes Beskyttelse, Fødevareforbundet NNF, Danmarks Naturfredningsforening, Dansk Erhverv, Dansk Industri og regeringen selv ved bordet. Parternes fælles opgave er at finde løsninger, der løfter dyrevelfærden, sikrer mere økologi, nedbringer antibiotikaforbruget og rykker den danske griseproduktion op i værdikæden. Minister for natur og dyrevelfærd Christian Rabjerg Madsen påpeger, at omkring 95 % af grisene får halen klippet, og millioner af pattegrise dør hvert år, og at produktionen skal fokusere på grise af høj kvalitet til dansk forbrug eller eksport. Udenrigsminister Lars Løkke Rasmussen bemærker, at antallet af slagtninger og slagteriarbejdere i Danmark er faldet med en tredjedel de sidste 15 år, mens eksporten af smågrise er mere end tidoblet, og at et ekspertpanel skal vejlede fremtidig forædling og dyrevelfærd. Erhvervs‑ og konkurrencekraftsminister Martin Lidegaard ser fireparten som et skridt mod en ambitiøs national fødevarestrategi, der styrker konkurrencekraft og værdi i Danmark. Miljøminister Maria Reumert Gjerding understreger, at svineproduktionen belaster fjorde, kystvande og naboer, og at en fælles indsats kan skabe større hensyn til natur og lokalsamfund.",
+  "prompt_tokens": 1232,
+  "completion_tokens": 412,
+  "latency_ms": 1875,
+  "cost_usd": 0.000432,
+  "created": "2026-11-10T05:38:39.596359Z",
+  "error": null
+}

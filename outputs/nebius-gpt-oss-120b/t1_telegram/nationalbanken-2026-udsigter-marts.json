@@ -1,0 +1,21 @@
+{
+  "model_id": "nebius-gpt-oss-120b",
+  "pinned_version": "openai/gpt-oss-120b",
+  "task_id": "t1_telegram",
+  "source_id": "nationalbanken-2026-udsigter-marts",
+  "archetype": null,
+  "prompt_sha256": "a82cdbc4a4ee949d7b27d02535aca61994e616ac9082463d27f416c96aac3521",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 2060,
+    "reasoning_effort": "low"
+  },
+  "text": "Nationalbanken forudsiger, at inflationen i Danmark kun vil nå 1,8 % i 2024, men advarer om en risikosituation, hvor begrænsede olie‑ og gasforsyninger fra Den Persiske Golf kan skubbe inflationen op på 4,5 % i år. I sin i dag offentliggjorte prognose påpeger nationalbankdirektør Christian Kettel Thomsen, at den danske økonomi trods geopolitisk usikkerhed og stigende energipriser forbliver i god balance med høj beskæftigelse og lav ledighed. BNP forventes at vokse 1,8 % i både 2024 og 2025 og 2 % i 2028, mens kerneinflationen ligger omkring 2 % i de kommende år. Banken anbefaler, at den nye regering i finansloven 2027 holder efterspørgslen inden for de rammer, der allerede er fastsat i den tidligere regerings 2035‑plan, da de permanente forsvarsudgifter på 75 mia. kr. reducerer råderummet for yderligere prioriteringer. (112 ord)",
+  "prompt_tokens": 957,
+  "completion_tokens": 289,
+  "latency_ms": 1036,
+  "cost_usd": 0.00031695,
+  "created": "2026-11-10T05:37:59.781053Z",
+  "error": null
+}

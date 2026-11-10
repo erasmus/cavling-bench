@@ -1,0 +1,21 @@
+{
+  "model_id": "nebius-gpt-oss-120b",
+  "pinned_version": "openai/gpt-oss-120b",
+  "task_id": "t2_rubrik",
+  "source_id": "politi-2026-nsk-cpr-opslag",
+  "archetype": "erhvervsnyt",
+  "prompt_sha256": "72bba42880f85983c103d35b1c61942c2f8acdb0667c18c8e3547067f1042e29",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 1900,
+    "reasoning_effort": "low"
+  },
+  "text": "RUBRIK: 27-årig dømt 3 år og 6 måneder for CPR‑misbrug  \nUNDERRUBRIK: Mand fra Storkøbenhavn solgte personfølsomme CPR‑data, medvirkede til 34 forsøg på grov vold og idømt fængsel i 3 år og 6 måneder.",
+  "prompt_tokens": 1471,
+  "completion_tokens": 190,
+  "latency_ms": 694,
+  "cost_usd": 0.00033465,
+  "created": "2026-11-10T05:38:10.515024Z",
+  "error": null
+}

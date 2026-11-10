@@ -1,0 +1,21 @@
+{
+  "model_id": "nebius-qwen3-235b",
+  "pinned_version": "Qwen/Qwen3-235B-A22B-Instruct-2507",
+  "task_id": "t2_rubrik",
+  "source_id": "fo-2026-tankstationer-reservation-beloeb",
+  "archetype": "landsavisen",
+  "prompt_sha256": "384701802da7af14ab4fcf4612224071facc80c93c724b5804993431191e32e8",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 400,
+    "reasoning_effort": null
+  },
+  "text": "RUBRIK: Tankstationer må ikke reservere urimeligt høje beløb  \nUNDERRUBRIK: Forbrugerombudsmanden har fået Shell, Uno-X og OK til at ændre praksis, mens Q8 fortsat reserverer 950 kroner, trods kritik.",
+  "prompt_tokens": 2877,
+  "completion_tokens": 77,
+  "latency_ms": 1231,
+  "cost_usd": 0.0006216,
+  "created": "2026-11-10T05:39:47.720493Z",
+  "error": null
+}

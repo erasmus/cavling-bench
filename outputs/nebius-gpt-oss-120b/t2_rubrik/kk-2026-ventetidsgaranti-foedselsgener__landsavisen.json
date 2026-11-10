@@ -1,0 +1,21 @@
+{
+  "model_id": "nebius-gpt-oss-120b",
+  "pinned_version": "openai/gpt-oss-120b",
+  "task_id": "t2_rubrik",
+  "source_id": "kk-2026-ventetidsgaranti-foedselsgener",
+  "archetype": "landsavisen",
+  "prompt_sha256": "e324897d97e7564ce9a461f0ce06a0635980166a79602541a361ef5b9977d170",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 1900,
+    "reasoning_effort": "low"
+  },
+  "text": "RUBRIK: København indfører Danmarks mest ambitiøse ventetidsgaranti for efterfødselshjælp  \nUNDERRUBRIK: Kvinder med fødselsgener skal nu have første samtale inden 7 dage og undersøgelse inden 3 uger, ellers tilbydes privat forløb.",
+  "prompt_tokens": 1943,
+  "completion_tokens": 94,
+  "latency_ms": 450,
+  "cost_usd": 0.00034784999999999997,
+  "created": "2026-11-10T05:38:07.972474Z",
+  "error": null
+}

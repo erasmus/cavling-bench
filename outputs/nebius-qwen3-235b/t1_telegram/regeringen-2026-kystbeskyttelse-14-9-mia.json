@@ -1,0 +1,21 @@
+{
+  "model_id": "nebius-qwen3-235b",
+  "pinned_version": "Qwen/Qwen3-235B-A22B-Instruct-2507",
+  "task_id": "t1_telegram",
+  "source_id": "regeringen-2026-kystbeskyttelse-14-9-mia",
+  "archetype": null,
+  "prompt_sha256": "8273d6c3b2cab40413293cf70623a8042a6995cfe9a1090386f4653fbdb654ae",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 560,
+    "reasoning_effort": null
+  },
+  "text": "Regeringen afsætter 14,9 mia. kroner til en national plan for kystbeskyttelse af Danmark gennem Klimatilpasningsplan II, oplyser miljøminister Magnus Heunicke. Pengene skal hjælpe kommunerne med at bygge diger, højvandmure og sluser til at beskytte op til 100.000 husstande og 175.000 arbejdspladser mod stigende vandstand og hyppigere stormfloder – fra én gang hvert 100. år i dag til én gang hvert tredje år i 2100. Staten medfinansierer fremover 85 procent af anlægsinvesteringerne, og sammen med kommunale bidrag og Finansloven 2026 kan der investeres op til 20 mia. kroner frem mod 2040. Regeringen nedsætter en ekspertgruppe for at finde en model til at opkræve lodsejere, og vil lette tilladelsesprocessen for klimatilpasning i naturfølsomme områder.",
+  "prompt_tokens": 1561,
+  "completion_tokens": 281,
+  "latency_ms": 4938,
+  "cost_usd": 0.0004808000000000001,
+  "created": "2026-11-10T05:39:17.161523Z",
+  "error": null
+}

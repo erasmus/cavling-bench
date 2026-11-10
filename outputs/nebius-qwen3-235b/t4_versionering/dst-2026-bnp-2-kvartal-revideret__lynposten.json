@@ -1,0 +1,21 @@
+{
+  "model_id": "nebius-qwen3-235b",
+  "pinned_version": "Qwen/Qwen3-235B-A22B-Instruct-2507",
+  "task_id": "t4_versionering",
+  "source_id": "dst-2026-bnp-2-kvartal-revideret",
+  "archetype": "lynposten",
+  "prompt_sha256": "20292ae37f60f9d02864a534e0d015f9a20ac67a6787664a303eea20def82655",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 1025,
+    "reasoning_effort": null
+  },
+  "text": "Danmark får opjusteret økonomisk vækst i 2. kvartal. BNP steg med 0,9 pct. efter prisjustering og sæsonkorrektion. Det er 0,6 procentpoint højere end første beregning.\n\nMedicinalindustrien var en stor motor. Den bidrog stærkt til væksten. Bruttoværditilvæksten steg 1,1 pct. for hele økonomien. Uden medicinalindustrien ville væksten være 0,7 pct. Den offentlige sektor og den øvrige industri hjalp også til.\n\nBeskæftigelsen voksede med 7.800 personer i kvartalet. Arbejdstiden steg 0,3 pct. Det viser, at økonomien skaber aktivitet på arbejdsmarkedet.\n\nInvesteringerne steg 1,5 pct. Især byggeri og anlæg kørte godt. Væksten i intellektuelle rettigheder blev revideret kraftigt – fra fald på 1,2 pct. til stigning på 1,5 pct. Det skyldes et patentkøb i udlandet, som nu er med i tallene.\n\nHusholdningernes forbrug lå stille. Det var uændret i 2. kvartal. Forbruget af tjenester steg 0,8 pct. Forbruget af varer faldt 0,8 pct. Køb af køretøjer faldt 1,8 pct. efter en stor stigning i 1. kvartal.\n\nDet offentlige forbrug var også uændret. Samlet set har forbruget dog været stærkt i årets første seks måneder. Husholdningernes forbrug er 2,8 pct. højere end i samme kvartal sidste år. Det offentlige forbrug er 2,0 pct. højere.\n\nEksporten voksede 1,5 pct. Vareeksporten steg 2,8 pct. Især maskinexport trak op. Tjenesteeksporten faldt dog 0,5 pct. Importen steg 1,8 pct. Tjenesteimporten voksede 2,6 pct., blandt andet på grund af patentkøbet.\n\nLageropbygningen bidrog med 0,4 procentpoint til væksten. Men tal fra lagre skal tolkes forsigtigt. De er usikre og påvirkes af import, der ikke tæller med i dansk BNP.\n\nTallene er revideret på baggrund af bedre data. Især fra industri, handel og udenrigshandel. Første kvartal er også revideret – nu viser det 1,7 pct. vækst, 0,2 procentpoint højere end før.",
+  "prompt_tokens": 3003,
+  "completion_tokens": 665,
+  "latency_ms": 23242,
+  "cost_usd": 0.0009996,
+  "created": "2026-11-10T05:41:26.172541Z",
+  "error": null
+}

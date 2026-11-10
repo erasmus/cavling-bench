@@ -1,0 +1,21 @@
+{
+  "model_id": "nebius-qwen3-235b",
+  "pinned_version": "Qwen/Qwen3-235B-A22B-Instruct-2507",
+  "task_id": "t5_forkortelse",
+  "source_id": "regeringen-2026-kystbeskyttelse-14-9-mia",
+  "archetype": null,
+  "prompt_sha256": "75b8cbd6f672acb86df3c2aa363321aa05285591de974f17f682266da8393e67",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 860,
+    "reasoning_effort": null
+  },
+  "text": "Regeringen afsætter 14,9 mia. kroner til en national plan for kystbeskyttelse af Danmark gennem Klimatilpasningsplan II. Pengene skal hjælpe kommunerne med at sikre kysterne mod hyppigere stormfloder og vildere vejr. Stormfloder, der i dag forventes hvert 100. år, kan ifølge regeringen ramme hvert tredje år i 2100. Over 1 mio. danskere bor under en kilometer fra kysten, og op til 100.000 husstande og virksomheder med 175.000 arbejdspladser er i risikozonen for oversvømmelser. Investeringer i kystbeskyttelse skrider dog for langsomt frem. Regeringen vil derfor øge tempoet med langsigtede, nationale løsninger. Staten medfinansierer fremover 85 procent af anlægsinvesteringerne, mens kommunerne bidrager med 15 procent. Sammen med accelerationspakken for kystbeskyttelse og Finansloven 2026 kan der investeres op til 20 mia. kroner frem mod 2040. En ekspertgruppe skal anbefale en model for, hvor stor en andel af de statslige udgifter lodsejerne bør betale. Regeringen vil også lette tilladelsesprocessen for klimatilpasning, bl.a. ved at udvide muligheder for dispensation, så hensynet til beskyttelse af mennesker og ejendom vægtes højere. Miljøminister Magnus Heunicke, klima-, energi- og forsyningsminister Lars Aagard og minister for byer og landdistrikter Morten Dahlin understreger, at kystbeskyttelse er et fælles ansvar. Heunicke siger, at Danmark skal foran udviklingen, Aagard pointerer, at klimaforandringerne koster, og Dahlin fremhæver behovet for at fjerne barrierer i lovgivningen. Miljøministeren vil indkalde Folketingets partier til drøftelser om en politisk aftale.",
+  "prompt_tokens": 1579,
+  "completion_tokens": 540,
+  "latency_ms": 32626,
+  "cost_usd": 0.0006397999999999999,
+  "created": "2026-11-10T05:44:45.256389Z",
+  "error": null
+}

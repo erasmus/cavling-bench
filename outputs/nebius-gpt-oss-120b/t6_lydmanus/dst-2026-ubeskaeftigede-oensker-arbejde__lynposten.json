@@ -1,0 +1,21 @@
+{
+  "model_id": "nebius-gpt-oss-120b",
+  "pinned_version": "openai/gpt-oss-120b",
+  "task_id": "t6_lydmanus",
+  "source_id": "dst-2026-ubeskaeftigede-oensker-arbejde",
+  "archetype": "lynposten",
+  "prompt_sha256": "2855c5316257bd3b05356a13494331b99bd05e93b58034fe1acf62550b94ecce",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 2120,
+    "reasoning_effort": "low"
+  },
+  "text": "Femti‑to procent af de ni‑hundrede‑fem tusinde ubeskæftigede i alderen femten til fireogtres år ønskede et arbejde i første kvartal 2026. Det svarer til fire‑hundrede‑halvtreds tusinde personer, en stigning på fem‑ogfirs tusinde siden første kvartal 2024. Den højeste andel var blandt de unge i alderen femogtyve til fireogtredive år, hvor seks‑ogtyve procent ønskede et job. Den laveste var i aldersgruppen femoghalvtreds til seksogtres år, hvor kun otteogtyve procent ønskede arbejde. Halvdelen af dem, der ønskede et arbejde, var AKU‑ledige, altså personer der både søger og kan starte med det samme. Det er syv‑oghalvtreds tusinde flere end i 2024. Ifølge Danmarks Statistik viser tallene, at flere ubeskæftigede nu vil deltage på arbejdsmarkedet.",
+  "prompt_tokens": 1681,
+  "completion_tokens": 264,
+  "latency_ms": 1650,
+  "cost_usd": 0.00041055,
+  "created": "2026-11-10T05:38:41.990117Z",
+  "error": null
+}

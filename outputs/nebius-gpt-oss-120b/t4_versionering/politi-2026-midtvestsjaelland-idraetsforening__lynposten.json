@@ -1,0 +1,21 @@
+{
+  "model_id": "nebius-gpt-oss-120b",
+  "pinned_version": "openai/gpt-oss-120b",
+  "task_id": "t4_versionering",
+  "source_id": "politi-2026-midtvestsjaelland-idraetsforening",
+  "archetype": "lynposten",
+  "prompt_sha256": "4e8086dd858e1aa1e5af120631b26140b4747b0954480aa8985274bcf893cce7",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 2525,
+    "reasoning_effort": "low"
+  },
+  "text": "46-årig ansat i ros\n\nDen 46-årige mand, der arbejdede i en idrætsforening i Roskilde, er idømt et års fængsel for seksuelle overgreb og blufærdighedskrænkelser mod et stort antal drenge. Han har tilstået at have voldtaget en dreng under 12 år og at have begået blufærdighedskrænkelser mod mange andre. Ikke færre end 42 drenge blev filmet uden deres viden. Optagelserne blev lavet på et ikke frit tilgængeligt sted fra januar 2022 til april 2024.\n\nRetten i Roskilde fandt manden skyldig i både overgreb og i at have filmet drengene. Han blev også frakendt retten til at arbejde med børn og unge under 18 år. Politiet fandt en stor mængde seksuelt billed- og videomateriale på hans telefon, der omfattede alle tre kategorier af børneovergrebsmateriale.\n\nSenioranklager Pernille Fredin fra Midt- og Vestsjællands Politi sagde: “Der er tale om en meget alvorlig sag, hvor et stort antal drenge er blevet udsat for seksuelle krænkelser af en voksen, som de burde kunne have tillid til.” Hun tilføjede, at sagen har været langvarig på grund af en vurdering af den dømtes mentale tilstand. “Jeg håber, at dommen nu kan være med til at give drengene og deres familier en følelse af retfærdighed,” sagde hun.\n\nManden har taget betænkningstid i forhold til anke. Retten har dermed afsluttet en sag, der har rystet lokalsamfundet i Roskilde.",
+  "prompt_tokens": 1133,
+  "completion_tokens": 414,
+  "latency_ms": 1432,
+  "cost_usd": 0.00041834999999999995,
+  "created": "2026-11-10T05:38:28.953094Z",
+  "error": null
+}

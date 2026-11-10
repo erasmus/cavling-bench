@@ -1,0 +1,21 @@
+{
+  "model_id": "nebius-gpt-oss-120b",
+  "pinned_version": "openai/gpt-oss-120b",
+  "task_id": "t5_forkortelse",
+  "source_id": "nationalbanken-2026-digitale-betalinger-beredskab",
+  "archetype": null,
+  "prompt_sha256": "e845da16f198e6fe16664514d862838a3cc5fe6dbce8acf3ceaa1786adaf7c8d",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 2360,
+    "reasoning_effort": "low"
+  },
+  "text": "Mere end 90 % af alle betalinger i Danmark er digitale, og flere borgere bruger mobilen til betaling. Samtidig ser flere kontanter som et betalingsberedskab, og 41 % har over 1.000 kr. i kontanter (33 % i 2023). Kontanter udgjorde 9 % af fysiske betalinger i 2025 (mod 11 % i 2023 og 23 % i 2017). Wallet‑betalinger (Apple Pay, Google Pay) udgør nu hver tredje fysiske betaling, mens mindre end 5 % er straksbetalinger (fx MobilePay). Syv ud af ti med kontantbeholdning betragter den som beredskab. Nationalbankdirektør Ulrik Nødgaard påpeger, at flere butikker skal kunne tage imod digitale betalinger offline, og at straksbetalinger bør udbredes. Teknisk fejl hos Nets i juli 2025 og maj 2026 viste, at offline‑kortberedskabet kan holde kort‑ og wallet‑betalinger i gang i mindst syv dage i dagligvarebutikker og apoteker. Andre butikker kan tilslutte samme løsning. Kontanter og straksbetalinger fungerede som alternativer under nedbruddene. Nødgaard anbefaler, at husstanden har mindst to fysiske kort fra forskellige mærker, mindst 250 kr. i kontanter pr. person og en mobilbetalingsløsning (MobilePay eller mobilbank). Detailhandlen bør forberede sig på offline‑kortbetalinger, overveje betalinger med kort, kontooverførsler og kontanter samt udarbejde konkrete planer og instruktioner.",
+  "prompt_tokens": 1485,
+  "completion_tokens": 415,
+  "latency_ms": 1411,
+  "cost_usd": 0.00047175,
+  "created": "2026-11-10T05:38:37.357438Z",
+  "error": null
+}

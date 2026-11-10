@@ -1,0 +1,21 @@
+{
+  "model_id": "nebius-gpt-oss-120b",
+  "pinned_version": "openai/gpt-oss-120b",
+  "task_id": "t3_faktaboks",
+  "source_id": "nationalbanken-2026-digitale-betalinger-beredskab",
+  "archetype": null,
+  "prompt_sha256": "26e5f7a808e29ec90cbf9162ebfee8a21b1902adb0313d49ff89d8ee83e67153",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 2075,
+    "reasoning_effort": "low"
+  },
+  "text": "- Over 90 % af alle betalinger i Danmark er digitale.  \n- Kontanter udgjorde 9 % af fysiske betalinger i 2025, sammenlignet med 11 % i 2023 og 23 % i 2017.  \n- 41 % af befolkningen har mere end 1.000 kr. i kontanter, oppe fra 33 % i 2023.  \n- Wallet‑betalinger (fx Apple Pay, Google Pay) udgør nu én ud af tre fysiske betalinger.  \n- Offline‑kortberedskabet dækker kort‑ og wallet‑betalinger i dagligvarebutikker og apoteker i mindst syv dage ved nedbrud.",
+  "prompt_tokens": 1483,
+  "completion_tokens": 188,
+  "latency_ms": 745,
+  "cost_usd": 0.00033525,
+  "created": "2026-11-10T05:38:15.262834Z",
+  "error": null
+}

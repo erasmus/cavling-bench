@@ -1,0 +1,21 @@
+{
+  "model_id": "nebius-gpt-oss-120b",
+  "pinned_version": "openai/gpt-oss-120b",
+  "task_id": "t4_versionering",
+  "source_id": "fm-2026-finanslovforslag-2027",
+  "archetype": "landsavisen",
+  "prompt_sha256": "161ccd2cc7292422e90b3f7d51f7181e25f5b1e295944fbf5f7b9c4458ebcb5b",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 2525,
+    "reasoning_effort": "low"
+  },
+  "text": "Regeringen har i dag fremlagt sit finanslovforslag for 2027, som skal løfte velfærden, styrke sikkerheden og sætte gang i den grønne omstilling. Forslaget er et svar på den aktuelle usikkerhed i Europa, hvor krig og truslen fra Rusland påvirker Danmarks forsvarspolitik, samt på de økonomiske udfordringer, som mange pensionister oplever i hverdagen.\n\nI finanslovforslaget afsættes der midler til at hæve forsvarsudgifterne til 3,5 % af BNP i 2030. Samtidig investeres 1,2 mia. kr. i 2027 og 1,1 mia. kr. årligt i 2028‑2030 i folkeskolen og dagtilbud, så børn og unge får bedre rammer for læring. En ramme på 0,6 mia. kr. i 2027 og 0,9 mia. kr. årligt fra 2028 skal sikre vederlagsfri tandpleje for førtidspensionister og udsatte grupper som et første skridt mod fuld vederlagsfri tandpleje i 2035.\n\nPensionister med mindst får et permanent løft på ca. 1.600 kr. om måneden, svarende til 1.000 kr. efter skat. På den grønne front afsættes 650 mio. kr. i 2027 og 850 mio. kr. årligt i 2028‑2030 til elektrificering og omstilling fra fossile brændsler. Derudover investeres 800 mio. kr. i 2027 og 1 mia. kr. årligt i kollektiv transport for at indføre gratis transport for unge under 22 år.\n\nFinansminister Peter Hummelgaard udtaler: “Vi er en regering af stædige optimister… gennem hele livet… investerer milliarder i danskernes tryghed og i den grønne omstilling.” Økonomi‑ og indenrigsminister Pia Olsen Dyhr tilføjer: “Børnene skal have en tryg start på livet… vi investerer 900 mio. kr. i folkeskolen og målretter indsatsen mod de 100 skoler, hvor udfordringerne er størst.” Forslaget kombinerer dermed mål om sikkerhed, velfærd og bæredygtig vækst i en samlet politisk pakke.",
+  "prompt_tokens": 1957,
+  "completion_tokens": 594,
+  "latency_ms": 2049,
+  "cost_usd": 0.00064995,
+  "created": "2026-11-10T05:38:22.692032Z",
+  "error": null
+}

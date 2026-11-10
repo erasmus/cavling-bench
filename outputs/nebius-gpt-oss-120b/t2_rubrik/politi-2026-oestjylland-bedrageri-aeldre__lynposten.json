@@ -1,0 +1,21 @@
+{
+  "model_id": "nebius-gpt-oss-120b",
+  "pinned_version": "openai/gpt-oss-120b",
+  "task_id": "t2_rubrik",
+  "source_id": "politi-2026-oestjylland-bedrageri-aeldre",
+  "archetype": "lynposten",
+  "prompt_sha256": "71d73c99dca9444659453e47f714bc5f4ba970ff1c843a54d807d37ace116250",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 1900,
+    "reasoning_effort": "low"
+  },
+  "text": "RUBRIK: Dommer idømmer 1 år og 6 måneder for bankbudsbedrageri  \nUNDERRUBRIK: Den 32-årige fra Tilst har svindlet 48 ældre for 270.000 kr., forsøgt at bedrage yderligere 150, og skal nu afsone 1 år og 6 måneder i fængsel mens han forbliver varetægtsfængslet.",
+  "prompt_tokens": 1732,
+  "completion_tokens": 386,
+  "latency_ms": 1177,
+  "cost_usd": 0.0004914,
+  "created": "2026-11-10T05:38:11.504517Z",
+  "error": null
+}

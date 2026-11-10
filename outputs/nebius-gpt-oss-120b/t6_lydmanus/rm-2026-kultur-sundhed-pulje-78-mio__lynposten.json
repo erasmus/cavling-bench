@@ -1,0 +1,21 @@
+{
+  "model_id": "nebius-gpt-oss-120b",
+  "pinned_version": "openai/gpt-oss-120b",
+  "task_id": "t6_lydmanus",
+  "source_id": "rm-2026-kultur-sundhed-pulje-78-mio",
+  "archetype": "lynposten",
+  "prompt_sha256": "56918ee98f8e86a4590c47430238a4244a8eab9a094d02aaff9a7ed062b2584f",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 2120,
+    "reasoning_effort": "low"
+  },
+  "text": "Syv komma otte millioner kroner skal styrke sundheden med kultur i Region Midtjylland. Puljen skal omsætte viden til konkrete tilbud for borgere og patienter i hele regionen. Den skal bygge stærke samarbejder mellem kulturaktører, kommuner, hospitaler og andre relevante aktører i de fem sundhedsråds geografier. Per Møller Jensen, formand for Region Midtjyllands Udvalg for Regional Udvikling, siger, at kulturen kan spille en afgørende rolle for vores sundhed og trivsel. Fire temaer sætter retningen: forebyggelse, lindring af symptomer, mestring og samarbejde mellem kommuner og hospitaler. Vivi Altenburg, næstformand for Udvalg for Regional Udvikling, understreger, at flere løsninger skal kunne bruges i hverdagen på tværs af kommuner. Ansøgningsfristen er den seksogtyvende august to tusind seksogtyve seks klokken tolv. Ifølge Region Midtjylland kan projekter søges med en varighed på op til tre år.",
+  "prompt_tokens": 1520,
+  "completion_tokens": 293,
+  "latency_ms": 1046,
+  "cost_usd": 0.00040379999999999995,
+  "created": "2026-11-10T05:38:45.655651Z",
+  "error": null
+}

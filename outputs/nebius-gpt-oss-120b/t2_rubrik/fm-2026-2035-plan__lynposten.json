@@ -1,0 +1,21 @@
+{
+  "model_id": "nebius-gpt-oss-120b",
+  "pinned_version": "openai/gpt-oss-120b",
+  "task_id": "t2_rubrik",
+  "source_id": "fm-2026-2035-plan",
+  "archetype": "lynposten",
+  "prompt_sha256": "302e337fda09cbc24a38af31f7f70bd14e079343cb8e9707411ffa6f98223061",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 1900,
+    "reasoning_effort": "low"
+  },
+  "text": "RUBRIK: Regeringen øger forsvarsbudgetet til 3,5 % af BNP  \nUNDERRUBRIK: 2035‑planen satser på 70 mia. kr. til Ukraine, 5 mia. kr. til beredskab og 4 mia. kr. årligt til klima, mens den holder den strukturelle saldo på –0,5 % i 2030.",
+  "prompt_tokens": 2010,
+  "completion_tokens": 164,
+  "latency_ms": 767,
+  "cost_usd": 0.00039989999999999996,
+  "created": "2026-11-10T05:38:04.679766Z",
+  "error": null
+}

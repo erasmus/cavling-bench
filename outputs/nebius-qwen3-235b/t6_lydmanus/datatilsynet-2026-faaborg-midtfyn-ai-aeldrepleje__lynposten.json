@@ -1,0 +1,21 @@
+{
+  "model_id": "nebius-qwen3-235b",
+  "pinned_version": "Qwen/Qwen3-235B-A22B-Instruct-2507",
+  "task_id": "t6_lydmanus",
+  "source_id": "datatilsynet-2026-faaborg-midtfyn-ai-aeldrepleje",
+  "archetype": "lynposten",
+  "prompt_sha256": "c4c5ca61509e021cff197693512d31d80b5a53cfbe2f2babe5a28d1beafd9ee9",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 620,
+    "reasoning_effort": null
+  },
+  "text": "Aftenskumringen falder over Faaborg-Midtfyn Kommune, men her råder uro. Datatilsynet kritiserer kommunen for at bruge kunstig intelligens i plejehjem uden at følge reglerne. Systemet overvåger 18 ældre beboere gennem sensorer og kameraer. Formålet er at forebygge fald og øge tryghed. Teknologien måler søvn, vejrtrækning og bevægelser. Men ifølge Datatilsynet er risikovurderingen for svag. Den tager ikke fat i de reelle trusler mod borgerne. Kommunen har heller ikke lavet en konsekvensanalyse før brug. Det kræver reglerne, når der anvendes AI på sårbare borgere. Kommunen henviste til almindelige love om omsorg. Men det er ikke nok, siger Datatilsynet. Der findes særlige regler for velfærdsteknologi. De blev ignoreret. Nu advarer tilsynet: nye løsninger kræver klare vurderinger. Først da må teknologien tændes.",
+  "prompt_tokens": 1643,
+  "completion_tokens": 289,
+  "latency_ms": 6266,
+  "cost_usd": 0.000502,
+  "created": "2026-11-10T05:44:43.259328Z",
+  "error": null
+}

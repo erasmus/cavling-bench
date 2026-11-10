@@ -1,0 +1,21 @@
+{
+  "model_id": "nebius-gpt-oss-120b",
+  "pinned_version": "openai/gpt-oss-120b",
+  "task_id": "t4_versionering",
+  "source_id": "aalborg-2025-omlaegningsplan-trepart",
+  "archetype": "landsavisen",
+  "prompt_sha256": "c9990e77c86bee8b2ddce225f5fe0927433d1cfafb3993fcc71a08f3542b435a",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 2525,
+    "reasoning_effort": "low"
+  },
+  "text": "Aalborg Byråd har på sit møde den 15. december givet grønt lys til en omfattende omlægningsplan, som er et svar på den nationale Aftale om et Grønt Danmark. Aftalen, der i 2024 blev vedtaget af et bredt flertal i Folketinget, forpligter kommunen til at udarbejde og gennemføre en plan i tæt samarbejde med Naturstyrelsen, landbrugets udtagningskonsulenter og den lokale trepart. Planen indeholder 94 konkrete projekter, der skal skabe mere natur og skov, renere drikkevand og et sundere vandmiljø, men kan kun realiseres, hvis der opnås enighed med de berørte lodsejere.\n\nRådmand for By og Land og næstformand i Aalborg Trepart, Jan Nymark Rose Thaysen, udtaler: “Det har været en stor og kompleks opgave at nå i mål med en samlet omlægningsplan for hele Aalborg Kommune. Jeg vil gerne kvittere for et godt og konstruktivt samarbejde i den lokale Aalborg Trepart, hvor det er lykkes at nå i mål med en ambitiøs plan, der viser vejen frem mod et renere vandmiljø, mere natur, mindre udledning af klimagasser og renere drikkevand, samtidigt med at vi fastholder en stærk fødevareproduktion.” \n\nAf de 94 projekter udgør 77 lavbundsinitiativer en central klimaindsats, idet vådlægning af tørveholdige jordarter skal reducere CO₂‑udledningen. Derudover er der 13 tiltag, der skal sikre drikkevandet i de mest sårbare indvindingsområder, samt forslag om udtagning af dyrkningsjord i oplandet til Halkær Bredning for at forbedre Limfjordens vandmiljø. Tre større naturområder omkring Hals og Ulsted Rimmer, Lundby Bakker, Gistrup, Poulstrup samt Halkær Bredning og Halkær Sø skal bidrage til målet om 20 % mere beskyttet natur i Danmark.\n\nPlanen fastsætter, at i 2026 skal dialogen med berørte borgere påbegyndes, mens hoveddelen af lavbunds- og kvælstofindsatsen skal være afsluttet i 2030. Skovrejsning og naturudvikling fortsætter derefter, hvilket giver kommunen en langsigtet ramme for både klima, vand og biodiversitet.",
+  "prompt_tokens": 1827,
+  "completion_tokens": 574,
+  "latency_ms": 1908,
+  "cost_usd": 0.0006184500000000001,
+  "created": "2026-11-10T05:38:18.037229Z",
+  "error": null
+}

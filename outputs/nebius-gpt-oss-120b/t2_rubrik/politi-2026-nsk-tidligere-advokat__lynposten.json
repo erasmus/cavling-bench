@@ -1,0 +1,21 @@
+{
+  "model_id": "nebius-gpt-oss-120b",
+  "pinned_version": "openai/gpt-oss-120b",
+  "task_id": "t2_rubrik",
+  "source_id": "politi-2026-nsk-tidligere-advokat",
+  "archetype": "lynposten",
+  "prompt_sha256": "4932f9119837348a7555a59383593114e01d2004a83b2bd5379e6ea880d117bd",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 1900,
+    "reasoning_effort": "low"
+  },
+  "text": "RUBRIK: 53-årig advokat idømt seks måneders fængsel  \nUNDERRUBRIK: Retten i Lyngby finder ham skyldig i groft stillingsmisbrug, inhabil kuratorskabs og tavshed om kriminelle forhold og frakender ham advokatret.",
+  "prompt_tokens": 1159,
+  "completion_tokens": 243,
+  "latency_ms": 874,
+  "cost_usd": 0.00031965,
+  "created": "2026-11-10T05:38:10.723266Z",
+  "error": null
+}

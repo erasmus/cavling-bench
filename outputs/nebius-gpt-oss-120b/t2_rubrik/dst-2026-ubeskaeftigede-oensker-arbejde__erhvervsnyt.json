@@ -1,0 +1,21 @@
+{
+  "model_id": "nebius-gpt-oss-120b",
+  "pinned_version": "openai/gpt-oss-120b",
+  "task_id": "t2_rubrik",
+  "source_id": "dst-2026-ubeskaeftigede-oensker-arbejde",
+  "archetype": "erhvervsnyt",
+  "prompt_sha256": "07e028e2053f807faec137dfb4c9c8e47a1aab201316c6fea5f32d0cbff8a0fe",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 1900,
+    "reasoning_effort": "low"
+  },
+  "text": "RUBRIK: 470.000 ubeskæftigede ønsker arbejde – stigning til 52 %  \nUNDERRUBRIK: Andelen af ubeskæftigede, der vil arbejde, er steget fra 45 % i 2024 til 52 % i 1. kvartal 2026 (470 tusind), hvor AKU‑ledige udgør halvdelen.",
+  "prompt_tokens": 1644,
+  "completion_tokens": 216,
+  "latency_ms": 985,
+  "cost_usd": 0.0003762,
+  "created": "2026-11-10T05:38:04.313953Z",
+  "error": null
+}

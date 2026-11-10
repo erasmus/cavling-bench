@@ -1,0 +1,21 @@
+{
+  "model_id": "nebius-qwen3-235b",
+  "pinned_version": "Qwen/Qwen3-235B-A22B-Instruct-2507",
+  "task_id": "t5_forkortelse",
+  "source_id": "kfst-2026-fibernet-prislofter",
+  "archetype": null,
+  "prompt_sha256": "e4cd68b71e41032bd9e67d77024f772d075fca7359bcae7b69dc941010708794",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 860,
+    "reasoning_effort": null
+  },
+  "text": "Konkurrence- og Forbrugerstyrelsen fastsætter prislofter på fibernet i områder, hvor netejere har monopollignende status, så andre udbydere kan leje sig ind til rimelige priser. Prislofterne tager højde for omkostninger ved beskyttelse af fibernettet mod fysiske og virtuelle angreb, men ikke mod angreb på ikke-regulerede net som mobilnet. For TDC gælder prislofterne kun for en mindre del af forretningen – ikke for mobil eller fiberleje uden for hovedstadsområdet. Prislofterne gælder fra årsskiftet og kan revideres, hvis der sker markante ændringer, fx nye krav til netbeskyttelse. En ekstern analyse af investeringer i netbeskyttelse har medført, at ekstraomkostninger er inkluderet, hvilket fører til højere prislofter. De endelige afgørelser for de kommende fem år bygger på omfattende analyser og flere høringsrunder med interessenter, herunder netejere. Afgørelserne sendes til Europa-Kommissionen (DG Connect) for kontrol med EU-regler. Målet er at balancere netejernes mulighed for at dække omkostninger og forbrugernes behov for rimelige priser. Priserne forventes at stige op til 35 procent pga. højere udstyrspriser, stigende forrentningskrav og investeringer i netbeskyttelse. Afgørelserne gælder 13 fibernetselskaber: fem (Aura, BornFiber, EnergiFyn, Fibia, Norlys) får godkendt egne tilsagn; ét (TDC) får pålagt forpligtelser; syv (Jysk Energi, RAH, SEF, Thy-Mors Energi, Nordenergi, MES) skal holde net åbne for andre udbydere. Selskaber kan klage til Teleklagenævnet og domstolene.",
+  "prompt_tokens": 1819,
+  "completion_tokens": 507,
+  "latency_ms": 12483,
+  "cost_usd": 0.000668,
+  "created": "2026-11-10T05:43:58.815948Z",
+  "error": null
+}

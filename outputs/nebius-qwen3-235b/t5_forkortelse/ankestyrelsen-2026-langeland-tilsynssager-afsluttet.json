@@ -1,0 +1,21 @@
+{
+  "model_id": "nebius-qwen3-235b",
+  "pinned_version": "Qwen/Qwen3-235B-A22B-Instruct-2507",
+  "task_id": "t5_forkortelse",
+  "source_id": "ankestyrelsen-2026-langeland-tilsynssager-afsluttet",
+  "archetype": null,
+  "prompt_sha256": "833821da059bbb12ef09a001590d825330dc2a5f6259ccfdb696c396ff2d01a2",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 860,
+    "reasoning_effort": null
+  },
+  "text": "Ankestyrelsen afslutter to tilsynssager mod Langeland Kommune. I den første sag fra november 2022 konkluderede tilsynet, at Familieafdelingen ikke havde overholdt bestemmelser i offentlighedsloven, forvaltningsloven, retssikkerhedsloven og serviceloven. Kommunen blev derfor bedt om at gennemgå relevante sager. Langeland Kommune identificerede 295 sager til gennemgang. Efter flere præciseringer og ændringer i opfølgningen modtog tilsynet i marts 2025 en slutorientering. Ankestyrelsen vurderer nu, at kommunen har gennemført nødvendige tiltag, herunder konkret og individuel vurdering af sager, identifikation af fejl og mangler samt genoptagelse af relevante sager. Der er derfor ikke grundlag for yderligere handling, siger ankechef Hanne Østergaard.\n\nDen anden sag startede i 2024, efter at en taskforce – bestående af medarbejdere fra Socialstyrelsen og Ankestyrelsen – havde meldt bekymring over forhold i Familieafdelingen, hvilket førte til en pause i taskforce-forløbet. Tilsynet afsluttede sagen i august 2023 uden at rejse formel tilsynssag, men med opfølgning på kommunens tiltag. Langeland Kommune har nu omorganiseret og opnormeret afdelingen, hvilket ifølge kommunen sikrer mere ensartet sagsbehandling. Kommunen kan nu genoptage deltagelse i et skræddersyet taskforce-forløb fra maj 2026 til januar 2028 med fokus på lovmedhold og socialfaglig kvalitet. Tilsynet konstaterer, at der ikke længere er grundlag for opfølgning.",
+  "prompt_tokens": 1396,
+  "completion_tokens": 489,
+  "latency_ms": 51804,
+  "cost_usd": 0.0005725999999999999,
+  "created": "2026-11-10T05:44:07.163057Z",
+  "error": null
+}

@@ -1,0 +1,21 @@
+{
+  "model_id": "nebius-gpt-oss-120b",
+  "pinned_version": "openai/gpt-oss-120b",
+  "task_id": "t4_versionering",
+  "source_id": "dst-2026-ubeskaeftigede-oensker-arbejde",
+  "archetype": "landsavisen",
+  "prompt_sha256": "40a7ceb2ab886a8c3246970741bd2f7136aef8b7edda217f7dca26fd87a9e28c",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 2525,
+    "reasoning_effort": "low"
+  },
+  "text": "I første kvartal 2026 registrerede Danmarks Statistik 905 000 personer i alderen 15‑64 år som ubeskæftigede. Af dem ønskede 52 % – svarende til 470 000 personer – aktivt et arbejde, hvilket er en stigning på 85 000 personer siden samme periode i 2024, hvor andelen lå på 45 %. Andelen, der ønskede arbejde, var lavest blandt 55‑64‑årige (28 %) og højest blandt 25‑34‑årige (66 %).  \n\nSamtidig faldt antallet af ubeskæftigede, der ikke ønsker et arbejde, til 435 000, 41 000 færre end i 2024. Undersøgelsen viser, at uddannelse er den primære grund til, at unge i alderen 15‑24 år ikke vil have et arbejde – fire ud af fem angiver dette som årsag. Med stigende alder overtager pension mv. (efterløn, fleksydelse, førtidspension) som hyppigste grund; syv ud af ti 55‑64‑årige nævner dette. Familiemæssige årsager er sjældne på tværs af aldersgrupperne.  \n\nAf de 470 000 ubeskæftigede, der ønskede et arbejde, udgjorde AKU‑ledige – personer, der både søger arbejde og kan starte med det samme – 236 000, altså omtrent halvdelen. Yderligere 81 000 søgte arbejde, men kunne ikke starte med det samme, mens 40 000 kunne starte, men ikke søgte. Disse tre grupper udgør 356 000 personer, som Danmarks Statistik betegner som arbejdskraftreserven.  \n\nAKU‑ledigheden udgjorde 7,5 % af arbejdsstyrken i første kvartal 2026, en stigning på 0,8 procentpoint fra året før. Uden studerende lå ledighedsprocenten på 6,2 %, en stigning på 0,5 procentpoint. Den stigende ledighed kan delvist forklares af et relativt højt antal opsigelser i andet halvår af 2025.  \n\nForskellen mellem AKU‑ledighed og registerledighed skyldes, at AKU‑ledige ikke nødvendigvis modtager specifikke ydelser, og at AKU‑ledigheden rapporteres i antal personer, mens registerledigheden opgøres i fuldtidspersoner. Yderligere detaljer findes i Danmarks Statistiks notat om ledighedsbegreber.",
+  "prompt_tokens": 1639,
+  "completion_tokens": 592,
+  "latency_ms": 2244,
+  "cost_usd": 0.00060105,
+  "created": "2026-11-10T05:38:21.374665Z",
+  "error": null
+}

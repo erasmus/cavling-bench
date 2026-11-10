@@ -1,0 +1,21 @@
+{
+  "model_id": "nebius-gpt-oss-120b",
+  "pinned_version": "openai/gpt-oss-120b",
+  "task_id": "t2_rubrik",
+  "source_id": "nationalbanken-2026-udsigter-marts",
+  "archetype": "lynposten",
+  "prompt_sha256": "302cf1dccd1ec05cf35134ddd4fc8f5d5901a2e36a4b1785b95e711cb0131ce4",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 1900,
+    "reasoning_effort": "low"
+  },
+  "text": "RUBRIK: Nationalbanken ser lav inflation trods stigende energipriser  \nUNDERRUBRIK: Nationalbanken forventer 1,8 % inflation i 2024 og advarer om et risikoscenarie på 4,5 % hvis energipriserne forbliver høje.",
+  "prompt_tokens": 1267,
+  "completion_tokens": 402,
+  "latency_ms": 1247,
+  "cost_usd": 0.00043125,
+  "created": "2026-11-10T05:38:09.269743Z",
+  "error": null
+}

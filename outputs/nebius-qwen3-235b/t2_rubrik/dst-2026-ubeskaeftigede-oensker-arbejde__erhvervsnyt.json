@@ -1,0 +1,21 @@
+{
+  "model_id": "nebius-qwen3-235b",
+  "pinned_version": "Qwen/Qwen3-235B-A22B-Instruct-2507",
+  "task_id": "t2_rubrik",
+  "source_id": "dst-2026-ubeskaeftigede-oensker-arbejde",
+  "archetype": "erhvervsnyt",
+  "prompt_sha256": "07e028e2053f807faec137dfb4c9c8e47a1aab201316c6fea5f32d0cbff8a0fe",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 400,
+    "reasoning_effort": null
+  },
+  "text": "RUBRIK: 470.000 ubeskæftigede ønsker arbejde – stigning på 85.000  \nUNDERRUBRIK: Andelen af ubeskæftigede, der ønsker arbejde, er steget til 52 pct. siden 2024. Blandt dem er 236.000 AKU-ledige, svarende til 7,5 pct. af arbejdsstyrken.",
+  "prompt_tokens": 2006,
+  "completion_tokens": 113,
+  "latency_ms": 1918,
+  "cost_usd": 0.00046900000000000007,
+  "created": "2026-11-10T05:39:37.337244Z",
+  "error": null
+}

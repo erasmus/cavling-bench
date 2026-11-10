@@ -1,0 +1,21 @@
+{
+  "model_id": "nebius-gpt-oss-120b",
+  "pinned_version": "openai/gpt-oss-120b",
+  "task_id": "t6_lydmanus",
+  "source_id": "dst-2026-offentligt-overskud-2025",
+  "archetype": "lynposten",
+  "prompt_sha256": "a04e485b1a35f35e3351b6e936b0b39a4bff5749ddf7502631a68e0d9cb19285",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 2120,
+    "reasoning_effort": "low"
+  },
+  "text": "Nittety millioner nioghalvfems kroner overskød de offentlige finanser i to tusind femogtyve, ifølge Danmarks Statistik. Det er et fald fra et overskud på et hundrede treogtyve komma fem millioner kroner i to tusind fireogtyve. Samtidig steg udgifterne med femogfirs milliarder kroner til en samlet sum på et tusind firehundrede tooghalvfems komma otte milliarder kroner, mens indtægterne kun steg med tooghalvfems milliarder kroner til et tusind femhundrede treogtredive komma otte milliarder kroner. Indtægterne fra pensionsafkastskatten nåede fireogfyrre komma nul milliarder kroner, lidt højere end året før. På udgiftssiden var de største stigninger inden for social beskyttelse, sundhed og forsvar, ifølge Danmarks Statistik.",
+  "prompt_tokens": 1376,
+  "completion_tokens": 246,
+  "latency_ms": 1208,
+  "cost_usd": 0.000354,
+  "created": "2026-11-10T05:38:41.364633Z",
+  "error": null
+}

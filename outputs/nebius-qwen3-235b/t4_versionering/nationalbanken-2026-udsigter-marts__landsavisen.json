@@ -1,0 +1,21 @@
+{
+  "model_id": "nebius-qwen3-235b",
+  "pinned_version": "Qwen/Qwen3-235B-A22B-Instruct-2507",
+  "task_id": "t4_versionering",
+  "source_id": "nationalbanken-2026-udsigter-marts",
+  "archetype": "landsavisen",
+  "prompt_sha256": "47b9beae0b1c1665402bc7f4458726f2089898d74979136a0f3c2eb73c3fc279",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 1025,
+    "reasoning_effort": null
+  },
+  "text": "Nationalbanken fremsætter sin seneste økonomiske prognose i en tid præget af vedvarende geopolitisk usikkerhed, handelskonflikter og stigende energipriser. Trods disse udfordringer vurderer banken, at dansk økonomi er grundlæggende i god balance, med høj beskæftigelse og lav ledighed. Prognosen kommer samtidig med to klare anbefalinger til den kommende regering om at udvise finansiel forsigtighed i de kommende år.\n\nInflationen forventes at ligge på 1,8 pct. i år, 2,0 pct. i 2027 og 1,9 pct. i 2028. Nationalbanken ser dog en betydelig risiko i udviklingen på energimarkedet, især som følge af situationen i Mellemøsten. I et risikoscenarie, hvor olie- og gasforsyningen fra Den Persiske Golf begrænses, kunne inflationen i år nå op på 4,5 pct. Selv i denne situation forventer nationalbankdirektør Christian Kettel Thomsen ikke en gentagelse af inflationskrisen efter Ruslands invasion af Ukraine. \"Trods de nuværende stigninger i energipriserne forventer vi ikke, at vi ser ind i en inflationskrise,\" siger han.\n\nBNP forventes at vokse med 1,8 pct. i år og 2027 og 2,0 pct. i 2028. Kerneinflationen falder gradvist fra 2,2 pct. i 2026 til 1,7 pct. i 2028. Nationalbanken peger dog på, at der kun er begrænset ledig kapacitet i økonomien. Derfor bør den nye regering ifølge Thomsen ikke skubbe til efterspørgslen ud over det, der allerede er planlagt i den tidligere regerings 2035-plan.\n\nDet permanente løft i forsvarsudgifter på 75 mia. kr. siden Ruslands invasion har reduceret råderummet for nye prioriteringer. \"Det er vigtigt at holde sig for øje, at råderummet kan ændre sig med nye skøn for den fremadrettede økonomiske udvikling,\" siger Thomsen og anbefaler, at regeringen undgår at udmønte hele råderummet eller svække den strukturelle saldo yderligere.",
+  "prompt_tokens": 1446,
+  "completion_tokens": 616,
+  "latency_ms": 9250,
+  "cost_usd": 0.0006588,
+  "created": "2026-11-10T05:42:37.663522Z",
+  "error": null
+}

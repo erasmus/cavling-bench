@@ -1,0 +1,21 @@
+{
+  "model_id": "nebius-qwen3-235b",
+  "pinned_version": "Qwen/Qwen3-235B-A22B-Instruct-2507",
+  "task_id": "t6_lydmanus",
+  "source_id": "ankestyrelsen-2026-langeland-tilsynssager-afsluttet",
+  "archetype": "lynposten",
+  "prompt_sha256": "5f82b57619335913d0a4a8c6d06723fd1483e12e8acfd1d55fbd275529dadc82",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 620,
+    "reasoning_effort": null
+  },
+  "text": "To hundrede og femoghalvfems sager er gennemgået i Langeland Kommune. Ankestyrelsen afslutter nu to tilsynssager mod kommunens Familieafdeling.  \n\nI november to tusind og toogtyve fandt tilsynet, at kommunen ikke havde overholdt reglerne i offentlighedsloven, forvaltningsloven, retssikkerhedsloven og serviceloven.  \n\nAnkestyrelsen bad derfor kommunen om at gennemgå alle relevante sager. Langeland Kommune har nu vurderet, at to hundrede og femoghalvfems sager skulle undersøges.  \n\nI marts to tusind og femogtyve sendte kommunen en slutorientering til tilsynet. Ankestyrelsen vurderer, at opfølgningen er i orden.  \n\nAnkechef Hanne Østergaard fra Ankestyrelsen siger, at kommunen har fulgt op og gennemført de nødvendige tiltag. Der er derfor ikke grundlag for yderligere handling fra tilsynet.  \n\nDen anden sag startede i to tusind og fireogtyve efter en henvendelse fra en taskforce. Den var stoppet på grund af bekymrende forhold.  \n\nLangeland Kommune har nu omorganiseret afdelingen. Samarbejdet med taskforcen genoptages i maj to tusind og seksogtyve. Forløbet varer til januar to tusind og otteogtyve.",
+  "prompt_tokens": 1759,
+  "completion_tokens": 367,
+  "latency_ms": 5793,
+  "cost_usd": 0.000572,
+  "created": "2026-11-10T05:44:39.840989Z",
+  "error": null
+}

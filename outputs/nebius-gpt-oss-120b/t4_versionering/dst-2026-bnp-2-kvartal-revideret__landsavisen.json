@@ -1,0 +1,21 @@
+{
+  "model_id": "nebius-gpt-oss-120b",
+  "pinned_version": "openai/gpt-oss-120b",
+  "task_id": "t4_versionering",
+  "source_id": "dst-2026-bnp-2-kvartal-revideret",
+  "archetype": "landsavisen",
+  "prompt_sha256": "bf3a136a137883a53626df2901ca8bfbd33f27136f0bb5194ba36e1dc5c58cf6",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 2525,
+    "reasoning_effort": "low"
+  },
+  "text": "Danmarks bruttonationalprodukt (BNP) er i andet kvartal 2026 blevet revideret op til en vækst på 0,9 % efter korrektion for prisudvikling og sæsonbevægelser. Revisionen, som følger den seneste opdatering af Industriens produktion og omsætning, Firmaernes køb og salg samt betalingsbalancen, hæver den oprindelige vækst med 0,6 procentpoint. Sammenlagt viser første halvår en BNP-stigning på 6,0 % i forhold til samme periode året før, hvilket markerer en markant acceleration i den danske økonomi.\n\nMedicinalindustrien har haft en central rolle i væksten; bruttoværditilvæksten (BVT) for hele økonomien steg med 1,1 % og ville kun have været 0,7 % uden denne sektor. Den øvrige industri og den offentlige sektor bidrog også positivt. Beskæftigelsen voksede med 0,2 % i kvartalet, svarende til 7.800 nye jobs, mens de samlede præsterede timer steg med 0,3 %.\n\nInvesteringerne viste en pæn stigning på 1,5 % i faste bruttoinvesteringer, primært drevet af en opjustering i intellektuelle rettigheder efter et patentkøb i udlandet. Byggeri og anlæg, især andet byggeri end boligbyggeri, tilføjede yderligere vækst, mens investeringerne i transportmidler og maskiner faldt.\n\nForbruget i både den offentlige sektor og husholdningerne var fladt på 0,0 % i kvartalet, men husholdningernes forbrug af tjenester steg med 0,8 % og var en opjustering på 0,3 % i forhold til den foreløbige opgørelse. Samtidig faldt forbruget af varer, især køretøjer, med 0,8 %.\n\nHandlen udvidede sig: importen steg med 1,8 % og eksporten med 1,5 %, hvor vareeksporten voksede med 2,8 % og maskineeksporten var en væsentlig driver. Tjenesteimporten steg med 2,6 % som følge af patentkøbet, mens tjenesteeksporten faldt med 0,5 %.\n\nDe store udsving i lagerændringerne i første kvartal giver et vækstbidrag på 0,4 % i andet kvartal, men statistikerne understreger, at disse tal skal fortolkes med påpasselighed på grund af usikkerhed i sæsonkorrektionen. Revisionerne er en del af den løbende opdatering af nationalregnskabet, som nu også bygger på et forbedret datagrundlag fra Firmaernes køb og salg.",
+  "prompt_tokens": 2526,
+  "completion_tokens": 652,
+  "latency_ms": 2474,
+  "cost_usd": 0.0007700999999999999,
+  "created": "2026-11-10T05:38:19.295453Z",
+  "error": null
+}

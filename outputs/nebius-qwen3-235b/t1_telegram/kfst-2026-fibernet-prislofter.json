@@ -1,0 +1,21 @@
+{
+  "model_id": "nebius-qwen3-235b",
+  "pinned_version": "Qwen/Qwen3-235B-A22B-Instruct-2507",
+  "task_id": "t1_telegram",
+  "source_id": "kfst-2026-fibernet-prislofter",
+  "archetype": null,
+  "prompt_sha256": "1fd081d4a182cb90203633e1fa9037a9c71d26f94db0cf0e93fe289b6b092d45",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 560,
+    "reasoning_effort": null
+  },
+  "text": "Konkurrence- og Forbrugerstyrelsen fastsætter fra årsskiftet prislofter for 13 fibernetselskaber, herunder TDC, for en femårsperiode, hvor lejepriserne forventes at stige op til 35 procent pga. højere udstyrspriser, stigende renter og omkostninger til beskyttelse mod cyberangreb. Prislofterne gælder kun i områder med manglende konkurrence, og TDC får pålagt forpligtelser, da dets tilsagn ikke blev accepteret. Fem selskaber, herunder Aura og Norlys, godkendes på baggrund af egne tilsagn, mens syv, som Jysk Energi og Nordenergi, skal holde deres net åbne for andre udbydere. Afgørelserne bygger på omfattende høringer og analyser, herunder ekspertbaserede vurderinger af netbeskyttelse, og sendes til EU-Kommissionen for godkendelse. Forbrugere og mindre virksomheder skal fortsat have adgang til rimelige priser, mens netejere dækker omkostninger. Afgørelserne kan ankes til Teleklagenævnet og domstolene.",
+  "prompt_tokens": 1801,
+  "completion_tokens": 317,
+  "latency_ms": 5052,
+  "cost_usd": 0.0005504,
+  "created": "2026-11-10T05:39:02.855729Z",
+  "error": null
+}

@@ -1,0 +1,21 @@
+{
+  "model_id": "nebius-qwen3-235b",
+  "pinned_version": "Qwen/Qwen3-235B-A22B-Instruct-2507",
+  "task_id": "t6_lydmanus",
+  "source_id": "dst-2026-offentligt-overskud-2025",
+  "archetype": "lynposten",
+  "prompt_sha256": "a04e485b1a35f35e3351b6e936b0b39a4bff5749ddf7502631a68e0d9cb19285",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 620,
+    "reasoning_effort": null
+  },
+  "text": "Nioghalvfems mia. kr. var det offentlige overskud i to tusind femogtyve. Det viser tal fra Danmarks Statistik. Overskuddet er faldet fra to tusind fire, hvor det var hundrede treogtyve mia. kr. Offentlige indtægter steg med to og halvtreds mia. kr. til femten hundrede tre og tres mia. kr. Størst stigning kom fra pensionsafkastsskatten. Den nåede syvogfyrre mia. kr. Skat fra løn og selskaber steg også. Offentlige udgifter voksede med femogfirs mia. kr. til femten hundrede tolv mia. kr. Social beskyttelse er den største udgift. Den udgør en og fyrre procent af alt. Sundhed er næststørst med sytten procent. Udgifter til pensioner steg med otte og halv mia. kr. Fordi der er flere pensionister og højere satser. Forsvarsudgifterne er steget de seneste år. Nu udgør de fem procent af de samlede udgifter. Tallet for to tusind femogtyve er justeret op med to og halvt mia. kr. Fordi der er kommet nye data fra Skattestyrelsen og kommunerne.",
+  "prompt_tokens": 1569,
+  "completion_tokens": 316,
+  "latency_ms": 45269,
+  "cost_usd": 0.0005034,
+  "created": "2026-11-10T05:45:30.063790Z",
+  "error": null
+}

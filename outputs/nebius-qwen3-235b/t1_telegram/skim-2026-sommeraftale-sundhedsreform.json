@@ -1,0 +1,21 @@
+{
+  "model_id": "nebius-qwen3-235b",
+  "pinned_version": "Qwen/Qwen3-235B-A22B-Instruct-2507",
+  "task_id": "t1_telegram",
+  "source_id": "skim-2026-sommeraftale-sundhedsreform",
+  "archetype": null,
+  "prompt_sha256": "f419fc2cdc9278b531043df38578bede7e5dd7aa1a3b58ae3f80000cbea6ce17",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 560,
+    "reasoning_effort": null
+  },
+  "text": "Regeringen, Danske Regioner og KL har indgået en sommeraftale om implementeringen af sundhedsreformen, der fra 2027 sikrer patienter med KOL og kroniske lænderygsmerter ret til en behandlingsplan og forebyggelsestilbud inden for 21 dage. Aftalen, som bygger på forårsaftalen fra 2025, indebærer også en udvidelse af behandlingsansvaret efter udskrivelse til 96 timer for ældre medicinske og visse psykiatriske patienter. Der skabes frit valg til sundheds- og omsorgspladser, og den første nationale sundhedsplan for 2027–2030 fastlægges. Finansieringen stiger fra knap 800 mio. kr. i 2027 til 1,1 mia. kr. årligt fra 2030.",
+  "prompt_tokens": 2410,
+  "completion_tokens": 230,
+  "latency_ms": 5131,
+  "cost_usd": 0.00062,
+  "created": "2026-11-10T05:39:19.966438Z",
+  "error": null
+}

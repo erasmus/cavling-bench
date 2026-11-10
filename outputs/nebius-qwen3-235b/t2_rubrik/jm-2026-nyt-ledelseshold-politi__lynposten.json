@@ -1,0 +1,21 @@
+{
+  "model_id": "nebius-qwen3-235b",
+  "pinned_version": "Qwen/Qwen3-235B-A22B-Instruct-2507",
+  "task_id": "t2_rubrik",
+  "source_id": "jm-2026-nyt-ledelseshold-politi",
+  "archetype": "lynposten",
+  "prompt_sha256": "3561e9368d255244bc91c2a7cc5cd1774d704db1c5342e1fd85363de10c45acc",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 400,
+    "reasoning_effort": null
+  },
+  "text": "RUBRIK: Lasse Boje Nielsen er ny rigspolitichef  \nUNDERRUBRIK: Justitsminister Nicolai Wammen udnævner et nyt ledelseshold for politi og anklagemyndighed. Nielsen overtager fra Thorkild Fogde, som bliver politidirektør i Københavns Vestegns Politi.",
+  "prompt_tokens": 1956,
+  "completion_tokens": 88,
+  "latency_ms": 2731,
+  "cost_usd": 0.00044400000000000006,
+  "created": "2026-11-10T05:39:50.333643Z",
+  "error": null
+}

@@ -1,0 +1,21 @@
+{
+  "model_id": "nebius-qwen3-235b",
+  "pinned_version": "Qwen/Qwen3-235B-A22B-Instruct-2507",
+  "task_id": "t2_rubrik",
+  "source_id": "fo-2026-salling-group-oego-boede",
+  "archetype": "lynposten",
+  "prompt_sha256": "282d49744909c7263a04e45c632075820f12bab63042a755ada5831d7aae6980",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 400,
+    "reasoning_effort": null
+  },
+  "text": "RUBRIK: Salling Group betaler 10 millioner i bøde for grøn vildledning  \nUNDERRUBRIK: Netto har markedsført sit ØGO-mærke som Danmarks fjerde mest bæredygtige brand, men udsagnet var baseret på forbrugeres opfattelse – ikke fakta. Forbrugerombudsmanden kalder det vildledende.",
+  "prompt_tokens": 2026,
+  "completion_tokens": 102,
+  "latency_ms": 3986,
+  "cost_usd": 0.00046640000000000006,
+  "created": "2026-11-10T05:39:47.005821Z",
+  "error": null
+}

@@ -1,0 +1,21 @@
+{
+  "model_id": "nebius-qwen3-235b",
+  "pinned_version": "Qwen/Qwen3-235B-A22B-Instruct-2507",
+  "task_id": "t2_rubrik",
+  "source_id": "politi-2026-sydoestjylland-hadforbrydelse",
+  "archetype": "erhvervsnyt",
+  "prompt_sha256": "a4b4a4954aaa6a474f9e1f206696558d5224594db1808779a0204cae4d3a239f",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 400,
+    "reasoning_effort": null
+  },
+  "text": "RUBRIK: 18-årig idømt 15 måneders fængsel for hadforbrydelse  \nUNDERRUBRIK: Manden og to meddømte dømt for vold med kniv, peberspray og totenschlæger i Horsens i januar 2026. Retten fastslog, at volden var begrundet i ofrenes seksuelle orientering.",
+  "prompt_tokens": 1431,
+  "completion_tokens": 103,
+  "latency_ms": 5020,
+  "cost_usd": 0.000348,
+  "created": "2026-11-10T05:40:16.585693Z",
+  "error": null
+}

@@ -1,0 +1,21 @@
+{
+  "model_id": "nebius-qwen3-235b",
+  "pinned_version": "Qwen/Qwen3-235B-A22B-Instruct-2507",
+  "task_id": "t3_faktaboks",
+  "source_id": "politi-2026-nsk-cpr-opslag",
+  "archetype": null,
+  "prompt_sha256": "79785f44a202bae98094c69df42b88ea18b27dca478ae98f00ee89bbf2f00d3a",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 575,
+    "reasoning_effort": null
+  },
+  "text": "- En 27-årig mand fra Storkøbenhavn er idømt 3 år og 6 måneder fængsel.  \n- Dommen blev afsagt onsdag ved Københavns Byret.  \n- Den dømte misbrugte sin stilling som studentermedhjælper i Københavns Kommune fra juni 2023 til juli 2024.  \n- Han solgte oplysninger fra CPR-registret, der medvirkede til 34 tilfælde af forsøg på grov vold.  \n- National enhed for Særlig Kriminalitet (NSK) har cirka 1.200 ansatte og har hovedsæde i Ejby ved Glostrup.",
+  "prompt_tokens": 1374,
+  "completion_tokens": 179,
+  "latency_ms": 8135,
+  "cost_usd": 0.00038219999999999997,
+  "created": "2026-11-10T05:40:51.085033Z",
+  "error": null
+}

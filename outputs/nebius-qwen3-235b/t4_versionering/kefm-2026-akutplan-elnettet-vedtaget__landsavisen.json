@@ -1,0 +1,21 @@
+{
+  "model_id": "nebius-qwen3-235b",
+  "pinned_version": "Qwen/Qwen3-235B-A22B-Instruct-2507",
+  "task_id": "t4_versionering",
+  "source_id": "kefm-2026-akutplan-elnettet-vedtaget",
+  "archetype": "landsavisen",
+  "prompt_sha256": "fac7f24b636ff2ee6b717e2d65cb4178fa74aadfe39f1071334f4cc0f06c75ac",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 1025,
+    "reasoning_effort": null
+  },
+  "text": "Et bredt flertal i Folketinget har vedtaget en akutplan for det danske elnet, der erstatter det hidtidige først-til-mølle-princip med en ny prioriteringsmodel. Aftalen er et svar på den stigende pres på elnettet, hvor kapaciteten i flere områder ikke længere rækker til at rumme alle nye tilslutningsprojekter. Lovgivningen træder i kraft 12. oktober og giver Energinet og netvirksomhederne mulighed for at prioritere projekter ud fra samfundsmæssige hensyn.\n\nKlima-, energi- og forsyningsminister Samira Nawa (R) kalder situationen \"dybt alvorlig\" og fremhæver, at den nye model skal sikre, at den begrænsede kapacitet bruges klogere. \"Vi tager ansvar for at prioritere det, der er vigtigst for vores land,\" siger hun. Flere partier understreger, at målet er at beskytte den grønne omstilling og forsyningssikkerheden. SF’s Nanna Bonde advarer mod, at datacentre blokerer for kollektive løsninger som fjernvarme og offentlig transport. Venstres Mathilde Hjort Bressum pointerer, at prioriteringen kun må være midlertidig, og at der hurtigt skal handles for at udbygge transmissionsnettet.\n\nAftalen bygger på en politisk forståelse fra foråret og er nu konkretiseret efter høring og behandling i Folketinget. Ifølge Klima-, Energi- og Forsyningsministeriet kræver den politiske prioritering ikke metodegodkendelse fra Forsyningstilsynet, men anvendelsen af netvenlighed skal bygge på godkendte metoder. Partierne bakker op om, at reglerne skal genforhandles i 2027, og at akutplanen kun er første skridt. Målet er en mere fleksibel udnyttelse af det eksisterende net, mens der arbejdes på langsigtet udbygning og modernisering.",
+  "prompt_tokens": 3245,
+  "completion_tokens": 525,
+  "latency_ms": 14190,
+  "cost_usd": 0.000964,
+  "created": "2026-11-10T05:42:17.457176Z",
+  "error": null
+}

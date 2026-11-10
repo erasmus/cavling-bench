@@ -1,0 +1,21 @@
+{
+  "model_id": "nebius-qwen3-235b",
+  "pinned_version": "Qwen/Qwen3-235B-A22B-Instruct-2507",
+  "task_id": "t4_versionering",
+  "source_id": "kfst-2026-fibernet-prislofter",
+  "archetype": "lynposten",
+  "prompt_sha256": "c953c355ec0c8654da9d70ebc00902af7e36fd5675ee1ec4bee37ccd40f53726",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 1025,
+    "reasoning_effort": null
+  },
+  "text": "TDC får pålagt prislofter på fiberforretning i hovedstadsområdet. Forbrugere og mindre virksomheder får dermed bedre beskyttelse mod høje priser, hvor konkurrencen er svag.\n\nKonkurrence- og Forbrugerstyrelsen fastsætter prislofter, hvor fibernet-ejere har monopollignende position. Det gælder især områder, hvor andre udbydere skal leje adgang til nettet. Uden prislofter kunne ejerne tvinge priserne unødigt højt op.\n\nPrislofterne tager højde for nødvendige omkostninger. Det gælder blandt andet beskyttelse mod fysiske og cybermæssige angreb på fibernettet. Men lejepriserne dækker ikke sikkerhed på andre net, som mobilnet.\n\nFor TDC gælder reglerne kun for en mindre del af forretningen. Mobilpriser og fiberleje uden for hovedstadsområdet er ikke omfattet. Det fremgår af udkastet til afgørelse på styrelsens hjemmeside.\n\nDe nye prislofter træder i kraft ved årsskiftet. De gælder i fem år. Priserne forventes at stige op til 35 procent i forhold til nuværende niveauer. Stigningen skyldes højere udstyrspriser, højere renter og omkostninger til netbeskyttelse.\n\nStyrelsen har fået lavet en ekstra analyse af netbeskyttelsesomkostningerne. Den bygger på input fra virksomheder og eksterne eksperter. Analysen førte til, at flere robusthedsomkostninger er med i beregningerne.\n\nAfgørelserne gælder 13 fibernetselskaber. Fem selskaber – som Aura, BornFiber og Norlys – får godkendt deres egne tilsagn. Syv – som Jysk Energi og RAH – skal holde nettet åbent for andre udbydere. TDC er det eneste, der får pålagt forpligtelser, fordi dets tilsagn ikke blev accepteret.\n\nFør endelig afgørelse sendes sagen til Europa-Kommissionen. Den skal sikre, at reglerne overholdes i hele EU. Afgørelserne kan klages til Teleklagenævnet og domstolene.",
+  "prompt_tokens": 2143,
+  "completion_tokens": 595,
+  "latency_ms": 13223,
+  "cost_usd": 0.0007856,
+  "created": "2026-11-10T05:42:21.259356Z",
+  "error": null
+}

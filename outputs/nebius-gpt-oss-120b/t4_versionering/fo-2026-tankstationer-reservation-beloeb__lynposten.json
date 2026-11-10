@@ -1,0 +1,21 @@
+{
+  "model_id": "nebius-gpt-oss-120b",
+  "pinned_version": "openai/gpt-oss-120b",
+  "task_id": "t4_versionering",
+  "source_id": "fo-2026-tankstationer-reservation-beloeb",
+  "archetype": "lynposten",
+  "prompt_sha256": "427307f2dc944fabf0cad261f004aafb88351c91c47389704eff3421e14df506",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 2525,
+    "reasoning_effort": "low"
+  },
+  "text": "3 000 forbrugere har klaget over for høje reservationsbeløb på tankstationer, siger Forbrugerombudsmanden.  \n\nTankstationskæderne Q8, OK, Shell og Uno‑X har reserveret beløb, der langt overstiger den endelige betaling. Forbrugerombudsmand Torben Jensen kritiserer især reservationer på 950 kroner hos Q8 og 850 kroner hos OK, som han kalder urimelige for små biler.  \n\nEfter en dialog med brancheorganisationen Drivkraft Danmark i 2023 har Shell og Uno‑X ændret praksis. På deres betalingsskærme kan forbrugerne nu vælge et reservationsbeløb, der svarer til den maksimale tankning. OK har sat reservationsbeløbet til 100 kroner og planlægger en ny løsning. Q8 holder fast på 950 kroner, men arbejder på en softwareløsning, der skal implementeres i midten af 2026.  \n\nFlere forbrugere har oplevet, at reservationerne ikke blev frigivet hurtigt nok. I nogle tilfælde har beløbet stået låst i op til 11 dage, ofte på grund af tekniske fejl hos banken. Q8 og OK mangler endnu en løsning for betaling med Apple / Google Pay, hvor forbrugeren ikke ser skærmflowet. OK vil i stedet opsætte tydelig skiltning ved terminalen, men Forbrugerombudsmanden fastholder, at samtykket skal fremgå i selve skærmflowet.  \n\nJensen udtaler: “Det er urimeligt, når tankstationer reserverer omkring 900 kroner eller mere hos kunder, der skal tanke et mindre køretøj. Jeg er meget tilfreds med, at Shell, Uno‑X og OK nu har indført nye løsninger, så forbrugeren enten selv vælger beløbet eller får reserveret et langt mindre beløb.”  \n\nForbrugerombudsmanden afslutter sagerne, men har anmodet Q8 og OK om at efterleve reglerne om rimelige reservationsbeløb og samtykke.",
+  "prompt_tokens": 2420,
+  "completion_tokens": 493,
+  "latency_ms": 1859,
+  "cost_usd": 0.0006588,
+  "created": "2026-11-10T05:38:24.034943Z",
+  "error": null
+}

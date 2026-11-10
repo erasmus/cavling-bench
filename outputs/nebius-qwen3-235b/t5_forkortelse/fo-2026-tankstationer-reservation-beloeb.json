@@ -1,0 +1,21 @@
+{
+  "model_id": "nebius-qwen3-235b",
+  "pinned_version": "Qwen/Qwen3-235B-A22B-Instruct-2507",
+  "task_id": "t5_forkortelse",
+  "source_id": "fo-2026-tankstationer-reservation-beloeb",
+  "archetype": null,
+  "prompt_sha256": "a35d7b2682cc3a89e64d1eb8cdcd8fb9f2e58b7b54a47775d35228a5f5379ffd",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 860,
+    "reasoning_effort": null
+  },
+  "text": "Tankstationskæderne Q8, OK, Shell og Uno-X har reserveret urimeligt høje beløb på forbrugernes konti. Q8, der også driver F24-stationer, reserverer fortsat 950 kroner, mens OK midlertidigt har sat reservationen til 100 kroner. Shell og Uno-X har ændret praksis, så forbrugeren nu på skærmen kan vælge reservationsbeløbet, svarende til det maksimale beløb, de kan tanke for. Forbrugerombudsmanden har påvist, at reservationer på 950 og 850 kroner hos Q8 og OK var urimelige i forhold til det, forbrugere med små biler tanker for. Samtidig har Shell og Uno-X tidligere reserveret op til henholdsvis 1.500 og 1.200 kroner, hvilket også vurderes som urimeligt. Forbrugerombudsmanden har efter dialog med brancheorganisationen Drivkraft Danmark i 2023 ikke nået enighed om, hvornår et reservationssbeløb er berettiget. Q8 mangler stadig at implementere samtykke i skærmflowet for Apple/Google Pay-brugere, men har lovet fuld implementering midt i 2026. OK vil bruge skiltning, men Forbrugerombudsmanden kræver samtykke i skærmflowet. Der har været klager over forsinkede frigivelser – op til 11 dage – hos OK, Uno-X og Shell, ofte pga. tekniske fejl. Kæderne har nu iværksat forbedringer. Forbrugerombudsmand Torben Jensen fremhæver, at reservationer skal stå i rimeligt forhold til det faktiske forbrug, og at forbrugeren skal give samtykke til det præcise beløb ifølge betalingslovens § 95. Aftaleloven § 38 c og markedsføringslovens § 3 gælder også. Ansvar for frigivelse ligger hos banken, men virksomheder kan medvirke. Sagerne er afsluttet, og Q8 og OK opfordres til at efterleve reglerne.",
+  "prompt_tokens": 2540,
+  "completion_tokens": 556,
+  "latency_ms": 10359,
+  "cost_usd": 0.0008415999999999999,
+  "created": "2026-11-10T05:43:46.369933Z",
+  "error": null
+}

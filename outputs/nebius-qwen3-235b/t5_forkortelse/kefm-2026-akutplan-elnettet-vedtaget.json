@@ -1,0 +1,21 @@
+{
+  "model_id": "nebius-qwen3-235b",
+  "pinned_version": "Qwen/Qwen3-235B-A22B-Instruct-2507",
+  "task_id": "t5_forkortelse",
+  "source_id": "kefm-2026-akutplan-elnettet-vedtaget",
+  "archetype": null,
+  "prompt_sha256": "72650e5c64281b68b4b12b36b764e834e8273a08b183a10f966d0a943cc28b2f",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 860,
+    "reasoning_effort": null
+  },
+  "text": "Et bredt flertal i Folketinget har vedtaget akutplanen for elnettet, der erstatter først-til-mølle-princippet med en ny prioriteringsmodel. Planen træder i kraft 12. oktober og giver Energinet og netvirksomhederne mulighed for at prioritere adgang til elnettet ud fra samfundsmæssige hensyn. Klima-, energi- og forsyningsminister Samira Nawa siger, at pladsen i elnettet er en knap ressource, og at loven er første skridt i en genopretningsplan for at prioritere, bygge, optimere og gentænke elnettet. Jesper Petersen (S) kalder det positivt, at den politiske forståelse nu bliver en konkret aftale. Nanna Bonde (SF) understreger, at den grønne omstilling må ikke bremses af datacentre. Mathilde Hjort Bressum (V) pointerer, at prioriteringen kun skal gælde i akutte situationer, og at der hurtigt skal forhandles om udbygning af transmissionsnettet. Malte Larsen (DF) mener, at kapaciteten skal bruges på det vigtigste for samfundet. Lars Aagaard (M) ser akutplanen som første skridt mod modernisering, mens Anders Storgaard (K) lægger vægt på netvenlige kriterier, fleksibelt elforbrug og faste genbesøg i 2027. Lisbeth Torfing (EL) glæder sig over, at danske hjem prioriteres foran datacentre. Anastasia Milthers (RV) kalder det en god dag for elnettet, og Anna Bjerre (ALT) ser det som et vigtigt skridt mod at elektrificere Danmark. Aftalen bygger på den politiske forståelse fra før sommerferien og er justeret efter høring og behandling. Klima-, Energi- og Forsyningsministeriet vurderer, at prioritering ikke kræver metodegodkendelse, men anvendelsen af netvenlighed skal bygge på godkendte metoder fra Forsyningstilsynet.",
+  "prompt_tokens": 2922,
+  "completion_tokens": 537,
+  "latency_ms": 11019,
+  "cost_usd": 0.0009065999999999999,
+  "created": "2026-11-10T05:43:49.397014Z",
+  "error": null
+}

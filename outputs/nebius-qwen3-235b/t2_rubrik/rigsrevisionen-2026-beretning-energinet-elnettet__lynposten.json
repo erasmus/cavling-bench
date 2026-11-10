@@ -1,0 +1,21 @@
+{
+  "model_id": "nebius-qwen3-235b",
+  "pinned_version": "Qwen/Qwen3-235B-A22B-Instruct-2507",
+  "task_id": "t2_rubrik",
+  "source_id": "rigsrevisionen-2026-beretning-energinet-elnettet",
+  "archetype": "lynposten",
+  "prompt_sha256": "f4236352a7b0293d34c99a4184f0f37b59ccc2fa0255032c588f35f20e2143cb",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 400,
+    "reasoning_effort": null
+  },
+  "text": "RUBRIK: 70 % af Energinets elnetprojekter forsinket  \nUNDERRUBRIK: Statsrevisorerne kritiserer dårlig styring og sent tilsyn. Forsinkelser koster over 10 mia. kr. og kan forsinke klimamålene.",
+  "prompt_tokens": 1890,
+  "completion_tokens": 75,
+  "latency_ms": 5026,
+  "cost_usd": 0.000423,
+  "created": "2026-11-10T05:40:20.146835Z",
+  "error": null
+}

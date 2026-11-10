@@ -1,0 +1,21 @@
+{
+  "model_id": "nebius-qwen3-235b",
+  "pinned_version": "Qwen/Qwen3-235B-A22B-Instruct-2507",
+  "task_id": "t1_telegram",
+  "source_id": "nationalbanken-2026-digitale-betalinger-beredskab",
+  "archetype": null,
+  "prompt_sha256": "abbf6322fc2cde707ca58293d06cd94339fdcb5c6406e97ed73dbc098fd33282",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 560,
+    "reasoning_effort": null
+  },
+  "text": "Mere end 90 procent af alle betalinger i Danmark er nu digitale, viser to analyser fra Nationalbanken udgivet i dag. Wallet-betalinger som Apple Pay og Google Pay udgør allerede hver tredje betaling i fysisk handel, mens kontantbrug er faldet til 9 procent af betalingerne i butikker i 2025 mod 11 procent i 2023. Alligevel har 41 procent af borgerne nu over 1.000 kr. i kontanter – op fra 33 procent i 2023 – og 7 ud af 10, der har kontanter, bruger dem som betalingsberedskab. Nationalbankdirektør Ulrik Nødgaard pointerer, at tekniske nedbrud hos Nets i juli 2025 og maj 2026 har vist behovet for beredskab. Offline-kortberedskabet, som tillader betaling med kort og mobil i op til syv dage uden internet, har vist sin værdi, og Nationalbanken opfordrer butikker til at tilslutte sig løsningen.",
+  "prompt_tokens": 1725,
+  "completion_tokens": 279,
+  "latency_ms": 14202,
+  "cost_usd": 0.0005124,
+  "created": "2026-11-10T05:39:12.224514Z",
+  "error": null
+}

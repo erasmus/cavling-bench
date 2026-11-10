@@ -1,0 +1,21 @@
+{
+  "model_id": "nebius-qwen3-235b",
+  "pinned_version": "Qwen/Qwen3-235B-A22B-Instruct-2507",
+  "task_id": "t3_faktaboks",
+  "source_id": "politi-2026-oestjylland-bedrageri-aeldre",
+  "archetype": null,
+  "prompt_sha256": "a8debba75bc54842a85b856b7af065c1e8e27f0463a7eb1f94d1104753fcd907",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 575,
+    "reasoning_effort": null
+  },
+  "text": "- En 32-årig mand er idømt et år og seks måneders fængsel ved Retten i Aarhus.  \n- Manden svindlet 48 ældre borgere for i alt 270.000 kroner ved at udgive sig for at være bankbud.  \n- Han erkendte at have forsøgt at bedrage omkring 150 ældre borgere via telefonen.  \n- Den 32-årige blev anholdt den 28. januar i Højbjerg af Østjyllands Politi.  \n- Han blev fundet i besiddelse af flere værdigenstande og nogle tusinde kroner i kontanter ved anholdelsen.",
+  "prompt_tokens": 1673,
+  "completion_tokens": 166,
+  "latency_ms": 5406,
+  "cost_usd": 0.00043420000000000004,
+  "created": "2026-11-10T05:40:53.769111Z",
+  "error": null
+}

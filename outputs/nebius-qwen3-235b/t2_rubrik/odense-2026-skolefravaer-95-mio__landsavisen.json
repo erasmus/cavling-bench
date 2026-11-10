@@ -1,0 +1,21 @@
+{
+  "model_id": "nebius-qwen3-235b",
+  "pinned_version": "Qwen/Qwen3-235B-A22B-Instruct-2507",
+  "task_id": "t2_rubrik",
+  "source_id": "odense-2026-skolefravaer-95-mio",
+  "archetype": "landsavisen",
+  "prompt_sha256": "99ec10397169c3ac3bcefa40b18af849b0c1a3e7621ee9c04067a6dc4cd2d128",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 400,
+    "reasoning_effort": null
+  },
+  "text": "RUBRIK: Odense sætter 9,5 mio. af til skolefravær  \nUNDERRUBRIK: Efter knap hver femte elev har over 10 % fravær, lancerer kommunen en styrket indsats med fraværslinje, tovholdere og mere støtte på skolerne.",
+  "prompt_tokens": 1984,
+  "completion_tokens": 82,
+  "latency_ms": 6552,
+  "cost_usd": 0.000446,
+  "created": "2026-11-10T05:40:05.084807Z",
+  "error": null
+}

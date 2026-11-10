@@ -1,0 +1,21 @@
+{
+  "model_id": "nebius-gpt-oss-120b",
+  "pinned_version": "openai/gpt-oss-120b",
+  "task_id": "t5_forkortelse",
+  "source_id": "dst-2026-offentligt-overskud-2-kvt",
+  "archetype": null,
+  "prompt_sha256": "71bdb1c3c5f04dbf5cf68be12764a6fd520a740af328137f6f8f498950bd22da",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 2360,
+    "reasoning_effort": "low"
+  },
+  "text": "I andet kvartal 2026 var overskuddet på de offentlige finanser 35,5 mia. kr., 12,3 mia. kr. højere end i første kvartal. De samlede offentlige udgifter udgjorde 379,9 mia. kr., hvoraf de største poster var aflønning af ansatte på 116,2 mia. kr. og indkomstoverførsler til husholdningerne på 116,9 mia. kr. De offentlige indtægter lå på 415,3 mia. kr. og er baseret på Skatte- og Vækstministeriets seneste Økonomisk Redegørelse for personlige indkomstskatter samt selskabs‑ og pensionsafkastskatten.  \n\nDen offentlige finansielle nettoformue faldt med 11 mia. kr. i kvartalet og lå ved kvartalsslut på 871 mia. kr. Faldet skyldes primært negative omvurderinger på børsnoterede aktier og andre ejerandelsbeviser på 14,1 mia. kr., samt øvrige ændringer i finansielle aktiver og passiver, mens positive omvurderinger af langfristede statsobligationer også indtrådte. Nettoformuen er steget med 98,1 mia. kr. over det seneste år.  \n\nØMU‑gælden steg med 19,4 mia. kr. til 859,1 mia. kr., svarende til 27 % af BNP ved udgangen af andet kvartal. Stigningen skyldes øget udstedelse af langsigtede statsobligationer og kortfristede lån fra kommuner og regioner.  \n\nRevisionen af første kvartal 2026 har opjusteret den offentlige saldo med 13,9 mia. kr., så overskuddet nu er 23,2 mia. kr. i stedet for 9,3 mia. kr., primært på grund af en opjustering af pensionsafkastskatten på 10,9 mia. kr.",
+  "prompt_tokens": 1043,
+  "completion_tokens": 487,
+  "latency_ms": 1445,
+  "cost_usd": 0.00044865,
+  "created": "2026-11-10T05:38:34.318885Z",
+  "error": null
+}

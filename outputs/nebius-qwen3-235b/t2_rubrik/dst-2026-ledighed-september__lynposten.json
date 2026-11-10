@@ -1,0 +1,21 @@
+{
+  "model_id": "nebius-qwen3-235b",
+  "pinned_version": "Qwen/Qwen3-235B-A22B-Instruct-2507",
+  "task_id": "t2_rubrik",
+  "source_id": "dst-2026-ledighed-september",
+  "archetype": "lynposten",
+  "prompt_sha256": "111d3a7a9b23d4d506aebecadfdbcab1df114a83ba27dfa7441a63b7de6b9b50",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 400,
+    "reasoning_effort": null
+  },
+  "text": "RUBRIK: Ledigheden falder med 200 i september  \nUNDERRUBRIK: Antallet af ledige falder let til 93.600 fuldtidsstillinger, mens ledighedsprocenten holder sig på 3,1 pct. blandt arbejdsstyrken.",
+  "prompt_tokens": 1438,
+  "completion_tokens": 72,
+  "latency_ms": 942,
+  "cost_usd": 0.0003308,
+  "created": "2026-11-10T05:39:26.223783Z",
+  "error": null
+}

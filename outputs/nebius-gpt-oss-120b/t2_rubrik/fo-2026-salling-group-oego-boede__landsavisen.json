@@ -1,0 +1,21 @@
+{
+  "model_id": "nebius-gpt-oss-120b",
+  "pinned_version": "openai/gpt-oss-120b",
+  "task_id": "t2_rubrik",
+  "source_id": "fo-2026-salling-group-oego-boede",
+  "archetype": "landsavisen",
+  "prompt_sha256": "04920bdcd97af52906eda0e002eaeeef1a5e09b0532f86cca9027f39feab35f2",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 1900,
+    "reasoning_effort": "low"
+  },
+  "text": "RUBRIK: Salling Group pålægges 10 millioner i bøde for vildledende ØGO‑markedsføring  \nUNDERRUBRIK: Forbrugerombudsmanden har fastslået, at Netto’s påstand om fjerdeplads i bæredygtighed kun bygger på forbrugeropfattelse og ikke dokumenteret klimaeffekt.",
+  "prompt_tokens": 1724,
+  "completion_tokens": 107,
+  "latency_ms": 580,
+  "cost_usd": 0.00032279999999999993,
+  "created": "2026-11-10T05:38:06.244197Z",
+  "error": null
+}

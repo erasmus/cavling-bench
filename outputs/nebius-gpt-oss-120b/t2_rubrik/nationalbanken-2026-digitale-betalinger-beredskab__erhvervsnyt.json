@@ -1,0 +1,21 @@
+{
+  "model_id": "nebius-gpt-oss-120b",
+  "pinned_version": "openai/gpt-oss-120b",
+  "task_id": "t2_rubrik",
+  "source_id": "nationalbanken-2026-digitale-betalinger-beredskab",
+  "archetype": "erhvervsnyt",
+  "prompt_sha256": "dc5756c0584013b4d41919b3c3efec1656c76b108fa4ad3d55d0fe580c8f07da",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 1900,
+    "reasoning_effort": "low"
+  },
+  "text": "RUBRIK: 90 % digitale betalinger øger kontanternes rolle som beredskab  \nUNDERRUBRIK: Nationalbanken viser, at kontanter kun udgør 9 % af fysiske betalinger i 2025, men 41 % af danskerne har over 1.000 kr. i kontanter og ser dem som sikkerhed ved digitale nedbrud.",
+  "prompt_tokens": 1762,
+  "completion_tokens": 260,
+  "latency_ms": 919,
+  "cost_usd": 0.0004203,
+  "created": "2026-11-10T05:38:08.892522Z",
+  "error": null
+}

@@ -1,0 +1,21 @@
+{
+  "model_id": "nebius-qwen3-235b",
+  "pinned_version": "Qwen/Qwen3-235B-A22B-Instruct-2507",
+  "task_id": "t4_versionering",
+  "source_id": "politi-2026-nsk-cpr-opslag",
+  "archetype": "lynposten",
+  "prompt_sha256": "9799c03e5c1ab9711e17414f97a0cd8acbf51ff73ff6805416e9663bddf4854c",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 1025,
+    "reasoning_effort": null
+  },
+  "text": "27-årig mand idømt 3 år og 6 måneder for at sælge CPR-oplysninger til kriminelle. Dommen blev afsagt onsdag ved Københavns Byret.\n\nHan arbejdede som studentermedhjælper på Københavns Kommunes vielseskontor. I den funktion havde han lovlig adgang til Det Centrale Personregister. Fra juni 2023 til juli 2024 udnyttede han sin stilling til at foretage uberettigede opslag.\n\nHan solgte oplysninger om bopælsadresser og familienetværk til personer i det kriminelle miljø. Oplysningerne blev brugt til at forberede 34 tilfælde af forsøg på grov vold.\n\nRetten fandt, at han måtte have vidst, at dataene skulle bruges til voldskriminalitet. Derfor er han dømt for at medvirke til personfarlig kriminalitet.\n\nHan er også dømt for misbrug af sin offentligt betroede stilling og for uberettiget videregivelse af personfølsomme oplysninger mod betaling.\n\nSpecialanklager Rikke Holm Schønsted fra National enhed for Særlig Kriminalitet (NSK) siger:  \n”Den dømte har haft forsæt til at facilitere, at personfarlig kriminalitet kunne planlægges mod konkrete forurettede. Jeg er godt tilfreds med dommen.”\n\nAnklager Tine Graakjær fra NSK siger:  \n”Det er en særlig sag. Vi har ikke lignende retspraksis fra før. Retten har fundet, at han måtte have indset, hvad oplysningerne skulle bruges til. Derfor er han skyldig i medvirken.”\n\nDen 27-årige har taget betænkningstid med hensyn til en eventuel appel.",
+  "prompt_tokens": 1695,
+  "completion_tokens": 468,
+  "latency_ms": 15012,
+  "cost_usd": 0.0006198,
+  "created": "2026-11-10T05:43:03.108026Z",
+  "error": null
+}

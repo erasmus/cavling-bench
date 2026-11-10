@@ -1,0 +1,21 @@
+{
+  "model_id": "nebius-gpt-oss-120b",
+  "pinned_version": "openai/gpt-oss-120b",
+  "task_id": "t5_forkortelse",
+  "source_id": "regeringen-2026-kystbeskyttelse-14-9-mia",
+  "archetype": null,
+  "prompt_sha256": "75b8cbd6f672acb86df3c2aa363321aa05285591de974f17f682266da8393e67",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 2360,
+    "reasoning_effort": "low"
+  },
+  "text": "Regeringen afsætter 14,9 mia. kroner til en national plan for kystbeskyttelse af Danmark. Med Klimatilpasningsplan II indføres et nyt paradigme, der skal hjælpe kommunerne med at sikre kyster mod hyppigere stormfloder og vildere vejr. Stormfloder, som i dag forventes én gang hvert 100. år, vil i 2100 komme hvert tredje år, men investeringerne i kystbeskyttelse går for langsomt. En million danskere bor inden for en kilometer fra kysten, og op til 100 000 husstande og virksomheder med 175 000 arbejdspladser risikerer oversvømmelser, hvis der ikke sættes ind. Staten vil fjerne barrierer og medfinansiere 85 % af anlægsinvesteringerne, mens kommunerne bidrager med 15 %, så samlede investeringer kan nå op på op mod 20 mia. kroner frem til 2040. En ekspertgruppe skal anbefale, hvordan lodsejere eventuelt skal bidrage til de statslige udgifter. Samtidig udvides dispensationsmulighederne, så klimatilpasning får større vægt i projektvurderinger. Miljøminister Magnus Heunicke vil indkalde Folketingets partier til drøftelser om en politisk aftale. Han udtaler, at Danmark skal rustes til den nye klimavirkelighed, og at kystsikring nu bliver et fælles ansvar. Klima‑, energi‑ og forsyningsminister Lars Aagard og minister for byer og landdistrikter Morten Dahlin understreger, at store milliardinvesteringer og fjernelse af hindrende lovgivning er nødvendige for at beskytte værdier, boliger og kyster.",
+  "prompt_tokens": 1354,
+  "completion_tokens": 441,
+  "latency_ms": 1769,
+  "cost_usd": 0.00046769999999999993,
+  "created": "2026-11-10T05:38:39.781407Z",
+  "error": null
+}

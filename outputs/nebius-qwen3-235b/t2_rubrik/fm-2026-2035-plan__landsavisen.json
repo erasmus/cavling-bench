@@ -1,0 +1,21 @@
+{
+  "model_id": "nebius-qwen3-235b",
+  "pinned_version": "Qwen/Qwen3-235B-A22B-Instruct-2507",
+  "task_id": "t2_rubrik",
+  "source_id": "fm-2026-2035-plan",
+  "archetype": "landsavisen",
+  "prompt_sha256": "2a4913aefecd915b90677022004cc47083658907995fbfe257f1fefc78a4e9a4",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 400,
+    "reasoning_effort": null
+  },
+  "text": "RUBRIK: Regeringen lægger 2035-plan for forsvar, klima og velfærd  \nUNDERRUBRIK: Planen prioriterer 3,5 pct. af BNP til forsvar, 82 pct. færre CO2-udslip i 2035 og 5 mia. kr. til beredskab, samtidig med ansvarlig økonomisk politik.",
+  "prompt_tokens": 2365,
+  "completion_tokens": 101,
+  "latency_ms": 2337,
+  "cost_usd": 0.0005336000000000001,
+  "created": "2026-11-10T05:39:39.922601Z",
+  "error": null
+}

@@ -1,0 +1,21 @@
+{
+  "model_id": "nebius-gpt-oss-120b",
+  "pinned_version": "openai/gpt-oss-120b",
+  "task_id": "t2_rubrik",
+  "source_id": "politi-2026-sydoestjylland-hadforbrydelse",
+  "archetype": "landsavisen",
+  "prompt_sha256": "b9ff70ded400f292d4e3463074ca76411fa4d62ae1243e119d32ff6e855d5522",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 1900,
+    "reasoning_effort": "low"
+  },
+  "text": "RUBRIK: Tre unge mænd dømt for vold, hadforbrydelse og våbenlovbrud  \nUNDERRUBRIK: To 18‑årige og en 17‑årig idømt fængsel for knivtrusler, grov vold mod to kvinder på grund af deres seksuelle orientering og besiddelse af peberspray og totenschlæger i Horsens.",
+  "prompt_tokens": 1260,
+  "completion_tokens": 162,
+  "latency_ms": 595,
+  "cost_usd": 0.00028619999999999996,
+  "created": "2026-11-10T05:38:11.318991Z",
+  "error": null
+}

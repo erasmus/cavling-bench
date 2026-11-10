@@ -1,0 +1,21 @@
+{
+  "model_id": "nebius-qwen3-235b",
+  "pinned_version": "Qwen/Qwen3-235B-A22B-Instruct-2507",
+  "task_id": "t1_telegram",
+  "source_id": "rm-2026-kultur-sundhed-pulje-78-mio",
+  "archetype": null,
+  "prompt_sha256": "8ed1ebf22728b4cf3db47b7db0907049b7fdc3d496739e0632c2e54a70f2b100",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 560,
+    "reasoning_effort": null
+  },
+  "text": "Region Midtjylland lancerer 7,8 mio. kr. til kulturprojekter, der styrker sundhed og trivsel blandt borgere og patienter. Pengene skal bruges til at udvikle og forankre konkrete tilbud i samarbejde mellem kultur- og sundhedsaktører i hele regionen. Projektet fokuserer især på forebyggelse, symptombelættelse, rehabilitering og tværgående samarbejde, især med børn og unge. Kulturaktører kan ansøge om støtte på op til tre år, såfremt de søger mindst 200.000 kr. og har 25 procent medfinansiering. Ansøgningsfristen er 26. august 2026. Formand Per Møller Jensen (S) og næstformand Vivi Altenburg (DD) peger på ti års erfaring med kultur og sundhed som baggrund. Puljen følger op på regionens politik for sundhed og kultur fra december 2025. Dialogmøder afholdes 21. maj i Aarhus og 2. juni digitalt.",
+  "prompt_tokens": 1406,
+  "completion_tokens": 287,
+  "latency_ms": 6577,
+  "cost_usd": 0.00045339999999999996,
+  "created": "2026-11-10T05:39:20.905328Z",
+  "error": null
+}

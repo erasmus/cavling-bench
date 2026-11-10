@@ -1,0 +1,21 @@
+{
+  "model_id": "nebius-gpt-oss-120b",
+  "pinned_version": "openai/gpt-oss-120b",
+  "task_id": "t5_forkortelse",
+  "source_id": "kk-2026-ventetidsgaranti-foedselsgener",
+  "archetype": null,
+  "prompt_sha256": "0cdced6abddeb3fc3c3b9e00e16b6ba274d58bed85606a350bbcca49243af060",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 2360,
+    "reasoning_effort": "low"
+  },
+  "text": "Siden Københavns Kommunes tilbud om efterfødselshjælp åbnede i foråret 2025, har efterspørgslen overskredet kapaciteten. Kvinder med gener som inkontinens, bristninger, delte mavemuskler og rygsmerter har i dag ventet 17 dage til visitationssamtale og yderligere 44 dage til afklarende samtale og undersøgelse. Politikerne bag den nye budgetaftale indfører derfor en ventetidsgaranti: første samtale skal ske inden 7 dage, og undersøgelse senest 3 uger efter henvisning. Overholdes garantien ikke, tilbydes et forløb hos en privat leverandør. Sundheds‑ og omsorgsborgmester Jens‑Kristian Lütken (V) beskriver garantien som Danmarks mest ambitiøse, mens overborgmester Sisse Marie Welling (SF) fremhæver, at den sikrer hurtigere hjælp. Liberal Alliance‑gruppeformand Alexander Ryle understreger, at valget mellem offentlig og privat er sekundært for kvindens hurtige, kvalitative hjælp. Første samtale varetages af gynækologisk obstetriske fysioterapeuter, som giver personlig rådgivning og øvelser. I 2024 kan forvaltningen hjælpe ca. 800 kvinder; i 2025 forventes 1 000, og fremskrivninger viser behov for 1 500 i 2027. Kommunen udvider med 320 nye forløb selv og 180 via private leverandører. Budgetaftalen afsætter knap 12,5 millioner kroner over fire år, ud over de tidligere knap 19 millioner kroner. Ventetidsgarantien blev besluttet i forbindelse med Overførselssagen i foråret 2026.",
+  "prompt_tokens": 1656,
+  "completion_tokens": 433,
+  "latency_ms": 1610,
+  "cost_usd": 0.0005082,
+  "created": "2026-11-10T05:38:37.435122Z",
+  "error": null
+}

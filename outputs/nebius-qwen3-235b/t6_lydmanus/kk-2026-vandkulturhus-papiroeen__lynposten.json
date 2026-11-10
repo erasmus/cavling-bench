@@ -1,0 +1,21 @@
+{
+  "model_id": "nebius-qwen3-235b",
+  "pinned_version": "Qwen/Qwen3-235B-A22B-Instruct-2507",
+  "task_id": "t6_lydmanus",
+  "source_id": "kk-2026-vandkulturhus-papiroeen",
+  "archetype": "lynposten",
+  "prompt_sha256": "1bd15ee58a01eb2440be961d6bc778b95ddc91341834eab3e3773546bdd42a13",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 620,
+    "reasoning_effort": null
+  },
+  "text": "Fem hundrede og firti seks millioner kroner har Nordea-fonden givet til det nye vandkulturhus på Papirøen. KAI åbner den femte december to tusind og firti seks. Det er et svømme- og kulturhus i verdensklasse midt på Københavns havnekaj. Bygningen er på fem tusind og otte hundrede kvadratmeter og har ti bassiner inde og ude. Arkitekterne er den japanske tegnestue Kengo Kuma og forbundet. Navnet KAI betyder hav på japansk og hentyder til husets placering ved vandet. Overborgmester Sisse Marie Welling fra SF kalder det supervigtigt, at København får mere svømmekapacitet. Kulturborgmester Christopher Røhl fra Radikale Venstre siger, at KAI er en ny perle blandt byens markante samlingspunkter. Nordea-fondens administrerende direktør, Henrik Lehmann Andersen, siger, at KAI bliver både folkeligt og ikonisk. Det skal blive et vartegn for hovedstaden. Yderligere information kommer på hjemmesiden kai punkt kk punkt dk.",
+  "prompt_tokens": 2709,
+  "completion_tokens": 294,
+  "latency_ms": 7219,
+  "cost_usd": 0.0007182,
+  "created": "2026-11-10T05:45:09.217563Z",
+  "error": null
+}

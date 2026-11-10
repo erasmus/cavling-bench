@@ -1,0 +1,21 @@
+{
+  "model_id": "nebius-gpt-oss-120b",
+  "pinned_version": "openai/gpt-oss-120b",
+  "task_id": "t4_versionering",
+  "source_id": "finanstilsynet-2026-danske-bank-boliglaansinspektion",
+  "archetype": "landsavisen",
+  "prompt_sha256": "ed4c690e1c1abbc36384fd8cfe7c29770d094b6f1682fe8be74bfbeb62ebf4bb",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 2525,
+    "reasoning_effort": "low"
+  },
+  "text": "Finansinspektionen har i en nylig boliglånsinspektion af Danske Bank A/S fastlagt, at bankens risikoprofil for privatkunders køb af ejerboliger er højere end hos de øvrige institutter, der indgik i den samme temaundersøgelse. Inspektionen, som omfattede en stikprøve på 58 lånebevillinger udvalgt blandt kunder med gældsfaktor over 3,5, belåningsgrad over 60 % og et bankengagement på mindst 200.000 kr., viser, at fire af de gennemgåede sager ikke burde have været bevilget på det foreliggende grundlag. Disse sager var præget af høj gældsætning, begrænset likvid buffer, usikkert indkomstgrundlag og betydelige fald i rådighedsbeløb, uden at banken tilstrækkeligt har dokumenteret kundernes økonomiske robusthed.\n\nDerudover afslører rapporten fejl i bankens kreditprocesser. For en særskilt kundegruppe, som banken har klassificeret som særligt robust og derfor anvender en forenklet kreditproces, blev der konstateret væsentlige fejl i 6 af 23 sager (26 %). For øvrige kunder blev der fundet fejl i 13 af 35 sager (37 %). Finanstilsynet vurderer, at én af de 23 sager i den særskilte gruppe og tre af de 35 øvrige sager ikke burde have været bevilget. Fejlene øger risikoen for, at låntagere uden tilstrækkelig dokumenteret gældsserviceringsevne får boliglån.\n\nFinanstilsynet påpeger også svagheder i et af bankens kreditindstillingsformater, som ikke giver tilstrækkelig gennemsigtighed i udgifter, beregninger og rådgiverens faglige vurdering. På baggrund af disse konklusioner har Danske Bank fået påbud om at sikre, at bevillingsgrundlaget for boligfinansiering er korrekt, dokumenteret og understøtter en individuel vurdering af kundens økonomiske robusthed. Inspektionen medførte ingen ændring af bankens solvensbehov.",
+  "prompt_tokens": 1668,
+  "completion_tokens": 507,
+  "latency_ms": 1767,
+  "cost_usd": 0.0005543999999999999,
+  "created": "2026-11-10T05:38:21.548968Z",
+  "error": null
+}

@@ -1,0 +1,21 @@
+{
+  "model_id": "nebius-qwen3-235b",
+  "pinned_version": "Qwen/Qwen3-235B-A22B-Instruct-2507",
+  "task_id": "t2_rubrik",
+  "source_id": "nationalbanken-2026-digitale-betalinger-beredskab",
+  "archetype": "lynposten",
+  "prompt_sha256": "2add3ca0e3e8266758af823354744c75b45e16a569c816a1878168d54829e53b",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 400,
+    "reasoning_effort": null
+  },
+  "text": "RUBRIK: 90 pct. af danske betalinger er digitale  \nUNDERRUBRIK: Flere har kontanter til beredskab, mens mobile betalinger vokser – Nationalbanken opfordrer butikker til at forberede offline-løsninger",
+  "prompt_tokens": 2081,
+  "completion_tokens": 65,
+  "latency_ms": 1509,
+  "cost_usd": 0.00045520000000000006,
+  "created": "2026-11-10T05:39:57.952057Z",
+  "error": null
+}

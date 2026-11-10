@@ -1,0 +1,21 @@
+{
+  "model_id": "nebius-qwen3-235b",
+  "pinned_version": "Qwen/Qwen3-235B-A22B-Instruct-2507",
+  "task_id": "t4_versionering",
+  "source_id": "rm-2026-kultur-sundhed-pulje-78-mio",
+  "archetype": "lynposten",
+  "prompt_sha256": "3c16f0be8c4e8ba8953ec8bade132ce65d7a0bd299c7781ca2714315bab6d090",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 1025,
+    "reasoning_effort": null
+  },
+  "text": "7,8 mio. kr. til kulturprojekter, der forbedrer sundheden i Region Midtjylland. Puljen skal styrke samarbejdet mellem kultur- og sundhedsaktører og nå flere borgere med bevisbaserede tilbud.\n\nPuljen støtter projekter, der bruger kultur til forebyggelse, behandling og rehabilitering. Det gælder blandt andet børn og unge, patienter under behandling og mennesker med kronisk eller psykisk sygdom. Formålet er at omsætte viden til konkrete løsninger i praksis.\n\nPer Møller Jensen (S), formand for Region Midtjyllands Udvalg for Regional Udvikling, siger:  \n– Vi ved, at kulturen kan spille en afgørende rolle for vores sundhed og trivsel. Med puljen bygger vi videre på ti års erfaring og sikrer, at flere gode projekter når dem, der har brug for dem.\n\nProjekterne skal arbejde tværgående i regionen. Der lægges særlig vægt på samarbejde mellem kommuner, hospitaler og kulturinstitutioner. Fire temaer leder puljen: forebyggelse, symptombelæggelse, rehabilitering og tværfagligt samarbejde.\n\nVivi Altenburg (DD), næstformand for udvalget, siger:  \n– Vi skal have flere løsninger, der virker i hverdagen. Puljen skal løfte projekter med kvalitet og gennemslagskraft.\n\nKulturaktører kan ansøge i samarbejde med sundhedsparter. Projekter skal vare op til tre år og mindst søge 200.000 kr. Medfinansiering skal være på minimum 25 procent. Ansøgningsfristen er 26. august 2026.  \n\nRegionen afholder dialogmøder om puljen. Et fysisk møde er 21. maj på Godsbanen i Aarhus. Et digitalt møde er 2. juni.",
+  "prompt_tokens": 1748,
+  "completion_tokens": 509,
+  "latency_ms": 6700,
+  "cost_usd": 0.000655,
+  "created": "2026-11-10T05:43:13.809100Z",
+  "error": null
+}

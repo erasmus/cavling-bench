@@ -1,0 +1,21 @@
+{
+  "model_id": "nebius-qwen3-235b",
+  "pinned_version": "Qwen/Qwen3-235B-A22B-Instruct-2507",
+  "task_id": "t6_lydmanus",
+  "source_id": "regeringen-2026-kystbeskyttelse-14-9-mia",
+  "archetype": "lynposten",
+  "prompt_sha256": "1ccedf05cfdd5caacbaa2d3482472341397a21e4d36219b9ee85b12d0a2a885c",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 620,
+    "reasoning_effort": null
+  },
+  "text": "Fjorten komma ni mia. kroner. Så meget sætter regeringen af til kystbeskyttelse af Danmark. Med Klimatilpasningsplan to vil staten sikre de danske kyster mod vildere vejr og hyppigere stormfloder. I år 2100 kommer hundredeårs stormfloder hvert tredje år. En mio. danskere bor tæt på kysten. Op til 100.000 husstande og virksomheder er i risiko. 175.000 arbejdspladser kan trues af oversvømmelser. Kommunerne har ansvaret. Men staten medfinansierer nu 85 procent af anlægsinvesteringerne. Det gør det nemmere at komme i gang. Sammen med andre puljer kan der bruges op til 20 mia. kroner frem mod 2040. Miljøminister Magnus Heunicke siger, det skal være et fælles ansvar at beskytte Danmark. Klima minister Lars Aagard kalder klimaforandringerne en regning, vi skal betale. Minister for byer og landdistrikter Morten Dahlin siger, planen skaber mere tryghed. Regeringen vil nu drøfte en politisk aftale med Folketingets partier.",
+  "prompt_tokens": 1942,
+  "completion_tokens": 324,
+  "latency_ms": 8886,
+  "cost_usd": 0.0005828000000000001,
+  "created": "2026-11-10T05:45:38.951028Z",
+  "error": null
+}

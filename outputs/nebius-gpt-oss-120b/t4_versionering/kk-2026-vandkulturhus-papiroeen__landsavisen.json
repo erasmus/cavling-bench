@@ -1,0 +1,21 @@
+{
+  "model_id": "nebius-gpt-oss-120b",
+  "pinned_version": "openai/gpt-oss-120b",
+  "task_id": "t4_versionering",
+  "source_id": "kk-2026-vandkulturhus-papiroeen",
+  "archetype": "landsavisen",
+  "prompt_sha256": "45f38b792adb7ee477f425cdc57347c7f67bffd12b6e7d6a3e4e8d09893e5d53",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 2525,
+    "reasoning_effort": "low"
+  },
+  "text": "Københavns havnekaj får et nyt arkitektonisk fyrtårn, da vandkulturhuset KAI åbner den 5. december 2026. Projektet er et svar på den vedvarende mangel på svømmekapacitet i byen og på den brede borgerstøtte, der i 2015 førte til 160 indsendte idéer om en kultur‑ og fritidsfacilitet på Papirøen.  \n\nDet 5.800 m² store byggeri, designet af Kengo Kuma & Associates, indeholder ti bassiner både inde og ude. Stueetagen rummer et 25‑meters‑bassin, undervisningsbassin og tre legebassiner med direkte adgang til en badezone i den rene havn. På første etage ligger et åbent Dalbassin mellem fem teglstubbe samt et onsen‑bassin med udsigt over havnen, så besøgende kan svømme under åben himmel og opleve årstidernes skiften.  \n\nOverborgmester Sisse Marie Welling (SF) understreger, at “det er supervigtigt, at vi nu får nye bassiner for voksne og legebassiner til de mindste”, og ser KAI som byens nye samlingssted for vandglade borgere. Kultur‑, fritids‑ og borgerserviceborgmester Christopher Røhl (R) beskriver huset som “en ny perle” i en række markante havneaktiviteter, der aktiverer lokalsamfundet.  \n\nNordea‑fonden har bidraget med 546 mio. kr., hvoraf 25 mio. kr. er øremærket til bæredygtighedstiltag, herunder en lodret jordpumpevarme med ti boringer på 250 meter, som sikrer opvarmning af udendørsbassinerne året rundt.  \n\nEjendomsfonden Vandkulturhuset Papirøen, repræsenteret af bestyrelsesformand Erik Jæger, udtaler, at samarbejdet med bidragsydere og leverandører har skabt en funktionel og arkitektonisk unik bygning, som de ser frem til at fylde med liv og aktivitet for alle aldersgrupper.",
+  "prompt_tokens": 2333,
+  "completion_tokens": 538,
+  "latency_ms": 2033,
+  "cost_usd": 0.00067275,
+  "created": "2026-11-10T05:38:26.377167Z",
+  "error": null
+}

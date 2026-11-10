@@ -1,0 +1,21 @@
+{
+  "model_id": "nebius-gpt-oss-120b",
+  "pinned_version": "openai/gpt-oss-120b",
+  "task_id": "t5_forkortelse",
+  "source_id": "fo-2026-tankstationer-reservation-beloeb",
+  "archetype": null,
+  "prompt_sha256": "a35d7b2682cc3a89e64d1eb8cdcd8fb9f2e58b7b54a47775d35228a5f5379ffd",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 2360,
+    "reasoning_effort": "low"
+  },
+  "text": "Når en tankstation reserverer et beløb, inden forbrugeren tanker, må beløbet ikke være urimeligt højt i forhold til den endelige betaling. Forbrugerombudsmanden har gjort en række tankstationskæder opmærksomme på reglerne, og nu har de fleste ændret praksis.  \n\nTankstationskæderne Q8, OK, Shell og Uno‑X har reserveret urimeligt høje beløb i forhold til det, forbrugerne endte med at betale. Q8 driver også de ubemandede F24‑stationer. I flere tilfælde er reservationerne ikke blevet frigivet hurtigt nok, og kunder hos Q8 og OK er ikke blevet oplyst tydeligt om, at der blev reserveret et beløb.  \n\nEfter Forbrugerombudsmanden gjorde kæderne opmærksomme på reglerne, har Uno‑X og Shell ændret praksis, så forbrugerne på standerens skærm kan vælge reservationsbeløbets størrelse, svarende til det maksimale, de kan tanke for. OK har ændret reservationsbeløbet til 100 kroner, men forventer en anden løsning fremover. Q8 reserverer fortsat 950 kroner, men arbejder på en løsning.  \n\nForbrugerombudsmanden tog sagerne op efter en dialog med brancheorganisationen Drivkraft Danmark i 2023 om manglende samtykke ved reservationer. Medlemmerne forpligtede sig til at oplyse det præcise beløb i betalings‑skærmflowet i stedet for små klistermærker. Enighed om, hvorvidt et langt større beløb end den endelige betaling må reserveres, blev ikke opnået.  \n\nPraksis hos Uno‑X (1.200 kroner) og Shell (1.500 kroner) blev vurderet som urimelig, ligesom Q8 (950 kroner) og OK (850 kroner) for minibiler og små køretøjer.  \n\nForbrugerombudsmand Torben Jensen udtaler, at reservationer skal stå i rimeligt forhold til den endelige betaling, og at samtykke samt hurtig frigivelse er afgørende.  \n\nLovgivningen kræver samtykke til det præcise reservationsbeløb (§ 95 betalingsloven) og forbyder urimelige aftaler (§ 38 c aftaleloven). Frigivelse skal ske snarest efter modtagelse af det endelige beløb (§ 95 stk. 2).",
+  "prompt_tokens": 2141,
+  "completion_tokens": 582,
+  "latency_ms": 1972,
+  "cost_usd": 0.0006703499999999999,
+  "created": "2026-11-10T05:38:36.593182Z",
+  "error": null
+}

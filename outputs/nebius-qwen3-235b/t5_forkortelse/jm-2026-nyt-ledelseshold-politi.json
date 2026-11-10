@@ -1,0 +1,21 @@
+{
+  "model_id": "nebius-qwen3-235b",
+  "pinned_version": "Qwen/Qwen3-235B-A22B-Instruct-2507",
+  "task_id": "t5_forkortelse",
+  "source_id": "jm-2026-nyt-ledelseshold-politi",
+  "archetype": null,
+  "prompt_sha256": "cc9cf5d90e64b0e59d81925622d8eb3a5cd8c6d4dcd0b58be74b94b796b8f7f0",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 860,
+    "reasoning_effort": null
+  },
+  "text": "Justitsminister Nicolai Wammen gennemfører en større ledelsesrokade for at placere det stærkeste ledelseshold i spidsen for dansk politi og anklagemyndighed frem mod 2030. Thorkild Fogde rokerer fra rigspolitichef til politidirektør i Københavns Vestegns Politi. Lasse Boje Nielsen udpeges som ny rigspolitichef efter at have været rigsadvokat. Han har tidligere været politidirektør for National enhed for Særlig Kriminalitet samt har erfaring fra Danmarks Fængsler, Justitsministeriet og Beskæftigelsesministeriet. Caroline Østergaard Nielsen fungerer som rigsadvokat indtil videre og er i dag statsadvokat ved Rigsadvokaten. Rasmus Kieffer-Kristensen bliver ny chef for Politiets Efterretningstjeneste efter at have været ministerråd ved Danmarks Faste Mission ved FN i New York. Han har tidligere været juridisk chef i PET, statsadvokat ved Rigsadvokaten, konstitueret landsdommer og forsvarsadvokat. Finn Borch Andersen, tidligere chef for PET, bliver politidirektør i Københavns Politi. Steen Bechmann Jacobsen, tidligere statsadvokat ved Rigsadvokaten, bliver politidirektør i National enhed for Særlig Kriminalitet. Frits Villy Kjeldsen bliver politidirektør i Østjyllands Politi efter at have været politidirektør i Syd- og Sønderjyllands Politi. Lene Frank, tidligere politidirektør i Sydsjællands- og Lolland-Falsters Politi, bliver ny politidirektør i Syd- og Sønderjyllands Politi. Henriette Rosenborg Larsen, tidligere politidirektør i Sydøstjyllands Politi, bliver politidirektør i Sydsjællands- og Lolland-Falsters Politi. Brian Sølvberg Fussing bliver politidirektør i Sydøstjyllands Politi efter at have været chefpolitiinspektør der. Lars Kirkegaard bliver politidirektør i Fyns Politi efter at have været stabschef i Midt- og Vestjyllands Politi. Andreas Langsted bliver politidirektør i Midt- og Vestsjællands Politi efter at have været økonomidirektør i Rigspolitiet. Anne Marie Roum Svendsen genudnævnes som politidirektør i Nordjyllands Politi. Bjørn Tegner Bay genudnævnes som politidirektør i Grønlands Politi. Helle Kyndesen genudnævnes som politidirektør i Midt- og Vestjyllands Politi. Martin Preisz Gravesen genudnævnes som politidirektør i Bornholms Politi. Marie Bindslev bliver statsadvokat i København efter at have været chefanklager i Sydsjællands- og Lolland-Falster Politi. Jens-Christian Bülow genudnævnes som statsadvokat for Særlig Kriminalitet.",
+  "prompt_tokens": 1618,
+  "completion_tokens": 797,
+  "latency_ms": 26963,
+  "cost_usd": 0.0008018,
+  "created": "2026-11-10T05:44:03.445765Z",
+  "error": null
+}

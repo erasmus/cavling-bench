@@ -1,0 +1,21 @@
+{
+  "model_id": "nebius-qwen3-235b",
+  "pinned_version": "Qwen/Qwen3-235B-A22B-Instruct-2507",
+  "task_id": "t6_lydmanus",
+  "source_id": "ombudsmanden-2026-lolland-avisabonnement-pression",
+  "archetype": "lynposten",
+  "prompt_sha256": "30127d1d16ea0828512e49d2a6733bbb1cf011d18c3b44cd2f5ce1e8783804c2",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 620,
+    "reasoning_effort": null
+  },
+  "text": "Lolland Kommune har opsagt abonnementer på lokalavisen Lolland-Falsters Folketidende. Folketingets Ombudsmand undersøger nu sagen. Han advarer mod, at myndigheder bruger abonnementsopsigelser som pres eller straf mod medier. En myndighed må ikke straffe journalister for kritiske artikler. Det er ikke tilladt efter almindelige forvaltningsregler. Ombudsmanden har modtaget udtalelser fra lokalpolitikere, der kan tolkes som trusler. Borgmesteren skrev på sociale medier, at kritik skal være fair, ellers mister den legitimitet. Et byrådsmedlem sagde, det ville ikke længere betale for journalister, der sætter loven til side. Et andet kalder en artikel dråben, der fik bægeret til at flyde over. Ombudsmanden kræver, at kommunen forklarer, om formålet med opsigelserne var sagligt. Han forventer en svar inden for en rimelig tid. Ifølge Danmarks Statistik er der i 2026 registreret stigende spænding mellem politik og presse i flere kommuner.",
+  "prompt_tokens": 1807,
+  "completion_tokens": 294,
+  "latency_ms": 6167,
+  "cost_usd": 0.0005378000000000001,
+  "created": "2026-11-10T05:45:19.635773Z",
+  "error": null
+}

@@ -1,0 +1,21 @@
+{
+  "model_id": "nebius-gpt-oss-120b",
+  "pinned_version": "openai/gpt-oss-120b",
+  "task_id": "t6_lydmanus",
+  "source_id": "politi-2026-midtvestsjaelland-idraetsforening",
+  "archetype": "lynposten",
+  "prompt_sha256": "06a7f9b23ceedaa7c6c29ef6f2b251a0580a467f503e0e706edaffd3923613dd",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 2120,
+    "reasoning_effort": "low"
+  },
+  "text": "Fireoghalvfems år gammel mand fra Roskilde er idømt et års fængsel for seksuelle overgreb på drenge. Han har tilstået at have krænket et stort antal drenge, hvoraf én var under tolv år. Overgrebene foregik i den idrætsforening, hvor han arbejdede. Han har også filmet mindst toogfyrre drenge uden deres viden mellem januar to‑tusind‑toogtyve og april to‑tusind‑fire. Retten i Roskilde frakendte ham desuden retten til at arbejde med børn og unge under atten år. Senioranklager Pernille Fredin fra Midt‑ og Vestsjællands Politi siger, at sagen er et groft tillidsbrud med store konsekvenser for de berørte. Ifølge retten i Roskilde er dommen et skridt mod retfærdighed for drengene og deres familier.",
+  "prompt_tokens": 1168,
+  "completion_tokens": 280,
+  "latency_ms": 1538,
+  "cost_usd": 0.0003432,
+  "created": "2026-11-10T05:38:44.968759Z",
+  "error": null
+}

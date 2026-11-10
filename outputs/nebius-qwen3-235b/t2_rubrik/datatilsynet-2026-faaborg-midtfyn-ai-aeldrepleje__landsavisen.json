@@ -1,0 +1,21 @@
+{
+  "model_id": "nebius-qwen3-235b",
+  "pinned_version": "Qwen/Qwen3-235B-A22B-Instruct-2507",
+  "task_id": "t2_rubrik",
+  "source_id": "datatilsynet-2026-faaborg-midtfyn-ai-aeldrepleje",
+  "archetype": "landsavisen",
+  "prompt_sha256": "dcbe3110958594df0752a61c4305efda515e5fd3cb7c2035f90fe00bdaa9b965",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 400,
+    "reasoning_effort": null
+  },
+  "text": "RUBRIK: Kommune brød databeskyttelsesregler med AI i plejehjem  \nUNDERRUBRIK: Datatilsynet kritiserer Faaborg-Midtfyn for utilstrækkelig risikovurdering og manglende konsekvensanalyse ved brug af AI til overvågning af ældre med demens.",
+  "prompt_tokens": 1617,
+  "completion_tokens": 85,
+  "latency_ms": 3085,
+  "cost_usd": 0.00037440000000000005,
+  "created": "2026-11-10T05:39:23.992008Z",
+  "error": null
+}

@@ -1,0 +1,21 @@
+{
+  "model_id": "nebius-qwen3-235b",
+  "pinned_version": "Qwen/Qwen3-235B-A22B-Instruct-2507",
+  "task_id": "t6_lydmanus",
+  "source_id": "rigsrevisionen-2026-beretning-energinet-elnettet",
+  "archetype": "lynposten",
+  "prompt_sha256": "23acc347734617d44956cbed36b14218f0872e8d7bd6c960b3310f8664c8b230",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 620,
+    "reasoning_effort": null
+  },
+  "text": "To ud af tre projekter i Energinets elnetudbygning er forsinkede. Det viser en beretning fra Statsrevisorerne fra april to tusind og seksogtyve. Forsinkelserne gør, at den grønne omstilling bliver langsommere. Energinet skal ifølge planen bygge mere end to tusind syv hundrede kilometer elnet frem mod to tusind og tredive. Men mange projekter tager otte tiendedele længere tid end beregnet. Statsrevisorerne siger, at Energinet ikke har et klart overblik over, hvorfor projekterne haler efter. Også Klima-, Energi- og Forsyningsministeriet får kritik. Ministeriet har haft advarsler om forsinkelserne flere gange siden to tusind og tre. Men reagerede for sent. Udbygningen er allerede mere end ti mia. kr. dyrere end planlagt. Hastigheden i byggeriet skal mere end fordobles, hvis målene skal nås. Statsrevisorerne opfordrer ministeriet til at undersøge, hvad forsinkelserne betyder for klimamålene.",
+  "prompt_tokens": 1915,
+  "completion_tokens": 292,
+  "latency_ms": 5538,
+  "cost_usd": 0.0005582,
+  "created": "2026-11-10T05:45:35.719004Z",
+  "error": null
+}

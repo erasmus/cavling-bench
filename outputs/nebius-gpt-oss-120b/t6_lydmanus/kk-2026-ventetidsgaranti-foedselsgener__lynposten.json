@@ -1,0 +1,21 @@
+{
+  "model_id": "nebius-gpt-oss-120b",
+  "pinned_version": "openai/gpt-oss-120b",
+  "task_id": "t6_lydmanus",
+  "source_id": "kk-2026-ventetidsgaranti-foedselsgener",
+  "archetype": "lynposten",
+  "prompt_sha256": "031347694f614a41e2a0d70ce1d4b7577f3f68879a59f2fec1003ad6d3cccde8",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 2120,
+    "reasoning_effort": "low"
+  },
+  "text": "Syv dage får kvinder i København hurtig hjælp efter fødsel, siger sundheds‑ og omsorgsborgmester Jens‑Kristian Lütken. Kommunen indfører Danmarks mest ambitiøse ventetidsgaranti for efterfødselshjælp. Første samtale skal ske inden syv dage, og undersøgelse senest tre uger efter. Hvis kommunen ikke kan overholde fristen, tilbydes et forløb hos en privat leverandør. Overborgmester Sisse Marie Welling fortæller, at garantien sikrer, at kvinder ikke skal vente for længe på den nødvendige støtte. Gruppeformand Alexander Ryle understreger, at det handler om at sætte mennesket før systemet. I år hjælper tilbuddet omkring otte hundrede kvinder, og næste år forventes tusind. Ifølge kilden er der afsat knap tolv komma fem millioner kroner til udvidelsen.",
+  "prompt_tokens": 1970,
+  "completion_tokens": 260,
+  "latency_ms": 1118,
+  "cost_usd": 0.0004515,
+  "created": "2026-11-10T05:38:43.447547Z",
+  "error": null
+}

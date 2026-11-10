@@ -1,0 +1,21 @@
+{
+  "model_id": "nebius-qwen3-235b",
+  "pinned_version": "Qwen/Qwen3-235B-A22B-Instruct-2507",
+  "task_id": "t4_versionering",
+  "source_id": "fm-2026-finanslovforslag-2027",
+  "archetype": "lynposten",
+  "prompt_sha256": "e0991b27517b2c74a254e396f579882948cfef045fd7df53ed2c68aaf33473d2",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 1025,
+    "reasoning_effort": null
+  },
+  "text": "Regeringen sender 1,6 milliarder kroner til folkeskolen og dagtilbud i 2027. Pengene skal styrke børns hverdag og løfte velfærden landet over.\n\nInvesteringen er en del af finanslovforslaget for 2027. Regeringen vil også bruge 900 millioner kroner specifikt i folkeskolen. Skoler i landdistrikter får ekstra opmærksomhed. 100 skoler med størst udfordringer får målrettet støtte.\n\nØkonomi- og indenrigsminister Pia Olsen Dyhr siger:  \nVi tager store skridt for børns tryghed og uddannelse. Børn skal mødes af mere nærvær og faglighed. Derfor sætter vi penge af til flere pædagoger og pædagogiske assistenter.\n\nForslaget indeholder også 650 millioner kroner til elektrificering i 2027. Fra 2028 er det 850 millioner årligt. Målet er at skabe grøn, billig og sikker energi.\n\nErhvervs- og konkurrencekraftsminister Martin Lidegaard siger:  \nVi bygger et samfund, kommende generationer kan tro på. Den grønne omstilling styrker både sikkerhed og konkurrencekraft.\n\nFolkepensionister med laveste indkomst får 1.600 kroner mere om måneden. Det svarer til 1.000 kroner efter skat. Ændringen er permanent.\n\nFinansminister Peter Hummelgaard siger:  \nVi er stædige optimister. Vores optimisme omsættes til resultater, der mærkes i hele landet og gennem hele livet.\n\nRegeringen vil også indføre gratis kollektiv transport for unge under 22 år. 800 millioner kroner afsættes i 2027. Derefter er det 1 milliard årligt.\n\nSkatte- og vækstminister Jakob Engel-Schmidt siger:  \nSygeplejersken, ingeniøren og VVS’eren skal belønnes, ikke straffes, for at tage en ekstra vagt. Det bedre skal kunne betale sig at arbejde mere.",
+  "prompt_tokens": 2342,
+  "completion_tokens": 565,
+  "latency_ms": 18727,
+  "cost_usd": 0.0008074000000000001,
+  "created": "2026-11-10T05:41:54.474618Z",
+  "error": null
+}

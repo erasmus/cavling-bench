@@ -1,0 +1,21 @@
+{
+  "model_id": "nebius-qwen3-235b",
+  "pinned_version": "Qwen/Qwen3-235B-A22B-Instruct-2507",
+  "task_id": "t2_rubrik",
+  "source_id": "jm-2026-nyt-ledelseshold-politi",
+  "archetype": "landsavisen",
+  "prompt_sha256": "622f75d219af7b6af79538b2e6c3043b21915adb7da0d3dac66fee145ebe5261",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 400,
+    "reasoning_effort": null
+  },
+  "text": "RUBRIK: Nyt ledelseshold sættes for politi og anklagemyndighed  \nUNDERRUBRIK: Justitsminister Nicolai Wammen udnævner ny rigspolitichef og en række politidirektører og anklagere, efter at åremålsansættelser udløb.",
+  "prompt_tokens": 1955,
+  "completion_tokens": 85,
+  "latency_ms": 2699,
+  "cost_usd": 0.000442,
+  "created": "2026-11-10T05:39:50.347260Z",
+  "error": null
+}

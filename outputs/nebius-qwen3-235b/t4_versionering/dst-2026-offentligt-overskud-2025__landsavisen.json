@@ -1,0 +1,21 @@
+{
+  "model_id": "nebius-qwen3-235b",
+  "pinned_version": "Qwen/Qwen3-235B-A22B-Instruct-2507",
+  "task_id": "t4_versionering",
+  "source_id": "dst-2026-offentligt-overskud-2025",
+  "archetype": "landsavisen",
+  "prompt_sha256": "3077cfa6532e6f3aba5691f2f143f54b55285fd2e46317a011180172fac608c7",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 1025,
+    "reasoning_effort": null
+  },
+  "text": "I 2025 endte de offentlige finanser med et overskud på 90,9 mia. kr., viser reviderede tal fra Danmarks Statistik. Overskuddet er lavere end det foreløbige tal for 2024, hvor saldoen lå på 123,5 mia. kr. Efter seneste revision er 2025-tallet opjusteret med 2,5 mia. kr., mens 2024-tallet er justeret ned med 7,0 mia. kr. Justeringerne skyldes primært nye oplysninger om skatteindtægter og forbrugsudgifter fra Skattestyrelsen og selvejende institutioner.\n\nDe samlede offentlige indtægter steg til 1.563,8 mia. kr. i 2025, en stigning på 52,4 mia. kr. i forhold til året før. En væsentlig del af stigningen kommer fra pensionsafkastsskatten, der indbragte 47,0 mia. kr., samt øgede indtægter fra person- og selskabsskatter. På udgiftssiden voksede de samlede udgifter med 85,0 mia. kr. til 1.472,8 mia. kr., blandt andet pga. stigende udgifter til socialområdet, sundhed og forsvar.\n\nSocial beskyttelse udgjorde med 41 procent den største udgiftspost, svarende til 438,4 mia. kr. Heraf steg udgifterne til generelle pensioner alene med 11,8 mia. kr., blandt andet grundet flere pensionister og højere satser. Sundhed udgjorde 17 procent af udgifterne, uddannelse og generelle tjenester 12 procent hver, mens forsvar udgjorde 5 procent – en stigning over tid.\n\nDen offentlige forbrugsudgift er opjusteret med 5,9 mia. kr. i 2025, bl.a. fordi regnskaber for kommuner, regioner og universiteter nu bygger på endelige tal. Afskrivninger er ligeledes revideret op.",
+  "prompt_tokens": 1529,
+  "completion_tokens": 545,
+  "latency_ms": 16138,
+  "cost_usd": 0.0006328,
+  "created": "2026-11-10T05:41:41.118510Z",
+  "error": null
+}

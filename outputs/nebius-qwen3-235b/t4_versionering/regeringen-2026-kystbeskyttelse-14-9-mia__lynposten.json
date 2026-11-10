@@ -1,0 +1,21 @@
+{
+  "model_id": "nebius-qwen3-235b",
+  "pinned_version": "Qwen/Qwen3-235B-A22B-Instruct-2507",
+  "task_id": "t4_versionering",
+  "source_id": "regeringen-2026-kystbeskyttelse-14-9-mia",
+  "archetype": "lynposten",
+  "prompt_sha256": "2e6f2475f8609ad336a6dcd22adb73b21dc64f734490b16694378fd477c26222",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 1025,
+    "reasoning_effort": null
+  },
+  "text": "14,9 mia. kr. til at sikre Danmarks kyster mod stormfloder. Pengene skal hjælpe kommunerne med at beskytte 1 mio. danskere, der bor tæt på kysten.\n\nRegeringen lægger op til en national plan for kystbeskyttelse. Planen skal forhindre oversvømmelser af op til 100.000 husstande og virksomheder. 175.000 arbejdspladser er også i spil. Stormfloder, der i dag rammer hvert 100. år, forventes at komme hvert tredje år i 2100.\n\nInvesteringerne i kystbeskyttelse går for langsomt. Derfor sætter staten tempoet op. Klimatilpasningsplan II giver 14,9 mia. kr. til et sammenhængende kystbeskyttelsesprojekt. Staterne medfinansierer 85 procent af anlægsudgifterne. Kommunerne betaler 15 procent. Sammen med andre puljer kan der bruges op til 20 mia. kr. frem mod 2040.\n\nMiljøminister Magnus Heunicke siger:  \n“Danmark skal rustes til den nye klimavirkelighed. Vi skal foran udviklingen og sikre de danske kystbyer mod fremtidens stormfloder. Det bliver nu et fælles ansvar at beskytte Danmark mod stormfloderne.”\n\nStaten vil fjerne barrierer i lovgivningen. Kommunerne får lettere ved at give tilladelse til klimatilpasning, selv hvor det rammer naturen. Hensynet til mennesker og ejendom skal veje tungere.\n\nEn ekspertgruppe skal finde en model for, hvor meget lodsejerne senere skal betale. Miljøministeren indkalder partierne til drøftelser om en politisk aftale.\n\nKlima-, energi- og forsyningsminister Lars Aagard siger:  \n“Klimaforandringerne kommer med en regning. Jeg er glad for, at regeringen nu tager et stort medansvar. Det haster med holdbare løsninger, for at regningen ikke bliver endnu større.”\n\nMinister for byer og landdistrikter Morten Dahlin siger:  \n“Alle skal løfte ansvaret. Vi tager et vigtigt skridt mod mere tryghed.”",
+  "prompt_tokens": 1903,
+  "completion_tokens": 585,
+  "latency_ms": 12586,
+  "cost_usd": 0.0007316,
+  "created": "2026-11-10T05:43:15.358075Z",
+  "error": null
+}

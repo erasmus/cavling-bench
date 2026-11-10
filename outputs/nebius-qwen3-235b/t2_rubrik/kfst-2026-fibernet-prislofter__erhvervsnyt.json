@@ -1,0 +1,21 @@
+{
+  "model_id": "nebius-qwen3-235b",
+  "pinned_version": "Qwen/Qwen3-235B-A22B-Instruct-2507",
+  "task_id": "t2_rubrik",
+  "source_id": "kfst-2026-fibernet-prislofter",
+  "archetype": "erhvervsnyt",
+  "prompt_sha256": "7ed4ab1a6b6cbd917329861747c7844ff03e5dcd5f8db93770738f90b9e7ebca",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 400,
+    "reasoning_effort": null
+  },
+  "text": "RUBRIK: Prislofter på fibernet stiger op til 35 pct. fra årsskiftet  \nUNDERRUBRIK: Konkurrence- og Forbrugerstyrelsen fastsætter nye rammer for 13 selskaber, så forbrugere og mindre virksomheder ikke betaler for meget, selvom omkostningerne stiger pga. inflation, rente og netbeskyttelse.",
+  "prompt_tokens": 2159,
+  "completion_tokens": 105,
+  "latency_ms": 7006,
+  "cost_usd": 0.0004948,
+  "created": "2026-11-10T05:39:58.531786Z",
+  "error": null
+}

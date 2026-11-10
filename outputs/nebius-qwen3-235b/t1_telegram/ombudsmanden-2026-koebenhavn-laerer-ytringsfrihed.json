@@ -1,0 +1,21 @@
+{
+  "model_id": "nebius-qwen3-235b",
+  "pinned_version": "Qwen/Qwen3-235B-A22B-Instruct-2507",
+  "task_id": "t1_telegram",
+  "source_id": "ombudsmanden-2026-koebenhavn-laerer-ytringsfrihed",
+  "archetype": null,
+  "prompt_sha256": "0a040f3aadee2427097828d36b1c3eef2f3eba35f37eb53174a694a0e151e87a",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 560,
+    "reasoning_effort": null
+  },
+  "text": "Københavns Kommune overtrådte en lærers ytringsfrihed, da hun i 2024 blev indkaldt til en tilrettevisningssamtale efter et interview i en avis med overskriften ”Lærer fik hjernerystelse og blå mærker efter slag: ’Som at være i en krigszone’”. Ifølge Folketingets Ombudsmand, Christian Britten Lundblad, skete håndteringen uden respekt for hendes ret til at ytre sig på egne vegne om sin arbejdssituation. Selvom kommunen henviste til et pressefoto uden tilladelse som begrundelse, konkluderer ombudsmanden, at samtalen og opfordringen til at holde lav profil var en negativ ledelsesreaktion. Læreren havde forud orienteret sin skoleleder om interviewet, og skolelederen gav ikke nærmere vejledning om fotos. Ombudsmanden henstiller, at kommunen genoptager sagen og inden tre måneder orienterer om tiltag. Han kritiserer også kommunens pressemedarbejderes kontakt til medierne som \"meget uheldig\".",
+  "prompt_tokens": 1714,
+  "completion_tokens": 287,
+  "latency_ms": 8586,
+  "cost_usd": 0.000515,
+  "created": "2026-11-10T05:39:10.666422Z",
+  "error": null
+}

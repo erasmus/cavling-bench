@@ -1,0 +1,21 @@
+{
+  "model_id": "nebius-qwen3-235b",
+  "pinned_version": "Qwen/Qwen3-235B-A22B-Instruct-2507",
+  "task_id": "t6_lydmanus",
+  "source_id": "kk-2026-ventetidsgaranti-foedselsgener",
+  "archetype": "lynposten",
+  "prompt_sha256": "031347694f614a41e2a0d70ce1d4b7577f3f68879a59f2fec1003ad6d3cccde8",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 620,
+    "reasoning_effort": null
+  },
+  "text": "København indfører ventetidsgaranti for kvinder med fødselsgener. Nu skal kvinder tilbydes første samtale senest syv dage efter henvisning. Undersøgelse skal ske inden for tre uger. Hvis kommunen ikke kan overholde tiden, tilbydes hjælp hos en privat leverandør. Sundheds- og omsorgsborgmester Jens Kristian Lütken fra Venstre kalder det Danmarks mest ambitiøse garanti. Overborgmester Sisse Marie Welling fra Socialistisk Folkeparti siger, at kvinder ikke må vente for længe på hjælp. Liberal Alliance bakker op og siger, det handler om at sætte mennesket før systemet. Ifølge Københavns Kommune er efterspørgslen stor. I år hjælper kommunen omkring otte hundrede kvinder. Næste år bliver det knap tusind. I 2027 forventes behov for at hjælpe femten hundrede kvinder. Kommunen afsætter knap tolv og et halvt million kroner de næste fire år. Pengene skal styrke det eksisterende tilbud i Vanløse.",
+  "prompt_tokens": 2340,
+  "completion_tokens": 287,
+  "latency_ms": 7633,
+  "cost_usd": 0.0006402000000000001,
+  "created": "2026-11-10T05:45:11.374747Z",
+  "error": null
+}

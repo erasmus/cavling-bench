@@ -1,0 +1,21 @@
+{
+  "model_id": "nebius-gpt-oss-120b",
+  "pinned_version": "openai/gpt-oss-120b",
+  "task_id": "t5_forkortelse",
+  "source_id": "ombudsmanden-2026-koebenhavn-laerer-ytringsfrihed",
+  "archetype": null,
+  "prompt_sha256": "5699dc7c7a7f391dfed46443bc18c4da0374f3d0be8cc7468ad4ff7a072be783",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 2360,
+    "reasoning_effort": "low"
+  },
+  "text": "Københavns Kommune indkaldte en lærer til en tilrettevisningssamtale, efter at hun i et interview til en avis med overskriften ”Lærer fik hjernerystelse og blå mærker efter slag: ’Som at være i en krigszone’” beskrev voldelig elevadfærd på den skole, hvor hun tidligere var ansat, og delte sine perspektiver på elevers adfærdsproblemer. Under samtalen fik hun en tilrettevisning og blev opfordret til at holde lav profil i pressen. Kommunen har efterfølgende betegnet opfordringen som yderst beklagelig, og ombudsmanden er enig i, at håndteringen ikke viste respekt for hendes ytringsfrihed. Ombudsmanden, Christian Britten Lundblad, påpeger, at offentligt ansatte har lovfæstet ret til at bidrage til den offentlige debat uden negative ledelsesreaktioner. Kommunen hævder, at indkaldelsen skyldtes et pressefoto i artiklen, som læreren ikke havde givet tilladelse til, men ombudsmanden konkluderer, at forløbet kan opfattes som en negativ reaktion på hendes udtalelser. Læreren havde orienteret skolelederen om interviewet, men lederen spurgte ikke om fotooptagelse. Ombudsmanden har henstillet, at kommunen genoptager sagen og inden tre måneder skal orientere ham om, hvad henstillingen betyder. Den efterfølgende kontakt fra kommunens pressemedarbejdere til flere medier om lærerens udtalelser betegnes som meget uheldig. Offentligt ansattes ytringsfrihed er beskyttet af grundlovens § 77, EMRK artikel 10 og fra 1. juli 2025 lov nr. 557 om offentligt ansattes ytringsfrihed.",
+  "prompt_tokens": 1501,
+  "completion_tokens": 431,
+  "latency_ms": 1417,
+  "cost_usd": 0.00048375,
+  "created": "2026-11-10T05:38:38.011195Z",
+  "error": null
+}

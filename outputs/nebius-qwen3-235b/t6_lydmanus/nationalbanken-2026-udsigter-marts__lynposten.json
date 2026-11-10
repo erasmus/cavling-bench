@@ -1,0 +1,21 @@
+{
+  "model_id": "nebius-qwen3-235b",
+  "pinned_version": "Qwen/Qwen3-235B-A22B-Instruct-2507",
+  "task_id": "t6_lydmanus",
+  "source_id": "nationalbanken-2026-udsigter-marts",
+  "archetype": "lynposten",
+  "prompt_sha256": "42f387b0280a6a2de0ae1ddbf0a43e575995e94a1018019371b81338b40bcc41",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 620,
+    "reasoning_effort": null
+  },
+  "text": "Dansk økonomi står over for usikkerhed. Nationalbanken peger på stigende energipriser og globale konflikter som store risici. Alligevel er økonomien i god form. Beskæftigelsen er høj og ledigheden lav. Det siger nationalbankdirektør Christian Kettel Thomsen. Inflationen forventes at ligge på en og otte tiendedele procent i år. I 2027 stiger den til to procent. I et risikoscenarie kan inflationen nå fire og en halv procent. Det sker, hvis olie- og gasforsyningen fra Den Persiske Golf bliver begrænset. Nationalbanken advarer mod at bruge alt råderum nu. Regeringen bør ikke skubbe til efterspørgslen ud over det planlagte. Forsvarsudgifterne er steget med fem og halvfjerds milliarder kroner. Det mindsker pladsen til nye prioriteringer. BNP forventes at vokse med en og otte tiendedele procent i år og næste år. I 2028 stiger det med to procent.",
+  "prompt_tokens": 1486,
+  "completion_tokens": 281,
+  "latency_ms": 7038,
+  "cost_usd": 0.00046579999999999994,
+  "created": "2026-11-10T05:45:16.256783Z",
+  "error": null
+}

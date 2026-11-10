@@ -1,0 +1,21 @@
+{
+  "model_id": "nebius-gpt-oss-120b",
+  "pinned_version": "openai/gpt-oss-120b",
+  "task_id": "t5_forkortelse",
+  "source_id": "ankestyrelsen-2026-langeland-tilsynssager-afsluttet",
+  "archetype": null,
+  "prompt_sha256": "833821da059bbb12ef09a001590d825330dc2a5f6259ccfdb696c396ff2d01a2",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 2360,
+    "reasoning_effort": "low"
+  },
+  "text": "Ankestyrelsens tilsyn har meddelt Langelid Kommune, at opfølgningen på to tilsynssager afsluttes. Den første sag fra november 2022 fandt, at Familieafdelingen ikke havde overholdt bestemmelser i offentlighedsloven, forvaltningsloven, retssikkerhedsloven og serviceloven. Kommunen skulle gennemgå alle igangværende og afsluttede sager i afdelingen; den identificerede 295 relevante sager. Efter præciseringer og ændringer i opfølgningen leverede kommunen i marts 2025 en slutorientering efter fornyet gennemgang af en stor del af sagerne. Tilsynet vurderer nu, at sagen kan lukkes, idet fejl er identificeret, der er foretaget individuelle vurderinger, og der er truffet beslutning om eventuel genoptagelse. Ankechef Hanne Østergaard udtaler, at kommunen har fulgt op på udtalelsen fra november 2022, og at tilsynet ikke behøver foretage yderligere handling.\n\nDen anden sag fra 2024 blev indledt efter en henvendelse fra Taskforce på børneområdet om bekymrende forhold i Familieafdelingen. Taskforcen, bestående af medarbejdere fra Socialstyrelsen og Ankestyrelsen, tilbyder analyse og kompetenceudvikling til kommunerne. Sagen blev afsluttet i august 2023, da tilsynet fandt ingen grund til en formel sag, men lovede opfølgning. Kommunen har omorganiseret og opnormeret afdelingen, hvilket ifølge egen vurdering giver mere ensartet sagsbehandling, og den kan nu deltage i et skræddersyet taskforce‑forløb fra maj 2026 til januar 2028. Tilsynet konstaterer, at der ikke længere er grundlag for yderligere opfølgning. Hanne Østergaard bekræfter, at samarbejdet genoptages, med fokus på lovmedholdelighed og socialfaglig kvalitet, og at tilsynet ikke foretager sig mere i sagen.",
+  "prompt_tokens": 1194,
+  "completion_tokens": 483,
+  "latency_ms": 1802,
+  "cost_usd": 0.00046889999999999996,
+  "created": "2026-11-10T05:38:33.600120Z",
+  "error": null
+}

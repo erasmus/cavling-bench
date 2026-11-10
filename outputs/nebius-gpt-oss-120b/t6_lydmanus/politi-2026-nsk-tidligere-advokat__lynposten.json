@@ -1,0 +1,21 @@
+{
+  "model_id": "nebius-gpt-oss-120b",
+  "pinned_version": "openai/gpt-oss-120b",
+  "task_id": "t6_lydmanus",
+  "source_id": "politi-2026-nsk-tidligere-advokat",
+  "archetype": "lynposten",
+  "prompt_sha256": "9da5f95de0e65d31d9b3d4441e5fa11a307af443a95288a551dd5e34e4da3388",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 2120,
+    "reasoning_effort": "low"
+  },
+  "text": "Femtitre år gammel tidligere advokat får seks måneders ubetinget fængsel. Retten i Lyngby fandt ham skyldig i groft stillingsmisbrug og pligtforsømmelse. Han udpegede sig selv som kurator i to konkursboer, selvom han var inhabil efter tidligere rådgivning. Han undlod at videregive væsentlige oplysninger om kriminelle forhold i selskaberne. Retten frakendte ham retten til at udøve advokatvirksomhed indtil videre. Specialanklager Konrad Joe Frank fra National enhed for Særlig Kriminalitet udtaler, at dommen viser, hvor vigtigt det er at holde professionelle rådgivere ansvarlige. Ifølge National enhed for Særlig Kriminalitet er tilliden til kuratorer afgørende for systemet.",
+  "prompt_tokens": 1179,
+  "completion_tokens": 227,
+  "latency_ms": 811,
+  "cost_usd": 0.00031304999999999994,
+  "created": "2026-11-10T05:38:44.259433Z",
+  "error": null
+}

@@ -1,0 +1,21 @@
+{
+  "model_id": "nebius-gpt-oss-120b",
+  "pinned_version": "openai/gpt-oss-120b",
+  "task_id": "t6_lydmanus",
+  "source_id": "politi-2026-sydoestjylland-hadforbrydelse",
+  "archetype": "lynposten",
+  "prompt_sha256": "b7ed4541e6817a0e2f68220f026625166dfa6531fc68db4bf1ed9275dc24d563",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 2120,
+    "reasoning_effort": "low"
+  },
+  "text": "Tre unge mænd i Horsens er i dag dømt for vold, grov vold, hadforbrydelse og overtrædelse af våbenlovgivningen. De to 18‑årige blev idømt fængsel for trusler med kniv i Vitus Beringsparken den anden januar og for vold på en bar den fjerde januar. Den ene af dem fik også et år og tre måneders fængsel for en hadforbrydelse, seks måneders opholdsforbud i nattelivet, udvisning af Danmark og seks års indrejseforbud. Den 17‑årige mand fik ti måneders fængsel for at have slået to kvinder med en totenschlæger og brugt peberspray som hadforbrydelse. Den anden 18‑årige fik tre måneders fængsel og en advarsel om udvisning. Thomas Vestergaard fra anklagemyndigheden udtaler, at dommen viser, at ingen må udsættes for vold på grund af seksuel orientering. Ifølge retten blev de to andre mænd udbedt betænkningstid.",
+  "prompt_tokens": 1287,
+  "completion_tokens": 282,
+  "latency_ms": 1134,
+  "cost_usd": 0.00036225,
+  "created": "2026-11-10T05:38:44.970644Z",
+  "error": null
+}

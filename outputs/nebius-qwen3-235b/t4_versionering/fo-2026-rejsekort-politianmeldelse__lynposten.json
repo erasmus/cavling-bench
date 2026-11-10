@@ -1,0 +1,21 @@
+{
+  "model_id": "nebius-qwen3-235b",
+  "pinned_version": "Qwen/Qwen3-235B-A22B-Instruct-2507",
+  "task_id": "t4_versionering",
+  "source_id": "fo-2026-rejsekort-politianmeldelse",
+  "archetype": "lynposten",
+  "prompt_sha256": "dc8b081dec20f7c386cdc6cf047dc79e05b7926179ecfd4b85e1cd383bc700a3",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 1025,
+    "reasoning_effort": null
+  },
+  "text": "Rejsekort & Rejseplan politianmeldes for vildledende markedsføring. Forbrugerombudsmanden siger, at virksomheden har narret forbrugerne til at tro, de skal bruge en billet-app for at kunne rejse med offentlig transport.\n\nVirksomheden har kørt en stor kampagne om, at det fysiske rejsekort lukker. Kampagnen har blandt andet løbet på sociale medier, på skilte ved stationer og på skærme i busser og tog. Der har stået, at forbrugerne skal skifte til en app. Det har stået på hætter over tjek-ind-standere og på reklameskilte. Men det har ikke været klart, at der stadig findes et fysisk alternativ.\n\nForbrugerombudsmanden har modtaget over 35 klager. Mange forbrugere har været i tvivl. De har troet, de ikke længere kan bruge et fysisk kort. Det er et problem, siger Forbrugerombudsmanden. Offentlig transport er noget, folk ikke kan undvære.\n\nTorben Jensen, forbrugerombudsmand, siger:  \n\"Markedsføringskampagnen er et klart eksempel på vildledning. Man giver nogle oplysninger, men udelader andre. Forbrugerne får ikke lov til at vælge på et oplyst grundlag.\"\n\nRejsekort & Rejseplan siger, at de ikke mener, der er tale om vildledning. Men Forbrugerombudsmanden peger på, at loven forbyder både urigtige oplysninger og vildledende udeladelser. Kampagnen har været så omfattende, at det vejer tungt.  \n\nNu vurderer politiet, om der er grundlag for at rejse sigt.",
+  "prompt_tokens": 2240,
+  "completion_tokens": 451,
+  "latency_ms": 6146,
+  "cost_usd": 0.0007185999999999999,
+  "created": "2026-11-10T05:41:47.266163Z",
+  "error": null
+}

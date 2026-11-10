@@ -1,0 +1,21 @@
+{
+  "model_id": "nebius-qwen3-235b",
+  "pinned_version": "Qwen/Qwen3-235B-A22B-Instruct-2507",
+  "task_id": "t6_lydmanus",
+  "source_id": "skim-2026-sommeraftale-sundhedsreform",
+  "archetype": "lynposten",
+  "prompt_sha256": "fee60da27a08235220b482fa68a05cc116b9be8236d1b6671da2cf89334cb4c9",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 620,
+    "reasoning_effort": null
+  },
+  "text": "Tre millioner kronikere får ret til behandlingsplan fra 2027. Regeringen, Danske Regioner og KL har indgået en sommeraftale om sundhedsreformens næste skridt. Aftalen bringer sundhedstilbud tættere på borgernes hverdag. Patienter med KOL og kroniske lænderygsmerter kommer først i række. De får en behandlingsplan og tilbud om forebyggelse inden for 21 dage. Ifølge Danmarks Statistik får over halvdelen af kronikere forsinket behandling i dag. Nu udvides også sygehusets ansvar til 96 timer efter udskrivelse. Det gælder ældre medicinske patienter og nogle psykiatriske patienter. Sundhedsminister Ida Auken siger, at det skaber større tryghed. Formand for Danske Regioner Mads Duedahl kalder aftalen afgørende for reformens succes. Formand for KL’s Sundheds- og Ældreudvalg Dorte West peger på sundhedsrådenes rolle. Aftalen løfter sundhedsvæsenet med knap otte hundrede millioner kroner i 2027. Beløbet stiger til en milliard og hundrede millioner årligt fra 2030.",
+  "prompt_tokens": 2791,
+  "completion_tokens": 320,
+  "latency_ms": 8720,
+  "cost_usd": 0.0007502,
+  "created": "2026-11-10T05:45:41.402905Z",
+  "error": null
+}

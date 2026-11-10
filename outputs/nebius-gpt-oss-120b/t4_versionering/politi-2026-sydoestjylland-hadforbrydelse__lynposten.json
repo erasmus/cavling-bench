@@ -1,0 +1,21 @@
+{
+  "model_id": "nebius-gpt-oss-120b",
+  "pinned_version": "openai/gpt-oss-120b",
+  "task_id": "t4_versionering",
+  "source_id": "politi-2026-sydoestjylland-hadforbrydelse",
+  "archetype": "lynposten",
+  "prompt_sha256": "d7dc6a5c36bf786883c9d772ab5e63c56aed28c9b3d6ab904d64f648862dbb36",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 2525,
+    "reasoning_effort": "low"
+  },
+  "text": "18-årige idømt et år og tre måneders fængsel for hadforbrydelse i Horsens\n\nTre unge mænd er i dag blevet dømt i Horsens Ret. To af dem er 18 år, den tredje er 17 år. De har fået fængselsstraffe for vold, grov vold, hadforbrydelse og overtrædelse af våbenlovgivningen.\n\nDen første 18-årige blev dømt for vold og trusler med kniv, da han overfaldt en mand i Vitus Beringsparken den 2. januar 2026. Han blev også dømt for vold på en bar den 4. januar. Samme mand blev idømt et år og tre måneders fængsel for en hadforbrydelse, hvor han og den 17-årige slog to kvinder ved banegården, råbte skældsord om deres seksuelle orientering og brugte en totenschlæger og peberspray. Han fik også et seks måneders opholdsforbud i nattelivet, udvisning af Danmark og seks års indrejseforbud. Han blev straks fængslet.\n\nDen 17-årige mand blev idømt 10 måneders fængsel. Han blev også dømt for at have haft en totenschlæger og peberspray, hvilket er overtrædelse af våbenlovgivningen.\n\nDen anden 18-årige mand fik tre måneders fængsel og en advarsel om udvisning. Han blev kun dømt for vold og trusler med kniv i Vitus Beringsparken.\n\nThomas Vestergaard, anklagerfuldmægtig ved Sydøstjyllands Politi, sagde: “Dommen i dag understreger, at man som borger ikke skal diskrimineres eller udsættes for vold på baggrund af sin seksuelle orientering, kønsidentitet, kønsudtryk eller lignede.” De to andre domsmænd udbødte betænkningstid.",
+  "prompt_tokens": 1252,
+  "completion_tokens": 460,
+  "latency_ms": 1379,
+  "cost_usd": 0.00046379999999999994,
+  "created": "2026-11-10T05:38:30.477591Z",
+  "error": null
+}

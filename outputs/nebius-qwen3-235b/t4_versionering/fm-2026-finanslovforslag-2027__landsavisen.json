@@ -1,0 +1,21 @@
+{
+  "model_id": "nebius-qwen3-235b",
+  "pinned_version": "Qwen/Qwen3-235B-A22B-Instruct-2507",
+  "task_id": "t4_versionering",
+  "source_id": "fm-2026-finanslovforslag-2027",
+  "archetype": "landsavisen",
+  "prompt_sha256": "161ccd2cc7292422e90b3f7d51f7181e25f5b1e295944fbf5f7b9c4458ebcb5b",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 1025,
+    "reasoning_effort": null
+  },
+  "text": "Regeringen fremlægger torsdag sit finanslovforslag for 2027, der sætter fokus på velfærd, tryghed og grøn omstilling. Forslaget er en del af regeringens løfter om at styrke hverdagen for danskerne, særligt de mest sårbare grupper, og samtidig sikre en langsigtet bæredygtig udvikling. Det kommer efter to års forberedelse og skal ses i lyset af øget sikkerhedspolitisk spænding og behovet for at styrke den offentlige sektor.\n\nForslaget indeholder bl.a. en årlig investering på 1,2 mia. kr. i 2027 og 1,1 mia. kr. årligt frem til 2030 i folkeskolen og dagtilbud. Desuden afsættes 900 mio. kr. direkte til folkeskolen, herunder støtte til skoler i landdistrikter og de 100 skoler med størst udfordringer. Regeringen vil også indføre vederlagsfri tandpleje for førtidspensionister og udsatte grupper fra 2028 med en årlig ramme på 0,9 mia. kr. Samtidig får de folkepensionister med lavest indkomst en månedlig ydelsesforhøjelse på godt 1.600 kr., svarende til cirka 1.000 kr. efter skat.\n\nI sikkerhedspolitikken fastlægges målet om at nå 3,5 pct. af BNP til forsvar i 2030. På den grønne dagsorden afsættes 650 mio. kr. i 2027 og 850 mio. kr. årligt frem til 2030 til elektrificering og afvikling af fossile brændsler. Derudover allokeres 800 mio. kr. i 2027 og 1.000 mio. kr. årligt til gratis kollektiv transport for under 22 år.\n\nFinansminister Peter Hummelgaard kalder forslaget et løft for hele landet: \"Vi investerer milliarder i danskernes tryghed og grøn omstilling og styrker hverdagsøkonomien for dem, der har sværest ved det.\"",
+  "prompt_tokens": 2341,
+  "completion_tokens": 578,
+  "latency_ms": 56463,
+  "cost_usd": 0.000815,
+  "created": "2026-11-10T05:42:33.570511Z",
+  "error": null
+}

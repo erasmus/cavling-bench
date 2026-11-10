@@ -1,0 +1,21 @@
+{
+  "model_id": "nebius-gpt-oss-120b",
+  "pinned_version": "openai/gpt-oss-120b",
+  "task_id": "t5_forkortelse",
+  "source_id": "fm-2026-finanslovforslag-2027",
+  "archetype": null,
+  "prompt_sha256": "bcd79be6afefb7445f903727e59ca98b0eb6bd3dc88336c57ec2223ac5c84175",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 2360,
+    "reasoning_effort": "low"
+  },
+  "text": "Regeringen præsenterer i dag sit finanslovforslag for 2027 med mål om at løfte velfærden, styrke sikkerheden og sætte gang i den grønne omstilling. Forslaget afsætter midler til at hæve forsvarsudgifterne til 3,5 % af BNP i 2030 som svar på den fortsatte trussel fra Rusland. Der investeres 1,2 mia. kr. i 2027 og 1,1 mia. kr. årligt i 2028‑2030 i folkeskolen og dagtilbud, samt 0,6 mia. kr. i 2027 og 0,9 mia. kr. årligt fra 2028 i vederlagsfri tandpleje for førtidspensionister og udsatte grupper. Folkepensionister med mindst får et permanent løft på godt 1.600 kr. om måneden (ca. 1.000 kr. efter skat). Til grøn energi afsættes 650 mio. kr. i 2027 og 850 mio. kr. årligt i 2028‑2030 til elektrificering og afvikling af fossile brændsler. Kollektiv transport får 800 mio. kr. i 2027 og 1 mia. kr. i helårsniveau for at indføre gratis transport for unge under 22 år. Finansminister Peter Hummelgaard, økonomi‑ og indenrigsminister Pia Olsen Dyhr, skatte‑ og vækstminister Jakob Engel‑Schmidt samt erhvervs‑ og konkurrencekraftsminister Martin Lidegaard understreger, at forslaget skal styrke tryghed, uddannelse, erhvervsliv og vækst, samtidig med at Danmark skal blive den grønneste regering nogensinde.",
+  "prompt_tokens": 1685,
+  "completion_tokens": 440,
+  "latency_ms": 1573,
+  "cost_usd": 0.00051675,
+  "created": "2026-11-10T05:38:35.578147Z",
+  "error": null
+}

@@ -1,0 +1,21 @@
+{
+  "model_id": "nebius-qwen3-235b",
+  "pinned_version": "Qwen/Qwen3-235B-A22B-Instruct-2507",
+  "task_id": "t4_versionering",
+  "source_id": "regeringen-2026-grisefirepart",
+  "archetype": "landsavisen",
+  "prompt_sha256": "63d5afbfe4352a5f16840e1f312cd251b92aee5cd103b657132c04cb1805a1c6",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 1025,
+    "reasoning_effort": null
+  },
+  "text": "Regeringen nedsætter en firepart for fremtidens griseproduktion med mål om at forbedre dyrevelfærd, øge bæredygtigheden og styrke værdiskabelsen i branchen. Initiativet er et svar på kritik af nuværende praksis, herunder overfyldte staldsystemer, rutinemæssig halvklipning og stigende eksport af smågrise i stedet for forædling i Danmark. Parterne skal finde fælles løsninger, der både gavner dyrene og sikrer erhvervets konkurrencekraft.\n\nOm bord i processen er Landbrug & Fødevarer, Dyrenes Beskyttelse, Fødevareforbundet NNF, Danmarks Naturfredningsforening, Dansk Erhverv, Dansk Industri samt regeringen. De skal blandt andet arbejde for mere økologisk produktion, reduktion af antibiotikaforbrug og en styrket position i værdikæden. Målet er en produktion, hvor dyrevelfærd, kvalitet og økonomisk styrke går hånd i hånd.\n\nMinisteren for natur og dyrevelfærd, Christian Rabjerg Madsen, peger på, at 95 procent af grise får klippet halen, og at millioner af pattegrise dør årligt. ”Det skal vi gøre bedre. Vores grise skal have et bedre griseliv,” siger han og understreger, at effektivitet ikke må gå forud for dyrevelfærd.\n\nUdenrigsminister Lars Løkke Rasmussen fremhæver, at antallet af slagtninger og slagteriarbejdere i Danmark er faldet med omkring en tredjedel de sidste 15 år, mens eksporten af smågrise er mere end tidoblet. Et ekspertpanel skal nu belyse vejen mod mere forædling.\n\nErhvervsminister Martin Lidegaard kalder processen et skridt i retning af en ambitiøs fødevarestrategi. Miljøminister Maria Reumert Gjerding henviser til erfaringer fra den grønne trepart og mener, at fælles ansvar kan føre til reelle forandringer.",
+  "prompt_tokens": 1727,
+  "completion_tokens": 555,
+  "latency_ms": 14769,
+  "cost_usd": 0.0006784000000000001,
+  "created": "2026-11-10T05:43:16.070498Z",
+  "error": null
+}

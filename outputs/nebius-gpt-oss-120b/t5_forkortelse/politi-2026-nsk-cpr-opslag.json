@@ -1,0 +1,21 @@
+{
+  "model_id": "nebius-gpt-oss-120b",
+  "pinned_version": "openai/gpt-oss-120b",
+  "task_id": "t5_forkortelse",
+  "source_id": "politi-2026-nsk-cpr-opslag",
+  "archetype": null,
+  "prompt_sha256": "c47343722506643b4f3e6dbe835b4226a77bd836fce6f89f736b5c808b9a6841",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 2360,
+    "reasoning_effort": "low"
+  },
+  "text": "National enhed for Særlig Kriminalitet (NSK) har efterforsket en sag om facilitering af personfarlig kriminalitet via CPR‑opslag. En 27‑årig mand fra Storkøbenhavn blev onsdag i Københavns Byret idømt fængsel i 3 år og 6 måneder for at misbruge sin stilling som studentermedhjælper i Københavns Kommune fra juni 2023 til juli 2024. Gennem sit arbejde på kommunens vielseskontor fik han adgang til Det Centrale Personregister og udtræk af bopælsadresser og familienetværk, som han solgte til medgerningsmænd i det kriminelle miljø. Oplysningerne blev brugt i 34 forsøg på grov vold. Han blev også dømt for at have misbrugt sin offentligt betroede stilling og for uberettiget videregivelse af oplysninger mod betaling. Specialanklager Rikke Holm Schønsted udtalte, at den dømte havde forsæt til at facilitere planlægning af personfarlig kriminalitet, mens anklager Tine Graakjær påpegede, at retten fandt, at han måtte have indset, at de solgte data skulle bruges til sådanne forbrydelser. Den dømte har taget betænkningstid for eventuel anke. NSK er en landsdækkende enhed med ca. 1.200 ansatte, hovedsæde i Ejby ved Glostrup og lokationer i Aarhus, Fredericia, Randers, København og midlertidigt i Silkeborg, og den samler specialiseret politi‑ og anklagemyndighedskompetence inden for organiseret, økonomisk og digital kriminalitet.",
+  "prompt_tokens": 1194,
+  "completion_tokens": 409,
+  "latency_ms": 1312,
+  "cost_usd": 0.0004245,
+  "created": "2026-11-10T05:38:38.681239Z",
+  "error": null
+}

@@ -1,0 +1,21 @@
+{
+  "model_id": "nebius-qwen3-235b",
+  "pinned_version": "Qwen/Qwen3-235B-A22B-Instruct-2507",
+  "task_id": "t4_versionering",
+  "source_id": "fo-2026-rejsekort-politianmeldelse",
+  "archetype": "landsavisen",
+  "prompt_sha256": "4e51f6cecc255ffdbec9a1edcfbaf3a1e7c439bafa593eec6f2cb8d8af498319",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 1025,
+    "reasoning_effort": null
+  },
+  "text": "Forbrugerombudsmanden har politianmeldt Rejsekort & Rejseplan A/S for vildledende markedsføring i forbindelse med lukningen af det fysiske rejsekort. Anmeldelsen følger efter en omfattende kampagne, hvor virksomheden ifølge Forbrugerombudsmanden har givet forbrugerne det forkerte indtryk, at de fremover er nødt til at bruge en billet-app for at rejse med offentlig transport. Det er en overtrædelse af markedsføringsloven, der forbinder både urigtige oplysninger og vildledende udeladelser.\n\nKampagnen, som løb på sociale medier, reklameskilte, informationsskærme og rejsekort-tjek-in-standere, fremhævede gentagne gange, at det fysiske rejsekort lukkede, og opfordrede forbrugerne til at skifte til en app. Eksempler herpå inkluderer videoer med tekster som ”Dit fysiske kort lukker – Hent Rejsekort-appen” og ”RIP fysisk Rejsekort”, hvor det i ingen tilfælde fremgik klart og tydeligt, at der fortsat vil eksistere et ikke-digitalt alternativ. På mange skilte og videoer var oplysningen om et fysisk alternativ kun tilgængelig, hvis brugeren eksplicit klikkede på ”se mere”.\n\nForbrugerombudsmand Torben Jensen pointerer, at virksomheden har udeladt væsentlige oplysninger for at påvirke forbrugeradfærd. ”Markedsføringskampagnen er et klart eksempel på vildledning. Forbrugerne kunne ikke træffe deres valg på et tilstrækkeligt oplyst grundlag,” siger han. Han betegner det som en skærpende omstændighed, at kampagnen vedrører noget så centralt som adgang til offentlig transport, som ikke er frivillig for mange.\n\nOver 35 forbrugerklager er indkommet til Forbrugerombudsmanden. Rejsekort & Rejseplan afviser dog, at der er tale om vildledning.",
+  "prompt_tokens": 2239,
+  "completion_tokens": 543,
+  "latency_ms": 8528,
+  "cost_usd": 0.0007736,
+  "created": "2026-11-10T05:41:50.706995Z",
+  "error": null
+}

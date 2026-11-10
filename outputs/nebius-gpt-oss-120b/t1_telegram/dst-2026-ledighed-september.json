@@ -1,0 +1,21 @@
+{
+  "model_id": "nebius-gpt-oss-120b",
+  "pinned_version": "openai/gpt-oss-120b",
+  "task_id": "t1_telegram",
+  "source_id": "dst-2026-ledighed-september",
+  "archetype": null,
+  "prompt_sha256": "6c0c76ce8324e7e5e55c01f2987ee41139121de3925e41c335368aeae2f4050d",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 2060,
+    "reasoning_effort": "low"
+  },
+  "text": "Ledigheden faldt i september 2026 med 200 personer til 93.600 fuldtidspersoner, mens ledighedsprocenten holdt sig på 3,1 % af arbejdsstyrken. Antallet af aktiverede ledige faldt med 500, men de ikke‑aktiverede steg med 300. På dagpenge faldt antallet af modtagere med 100 til 78.600, og på kontanthjælp faldt også med 100 til 15.000. Ledighedsprocenten faldt med 0,1 procentpoint for 30‑39‑årige, men steg med 0,1 procentpoint for 25‑29‑årige; den var lavest for 16‑24‑årige (1,6 %) og højest for 25‑29‑årige (5,0 %). I Københavns omegn og Vestjylland faldt procenten med 0,1 point, mens den steg i Byen København og på Bornholm. (90 ord)",
+  "prompt_tokens": 969,
+  "completion_tokens": 250,
+  "latency_ms": 1078,
+  "cost_usd": 0.00029535,
+  "created": "2026-11-10T05:37:57.182282Z",
+  "error": null
+}

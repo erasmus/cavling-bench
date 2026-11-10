@@ -1,0 +1,21 @@
+{
+  "model_id": "nebius-gpt-oss-120b",
+  "pinned_version": "openai/gpt-oss-120b",
+  "task_id": "t2_rubrik",
+  "source_id": "fo-2026-rejsekort-politianmeldelse",
+  "archetype": "erhvervsnyt",
+  "prompt_sha256": "6203e891b78cffab4f240fc18e09f75b1e82f2507847778b879ef58416dd4bfa",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 1900,
+    "reasoning_effort": "low"
+  },
+  "text": "RUBRIK: Politianmeldelse af Rejsekort for vildledende kampagne\nUNDERRUBRIK: Rejsekort & Rejseplan anklages for at have skjult, at der stadig findes et fysisk kort, mens de pressede forbrugerne til at skifte til en billet‑app.",
+  "prompt_tokens": 1975,
+  "completion_tokens": 483,
+  "latency_ms": 1583,
+  "cost_usd": 0.00058605,
+  "created": "2026-11-10T05:38:06.845191Z",
+  "error": null
+}

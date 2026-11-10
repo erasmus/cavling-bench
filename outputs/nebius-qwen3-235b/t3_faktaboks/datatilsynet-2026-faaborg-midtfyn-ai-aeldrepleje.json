@@ -1,0 +1,21 @@
+{
+  "model_id": "nebius-qwen3-235b",
+  "pinned_version": "Qwen/Qwen3-235B-A22B-Instruct-2507",
+  "task_id": "t3_faktaboks",
+  "source_id": "datatilsynet-2026-faaborg-midtfyn-ai-aeldrepleje",
+  "archetype": null,
+  "prompt_sha256": "7a09e3eb877c3c63a70ec8e809000b8830ac3a905f749d7f62ae333bee8436de",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 575,
+    "reasoning_effort": null
+  },
+  "text": "- Datatilsynet indledte sagen af egen drift i januar 2026 på baggrund af Faaborg-Midtfyn Kommunes brug af et AI-baseret system.  \n- Kommunen anvendte løsningen i en prøveperiode på seks måneder over for i alt 18 beboere på et plejehjem.  \n- Sensorenheden analyserede beboernes søvnkvalitet, uro, vejrtrækning og bevægelsesmønstre ved hjælp af kamerabaseret AI-teknologi.  \n- Risikovurderingen vurderede alle trusler til at udgøre en lav risiko uden nærmere begrundelse for de konkrete risici.  \n- Datatilsynet vurderer, at servicelovens og ældrelovens bestemmelser alene ikke danner tilstrækkeligt retligt grundlag for brugen af AI-løsningen.",
+  "prompt_tokens": 1283,
+  "completion_tokens": 225,
+  "latency_ms": 7983,
+  "cost_usd": 0.00039160000000000003,
+  "created": "2026-11-10T05:40:28.523724Z",
+  "error": null
+}

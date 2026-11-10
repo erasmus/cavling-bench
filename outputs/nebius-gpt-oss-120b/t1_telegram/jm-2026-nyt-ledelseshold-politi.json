@@ -1,0 +1,21 @@
+{
+  "model_id": "nebius-gpt-oss-120b",
+  "pinned_version": "openai/gpt-oss-120b",
+  "task_id": "t1_telegram",
+  "source_id": "jm-2026-nyt-ledelseshold-politi",
+  "archetype": null,
+  "prompt_sha256": "74d7df920e087e24ca771cdcf4aef83e26bbe59d4b283c3ab9241fc6b9249472",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 2060,
+    "reasoning_effort": "low"
+  },
+  "text": "Lasse Boje Nielsen udpeges som ny rigspolitichef, mens Thorkild Fogde rokerer til politidirektør i Københavns Vestegns Politi; den omfattende ledelsesrokade, som Justitsminister Nicolai Wammen annoncerer den 1. november, skal sikre et stærkt hold frem mod 2030. Caroline Østergaard Nielsen fortsætter som rigsadvokat, Rasmus Kieffer‑Kristensen bliver chef for PET, og Finn Borch Andersen får posten som politidirektør i Københavns Politi. Derudover udnævnes nye politidirektører i hele landet: Steen Bechmann Jacobsen (National enhed for Særlig Kriminalitet), Frits Villy Kjeldsen (Østjyllands Politi), Lene Frank (Syd‑ og Sønderjyllands Politi), Henriette Rosenborg Larsen (Sydsjællands‑ og Lolland‑Falsters Politi), Brian Sølvberg Fussing (Sydøstjyllands Politi), Lars Kirkegaard (Fyns Politi), Andreas Langsted (Midt‑ og Vestsjællands Politi), Anne Marie Roum Svendsen (Nordjyllands Politi), Bjørn Tegner Bay (Grønlands Politi), Helle Kyndesen (Midt‑ og Vestjyllands Politi) og Martin Preisz Gravesen (Bornholms Politi). Marie Bindslev og Jens‑Christian Bülow får nye roller som statsadvokater.",
+  "prompt_tokens": 1449,
+  "completion_tokens": 386,
+  "latency_ms": 1372,
+  "cost_usd": 0.00044895,
+  "created": "2026-11-10T05:37:59.134748Z",
+  "error": null
+}

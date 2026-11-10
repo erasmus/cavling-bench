@@ -1,0 +1,21 @@
+{
+  "model_id": "nebius-qwen3-235b",
+  "pinned_version": "Qwen/Qwen3-235B-A22B-Instruct-2507",
+  "task_id": "t3_faktaboks",
+  "source_id": "politi-2026-nsk-tidligere-advokat",
+  "archetype": null,
+  "prompt_sha256": "83fc4a28c3e93cc110a0750eb33f1cf2c6e74c4e8c13d1d23bd49129a8476624",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 575,
+    "reasoning_effort": null
+  },
+  "text": "- Retten i Lyngby idømte den 53-årige tidligere advokat seks måneders ubetinget fængsel onsdag.  \n- Den dømte blev frakendt retten til at udøve advokatvirksomhed indtil videre.  \n- Han lod sig udpege som kurator i to konkursboer, trods at han var inhabil på grund af tidligere rådgivning.  \n- Retten fandt, at han ikke videregav væsentlige oplysninger om kriminelle forhold i de selskaber, han var kurator for.  \n- Specialanklager Konrad Joe Frank repræsenterede National enhed for Særlig Kriminalitet i sagen.",
+  "prompt_tokens": 993,
+  "completion_tokens": 177,
+  "latency_ms": 3677,
+  "cost_usd": 0.00030480000000000004,
+  "created": "2026-11-10T05:40:48.788752Z",
+  "error": null
+}

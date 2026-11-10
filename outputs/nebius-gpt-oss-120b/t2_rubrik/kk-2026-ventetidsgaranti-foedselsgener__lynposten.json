@@ -1,0 +1,21 @@
+{
+  "model_id": "nebius-gpt-oss-120b",
+  "pinned_version": "openai/gpt-oss-120b",
+  "task_id": "t2_rubrik",
+  "source_id": "kk-2026-ventetidsgaranti-foedselsgener",
+  "archetype": "lynposten",
+  "prompt_sha256": "3900ba1f3e1928d49fdcce0ea19b67bae87b827c54e419a0236e46bb802dc56d",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 1900,
+    "reasoning_effort": "low"
+  },
+  "text": "RUBRIK: København indfører ventetidsgaranti for fødselsgener  \nUNDERRUBRIK: Kvinder får første samtale inden 7 dage og undersøgelse inden 3 uger; overskrider kommunen garantien, tilbydes privat forløb.",
+  "prompt_tokens": 1950,
+  "completion_tokens": 222,
+  "latency_ms": 688,
+  "cost_usd": 0.0004257,
+  "created": "2026-11-10T05:38:08.021137Z",
+  "error": null
+}

@@ -1,0 +1,21 @@
+{
+  "model_id": "nebius-gpt-oss-120b",
+  "pinned_version": "openai/gpt-oss-120b",
+  "task_id": "t6_lydmanus",
+  "source_id": "kefm-2026-akutplan-elnettet-vedtaget",
+  "archetype": "lynposten",
+  "prompt_sha256": "8cbe701973998957b5312eb69277420f3f3e2f03d47b323e89c0500d77b88ae4",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 2120,
+    "reasoning_effort": "low"
+  },
+  "text": "Tolv er stemt for akutplanen for elnettet, og den er nu vedtaget i Folketinget. Presset på elnettet er så stort, at der flere steder ikke er plads til alle projekter. Den nye prioriteringsmodel erstatter først‑til‑mølle‑princippet. Energinet og netvirksomhederne får nu mulighed for at vælge, hvem der får adgang til den knappe kapacitet. Klima‑, energi‑ og forsyningsminister Samira Nawa siger, at situationen i elnettet er dybt alvorlig, og at loven skal bruge den begrænsede plads klogere. Jesper Petersen fra Socialdemokratiet kalder planen nødvendig for at prioritere samfundets vigtigste formål. Ifølge Danmarks Statistik træder loven i kraft den tolvte oktober, hvorefter de nye regler kan anvendes i efteråret.",
+  "prompt_tokens": 2772,
+  "completion_tokens": 240,
+  "latency_ms": 1121,
+  "cost_usd": 0.0005598,
+  "created": "2026-11-10T05:38:42.926691Z",
+  "error": null
+}

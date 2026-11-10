@@ -1,0 +1,21 @@
+{
+  "model_id": "nebius-gpt-oss-120b",
+  "pinned_version": "openai/gpt-oss-120b",
+  "task_id": "t2_rubrik",
+  "source_id": "aalborg-2025-omlaegningsplan-trepart",
+  "archetype": "erhvervsnyt",
+  "prompt_sha256": "e8339691d4628f323ef3a6cab1488cc0259c6a83aa99de50d00af065fe391fac",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 1900,
+    "reasoning_effort": "low"
+  },
+  "text": "RUBRIK: 94 projekter får grønt lys i Aalborgs omlægningsplan  \nUNDERRUBRIK: Aalborg Byråd vedtog den ambitiøse plan med 94 projekter, herunder 77 lavbundsinitiativer, for at reducere CO₂, beskytte drikkevand og udvide naturen.",
+  "prompt_tokens": 1832,
+  "completion_tokens": 170,
+  "latency_ms": 742,
+  "cost_usd": 0.0003768,
+  "created": "2026-11-10T05:38:01.391731Z",
+  "error": null
+}

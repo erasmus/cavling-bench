@@ -1,0 +1,21 @@
+{
+  "model_id": "nebius-gpt-oss-120b",
+  "pinned_version": "openai/gpt-oss-120b",
+  "task_id": "t6_lydmanus",
+  "source_id": "datatilsynet-2026-faaborg-midtfyn-ai-aeldrepleje",
+  "archetype": "lynposten",
+  "prompt_sha256": "c4c5ca61509e021cff197693512d31d80b5a53cfbe2f2babe5a28d1beafd9ee9",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 2120,
+    "reasoning_effort": "low"
+  },
+  "text": "Atten beboere på et plejehjem i Faaborg Midtfyn blev i seks måneder overvåget med et AI‑baseret monitoreringssystem. Formålet var at øge trygheden, forebygge fald og støtte personalets faglige vurderinger. Systemet brugte sensorer og kameraer til at analysere søvn, uro, vejrtrækning og bevægelsesmønstre. Kommunen udarbejdede en risikovurdering, men den var kun overfladisk og listede kun generelle trusler. Ifølge Datatilsynet skulle der have været en grundig konsekvensanalyse, fordi teknologien behandlede følsomme oplysninger om sårbare borgere. Kommunen henviste til serviceloven og ældreloven som retsgrundlag, men tilsynet fandt, at disse alene ikke dækker AI‑behandlingen. Datatilsynet understreger, at kommuner skal foretage fyldestgørende risikovurderinger og konsekvensanalyser, før de anvender ny teknologi i ældreplejen. Ifølge Datatilsynet er overholdelse af databeskyttelsesreglerne afgørende.",
+  "prompt_tokens": 1409,
+  "completion_tokens": 299,
+  "latency_ms": 1668,
+  "cost_usd": 0.00039075,
+  "created": "2026-11-10T05:38:40.820640Z",
+  "error": null
+}

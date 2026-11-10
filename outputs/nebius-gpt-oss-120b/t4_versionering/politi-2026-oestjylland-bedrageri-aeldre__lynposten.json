@@ -1,0 +1,21 @@
+{
+  "model_id": "nebius-gpt-oss-120b",
+  "pinned_version": "openai/gpt-oss-120b",
+  "task_id": "t4_versionering",
+  "source_id": "politi-2026-oestjylland-bedrageri-aeldre",
+  "archetype": "lynposten",
+  "prompt_sha256": "b2394ef0c73ea31cbba57f3354a71bfb4efe815a3b287dd360174d280a6204a0",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 2525,
+    "reasoning_effort": "low"
+  },
+  "text": "32-årige fra Tilst idømt et år og seks måneders fængsel for bankbudsbedrageri mod 48 ældre borgere. Han har svindlet dem for i alt 270.000 kroner. Dommen blev afsagt i Retten i Aarhus.\n\nDen 32-årige udgav sig for at være bankbud. Han kørte ud til de ældre, hentede kort og koder og hævede kontanter. I flere tilfælde samarbejdede han med andre medgerningsmænd. Han tilstod også at have forsøgt at svindle omkring 150 yderligere borgere via telefonen.\n\nAnklager Jakob Christensen fra Østjyllands Politi udtalte: “Bankbudsbedragerier er noget, som myndighederne ser på med stor alvor, da ofrene oftest er enten ældre, svage eller øvrigt udsatte borgere.” Han tilføjede, at mange nu er blevet mere opmærksomme på at afvise ukendte opkald, der udgiver sig for at være fra banken.\n\nDen 28. januar blev manden anholdt i Højbjerg efter en anmeldelse om, at en kvinde i Aarhus havde fået hævet 15.000 kroner, efter hun havde overgivet kort og personlige oplysninger til en person, hun troede var fra banken. Politiet fandt ham i besiddelse af flere værdigenstande og tusindvis af kroner i kontanter, som formodes at stamme fra svindlen.\n\nManden har siddet varetægtsfængslet siden anholdelsen. Retten besluttede, at han skal forblive i varetægt frem til afsoning af dommen. Ud over fængselsstraffen skal han betale erstatning til de forurettede. Klagemulighed over varetægtsfængslingen er indgivet til landsretten.",
+  "prompt_tokens": 1717,
+  "completion_tokens": 433,
+  "latency_ms": 1950,
+  "cost_usd": 0.00051735,
+  "created": "2026-11-10T05:38:30.642917Z",
+  "error": null
+}

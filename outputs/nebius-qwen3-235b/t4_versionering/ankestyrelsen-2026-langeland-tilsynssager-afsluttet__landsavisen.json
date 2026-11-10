@@ -1,0 +1,21 @@
+{
+  "model_id": "nebius-qwen3-235b",
+  "pinned_version": "Qwen/Qwen3-235B-A22B-Instruct-2507",
+  "task_id": "t4_versionering",
+  "source_id": "ankestyrelsen-2026-langeland-tilsynssager-afsluttet",
+  "archetype": "landsavisen",
+  "prompt_sha256": "abc9a7106761b61d6f5a1fea5511cd59c95ad82ed71a3bb4cbbcfc9709a01d81",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 1025,
+    "reasoning_effort": null
+  },
+  "text": "Ankestyrelsen har afsluttet to tilsynssager mod Langeland Kommune efter, at kommunen har fulgt op på kritik af sagsbehandling i Familieafdelingen. Afgørelsen kommer efter en to-årig opfølgning, hvor kommunen skulle gennemgå tidligere sager og rette op på mangler i forvaltningspraksis.\n\nI den første sag, der stammer fra november 2022, konkluderede Ankestyrelsen, at kommunen ikke havde overholdt regler i offentlighedsloven, forvaltningsloven, retssikkerhedsloven og serviceloven. Som konsekvens skulle Langeland Kommune gennemgå igangværende og afsluttede sager for at vurdere, om genoptagelse var relevant. Kommunen identificerede 295 sager til gennemgang. Efter en række præciseringer og justeringer i opfølgningen fremlagde kommunen en slutorientering i marts 2025. Ankestyrelsen vurderer nu, at der er foretaget individuelle vurderinger, at fejl er identificeret, og at der er taget stilling til genoptagelse af sager. Der er derfor ikke grundlag for yderligere handling fra tilsynets side.\n\nDen anden sag, fra 2024, opstod efter en henvendelse fra en taskforce under Socialstyrelsen og Ankestyrelsen, der havde pauset sit samarbejde med kommunen på grund af bekymring for sagsbehandlingen. Tilsynet valgte dengang ikke at rejse en ny sag, men krævede opfølgning. Langeland Kommune har siden omorganiseret Familieafdelingen og opnået en mere ensartet sagsbehandling. Taskforce-samarbejdet genoptages nu i et nyt forløb fra maj 2026 til januar 2028 med fokus på lovmedhold og socialfaglig kvalitet.\n\nAnkechef Hanne Østergaard, Tilsyn og Underretning i Ankestyrelsen, siger:  \n\"Det er derfor vores vurdering i dag, at kommunen har fulgt op på vores udtalelse fra november 2022 og gennemført de fornødne tiltag i Familieafdelingen. På den baggrund mener vi ikke, at der grundlag for, at tilsynet foretager sig mere i sagen.\"  \nHun tilføjer:  \n\"Samarbejdet med taskforcen for børn og unge i udsatte positioner bliver nu genoptaget, og der vil i dette forløb – som varer fra maj 2026 til januar 2028 – være fokus på at styrke lovmedholdeligheden og den socialfaglige kvalitet i sagsbehandlingen i Familieafdelingen i Langeland Kommune. Tilsynet foretager sig derfor ikke mere i sagen.\"",
+  "prompt_tokens": 1719,
+  "completion_tokens": 735,
+  "latency_ms": 9839,
+  "cost_usd": 0.0007848,
+  "created": "2026-11-10T05:41:05.373896Z",
+  "error": null
+}

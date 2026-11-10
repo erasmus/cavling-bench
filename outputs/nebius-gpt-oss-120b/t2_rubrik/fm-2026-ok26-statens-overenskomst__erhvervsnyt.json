@@ -1,0 +1,21 @@
+{
+  "model_id": "nebius-gpt-oss-120b",
+  "pinned_version": "openai/gpt-oss-120b",
+  "task_id": "t2_rubrik",
+  "source_id": "fm-2026-ok26-statens-overenskomst",
+  "archetype": "erhvervsnyt",
+  "prompt_sha256": "428a9930cccdc26828ceee7003340739f3f36489abd7933f102f00ad399f9b90",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 1900,
+    "reasoning_effort": "low"
+  },
+  "text": "RUBRIK: 8,7 pct. lønstigning i statsoverenskomst  \nUNDERRUBRIK: Overenskomstforliget giver 8,7 % lønramme til 200 000 statspersonale, inkl. 275 mio. kr. ekstra lønløft til militært ansatte og nye fritvalgsordninger fra 1. apr. 2026.",
+  "prompt_tokens": 1335,
+  "completion_tokens": 171,
+  "latency_ms": 725,
+  "cost_usd": 0.00030285,
+  "created": "2026-11-10T05:38:05.751239Z",
+  "error": null
+}

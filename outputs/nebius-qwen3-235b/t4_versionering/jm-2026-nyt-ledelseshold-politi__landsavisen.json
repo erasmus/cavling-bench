@@ -1,0 +1,21 @@
+{
+  "model_id": "nebius-qwen3-235b",
+  "pinned_version": "Qwen/Qwen3-235B-A22B-Instruct-2507",
+  "task_id": "t4_versionering",
+  "source_id": "jm-2026-nyt-ledelseshold-politi",
+  "archetype": "landsavisen",
+  "prompt_sha256": "24a4a4ca78e5c0c9118390b915e6d38fed1489dee13880e62778f027a654ff5b",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 1025,
+    "reasoning_effort": null
+  },
+  "text": "Justitsminister Nicolai Wammen har besluttet en større ledelsesrokade i spidsen for politi og anklagemyndighed, efter at åremålsansættelser for en række øverste chefer er udløbet. Rokaden skal sikre et stærkt og erfarent ledelseshold frem mod 2030, oplyser ministeren.\n\nWammen udnævner Lasse Boje Nielsen som ny rigspolitichef. Han eftertræder Thorkild Fogde, der rokerer til stillingen som politidirektør i Københavns Vestegns Politi. Boje Nielsen har hidtil været rigsadvokat og har tidligere erfaring som politidirektør for National enhed for Særlig Kriminalitet samt poster i Justitsministeriet og Beskæftigelsesministeriet.\n\nCaroline Østergaard Nielsen, i dag statsadvokat ved Rigsadvokaten, fungerer som rigsadvokat indtil videre. Rasmus Kieffer-Kristensen bliver ny chef for Politiets Efterretningstjeneste. Han kommer fra en stilling som politi- og sikkerhedsrådgiver ved Danmarks Faste Mission ved FN i New York og har tidligere været juridisk chef i PET og statsadvokat ved Rigsadvokaten.\n\nEn række politidirektører udskiftes eller genudnævnes. Blandt de nye er Finn Borch Andersen, der efterfølger Kieffer-Kristensen som chef for PET, og Steen Bechmann Jacobsen, der bliver politidirektør i National enhed for Særlig Kriminalitet. Der sker desuden udskiftninger i regionale politikredse, herunder Frits Villy Kjeldsen i Østjyllands Politi og Lene Frank i Syd- og Sønderjyllands Politi.\n\nFlere politidirektører genudnævnes, herunder Anne Marie Roum Svendsen i Nordjyllands Politi og Bjørn Tegner Bay i Grønlands Politi. Marie Bindslev bliver ny statsadvokat i København, mens Jens-Christian Bülow genudnævnes som statsadvokat for Særlig Kriminalitet.\n\n”Det er et stærkt hold med solid erfaring, der nu skal lede politi og anklagemyndighed i de kommende år,” siger Nicolai Wammen og takker afgående chefer for deres indsats.",
+  "prompt_tokens": 1941,
+  "completion_tokens": 598,
+  "latency_ms": 53647,
+  "cost_usd": 0.000747,
+  "created": "2026-11-10T05:42:49.871241Z",
+  "error": null
+}

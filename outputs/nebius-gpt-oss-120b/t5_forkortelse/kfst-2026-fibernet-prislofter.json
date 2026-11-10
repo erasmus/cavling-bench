@@ -1,0 +1,21 @@
+{
+  "model_id": "nebius-gpt-oss-120b",
+  "pinned_version": "openai/gpt-oss-120b",
+  "task_id": "t5_forkortelse",
+  "source_id": "kfst-2026-fibernet-prislofter",
+  "archetype": null,
+  "prompt_sha256": "e4cd68b71e41032bd9e67d77024f772d075fca7359bcae7b69dc941010708794",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 2360,
+    "reasoning_effort": "low"
+  },
+  "text": "Konkurrence- og Forbrugerstyrelsen fastsætter prislofter på fibernet i områder, hvor netejeren har monopollignende status, så andre bredbåndsudbydere ikke kan betale urimeligt høje lejepriser. Ved fastsættelsen tages der højde for behovet for at beskytte fibernettet mod fysiske og virtuelle angreb, men lejepriserne skal ikke dække beskyttelse af ikke‑regulerede net som mobilnettet. For TDC er kun en mindre del af forretningen reguleret; der er ingen begrænsninger på TDC’s mobilpriser eller fiberlejepriser uden for hovedstadsområdet, jf. udkastet på styrelsens hjemmeside. De nye prislofter træder i kraft fra årsskiftet, men kan revideres ved markante ændringer, fx nye sikkerhedskrav. En særlig analyse, udarbejdet med eksterne eksperter og input fra berørte virksomheder, har medtaget ekstraomkostninger til netrobusthed, hvilket gør de kommende loftpriser højere end ellers. De endelige loftpriser for de næste fem år fastsættes i december efter grundigt forarbejde, høringer og godkendelse fra Europa‑Kommissionen (DG Connect). Formålet er at balancere netejernes investeringsbehov med forbrugernes og mindre virksomheders prisniveau. Forventet prisstigning kan nå op til 35 % i femårsperioden, drevet af dyrere udstyr, højere forrentning af kapital og beskyttelsesinvesteringer. Afgørelser vil omfatte 13 fibernetselskaber: fem (Aura, BornFiber, EnergiFyn, Fibia, Norlys) bindes til egne tilsagn, TDC pålægges forpligtelser pga. manglende tilsagn, og syv (Jysk Energi, RAH, SEF, Thy‑Mors Energi, Nordenergi, MES) skal holde deres net åbne for detailudbydere. De berørte selskaber kan klage til Teleklagenævnet og domstolene.",
+  "prompt_tokens": 1539,
+  "completion_tokens": 511,
+  "latency_ms": 2141,
+  "cost_usd": 0.00053745,
+  "created": "2026-11-10T05:38:37.438922Z",
+  "error": null
+}

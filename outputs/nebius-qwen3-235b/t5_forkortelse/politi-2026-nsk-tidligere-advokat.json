@@ -1,0 +1,21 @@
+{
+  "model_id": "nebius-qwen3-235b",
+  "pinned_version": "Qwen/Qwen3-235B-A22B-Instruct-2507",
+  "task_id": "t5_forkortelse",
+  "source_id": "politi-2026-nsk-tidligere-advokat",
+  "archetype": null,
+  "prompt_sha256": "92dec465b547251ada198a7284ae11baa74101947b5f3c878b6a43e73e0ea1ef",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 860,
+    "reasoning_effort": null
+  },
+  "text": "Retten i Lyngby har onsdag idømt en 53-årig tidligere advokat seks måneders ubetinget fængsel for groft stillingsmisbrug og pligtforsømmelse. Han er frakendt retten til at udøve advokatvirksomhed indtil videre. Sagen er ført af National Enhed for Særlig Kriminalitet (NSK). Retten fandt det bevist, at han lod sig udpege som kurator i to konkursboer, trods at han var inhabil på grund af tidligere rådgivning til ejeren og direktøren af selskaberne. Den 53-årige havde rådgivet om, hvordan der kunne opnås en relativt overfladisk og kortvarig konkursbehandling. Retten konstaterede, at han afgav urigtige erklæringer til skifteretten for at blive udpeget som kurator. Desuden blev det bevist, at han som kurator undlod at videregive væsentlige oplysninger om kriminelle forhold i selskaberne. Retten vurderede, at hans handlinger havde til hensigt at skaffe sig selv eller andre en fordel. Det grove stillingsmisbrug som advokat og kurator forhindrede og forsinkede en effektiv politiefterforskning, skattemæssig undersøgelse og konkursbehandling. Specialanklager i NSK, Konrad Joe Frank, udtaler, at NSK har et vedvarende fokus på at sætte ind over for professionelle rådgivere, der gør det lettere at være kriminel. Han er tilfreds med dommen, som understreger betydningen af tillid til kuratorer.",
+  "prompt_tokens": 990,
+  "completion_tokens": 424,
+  "latency_ms": 25745,
+  "cost_usd": 0.0004524,
+  "created": "2026-11-10T05:44:34.046367Z",
+  "error": null
+}

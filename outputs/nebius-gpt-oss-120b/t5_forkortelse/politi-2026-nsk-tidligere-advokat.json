@@ -1,0 +1,21 @@
+{
+  "model_id": "nebius-gpt-oss-120b",
+  "pinned_version": "openai/gpt-oss-120b",
+  "task_id": "t5_forkortelse",
+  "source_id": "politi-2026-nsk-tidligere-advokat",
+  "archetype": null,
+  "prompt_sha256": "92dec465b547251ada198a7284ae11baa74101947b5f3c878b6a43e73e0ea1ef",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 2360,
+    "reasoning_effort": "low"
+  },
+  "text": "Retten i Lyngby har onsdag idømt en 53‑årig tidligere advokat seks måneders ubetinget fængsel for groft stillingsmisbrug og pligtforsømmelse, idet han lod sig udpege som kurator trods inhabilitet i to konkursboer og efterfølgende undlod at videregive væsentlige oplysninger om kriminelle forhold begået i selskaberne. Den dømte frakendes retten til at udøve advokatvirksomhed.  \n\nI en sag ført af National enhed for Særlig Kriminalitet blev den tidligere advokat fundet skyldig i at have afgivet urigtige erklæringer til skifteretten for at blive udpeget som kurator, selvom han var inhabil på grund af forudgående rådgivning. Retten fastslog også, at han som advokat og kurator undlod at oplyse om kriminelle forhold i de selskaber, han var kurator for, og at hans handlinger havde til formål at skaffe sig eller andre en fordel.  \n\nFør udnævnelsen havde han rådgivet ejer og direktør om, hvordan de kunne sikre en relativt overfladisk og kortvarig konkursbehandling. Retten lagde til grund, at hans stillingsmisbrug vanskeliggjorde og forsinkede en effektiv politiefterforskning, skattemæssig undersøgelse og konkursbehandling.  \n\nSpecialanklager i NSK, Konrad Joe Frank, udtaler: “I NSK har vi et vedvarende fokus på at sætte ind over for professionelle rådgivere, der med deres handlinger eller undladelser gør det lettere at være kriminel. Jeg er tilfreds med dommen i dag. Dommen viser, at retten ser strengt på, når en advokat og kurator tilsidesætter sine forpligtelser, og understreger, hvor afgørende tilliden til kuratorer er for systemet.”",
+  "prompt_tokens": 865,
+  "completion_tokens": 458,
+  "latency_ms": 1373,
+  "cost_usd": 0.00040455,
+  "created": "2026-11-10T05:38:38.809271Z",
+  "error": null
+}

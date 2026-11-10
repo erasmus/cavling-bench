@@ -1,0 +1,21 @@
+{
+  "model_id": "nebius-gpt-oss-120b",
+  "pinned_version": "openai/gpt-oss-120b",
+  "task_id": "t6_lydmanus",
+  "source_id": "ombudsmanden-2026-lolland-avisabonnement-pression",
+  "archetype": "lynposten",
+  "prompt_sha256": "30127d1d16ea0828512e49d2a6733bbb1cf011d18c3b44cd2f5ce1e8783804c2",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 2120,
+    "reasoning_effort": "low"
+  },
+  "text": "Tooghalvfems år har Lolland Kommune opsagt avisabonnementer på Lolland‑Falsters Folketidende. Det rammer borgmesteren og to byrådsmedlemmer. Ifølge Folketingets Ombudsmand Christian Britten Lundblad må en myndighed kun opsige abonnement på sagligt grundlag. Det må ikke bruges som pression eller straffeaktion mod pressen. Ombudsmanden har sendt en udtalelse til kommunen og bedt om en orientering om, hvorvidt udtalelserne fra de pågældende politikere ændrer grundlaget for opsigelserne. Kommunen har oplyst, at opsigelserne skete efter anmodning fra de berørte og ikke havde til formål at straffe avisen. Ombudsmanden påpeger, at udtalelser kan give indtryk af andet. Ifølge Danmarks Statistik er sådanne sager vigtige for at sikre lighed og saglighed i forvaltningen.",
+  "prompt_tokens": 1569,
+  "completion_tokens": 289,
+  "latency_ms": 1277,
+  "cost_usd": 0.00040875,
+  "created": "2026-11-10T05:38:44.608494Z",
+  "error": null
+}

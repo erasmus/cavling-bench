@@ -1,0 +1,21 @@
+{
+  "model_id": "nebius-qwen3-235b",
+  "pinned_version": "Qwen/Qwen3-235B-A22B-Instruct-2507",
+  "task_id": "t5_forkortelse",
+  "source_id": "kk-2026-vandkulturhus-papiroeen",
+  "archetype": null,
+  "prompt_sha256": "0ce7849500ef9540baf46f91b51b69d6bd547a6b10ae247fd6c6bbb24f900c07",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 860,
+    "reasoning_effort": null
+  },
+  "text": "Københavns nye vandkulturhus KAI åbner den 5. december 2026 på Papirøen. Bygningen på 5.800 m2, tegnet af Kengo Kuma & Associates, rummer 10 bassiner inde og ude og kombinerer svømning, kultur og arkitektur. KAI er en folkelig facilitet med motions-, terapi- og legebassiner samt udendørs bassiner med udsigt over havnen. Stueetagen har et 25-metersbassin, undervisningsbassin og tre legebassiner med direkte adgang til havnen via en træbrygge. På første etage ligger det ikoniske Dalbassin og Onsen, hvor badende kan svømme under åben himmel. Navnet KAI hentyder til japansk \"hav\" og dansk kaj, og markerer samspillet mellem dansk og japansk kultur. Projektet udspringer af en idékonkurrence i 2015 med 160 indsendte forslag fra københavnere. Nordea-fonden har støttet med 546 mio. kr., heraf 25 mio. kr. til bæredygtighed, bl.a. 10 jordvarmeboringer på 250 meters dybde til opvarmning af udendørs bassiner. Overborgmester Sisse Marie Welling (SF) og kulturborgmester Christopher Røhl (R) fremhæver KAI som et nyt samlingssted, der aktiverer byen. Ejendomsfonden Vandkulturhuset Papirøen er bygherre, og formand Erik Jæger roser det tætte samarbejde. KAI fungerer også som kulturhus med aktiviteter om, i og ved vandet. Kulturtårnet i det højeste teglstubbe bliver et mødested med bevægelses- og kulturlokaler. Borgere kan indsende idéer til kulturprogrammet. Websitet www.kai.kk.dk opdateres løbende. Indvielsesprogrammet offentliggøres senere. Byggeriet er i gang frem til åbningen.",
+  "prompt_tokens": 2346,
+  "completion_tokens": 529,
+  "latency_ms": 7962,
+  "cost_usd": 0.0007866,
+  "created": "2026-11-10T05:43:54.332527Z",
+  "error": null
+}

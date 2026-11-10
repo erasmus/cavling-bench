@@ -1,0 +1,21 @@
+{
+  "model_id": "nebius-gpt-oss-120b",
+  "pinned_version": "openai/gpt-oss-120b",
+  "task_id": "t2_rubrik",
+  "source_id": "politi-2026-midtvestsjaelland-idraetsforening",
+  "archetype": "landsavisen",
+  "prompt_sha256": "4873a66a116d2ccbe96575ffbdef76c552ebeb05cb50034e47fbc94905a3117c",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 1900,
+    "reasoning_effort": "low"
+  },
+  "text": "RUBRIK: Ansat i rosikildsk idrætsforening idømt et år i fængsel  \nUNDERRUBRIK: 46-årig mand har tilstået seksuelle overgreb, blufærdighedskrænkelser og ulovlig optagelse af mindst 42 drenge, og mister retten til at arbejde med børn.",
+  "prompt_tokens": 1141,
+  "completion_tokens": 112,
+  "latency_ms": 607,
+  "cost_usd": 0.00023835000000000002,
+  "created": "2026-11-10T05:38:10.247359Z",
+  "error": null
+}

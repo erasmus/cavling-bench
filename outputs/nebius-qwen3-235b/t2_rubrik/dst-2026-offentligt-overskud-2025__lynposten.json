@@ -1,0 +1,21 @@
+{
+  "model_id": "nebius-qwen3-235b",
+  "pinned_version": "Qwen/Qwen3-235B-A22B-Instruct-2507",
+  "task_id": "t2_rubrik",
+  "source_id": "dst-2026-offentligt-overskud-2025",
+  "archetype": "lynposten",
+  "prompt_sha256": "578558cb94ec8804d73e10102a71cc48d93153b9cd4ef56180cec9983070a598",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 400,
+    "reasoning_effort": null
+  },
+  "text": "RUBRIK: Offentligt overskud på 90,9 mia. kr. i 2025  \nUNDERRUBRIK: Overskuddet falder fra 123,5 mia. kr. i 2024, mens udgifterne stiger til 1.472,8 mia. kr. Social beskyttelse er største post.",
+  "prompt_tokens": 1544,
+  "completion_tokens": 89,
+  "latency_ms": 14808,
+  "cost_usd": 0.00036219999999999997,
+  "created": "2026-11-10T05:39:44.411584Z",
+  "error": null
+}

@@ -1,0 +1,21 @@
+{
+  "model_id": "nebius-gpt-oss-120b",
+  "pinned_version": "openai/gpt-oss-120b",
+  "task_id": "t4_versionering",
+  "source_id": "dst-2026-offentligt-overskud-2-kvt",
+  "archetype": "landsavisen",
+  "prompt_sha256": "8f300c61fefa83ad7b8349dbeebf5d22bf5f8518d8270739aa3bd9ca3e5f03e3",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 2525,
+    "reasoning_effort": "low"
+  },
+  "text": "I andet kvartal 2026 rapporterer de offentlige finanser et overskud på 35,5 mia. kr., hvilket er 12,3 mia. kr. højere end i første kvartal. Overskuddet fremkommer, fordi de samlede offentlige indtægter på 415,3 mia. kr. overstiger de samlede udgifter på 379,9 mia. kr. De største udgiftsposter er løn til ansatte (116,2 mia. kr.) og indkomstoverførsler til husholdningerne (116,9 mia. kr.). Indtægterne bygger på de seneste tal fra Skatte‑ og Vækstministeriets Økonomiske Redegørelse for personlige indkomstskatter, selskabs‑ og pensionsafkastskatten.\n\nSamtidig falder den offentlige finansielle nettoformue med 11 mia. kr. i kvartalet, så den ved kvartalets udgang ligger på 871 mia. kr. Faldet skyldes primært negative omvurderinger af børsnoterede aktier og andre ejerandelsbeviser på 14,1 mia. kr., mens positive omvurderinger af langfristede statsobligationer og øvrige justeringer også indgår. På årsbasis er nettoformuen steget med 98,1 mia. kr.\n\nGælden i den offentlige sektor, ØMU‑gælden, er steget med 19,4 mia. kr. til 859,1 mia. kr., svarende til 27 % af BNP ved kvartalets udgang. Stigningen tilskrives en øget udstedelse af langsigtede statsobligationer samt en stigning i kortfristede lån fra kommuner og regioner. ØMU‑gælden er en bruttogældsopgørelse, der omfatter de væsentligste gældsposter i den offentlige forvaltning.\n\nRevisionen af første kvartals saldo viser, at overskuddet i første kvartal nu er opjusteret til 23,2 mia. kr. fra tidligere 9,3 mia. kr., primært på grund af en opjustering af pensionsafkastskatten på 10,9 mia. kr. Disse tal giver et samlet billede af en offentlig økonomi, der i kvartalet viser overskud, men også en væsentlig stigning i gælden og et fald i nettoformuen.",
+  "prompt_tokens": 1315,
+  "completion_tokens": 578,
+  "latency_ms": 1964,
+  "cost_usd": 0.0005440499999999999,
+  "created": "2026-11-10T05:38:20.002389Z",
+  "error": null
+}

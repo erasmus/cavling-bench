@@ -1,0 +1,21 @@
+{
+  "model_id": "nebius-qwen3-235b",
+  "pinned_version": "Qwen/Qwen3-235B-A22B-Instruct-2507",
+  "task_id": "t1_telegram",
+  "source_id": "fo-2026-tankstationer-reservation-beloeb",
+  "archetype": null,
+  "prompt_sha256": "a24b474c351715bea86caa07eafb0ea7380a4b539ba1903d1c9397ca231cd179",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 560,
+    "reasoning_effort": null
+  },
+  "text": "Tankstationskæderne Q8, OK, Shell og Uno-X har reserveret urimeligt høje beløb – op til 1.500 kroner – på forbrugernes konti ved brændstoftankning, viser en sag fra Forbrugerombudsmanden. Efter opmærksomgørelse i 2023 har Shell og Uno-X ændret praksis, så kunder nu kan vælge reservationsbeløbet på skærmen, mens OK midlertidigt har nedsat reservationen til 100 kroner. Q8 reserverer fortsat 950 kroner, men lover en løsning midt i 2026. Forbrugerombudsmanden har kritiseret manglende samtykke og forsinkelser i frigivelse af beløb – hos OK, Uno-X og Shell har det taget op til 11 dage. Sagerne afsluttes nu, med krav om, at Q8 og OK fuldt ud efterlever reglerne.",
+  "prompt_tokens": 2522,
+  "completion_tokens": 246,
+  "latency_ms": 32548,
+  "cost_usd": 0.000652,
+  "created": "2026-11-10T05:39:27.435987Z",
+  "error": null
+}

@@ -1,0 +1,21 @@
+{
+  "model_id": "nebius-qwen3-235b",
+  "pinned_version": "Qwen/Qwen3-235B-A22B-Instruct-2507",
+  "task_id": "t2_rubrik",
+  "source_id": "jm-2026-nyt-ledelseshold-politi",
+  "archetype": "erhvervsnyt",
+  "prompt_sha256": "430a153eeb66849cae8acf89f5a52f6e0b5a9d85748a8f625c249850a2fe1b2d",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 400,
+    "reasoning_effort": null
+  },
+  "text": "RUBRIK: Lasse Boje Nielsen ny rigspolitichef – ny ledelse for politi og anklagemyndighed  \nUNDERRUBRIK: Justitsminister Nicolai Wammen udnævner et nyt lederskab for politi og anklagemyndighed med Lasse Boje Nielsen som rigspolitichef og en række chefer på plads i regionerne og specialenhederne.",
+  "prompt_tokens": 1958,
+  "completion_tokens": 102,
+  "latency_ms": 2837,
+  "cost_usd": 0.0004528,
+  "created": "2026-11-10T05:39:50.558833Z",
+  "error": null
+}

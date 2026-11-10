@@ -1,0 +1,21 @@
+{
+  "model_id": "nebius-gpt-oss-120b",
+  "pinned_version": "openai/gpt-oss-120b",
+  "task_id": "t6_lydmanus",
+  "source_id": "regeringen-2026-kystbeskyttelse-14-9-mia",
+  "archetype": "lynposten",
+  "prompt_sha256": "1ccedf05cfdd5caacbaa2d3482472341397a21e4d36219b9ee85b12d0a2a885c",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 2120,
+    "reasoning_effort": "low"
+  },
+  "text": "Fjorten komma ni milliarder kroner afsættes til en national kystbeskyttelsesplan. Regeringen vil styrke Danmarks kyster mod hyppigere stormfloder og vildere vejr. En million danskere bor inden for en kilometer fra kysten, og op mod hundrede tusinde husstande samt et hundrede og halvfjerds tusinde arbejdspladser risikerer oversvømmelser. Ifølge regeringen skal staten medfinansiere femogfirs procent af anlægsinvesteringerne, mens kommunerne bidrager med femten procent. Samlet kan investeringerne nå op til tyve milliarder kroner frem til toogfyrre år. Miljøminister Magnus Heunicke siger, at Danmark skal rustes til den nye klimavirkelighed. Klima‑, energi‑ og forsyningsminister Lars Aagard kalder planen en solid håndsrækning til de mest udsatte områder. Minister for byer og landdistrikter Morten Dahlin understreger, at alle skal løfte ansvaret for at beskytte kysterne.",
+  "prompt_tokens": 1668,
+  "completion_tokens": 316,
+  "latency_ms": 1345,
+  "cost_usd": 0.00043979999999999996,
+  "created": "2026-11-10T05:38:45.385354Z",
+  "error": null
+}

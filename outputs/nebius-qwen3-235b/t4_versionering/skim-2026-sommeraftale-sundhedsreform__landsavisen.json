@@ -1,0 +1,21 @@
+{
+  "model_id": "nebius-qwen3-235b",
+  "pinned_version": "Qwen/Qwen3-235B-A22B-Instruct-2507",
+  "task_id": "t4_versionering",
+  "source_id": "skim-2026-sommeraftale-sundhedsreform",
+  "archetype": "landsavisen",
+  "prompt_sha256": "8521cab405f7124bad2a2246c759a90e3f0b6c002b05645c408ff523fa999180",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 1025,
+    "reasoning_effort": null
+  },
+  "text": "Regeringen, Danske Regioner og KL har indgået en ny sommeraftale om implementeringen af sundhedsreformen. Aftalen sætter konkrete rammer for, hvordan reformens centrale initiativer skal omsættes til forbedringer, som borgere gradvist vil opleve fra 2027. Den bygger videre på forårsaftalen fra 2025 og danner sammenhæng omkring en række tiltag, der skal gøre sundhedsvæsenet mere sammenhængende og tættere på borgerne.\n\nAftalen sikrer blandt andet, at de første kronikerpakker træder i kraft fra 2027 for patienter med KOL og kroniske lænderygsmerter. Disse patienter får ret til en behandlingsplan og tilbud om forebyggelsestilbud inden for 21 dage efter henvisning fra egen læge. Senere følger pakker for patienter med type 2-diabetes, hjertesygdom og kompleks multisygdom. Samtidig udvides behandlingsansvaret fra sygehuset til 96 timer efter udskrivelse for ældre medicinske patienter og visse psykiatriske patienter, så overgangen til hjemmet bliver mere tryg.\n\nSundhedsminister Ida Auken siger: \"Med aftalen tager vi nogle store skridt videre med sundhedsreformen og baner vejen for en række konkrete forbedringer for patienter og borgere.\" Formand for Danske Regioner Mads Duedahl understreger, at reformen først slår til, når patienterne mærker den i hverdagen. Formand for KL’s Sundheds- og Ældreudvalg Dorte West peger på sundhedsrådenes centrale rolle og glæder sig over det styrkede samarbejde mellem regioner og kommuner.\n\nAftalen indebærer et løft på knap 800 mio. kr. i 2027, stigende til 1,1 mia. kr. årligt fra 2030. Den nationale sundhedsplan for 2027-2030 er nu fastlagt, og sundhedsrådene skal omsætte den gennem lokale nærsundhedsplaner.",
+  "prompt_tokens": 2751,
+  "completion_tokens": 568,
+  "latency_ms": 5924,
+  "cost_usd": 0.000891,
+  "created": "2026-11-10T05:43:19.224215Z",
+  "error": null
+}

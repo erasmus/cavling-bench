@@ -1,0 +1,21 @@
+{
+  "model_id": "nebius-gpt-oss-120b",
+  "pinned_version": "openai/gpt-oss-120b",
+  "task_id": "t2_rubrik",
+  "source_id": "nationalbanken-2026-digitale-betalinger-beredskab",
+  "archetype": "landsavisen",
+  "prompt_sha256": "1216059e5662de77f9afa208ffa08a3fbfd43e51b3638e10306208bb3c893e16",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 1900,
+    "reasoning_effort": "low"
+  },
+  "text": "RUBRIK: Digital betaling dominerer, men kontanter får ny betydning som beredskab  \nUNDERRUBRIK: Over 90 % af betalingerne er digitale, mens andelen af kontantbetalinger falder til 9 % i 2025; Nationalbanken opfordrer butikker og borgere til at styrke offline‑kortberedskabet og holde kontanter som sikkerhed.",
+  "prompt_tokens": 1772,
+  "completion_tokens": 232,
+  "latency_ms": 1045,
+  "cost_usd": 0.000405,
+  "created": "2026-11-10T05:38:08.872018Z",
+  "error": null
+}

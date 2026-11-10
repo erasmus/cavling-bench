@@ -1,0 +1,21 @@
+{
+  "model_id": "nebius-gpt-oss-120b",
+  "pinned_version": "openai/gpt-oss-120b",
+  "task_id": "t6_lydmanus",
+  "source_id": "dst-2026-ledighed-september",
+  "archetype": "lynposten",
+  "prompt_sha256": "7a1317ac211b8a1e92d3dcc0b4ac7262744b9e18cd3980d9ea194a229e2f82bf",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 2120,
+    "reasoning_effort": "low"
+  },
+  "text": "Treoghalvfems tusind fuldtidsledige i september, siger Danmarks Statistik. Det er 200 færre end i august. Ledighedsprocenten holdt sig på tre komma en procent. Aktiverede ledige faldt med fem hundrede, mens ikke‑aktiverede steg med tre hundrede. På dagpenge faldt antallet med et hundrede til syvoghalvfems tusind, og på kontanthjælp faldt også et hundrede til femten tusind. For de tredive‑ til niogtredive årige faldt ledighedsprocenten med nul komma en procentpoint, mens den steg med nul komma en for de femogtyve‑ til niogtyve årige. I Københavns omegn og i Vestjylland faldt procenten med nul komma en, men i Byen København steg den med nul komma en. Vestjylland havde den laveste ledighed på to komma en procent, mens Byen København lå højest på fire komma nul procent.",
+  "prompt_tokens": 1299,
+  "completion_tokens": 263,
+  "latency_ms": 1295,
+  "cost_usd": 0.00035265,
+  "created": "2026-11-10T05:38:41.077868Z",
+  "error": null
+}

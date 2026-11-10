@@ -1,0 +1,21 @@
+{
+  "model_id": "nebius-gpt-oss-120b",
+  "pinned_version": "openai/gpt-oss-120b",
+  "task_id": "t2_rubrik",
+  "source_id": "fo-2026-tankstationer-reservation-beloeb",
+  "archetype": "lynposten",
+  "prompt_sha256": "a5f86f3abfb4a32eb64fc28e10932241d3a9b458d5e02f806f0356e876b6844a",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 1900,
+    "reasoning_effort": "low"
+  },
+  "text": "RUBRIK: Forbrugerombudsmanden sænker tankstations‑reservationer  \nUNDERRUBRIK: Q8, OK, Shell og Uno‑X skal begrænse reserverede beløb og give tydeligt samtykke; Shell, Uno‑X og OK har allerede justeret praksis.",
+  "prompt_tokens": 2435,
+  "completion_tokens": 327,
+  "latency_ms": 1184,
+  "cost_usd": 0.00056145,
+  "created": "2026-11-10T05:38:06.967396Z",
+  "error": null
+}

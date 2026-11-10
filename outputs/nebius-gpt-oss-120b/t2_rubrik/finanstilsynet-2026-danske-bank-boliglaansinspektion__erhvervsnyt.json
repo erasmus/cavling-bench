@@ -1,0 +1,21 @@
+{
+  "model_id": "nebius-gpt-oss-120b",
+  "pinned_version": "openai/gpt-oss-120b",
+  "task_id": "t2_rubrik",
+  "source_id": "finanstilsynet-2026-danske-bank-boliglaansinspektion",
+  "archetype": "erhvervsnyt",
+  "prompt_sha256": "1354a1e276f14db3cf568b4bbab8a416cda94da01bb936a782025af763d3d4a7",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 1900,
+    "reasoning_effort": "low"
+  },
+  "text": "RUBRIK: Finanstilsynet pålægger Danske Bank strengere kreditkontrol  \nUNDERRUBRIK: 4 af 58 boliglånsbevillinger skulle ikke have været godkendt; 26‑37 % af sager viser væsentlige fejl, og banken skal dokumentere kundernes økonomiske robusthed.",
+  "prompt_tokens": 1673,
+  "completion_tokens": 179,
+  "latency_ms": 710,
+  "cost_usd": 0.00035834999999999996,
+  "created": "2026-11-10T05:38:04.573949Z",
+  "error": null
+}

@@ -1,0 +1,21 @@
+{
+  "model_id": "nebius-qwen3-235b",
+  "pinned_version": "Qwen/Qwen3-235B-A22B-Instruct-2507",
+  "task_id": "t4_versionering",
+  "source_id": "nationalbanken-2026-digitale-betalinger-beredskab",
+  "archetype": "lynposten",
+  "prompt_sha256": "35c237b49e2ca81f7a70cc82e9cb7ccd9c9134d2c121d92c7aa68e42689590f0",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 1025,
+    "reasoning_effort": null
+  },
+  "text": "90 procent af danske betalinger er digitale. Det gør betalingsberedskab vigtigere end nogensinde.\n\nFlere og flere danskere betaler med mobilen. Wallet-betalinger som Apple Pay og Google Pay står nu for hver tredje betaling i fysisk handel. Kontanter bruges kun til 9 procent af betalinger i butikker – ned fra 11 procent i 2023.\n\nMen netop fordi det meste sker digitalt, får kontanter og offline-løsninger større betydning. 41 procent af danskerne har nu mere end 1.000 kroner i kontanter. Det var 33 procent i 2023. 7 ud af 10, der har kontanter, bruger dem som beredskab.\n\nTo nedbrud hos betalingsaktøren Nets i juli 2025 og maj 2026 har vist, at systemer kan svigte. Under nedbruddet i maj 2026 mærkede mange ikke noget. Offline-kortberedskabet fungerede i dagligvarebutikker og apoteker.\n\nNationalbankdirektør Ulrik Nødgaard siger:  \n“Offline-kortberedskabet sikrede, at folk kunne købe det basale. Flere butikker bør tilslutte sig løsningen.”\n\nOffline-beredskabet tillader betalinger med kort og mobil i op til syv dage, selvom nettet er nede. Det kræver, at butikker har den rigtige teknik.\n\nNationalbanken anbefaler, at alle har mindst to fysiske kort fra forskellige mærker, pinkoder, et lille kontantbeløb – cirka 250 kr. pr. person – og en mobilbetaling som MobilePay.\n\nFor butikker gælder det om at forberede sig. Modtag offline-kort, kontooverførsler og have klare instruktioner til personalet.\n\n“Jo flere betalingsløsninger, danskerne har, jo mere sikkert kan de betale – også når noget går galt,” siger Ulrik Nødgaard.",
+  "prompt_tokens": 2067,
+  "completion_tokens": 513,
+  "latency_ms": 11216,
+  "cost_usd": 0.0007212000000000001,
+  "created": "2026-11-10T05:42:32.476681Z",
+  "error": null
+}

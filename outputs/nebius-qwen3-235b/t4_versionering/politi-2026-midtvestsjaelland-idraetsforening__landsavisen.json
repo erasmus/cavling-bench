@@ -1,0 +1,21 @@
+{
+  "model_id": "nebius-qwen3-235b",
+  "pinned_version": "Qwen/Qwen3-235B-A22B-Instruct-2507",
+  "task_id": "t4_versionering",
+  "source_id": "politi-2026-midtvestsjaelland-idraetsforening",
+  "archetype": "landsavisen",
+  "prompt_sha256": "fe2e061346fb7a3704cf603ac5440094f7c1c0ebb8610a5d8fec584ab5f668bc",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 1025,
+    "reasoning_effort": null
+  },
+  "text": "Retten i Roskilde har idømt en 46-årig mand, der var ansat i en lokal idrætsforening, et års fængsel for seksuelle overgreb og blufærdighedskrænkelser mod et stort antal drenge. Dommen kommer efter en længere efterforskning, hvor manden har tilstået de alvorlige forhold, herunder voldtægt af en dreng under 12 år ved andet seksuelt forhold end samleje. Alle ofrene, på nær én, var tilknyttet den samme idrætsforening, hvilket forværrer tillidsbruddet.\n\nIfølge anklagemyndigheden blev nogle af drengene udsat for fysiske befølinger, mens ikke mindre end 42 blev ulovligt filmet i private situationer. Optagelserne foregik på et ikke frit tilgængeligt sted i perioden fra januar 2022 til april 2024. Efter anholdelsen fandt politiet omfattende seksuelt materiale på mandens telefon, herunder billeder og videoer inddelt i alle tre kategorier af ulovligt materiale med personer under 18 år.\n\nSenioranklager Pernille Fredin fra Midt- og Vestsjællands Politi betegner sagen som yderst alvorlig. \"Der er tale om en meget alvorlig sag, hvor et stort antal drenge er blevet udsat for seksuelle krænkelser af en voksen, som de burde kunne have tillid til. Det er et groft tillidsbrud, som kan have store konsekvenser for de berørte,\" siger hun.\n\nUd over fængselsstraffen er den dømte frakendt retten til at arbejde med børn og unge under 18 år. Sagen har taget tid at afslutte, blandt andet på grund af vurderinger af den dømtes mentale tilstand. \"Jeg håber, at dommen nu kan være med til at give drengene og deres familier en følelse af retfærdighed og den afklaring, de har ventet på,\" siger Pernille Fredin. Den 46-årige har taget betænkningstid angående anke.",
+  "prompt_tokens": 1285,
+  "completion_tokens": 566,
+  "latency_ms": 9347,
+  "cost_usd": 0.0005965999999999999,
+  "created": "2026-11-10T05:42:53.378190Z",
+  "error": null
+}

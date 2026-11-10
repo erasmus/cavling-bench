@@ -1,0 +1,21 @@
+{
+  "model_id": "nebius-gpt-oss-120b",
+  "pinned_version": "openai/gpt-oss-120b",
+  "task_id": "t6_lydmanus",
+  "source_id": "fo-2026-tankstationer-reservation-beloeb",
+  "archetype": "lynposten",
+  "prompt_sha256": "93eb9931eed4a77282e06624e1616770e76cd27a472a6a46a572799880a0b347",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 2120,
+    "reasoning_effort": "low"
+  },
+  "text": "Nitten\n\nNinete\n\n (Oops)",
+  "prompt_tokens": 2455,
+  "completion_tokens": 29,
+  "latency_ms": 323,
+  "cost_usd": 0.00038564999999999997,
+  "created": "2026-11-10T05:38:41.883076Z",
+  "error": null
+}

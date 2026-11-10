@@ -1,0 +1,21 @@
+{
+  "model_id": "nebius-gpt-oss-120b",
+  "pinned_version": "openai/gpt-oss-120b",
+  "task_id": "t4_versionering",
+  "source_id": "fm-2026-ok26-statens-overenskomst",
+  "archetype": "lynposten",
+  "prompt_sha256": "47a2a48cca08180a4f4d6ffed0bb9b17dcf88ad35f34a0079a785e6593097f83",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 2525,
+    "reasoning_effort": "low"
+  },
+  "text": "8 \n\nFinans\n\nSorry, the request is ambiguous...",
+  "prompt_tokens": 1337,
+  "completion_tokens": 62,
+  "latency_ms": 341,
+  "cost_usd": 0.00023774999999999998,
+  "created": "2026-11-10T05:38:21.522962Z",
+  "error": null
+}

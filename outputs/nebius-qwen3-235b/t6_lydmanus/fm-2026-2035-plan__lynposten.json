@@ -1,0 +1,21 @@
+{
+  "model_id": "nebius-qwen3-235b",
+  "pinned_version": "Qwen/Qwen3-235B-A22B-Instruct-2507",
+  "task_id": "t6_lydmanus",
+  "source_id": "fm-2026-2035-plan",
+  "archetype": "lynposten",
+  "prompt_sha256": "e12ceae45a6a5b5f54ef5a883b8778c6c158f9c62ab61993b4393dd81ee30a68",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 620,
+    "reasoning_effort": null
+  },
+  "text": "Treogtyve milliarder kroner. Så meget vil Danmark investere i forsvar, klima og beredskab inden 2035. Regeringen præsenterer sin 2035-plan. Planen hedder Et stærkt Danmark i en usikker verden. Verden er blevet mere usikker på kort tid. Danmark styrker nu forsvar og sikkerhed. Forsvarsudgifterne stiger til tre og en halv procent af BNP i 2030. Danmark er blandt de første i NATO, der når målet. Finansminister Nicolai Wammen siger, massive investeringer går hånd i hånd med økonomisk ansvarlighed. Der afsættes fem milliarder kroner til beredskab i 2035. Og fjorten milliarder kroner til klimatilpasning frem mod 2040. Regeringen prioriterer velfærden lokalt. Der er plads til at udvikle den nære velfærd. Økonomiminister Stephanie Lose siger, vi vil gøre det nemmere at drive virksomhed. Og billigere at være dansker. Udenrigsminister Lars Løkke Rasmussen siger, kassen er næsten tom, når regningerne er betalt. Arbejdet med en robust økonomi er kun lige begyndt.",
+  "prompt_tokens": 2391,
+  "completion_tokens": 332,
+  "latency_ms": 5767,
+  "cost_usd": 0.0006774000000000001,
+  "created": "2026-11-10T05:44:54.348838Z",
+  "error": null
+}

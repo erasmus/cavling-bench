@@ -1,0 +1,21 @@
+{
+  "model_id": "nebius-qwen3-235b",
+  "pinned_version": "Qwen/Qwen3-235B-A22B-Instruct-2507",
+  "task_id": "t1_telegram",
+  "source_id": "politi-2026-nsk-cpr-opslag",
+  "archetype": null,
+  "prompt_sha256": "fcbb29e288b0daead23fb0de971317f9f60710542ff410f3318a279f43720ed3",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 560,
+    "reasoning_effort": null
+  },
+  "text": "En 27-årig mand fra Storkøbenhavn er onsdag ved Københavns Byret idømt 3 år og 6 måneder i fængsel for at have muliggjort personfarlig kriminalitet ved at misbruge sin stilling som studentermedhjælper i Københavns Kommune. I perioden juni 2023 til juli 2024 foretog han uberettigede opslag i CPR-registret via kommunens vielseskontor og solgte personfølsomme oplysninger om bopælsadresser og familienetværk til kriminelle medgerningsmænd. Disse oplysninger førte til 34 tilfælde af forsøg på grov vold mod konkrete personer. Han er desuden dømt for at have misbrugt sin offentligt betroede stilling og for at have videregivet oplysninger mod betaling. Specialanklager Rikke Holm Schønsted fra National enhed for Særlig Kriminalitet (NSK), der har efterforsket sagen, kalder dommen betydningsfuld, da den dømte forsætligt har facilitet voldskriminalitet. Den 27-årige har taget betænkningstid vedrørende eventuel appel.",
+  "prompt_tokens": 1353,
+  "completion_tokens": 320,
+  "latency_ms": 3740,
+  "cost_usd": 0.0004626,
+  "created": "2026-11-10T05:39:11.480732Z",
+  "error": null
+}

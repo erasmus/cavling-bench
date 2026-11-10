@@ -1,0 +1,21 @@
+{
+  "model_id": "nebius-qwen3-235b",
+  "pinned_version": "Qwen/Qwen3-235B-A22B-Instruct-2507",
+  "task_id": "t2_rubrik",
+  "source_id": "politi-2026-nsk-cpr-opslag",
+  "archetype": "lynposten",
+  "prompt_sha256": "5f7601d92b797262f5c11eb8a03c15bfecb057452e275648a98cf8726b6b0079",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 400,
+    "reasoning_effort": null
+  },
+  "text": "RUBRIK: 27-årig idømt 3,5 år for at sælge CPR-oplysninger  \nUNDERRUBRIK: Manden misbrugte sin stilling i Københavns Kommune og solgte data til kriminelle, der brugte dem til 34 forsøg på grov vold. Dommen er unik i dansk retspraksis.",
+  "prompt_tokens": 1709,
+  "completion_tokens": 93,
+  "latency_ms": 2137,
+  "cost_usd": 0.0003976,
+  "created": "2026-11-10T05:40:05.923516Z",
+  "error": null
+}

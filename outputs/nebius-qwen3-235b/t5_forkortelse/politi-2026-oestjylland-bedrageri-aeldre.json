@@ -1,0 +1,21 @@
+{
+  "model_id": "nebius-qwen3-235b",
+  "pinned_version": "Qwen/Qwen3-235B-A22B-Instruct-2507",
+  "task_id": "t5_forkortelse",
+  "source_id": "politi-2026-oestjylland-bedrageri-aeldre",
+  "archetype": null,
+  "prompt_sha256": "f3c26bffb47d8b1b03c664ec62efd9087294d5cc8539e5e4c94ffdae5d1a1c70",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 860,
+    "reasoning_effort": null
+  },
+  "text": "En 32-årig mand fra Tilst er ved Retten i Aarhus idømt et år og seks måneders fængsel for at have begået bankbudsbedragerier mod 48 ældre borgere, som han samlet har svindlet for 270.000 kroner. Han erkendte også at have forsøgt at bedrage omkring 150 yderligere ældre via telefonen, hvor han udgav sig for at være fra deres bank. Svindlen skete i forening med flere medgerningsmænd, hvor den 32-årige ofte agerede bankbud og hentede koder og kort, som han misbrugte til kontanthævninger. Anklager Jakob Christensen fra Anklagemyndigheden ved Østjyllands Politi siger, at myndighederne ser alvorligt på sådanne sager, da ofrene ofte er ældre eller udsatte. Den 32-årige blev anholdt den 28. januar i Højbjerg, efter en anmeldelse om svindel mod en kvinde i centrale Aarhus, hvor hun havde udleveret kort og koder og fået hævet 15.000 kroner. Ved anholdelsen blev han fundet i besiddelse af værdigenstande og kontanter, der formodes at stamme fra svindel. To uger senere, den 18. februar, anholdt Østjyllands Politi fem medgerningsmænd efter et længerevarende efterforskningsforløb i afdelingen for Økonomisk Kriminalitet. Enkelte af dem har allerede modtaget dom, mens efterforskningen fortsætter. Den 32-årige har siddet varetægtsfængslet siden anholdelsen, og retten besluttede, at han skal forblive det frem til endelig afsoning. Han blev også dømt til at betale erstatning til ofrene. Kendelsen om varetægtsfængsling er kæret til landsretten.",
+  "prompt_tokens": 1670,
+  "completion_tokens": 505,
+  "latency_ms": 18801,
+  "cost_usd": 0.000637,
+  "created": "2026-11-10T05:44:28.928374Z",
+  "error": null
+}

@@ -1,0 +1,21 @@
+{
+  "model_id": "nebius-qwen3-235b",
+  "pinned_version": "Qwen/Qwen3-235B-A22B-Instruct-2507",
+  "task_id": "t5_forkortelse",
+  "source_id": "dst-2026-ubeskaeftigede-oensker-arbejde",
+  "archetype": null,
+  "prompt_sha256": "0739d3da8f3f6e4c00d553fa4fbad9ccd806096d61756c69faed230016c37c4f",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 860,
+    "reasoning_effort": null
+  },
+  "text": "I første kvartal 2026 var der 905.000 ubeskæftigede i alderen 15-64 år. Heraf ønskede 52 pct., svarende til 470.000 personer, et arbejde – en stigning på 85.000 siden første kvartal 2024, hvor andelen var 45 pct. Andelen, der ønskede arbejde, var lavest i aldersgruppen 55-64 år (28 pct.) og højest i 25-34-årsgruppen (66 pct.). De resterende 435.000 ubeskæftigede ønskede ikke et arbejde, hvilket er 41.000 færre end i 2024. Blandt unge i aldersgruppen 15-24 år er uddannelse årsag til ikke at ønske arbejde for fire ud af fem. Hos 55-64-årige er pension mv. årsag for syv ud af ti. Få nævner familiemæssige årsager. Blandt de 470.000, der ønskede arbejde, var 236.000 AKU-ledige, dvs. aktivt ledige efter internationale kriterier – svarende til halvdelen. Derudover søgte 81.000 arbejde, men kunne ikke starte med det samme, mens 40.000 ikke søgte, men kunne starte. Disse tre grupper udgør sammen med deltidsbeskæftigede, der ønsker flere timer, arbejdskraftreserven på 356.000 i 1. kvartal 2026. AKU-ledigheden udgjorde 7,5 pct. af arbejdsstyrken – en stigning på 0,8 procentpoint fra året før. Uden studerende var ledigheden 6,2 pct., en stigning på 0,5 procentpoint. Stigningen relateres blandt andet til mange opsigelser i andet halvår 2025. AKU-ledighed er højere end registerledighed, da den ikke kræver modtagelse af dagpenge eller kontanthjælp, og inkluderer f.eks. studerende og fritstillede, der aktivt søger arbejde. Metodiske forskelle beskrives i notatet Danmarks Statistiks ledighedsbegreber (PDF). Data fra Arbejdskraftundersøgelsen (kvt.) 1. kvt. 2026.",
+  "prompt_tokens": 1666,
+  "completion_tokens": 643,
+  "latency_ms": 9877,
+  "cost_usd": 0.000719,
+  "created": "2026-11-10T05:43:30.297067Z",
+  "error": null
+}

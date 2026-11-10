@@ -1,0 +1,21 @@
+{
+  "model_id": "nebius-gpt-oss-120b",
+  "pinned_version": "openai/gpt-oss-120b",
+  "task_id": "t6_lydmanus",
+  "source_id": "nationalbanken-2026-digitale-betalinger-beredskab",
+  "archetype": "lynposten",
+  "prompt_sha256": "15ee8c047a8102fff947ff810f56472574e004643290afff35eb7c61c8d925b9",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 2120,
+    "reasoning_effort": "low"
+  },
+  "text": "Nedbrud i kortinfrastrukturen rammer butikker, men offline‑kortberedskabet holder betalingsstrømmen i gang, siger nationalbankdirektør Ulrik Nødgaard. I 2025 udgjorde kontanter kun ni procent af fysiske betalinger, ned fra elleve procent i 2023 og treogtyve procent i 2017. En tredjedel af betalingerne i fysiske butikker sker nu med digitale wallets som Apple Pay og Google Pay. Fireogenogti procent af danskerne har over tusind kroner i kontanter, og syv ud af ti ser kontanter som et beredskab. Mindre end fem procent af fysiske betalinger er straksbetalinger via Mobilepay. Nødgaard understreger, at flere butikker skal kunne tage imod digitale betalinger offline, og at straksbetalinger skal udbredes yderligere. Ifølge Nationalbanken er offline‑kortberedskabet etableret i dagligvarebutikker og apoteker for at sikre betaling i mindst syv dage, selvom kortsystemet fejler.",
+  "prompt_tokens": 1799,
+  "completion_tokens": 290,
+  "latency_ms": 1397,
+  "cost_usd": 0.00044385,
+  "created": "2026-11-10T05:38:43.726904Z",
+  "error": null
+}

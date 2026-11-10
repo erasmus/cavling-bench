@@ -1,0 +1,21 @@
+{
+  "model_id": "nebius-qwen3-235b",
+  "pinned_version": "Qwen/Qwen3-235B-A22B-Instruct-2507",
+  "task_id": "t4_versionering",
+  "source_id": "odense-2026-skolefravaer-95-mio",
+  "archetype": "landsavisen",
+  "prompt_sha256": "9e1349cb086717422d3a93b820f2dc5977988d66ba6abe0a4aef7ff1efe0db6d",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 1025,
+    "reasoning_effort": null
+  },
+  "text": "Odense Kommune sætter 9,5 millioner kroner årligt af til en styrket indsats mod ufrivilligt skolefravær, efter at Børn- og Ungeudvalget onsdag besluttede en række nye tiltag. Pengene skal sikre tidligere indsatser og bedre støtte til børn og unge, der af mistrivsel eller andre udfordringer ikke kan deltage i skolen, samt til deres familier.\n\nIfølge kommunen har knap hver femte elev i Odense et bekymrende skolefravær på over 10 procent. De nye midler, som blev bevilget i budgetaftalen for 2026, skal blandt andet bruges til at åbne en fraværslinje i starten af 2027, hvor forældre kan få råd og vejledning. Familier med særligt alvorligt fravær får desuden tilbud om en fast tovholder, der koordinerer indsatsen mellem skole, myndigheder og andre fagpersoner.\n\nBrian Dybro, børn- og ungerådmand (SF), kalder fraværet \"katastrofalt\" for barnet, familien og klassefællesskabet. Han understreger, at mange forældre kæmper dagligt for at få deres barn i skole, og at hjælpen nu skal komme tidligere og tage udgangspunkt i familiens behov.\n\nDer skal også lægges mere vægt på tværfagligt samarbejde. Skoler får flere ressourcer og støtte til at håndtere komplekse fraværsforløb, mens medarbejdere, der arbejder med børn med svært fravær, får øget kapacitet. Formålet er at opspore problemer tidligere og skabe sammenhæng i indsatsen. \n\nKristian Fahnøe Munksgaard, udviklingschef i Familie- og Forebyggelsesafdelingen, peger på, at ufrivilligt fravær ofte har flere årsager, og at det er afgørende, at hjælpen hænger sammen på tværs af fagligheder.",
+  "prompt_tokens": 1970,
+  "completion_tokens": 545,
+  "latency_ms": 7089,
+  "cost_usd": 0.000721,
+  "created": "2026-11-10T05:42:40.660496Z",
+  "error": null
+}

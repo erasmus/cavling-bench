@@ -1,0 +1,21 @@
+{
+  "model_id": "nebius-gpt-oss-120b",
+  "pinned_version": "openai/gpt-oss-120b",
+  "task_id": "t1_telegram",
+  "source_id": "rigsrevisionen-2026-beretning-energinet-elnettet",
+  "archetype": null,
+  "prompt_sha256": "f40bd26879b04efe947fa16ed6b08bb7828c16545fda1c93a364071e91b055af",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 2060,
+    "reasoning_effort": "low"
+  },
+  "text": "Statsrevisorerne konstaterer, at ca. 70 % af de igangsatte elnetudbygningsprojekter er forsinkede, hvilket har gjort udbygningen mere end 10 mia. kr. dyrere og truer den grønne omstilling. I deres beretning nr. 12/2025 fra den 9. april 2026 kritiseres både Energinet, som kun delvist har overblik over årsagerne til forsinkelserne, og Klima‑, Energi‑ og Forsyningsministeriet, som har reageret for sent på advarsler siden starten af 2023. Energinet forventer at skulle etablere yderligere 2.700 km elnet frem mod 2030 og 3.000‑4.000 km frem mod 2050, men den årlige udbygning skal fordobles fra 120 km til 250 km for at nå målet. Ministeriet har i februar 2026 iværksat en ekstern analyse, men har endnu ikke beregnet, hvordan forsinkelserne påvirker CO₂‑udledningen eller tilslutning af nye sol‑ og vindparker.",
+  "prompt_tokens": 1290,
+  "completion_tokens": 298,
+  "latency_ms": 2414,
+  "cost_usd": 0.00037229999999999994,
+  "created": "2026-11-10T05:38:02.522853Z",
+  "error": null
+}

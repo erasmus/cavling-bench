@@ -1,0 +1,21 @@
+{
+  "model_id": "nebius-gpt-oss-120b",
+  "pinned_version": "openai/gpt-oss-120b",
+  "task_id": "t2_rubrik",
+  "source_id": "rigsrevisionen-2026-beretning-energinet-elnettet",
+  "archetype": "erhvervsnyt",
+  "prompt_sha256": "fbfe1571c1a79df176a8616b96802b3e0abcf45d597ff07852a7c8dbf6a8e29d",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 1900,
+    "reasoning_effort": "low"
+  },
+  "text": "RUBRIK: 70 % af elnetudbygning forsinket – grøn omstilling trues  \nUNDERRUBRIK: Statsrevisorerne kritiserer Energinet for 70 % forsinkede projekter, over 10 mia. kr. ekstraomkostninger og for langsom udbygning – ministeriet reagerer for sent.",
+  "prompt_tokens": 1583,
+  "completion_tokens": 231,
+  "latency_ms": 887,
+  "cost_usd": 0.00037604999999999995,
+  "created": "2026-11-10T05:38:12.603436Z",
+  "error": null
+}

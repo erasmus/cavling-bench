@@ -1,0 +1,21 @@
+{
+  "model_id": "nebius-qwen3-235b",
+  "pinned_version": "Qwen/Qwen3-235B-A22B-Instruct-2507",
+  "task_id": "t4_versionering",
+  "source_id": "kk-2026-ventetidsgaranti-foedselsgener",
+  "archetype": "lynposten",
+  "prompt_sha256": "773239f5474639cb1a554d2a7785181adc3a34bfcca9ec699014ce04e284e818",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 1025,
+    "reasoning_effort": null
+  },
+  "text": "København indfører ventetidsgaranti til kvinder med fødselsgener. Nu skal de have hjælp inden for syv dage.\n\nVenter kvinder for længe, bliver de henvist til private leverandører. Det er del af en ny aftale i Københavns Kommune. Der er stor efterspørgsel på efterfødselshjælp. Ventetiden er nu 17 dage til første samtale. Til undersøgelse venter nogle 44 dage. Det skal ændres.\n\nFørste samtale skal komme senest syv dage efter henvisning. Undersøgelse skal ske inden for tre uger. Hvis kommunen ikke kan overholde det, tilbydes hjælp hos en privat aktør. Det siger sundheds- og omsorgsborgmester Jens-Kristian Lütken (V). Han kalder det Danmarks mest ambitiøse garanti.\n\nOverborgmester Sisse Marie Welling (SF) siger, at kvinder ikke skal vente for længe. Hun var med til at åbne Danmarks første offentlige efterfødselstilbud. Nu tager København næste skridt.\n\nGruppeformand Alexander Ryle fra Liberal Alliance siger, at kvinder ikke tænker over, om hjælpen kommer fra offentlig eller privat hånd. De vil have hurtig og god hjælp. Det er det, der tæller.\n\nAllerede ved første samtale får kvinder rådgivning. Gynækologisk obstetriske fysioterapeuter vejleder i øvelser og indsatser. Det sker i Vanløse.\n\nI 2026 hjælper kommunen 800 kvinder. I 2027 er målet 1.500. Der er brug for mere kapacitet. 320 forløb står kommunen selv for. 180 varetages af private.\n\nKommunen har afsat knap 12,5 mio. kroner over fire år. Det er i tilknytning til den nye budgetaftale. Der er også øget fokus på kvalitet. Kommunen følger tæt med, uanset hvem der leverer hjælpen.",
+  "prompt_tokens": 2301,
+  "completion_tokens": 537,
+  "latency_ms": 27269,
+  "cost_usd": 0.0007824,
+  "created": "2026-11-10T05:42:44.030242Z",
+  "error": null
+}

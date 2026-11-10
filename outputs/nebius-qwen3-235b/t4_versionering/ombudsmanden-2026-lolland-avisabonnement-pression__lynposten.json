@@ -1,0 +1,21 @@
+{
+  "model_id": "nebius-qwen3-235b",
+  "pinned_version": "Qwen/Qwen3-235B-A22B-Instruct-2507",
+  "task_id": "t4_versionering",
+  "source_id": "ombudsmanden-2026-lolland-avisabonnement-pression",
+  "archetype": "lynposten",
+  "prompt_sha256": "cbccccbafecf7128fa69103d4195ff25f63a565eb8c80a9fd5808e6f69e2d640",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 1025,
+    "reasoning_effort": null
+  },
+  "text": "Lolland Kommune får råb af ombudsmanden efter avisopsigelser. Borgmester og to byrådsmedlemmer fik opsagt deres abonnementer på Lolland-Falsters Folketidende. Det skete efter en kritisk artikel i avisen.  \n\nFolketingets Ombudsmand, Christian Britten Lundblad, siger, at myndigheder ikke må bruge abonnementsopsigelser som pres eller straf mod medier. Det er ikke tilladt, selv om det sker via politikeres personlige anmodning.  \n\nKommunen siger, at opsigelserne var private og saglige. De pågældende ønskede ikke længere at betale for avisen. Men nogle udtalelser skaber et andet indtryk.  \n\nBorgmesteren skrev på sociale medier, at kritik skal være fair og ansvarlig. Ellers mister den legitimitet. Hun overvejede yderligere skridt. Et byrådsmedlem skrev på Facebook, at journalister nogle gange sætter loven til side. Derfor ville han ikke længere betale. Et andet medlem kaldte en artikel for dråben, der fik bægeret til at flyde over.  \n\nOmbudsmanden mener, at sådanne udtalelser kan opfattes som pres. Det er i strid med forvaltningsretten. Myndigheder må ikke straffe medier for deres dækning.  \n\n”En myndighed kan naturligvis vælge at opsige et abonnement. Men ikke for at straffe journalister,” siger Christian Britten Lundblad.  \n\nOmbudsmanden har bedt kommunen overveje, om udtalelserne ændrer på, hvad formålet med opsigelserne var. Kommunen skal svare.  \n\nReglerne gælder alle myndigheder. De må ikke afbryde samarbejde med medier som sanktion. Hverken via abonnementer eller annoncering.",
+  "prompt_tokens": 1768,
+  "completion_tokens": 484,
+  "latency_ms": 20639,
+  "cost_usd": 0.000644,
+  "created": "2026-11-10T05:43:01.300671Z",
+  "error": null
+}

@@ -1,0 +1,21 @@
+{
+  "model_id": "nebius-gpt-oss-120b",
+  "pinned_version": "openai/gpt-oss-120b",
+  "task_id": "t1_telegram",
+  "source_id": "dst-2026-offentligt-overskud-2025",
+  "archetype": null,
+  "prompt_sha256": "8a6facf0cb84d686681a639bb116394091dd37ade8b10e563c76c45c4d6ee813",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 2060,
+    "reasoning_effort": "low"
+  },
+  "text": "I 2025 endte de offentlige finanser med et overskud på 90,9 mia. kr., ned fra 123,5 mia. kr. i 2024, ifølge Danmarks Statistik (68:2026) offentliggjort 3. juni 2026. Samtidig steg de samlede udgifter med 85,0 mia. kr. til 1.472,8 mia. kr., mens indtægterne kun steg med 52,4 mia. kr. til 1.563,8 mia. kr., primært på grund af højere pensionsafkastskat (47,0 mia. kr.) samt stigninger i person- og selskabsskatter. Social beskyttelse udgjorde 41 % af udgifterne (438,4 mia. kr.), sundhed 17 % og uddannelse samt generelle tjenester 12 %. Udgifter til pensioner steg med 11,8 mia. kr., mens forsvarets andel nåede 5 % af de samlede udgifter. Revisioner har justeret den offentlige saldo med +2,5 mia. kr. i 2025.",
+  "prompt_tokens": 1046,
+  "completion_tokens": 289,
+  "latency_ms": 1178,
+  "cost_usd": 0.0003303,
+  "created": "2026-11-10T05:37:57.284285Z",
+  "error": null
+}

@@ -1,0 +1,21 @@
+{
+  "model_id": "nebius-gpt-oss-120b",
+  "pinned_version": "openai/gpt-oss-120b",
+  "task_id": "t4_versionering",
+  "source_id": "odense-2026-skolefravaer-95-mio",
+  "archetype": "landsavisen",
+  "prompt_sha256": "9e1349cb086717422d3a93b820f2dc5977988d66ba6abe0a4aef7ff1efe0db6d",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 2525,
+    "reasoning_effort": "low"
+  },
+  "text": "Odense Kommune har i forbindelse med budgetaftalen for 2026 besluttet at afsætte 9,5 millioner kroner om året til en udvidet indsats mod ufrivilligt skolefravær. Beslutningen er truffet af Børn‑ og Ungeudvalget, som på sit møde i dag godkendte en række nye tiltag, der skal gøre hjælpen lettere tilgængelig for familier og styrke støtten på skolerne.  \n\nKnap hver femte elev i Odense har et fravær på over 10 procent, og kommunen peger på, at bag de tomme stole ofte gemmer sig mistrivsel eller andre udfordringer, som påvirker både barnet, familien og klassefællesskabet. Den nye indsats fokuserer på børn og unge, hvor fraværet hænger sammen med sådanne problemstillinger, og den skal sikre, at hjælpen kommer tidligere, før problemerne vokser sig større.  \n\nFra starten af 2027 åbnes en fraværslinje, hvor forældre kan få råd og vejledning. Familier med særligt bekymrende fravær får desuden tildelt en fast tovholder, som skal skabe overblik og koordinere indsatsen mellem skole, sociale tjenester og andre fagpersoner.  \n\nUdviklingschef i Familie‑ og Forebyggelsesafdelingen, Kristian Fahnøe Munksgaard, understreger vigtigheden af tværfagligt samarbejde: “Vi ved, at der ofte er flere årsager til, at et barn udvikler et bekymrende skolefravær. Derfor er det vigtigt, at hjælpen hænger sammen på tværs af fagligheder og indsatser, og at familierne ikke oplever at stå alene med ansvaret.”  \n\nBørn‑ og ungerådmand Brian Dybro (SF) tilføjer, at den styrkede indsats skal tage udgangspunkt i familiens behov: “Mange forældre står i en svær situation og kæmper hver eneste dag for at hjælpe deres barn. Jeg er glad for, at vi nu styrker indsatsen, så hjælpen kommer tidligere.”  \n\nDe nye midler skal også øge kapaciteten for medarbejdere, der arbejder med komplekse fraværsudfordringer, samt give skoler flere ressourcer til at iværksætte tiltag i klasselokalerne. Målet er at reducere fraværet, forbedre trivslen og sikre, at flere elever vender tilbage til en stabil skolegang.",
+  "prompt_tokens": 1654,
+  "completion_tokens": 580,
+  "latency_ms": 2097,
+  "cost_usd": 0.0005961,
+  "created": "2026-11-10T05:38:28.152002Z",
+  "error": null
+}

@@ -1,0 +1,21 @@
+{
+  "model_id": "nebius-gpt-oss-120b",
+  "pinned_version": "openai/gpt-oss-120b",
+  "task_id": "t2_rubrik",
+  "source_id": "ombudsmanden-2026-lolland-avisabonnement-pression",
+  "archetype": "lynposten",
+  "prompt_sha256": "73f5bb30030d7793017bc3dea1a4f65fda393cedb8519c7dfa0ac2d660044a1b",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 1900,
+    "reasoning_effort": "low"
+  },
+  "text": "RUBRIK: Ombudsmand advarer Lolland Kommune om avisopsigelse  \nUNDERRUBRIK: Kommunen skal sikre, at opsigelse af abonnement på Folketidende er saglig og ikke bruges som pression eller straffeaktion, siger Christian Britten Lundblad.",
+  "prompt_tokens": 1549,
+  "completion_tokens": 142,
+  "latency_ms": 654,
+  "cost_usd": 0.00031755,
+  "created": "2026-11-10T05:38:09.819926Z",
+  "error": null
+}

@@ -1,0 +1,21 @@
+{
+  "model_id": "nebius-gpt-oss-120b",
+  "pinned_version": "openai/gpt-oss-120b",
+  "task_id": "t3_faktaboks",
+  "source_id": "kfst-2026-fibernet-prislofter",
+  "archetype": null,
+  "prompt_sha256": "4404edab87f2a2f3813ebf20441851896253f18e1e8f7e12f69bc680e054cade",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 2075,
+    "reasoning_effort": "low"
+  },
+  "text": "- Prislofterne træder i kraft fra årsskiftet, men kan revideres ved markante ændringer i beregningsforudsætninger.  \n- De nye prislofter kan blive op til 35 % højere end de nuværende, afhængig af selskab og område.  \n- Afgørelser om prislofter vil blive truffet for 13 fibernetselskaber i den kommende femårsperiode.  \n- For TDC reguleres kun en mindre del af forretningen med prislofter; mobilområdet og fiberleje uden for hovedstadsområdet er undtaget.  \n- Hvis forudsætningerne ændrer sig, kan Konkurrence‑ og Forbrugerstyrelsen justere prislofterne, fx ved nye krav til netbeskyttelse.",
+  "prompt_tokens": 1537,
+  "completion_tokens": 237,
+  "latency_ms": 1172,
+  "cost_usd": 0.00037275,
+  "created": "2026-11-10T05:38:15.458871Z",
+  "error": null
+}

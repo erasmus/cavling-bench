@@ -1,0 +1,21 @@
+{
+  "model_id": "nebius-qwen3-235b",
+  "pinned_version": "Qwen/Qwen3-235B-A22B-Instruct-2507",
+  "task_id": "t2_rubrik",
+  "source_id": "politi-2026-sydoestjylland-hadforbrydelse",
+  "archetype": "lynposten",
+  "prompt_sha256": "86a3b9ae4c2aab55649c7a11da1a3c3f1d3beeabf8e9182c015b5959c19b08bd",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 400,
+    "reasoning_effort": null
+  },
+  "text": "RUBRIK: Tre unge dømt for knivvold og hadangreb på to kvinder  \nUNDERRUBRIK: To 18-årige og en 17-årig idømt fængsel for vold, trusler og grov vold med kniv og peberspray. Én får udvisning og opholdsforbud.",
+  "prompt_tokens": 1429,
+  "completion_tokens": 85,
+  "latency_ms": 1745,
+  "cost_usd": 0.0003368,
+  "created": "2026-11-10T05:40:11.495645Z",
+  "error": null
+}

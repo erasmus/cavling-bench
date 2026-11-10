@@ -1,0 +1,21 @@
+{
+  "model_id": "nebius-gpt-oss-120b",
+  "pinned_version": "openai/gpt-oss-120b",
+  "task_id": "t3_faktaboks",
+  "source_id": "kefm-2026-akutplan-elnettet-vedtaget",
+  "archetype": null,
+  "prompt_sha256": "025104f0f8e2a650938df3f54114f44b92bf4620dfa47218edcdfc400c0355f3",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 2075,
+    "reasoning_effort": "low"
+  },
+  "text": "- Bredt flertal i Folketinget stemte for akutplanen for elnettet før sommeren.  \n- Akutplanen erstatter først‑til‑mølle‑princippet med en ny prioriteringsmodel for Energinet og netvirksomhederne.  \n- Lovens ikrafttræden er sat til 12. oktober.  \n- Klima-, energi- og forsyningsminister Samira Nawa siger, planen er første skridt i en genopretningsplan for elnettet.  \n- Partierne i aftalen vil blive inviteret til drøftelser om Energiinfrastrukturplan 2035.",
+  "prompt_tokens": 2456,
+  "completion_tokens": 329,
+  "latency_ms": 986,
+  "cost_usd": 0.0005658,
+  "created": "2026-11-10T05:38:15.210531Z",
+  "error": null
+}

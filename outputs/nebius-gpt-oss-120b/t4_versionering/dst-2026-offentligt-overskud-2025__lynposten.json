@@ -1,0 +1,21 @@
+{
+  "model_id": "nebius-gpt-oss-120b",
+  "pinned_version": "openai/gpt-oss-120b",
+  "task_id": "t4_versionering",
+  "source_id": "dst-2026-offentligt-overskud-2025",
+  "archetype": "lynposten",
+  "prompt_sha256": "bc8ff6f4407a1df54e6b13eed86b79c4d064e93e2c878cd22867d0140cfc4795",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 2525,
+    "reasoning_effort": "low"
+  },
+  "text": "90,9 mia. kr. overskud på de offentlige finanser i 2025 rammer skattebetalerne, men udgifterne er steget kraftigt.  \n\nUdgifterne nåede 1.472,8 mia. kr., en stigning på 85,0 mia. kr. i forhold til 2024. Indtægterne voksede til 1.563,8 mia. kr., kun 52,4 mia. kr. mere. Overskuddet faldt fra 123,5 mia. kr. i 2024 til 90,9 mia. kr. i 2025.  \n\nStigningen i indtægterne skyldes højere pensionsafkastskat – 47,0 mia. kr. i 2025 – samt øgede person- og selskabsskatter. På udgiftssiden driver højere udgifter til socialområdet, sundhed og forsvaret tallene.  \n\nSocial beskyttelse udgør 41 % af de samlede udgifter og er den største post. Sundhedsvæsenet følger med 17 %, mens uddannelse og generelle offentlige tjenester tilsammen udgør 12 %. Forsvarsudgifterne er steget til 5 % af de samlede udgifter.  \n\nUdgifter til sociale ydelser steg med 18,8 mia. kr. og udgjorde 438,4 mia. kr. i 2025. Pensionerne alene steg med 11,8 mia. kr., drevet af flere pensionister og højere satser.  \n\nRevisioner har justeret den offentlige saldo. Overskuddet i 2025 blev opjusteret med 2,5 mia. kr. efter nye skattetal fra Skattestyrelsen. Forbrugsudgiften blev opjusteret med 5,9 mia. kr. efter endelige regnskabstal for kommuner, regioner, universiteter og andre selvejende institutioner.  \n\nResultatet er et mindre overskud, men stadig positiv saldo på de offentlige finanser.",
+  "prompt_tokens": 1341,
+  "completion_tokens": 480,
+  "latency_ms": 1458,
+  "cost_usd": 0.0004891499999999999,
+  "created": "2026-11-10T05:38:20.051164Z",
+  "error": null
+}

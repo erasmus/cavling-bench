@@ -1,0 +1,21 @@
+{
+  "model_id": "nebius-gpt-oss-120b",
+  "pinned_version": "openai/gpt-oss-120b",
+  "task_id": "t4_versionering",
+  "source_id": "politi-2026-nsk-tidligere-advokat",
+  "archetype": "landsavisen",
+  "prompt_sha256": "094fc1559d0d181c3202bb56d8d3cb5bcf8e3041eded30ed5869f5385da2f497",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 2525,
+    "reasoning_effort": "low"
+  },
+  "text": "Retten i Lyngby har onsdag idømt en 53‑årig tidligere advokat seks måneders ubetinget fængsel og frakendt ham retten til at udøve advokatvirksomhed, som svar på en sag anlagt af National enhed for Særlig Kriminalitet (NSK). Dommen bygger på, at den dømte har misbrugt sin stilling som advokat ved at lade sig udpege som kurator i to konkursboer, selvom han var inhabil på grund af tidligere rådgivning til ejerne. Retten fandt, at han afgav urigtige erklæringer til skifteretten for at opnå udnævnelsen, og at han efterfølgende undlod at videregive væsentlige oplysninger om kriminelle forhold i de selskaber, han var kurator for. \n\nRetten fastslog også, at den tidligere advokat med sit stillingsmisbrug havde til hensigt at skaffe sig eller andre en fordel, og at hans handlinger vanskeliggjorde og forsinkede både politiefterforskning, skattemæssig undersøgelse og konkursbehandlingen. NSK’s specialanklager, Konrad Joe Frank, udtalte: “I NSK har vi et vedvarende fokus på at sætte ind over for professionelle rådgivere, der med deres handlinger eller undladelser gør det lettere at være kriminel. Derfor er jeg tilfreds med dommen i dag. Dommen viser, at retten ser strengt på, når en advokat og kurator tilsidesætter sine forpligtelser, og understreger, hvor afgørende tilliden til kuratorer er for systemet.” \n\nDommen markerer et tydeligt signal om, at misbrug af juridisk stilling og inhabilitet i konkursbehandling vil blive straffet hårdt, og den frakender den dømte midlertidigt retten til at praktisere som advokat.",
+  "prompt_tokens": 1137,
+  "completion_tokens": 444,
+  "latency_ms": 1530,
+  "cost_usd": 0.0004369499999999999,
+  "created": "2026-11-10T05:38:30.010989Z",
+  "error": null
+}

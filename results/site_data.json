@@ -1,8 +1,8 @@
 {
- "generated": "2026-11-10T05:27:02+00:00",
+ "generated": "2026-11-10T05:52:26+00:00",
  "run_date": "2026-11-10",
  "n_sources": 40,
- "n_outputs": 135,
+ "n_outputs": 774,
  "tier_labels": {
   "frontier_proprietary": "Frontier (proprietær)",
   "mid_proprietary": "Mellemklasse (proprietær)",
@@ -135,9 +135,9 @@
    "model_id": "nebius-gpt-oss-120b",
    "display": "gpt-oss-120b (Nebius)",
    "tier": "open_global",
-   "cost_per_1000_t1_usd": 0.35553,
-   "latency_median_ms": 1456.0,
-   "latency_p95_ms": 1876.8,
+   "cost_per_1000_t1_usd": 0.39501749999999997,
+   "latency_median_ms": 1168.5,
+   "latency_p95_ms": 1922.8499999999985,
    "open_weights": true,
    "licence": "Apache-2.0",
    "eu_residency": "cloud region",
@@ -150,9 +150,9 @@
    "model_id": "nebius-qwen3-235b",
    "display": "Qwen3-235B-A22B (Nebius)",
    "tier": "open_global",
-   "cost_per_1000_t1_usd": 0.46563999999999994,
-   "latency_median_ms": 13973.0,
-   "latency_p95_ms": 17698.399999999998,
+   "cost_per_1000_t1_usd": 0.49604499999999996,
+   "latency_median_ms": 5966.0,
+   "latency_p95_ms": 18913.59999999996,
    "open_weights": true,
    "licence": "Apache-2.0",
    "eu_residency": "cloud region",
@@ -235,45 +235,66 @@
      "single_judge_tone": true
     },
     {
+     "model_id": "google-mid",
+     "display": "Gemini 3.8 Flash",
+     "tier": "mid_proprietary",
+     "n": 1,
+     "pct_supported": {
+      "point": null,
+      "lo": null,
+      "hi": null
+     },
+     "n_contradicted": 0,
+     "facts_preserved_pct": 0.0,
+     "fluency": {
+      "point": null,
+      "lo": null,
+      "hi": null
+     },
+     "tone_bt": {},
+     "format_pass_pct": 0.0,
+     "single_judge_tone": false
+    },
+    {
      "model_id": "nebius-gpt-oss-120b",
      "display": "gpt-oss-120b (Nebius)",
      "tier": "open_global",
-     "n": 5,
+     "n": 40,
      "pct_supported": {
-      "point": 98.182,
-      "lo": 94.545,
-      "hi": 100.0
+      "point": 94.508,
+      "lo": 88.53,
+      "hi": 98.397
      },
-     "n_contradicted": 0,
-     "facts_preserved_pct": 91.30434782608695,
+     "n_contradicted": 1,
+     "facts_preserved_pct": 84.65608465608466,
      "fluency": {
-      "point": 4.8,
-      "lo": 4.4,
-      "hi": 5.0
+      "point": 4.359,
+      "lo": 4.154,
+      "hi": 4.564
      },
      "tone_bt": {},
-     "format_pass_pct": 80.0,
+     "format_pass_pct": 60.0,
      "single_judge_tone": true
     },
     {
      "model_id": "nebius-qwen3-235b",
      "display": "Qwen3-235B-A22B (Nebius)",
      "tier": "open_global",
-     "n": 5,
+     "n": 40,
      "pct_supported": {
-      "point": 90.921,
-      "lo": 87.429,
-      "hi": 95.783
+      "point": 88.967,
+      "lo": 84.135,
+      "hi": 92.897
      },
-     "n_contradicted": 1,
-     "facts_preserved_pct": 95.65217391304348,
+     "n_contradicted": 7,
+     "facts_preserved_pct": 92.06349206349206,
      "fluency": {
-      "point": 4.4,
-      "lo": 4.0,
-      "hi": 4.8
+      "point": 4.15,
+      "lo": 3.875,
+      "hi": 4.4
      },
      "tone_bt": {},
-     "format_pass_pct": 80.0,
+     "format_pass_pct": 65.0,
      "single_judge_tone": false
     }
    ]
@@ -325,21 +346,21 @@
      "single_judge_tone": true
     },
     {
-     "model_id": "nebius-gpt-oss-120b",
-     "display": "gpt-oss-120b (Nebius)",
-     "tier": "open_global",
-     "n": 15,
+     "model_id": "google-mid",
+     "display": "Gemini 3.8 Flash",
+     "tier": "mid_proprietary",
+     "n": 3,
      "pct_supported": {
-      "point": 95.0,
-      "lo": 91.111,
-      "hi": 98.889
+      "point": null,
+      "lo": null,
+      "hi": null
      },
-     "n_contradicted": 2,
+     "n_contradicted": 0,
      "facts_preserved_pct": null,
      "fluency": {
-      "point": 4.933,
-      "lo": 4.8,
-      "hi": 5.0
+      "point": null,
+      "lo": null,
+      "hi": null
      },
      "tone_bt": {
       "lynposten": {
@@ -358,25 +379,62 @@
        "hi": null
       }
      },
-     "format_pass_pct": 53.333333333333336,
+     "format_pass_pct": 0.0,
+     "single_judge_tone": false
+    },
+    {
+     "model_id": "nebius-gpt-oss-120b",
+     "display": "gpt-oss-120b (Nebius)",
+     "tier": "open_global",
+     "n": 120,
+     "pct_supported": {
+      "point": 94.403,
+      "lo": 90.873,
+      "hi": 97.181
+     },
+     "n_contradicted": 7,
+     "facts_preserved_pct": null,
+     "fluency": {
+      "point": 4.733,
+      "lo": 4.6,
+      "hi": 4.85
+     },
+     "tone_bt": {
+      "lynposten": {
+       "point": null,
+       "lo": null,
+       "hi": null
+      },
+      "landsavisen": {
+       "point": null,
+       "lo": null,
+       "hi": null
+      },
+      "erhvervsnyt": {
+       "point": null,
+       "lo": null,
+       "hi": null
+      }
+     },
+     "format_pass_pct": 52.5,
      "single_judge_tone": true
     },
     {
      "model_id": "nebius-qwen3-235b",
      "display": "Qwen3-235B-A22B (Nebius)",
      "tier": "open_global",
-     "n": 15,
+     "n": 120,
      "pct_supported": {
-      "point": 86.048,
-      "lo": 74.556,
-      "hi": 95.873
+      "point": 91.353,
+      "lo": 88.088,
+      "hi": 94.451
      },
      "n_contradicted": 0,
      "facts_preserved_pct": null,
      "fluency": {
-      "point": 4.4,
-      "lo": 3.667,
-      "hi": 4.933
+      "point": 4.6,
+      "lo": 4.441,
+      "hi": 4.742
      },
      "tone_bt": {
       "lynposten": {
@@ -395,7 +453,7 @@
        "hi": 65.0
       }
      },
-     "format_pass_pct": 66.66666666666667,
+     "format_pass_pct": 64.16666666666667,
      "single_judge_tone": false
     }
    ]
@@ -427,45 +485,66 @@
      "single_judge_tone": true
     },
     {
+     "model_id": "google-mid",
+     "display": "Gemini 3.8 Flash",
+     "tier": "mid_proprietary",
+     "n": 1,
+     "pct_supported": {
+      "point": null,
+      "lo": null,
+      "hi": null
+     },
+     "n_contradicted": 0,
+     "facts_preserved_pct": 0.0,
+     "fluency": {
+      "point": null,
+      "lo": null,
+      "hi": null
+     },
+     "tone_bt": {},
+     "format_pass_pct": 0.0,
+     "single_judge_tone": false
+    },
+    {
      "model_id": "nebius-gpt-oss-120b",
      "display": "gpt-oss-120b (Nebius)",
      "tier": "open_global",
-     "n": 5,
+     "n": 40,
      "pct_supported": {
-      "point": 96.0,
-      "lo": 88.0,
+      "point": 98.0,
+      "lo": 95.5,
       "hi": 100.0
      },
-     "n_contradicted": 0,
-     "facts_preserved_pct": 69.56521739130434,
+     "n_contradicted": 2,
+     "facts_preserved_pct": 72.48677248677248,
      "fluency": {
-      "point": 4.4,
-      "lo": 3.6,
-      "hi": 5.0
+      "point": 4.5,
+      "lo": 4.3,
+      "hi": 4.7
      },
      "tone_bt": {},
-     "format_pass_pct": 100.0,
+     "format_pass_pct": 97.5,
      "single_judge_tone": true
     },
     {
      "model_id": "nebius-qwen3-235b",
      "display": "Qwen3-235B-A22B (Nebius)",
      "tier": "open_global",
-     "n": 5,
+     "n": 40,
      "pct_supported": {
-      "point": 96.0,
-      "lo": 88.0,
-      "hi": 100.0
+      "point": 96.5,
+      "lo": 93.5,
+      "hi": 99.0
      },
-     "n_contradicted": 0,
-     "facts_preserved_pct": 78.26086956521739,
+     "n_contradicted": 2,
+     "facts_preserved_pct": 80.42328042328042,
      "fluency": {
-      "point": 4.4,
-      "lo": 3.6,
-      "hi": 5.0
+      "point": 4.0,
+      "lo": 3.749,
+      "hi": 4.275
      },
      "tone_bt": {},
-     "format_pass_pct": 80.0,
+     "format_pass_pct": 92.5,
      "single_judge_tone": false
     }
    ]
@@ -511,21 +590,21 @@
      "single_judge_tone": true
     },
     {
-     "model_id": "nebius-gpt-oss-120b",
-     "display": "gpt-oss-120b (Nebius)",
-     "tier": "open_global",
-     "n": 10,
+     "model_id": "google-mid",
+     "display": "Gemini 3.8 Flash",
+     "tier": "mid_proprietary",
+     "n": 2,
      "pct_supported": {
-      "point": 92.946,
-      "lo": 88.542,
-      "hi": 97.321
+      "point": null,
+      "lo": null,
+      "hi": null
      },
-     "n_contradicted": 2,
+     "n_contradicted": 0,
      "facts_preserved_pct": null,
      "fluency": {
-      "point": 4.0,
-      "lo": 4.0,
-      "hi": 4.0
+      "point": null,
+      "lo": null,
+      "hi": null
      },
      "tone_bt": {
       "lynposten": {
@@ -539,25 +618,57 @@
        "hi": null
       }
      },
-     "format_pass_pct": 40.0,
+     "format_pass_pct": 0.0,
+     "single_judge_tone": false
+    },
+    {
+     "model_id": "nebius-gpt-oss-120b",
+     "display": "gpt-oss-120b (Nebius)",
+     "tier": "open_global",
+     "n": 80,
+     "pct_supported": {
+      "point": 93.13,
+      "lo": 90.091,
+      "hi": 95.33
+     },
+     "n_contradicted": 9,
+     "facts_preserved_pct": null,
+     "fluency": {
+      "point": 3.975,
+      "lo": 3.763,
+      "hi": 4.162
+     },
+     "tone_bt": {
+      "lynposten": {
+       "point": null,
+       "lo": null,
+       "hi": null
+      },
+      "landsavisen": {
+       "point": null,
+       "lo": null,
+       "hi": null
+      }
+     },
+     "format_pass_pct": 58.75,
      "single_judge_tone": true
     },
     {
      "model_id": "nebius-qwen3-235b",
      "display": "Qwen3-235B-A22B (Nebius)",
      "tier": "open_global",
-     "n": 10,
+     "n": 80,
      "pct_supported": {
-      "point": 89.027,
-      "lo": 83.056,
-      "hi": 93.545
+      "point": 92.437,
+      "lo": 90.685,
+      "hi": 94.252
      },
-     "n_contradicted": 0,
+     "n_contradicted": 10,
      "facts_preserved_pct": null,
      "fluency": {
-      "point": 4.3,
-      "lo": 4.1,
-      "hi": 4.5
+      "point": 3.812,
+      "lo": 3.612,
+      "hi": 4.013
      },
      "tone_bt": {
       "lynposten": {
@@ -571,7 +682,7 @@
        "hi": 65.0
       }
      },
-     "format_pass_pct": 60.0,
+     "format_pass_pct": 55.0,
      "single_judge_tone": false
     }
    ]
@@ -603,45 +714,66 @@
      "single_judge_tone": true
     },
     {
+     "model_id": "google-mid",
+     "display": "Gemini 3.8 Flash",
+     "tier": "mid_proprietary",
+     "n": 1,
+     "pct_supported": {
+      "point": null,
+      "lo": null,
+      "hi": null
+     },
+     "n_contradicted": 0,
+     "facts_preserved_pct": 0.0,
+     "fluency": {
+      "point": null,
+      "lo": null,
+      "hi": null
+     },
+     "tone_bt": {},
+     "format_pass_pct": 0.0,
+     "single_judge_tone": false
+    },
+    {
      "model_id": "nebius-gpt-oss-120b",
      "display": "gpt-oss-120b (Nebius)",
      "tier": "open_global",
-     "n": 5,
+     "n": 40,
      "pct_supported": {
-      "point": 98.333,
-      "lo": 95.0,
-      "hi": 100.0
+      "point": 98.49,
+      "lo": 97.098,
+      "hi": 99.643
      },
-     "n_contradicted": 0,
-     "facts_preserved_pct": 87.75510204081633,
+     "n_contradicted": 3,
+     "facts_preserved_pct": 85.48812664907652,
      "fluency": {
-      "point": 4.0,
-      "lo": 4.0,
-      "hi": 4.0
+      "point": 4.025,
+      "lo": 3.85,
+      "hi": 4.176
      },
      "tone_bt": {},
-     "format_pass_pct": 40.0,
+     "format_pass_pct": 60.0,
      "single_judge_tone": true
     },
     {
      "model_id": "nebius-qwen3-235b",
      "display": "Qwen3-235B-A22B (Nebius)",
      "tier": "open_global",
-     "n": 5,
+     "n": 40,
      "pct_supported": {
-      "point": 97.333,
-      "lo": 92.0,
-      "hi": 100.0
+      "point": 97.297,
+      "lo": 95.424,
+      "hi": 98.9
      },
-     "n_contradicted": 1,
-     "facts_preserved_pct": 91.83673469387755,
+     "n_contradicted": 5,
+     "facts_preserved_pct": 91.82058047493403,
      "fluency": {
-      "point": 3.4,
-      "lo": 2.4,
-      "hi": 4.4
+      "point": 3.75,
+      "lo": 3.45,
+      "hi": 4.025
      },
      "tone_bt": {},
-     "format_pass_pct": 60.0,
+     "format_pass_pct": 65.0,
      "single_judge_tone": false
     }
    ]
@@ -681,21 +813,21 @@
      "single_judge_tone": true
     },
     {
-     "model_id": "nebius-gpt-oss-120b",
-     "display": "gpt-oss-120b (Nebius)",
-     "tier": "open_global",
-     "n": 5,
+     "model_id": "google-mid",
+     "display": "Gemini 3.8 Flash",
+     "tier": "mid_proprietary",
+     "n": 1,
      "pct_supported": {
-      "point": 92.286,
-      "lo": 80.857,
-      "hi": 100.0
+      "point": null,
+      "lo": null,
+      "hi": null
      },
-     "n_contradicted": 2,
+     "n_contradicted": 0,
      "facts_preserved_pct": null,
      "fluency": {
-      "point": 2.6,
-      "lo": 2.0,
-      "hi": 3.4
+      "point": null,
+      "lo": null,
+      "hi": null
      },
      "tone_bt": {
       "lynposten": {
@@ -704,25 +836,52 @@
        "hi": null
       }
      },
-     "format_pass_pct": 60.0,
+     "format_pass_pct": 0.0,
+     "single_judge_tone": false
+    },
+    {
+     "model_id": "nebius-gpt-oss-120b",
+     "display": "gpt-oss-120b (Nebius)",
+     "tier": "open_global",
+     "n": 40,
+     "pct_supported": {
+      "point": 78.393,
+      "lo": 71.352,
+      "hi": 84.295
+     },
+     "n_contradicted": 43,
+     "facts_preserved_pct": null,
+     "fluency": {
+      "point": 3.025,
+      "lo": 2.675,
+      "hi": 3.375
+     },
+     "tone_bt": {
+      "lynposten": {
+       "point": null,
+       "lo": null,
+       "hi": null
+      }
+     },
+     "format_pass_pct": 70.0,
      "single_judge_tone": true
     },
     {
      "model_id": "nebius-qwen3-235b",
      "display": "Qwen3-235B-A22B (Nebius)",
      "tier": "open_global",
-     "n": 5,
+     "n": 40,
      "pct_supported": {
-      "point": 87.053,
-      "lo": 81.476,
-      "hi": 92.499
+      "point": 87.128,
+      "lo": 83.491,
+      "hi": 90.469
      },
-     "n_contradicted": 4,
+     "n_contradicted": 36,
      "facts_preserved_pct": null,
      "fluency": {
-      "point": 3.6,
-      "lo": 2.2,
-      "hi": 4.6
+      "point": 2.9,
+      "lo": 2.6,
+      "hi": 3.225
      },
      "tone_bt": {
       "lynposten": {
@@ -731,7 +890,7 @@
        "hi": 35.0
       }
      },
-     "format_pass_pct": 20.0,
+     "format_pass_pct": 35.0,
      "single_judge_tone": false
     }
    ]
@@ -751,27 +910,39 @@
    "saerskrivning_per_output": 0.0
   },
   {
-   "model_id": "nebius-gpt-oss-120b",
-   "display": "gpt-oss-120b (Nebius)",
+   "model_id": "google-mid",
+   "display": "Gemini 3.8 Flash",
    "hedges_per_output": 0.0,
-   "fillers_per_output": 0.1111111111111111,
+   "fillers_per_output": 0.0,
    "generic_per_output": 0.0,
    "anglicisms_per_output": 0.0,
-   "passive_share": 0.09211777777777777,
-   "mean_sentence_len": 23.488666666666667,
+   "passive_share": 0.0,
+   "mean_sentence_len": 0.0,
    "lang_leak_tokens_per_output": 0.0,
+   "saerskrivning_per_output": 0.0
+  },
+  {
+   "model_id": "nebius-gpt-oss-120b",
+   "display": "gpt-oss-120b (Nebius)",
+   "hedges_per_output": 0.013888888888888888,
+   "fillers_per_output": 0.18611111111111112,
+   "generic_per_output": 0.016666666666666666,
+   "anglicisms_per_output": 0.0,
+   "passive_share": 0.07527722222222223,
+   "mean_sentence_len": 29.643333333333334,
+   "lang_leak_tokens_per_output": 0.15833333333333333,
    "saerskrivning_per_output": 0.0
   },
   {
    "model_id": "nebius-qwen3-235b",
    "display": "Qwen3-235B-A22B (Nebius)",
-   "hedges_per_output": 0.022222222222222223,
-   "fillers_per_output": 0.13333333333333333,
-   "generic_per_output": 0.0,
+   "hedges_per_output": 0.011111111111111112,
+   "fillers_per_output": 0.125,
+   "generic_per_output": 0.025,
    "anglicisms_per_output": 0.0,
-   "passive_share": 0.07547999999999999,
-   "mean_sentence_len": 19.761111111111113,
-   "lang_leak_tokens_per_output": 0.0,
+   "passive_share": 0.07675194444444444,
+   "mean_sentence_len": 19.894722222222224,
+   "lang_leak_tokens_per_output": 0.12222222222222222,
    "saerskrivning_per_output": 0.0
   }
  ],

@@ -1,0 +1,21 @@
+{
+  "model_id": "nebius-qwen3-235b",
+  "pinned_version": "Qwen/Qwen3-235B-A22B-Instruct-2507",
+  "task_id": "t2_rubrik",
+  "source_id": "fm-2026-2035-plan",
+  "archetype": "lynposten",
+  "prompt_sha256": "302e337fda09cbc24a38af31f7f70bd14e079343cb8e9707411ffa6f98223061",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 400,
+    "reasoning_effort": null
+  },
+  "text": "RUBRIK: Regeringen afsætter 70 mia. til forsvar og klima  \nUNDERRUBRIK: Planen lægger op til 3,5 pct. af BNP til forsvar i 2030, 15 mia. til klimatilpasning og 5 mia. til beredskab i 2035 – finansieret gennem skarp prioritering.",
+  "prompt_tokens": 2366,
+  "completion_tokens": 99,
+  "latency_ms": 3320,
+  "cost_usd": 0.0005326,
+  "created": "2026-11-10T05:39:40.658096Z",
+  "error": null
+}

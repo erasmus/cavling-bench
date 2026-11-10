@@ -1,0 +1,21 @@
+{
+  "model_id": "nebius-qwen3-235b",
+  "pinned_version": "Qwen/Qwen3-235B-A22B-Instruct-2507",
+  "task_id": "t1_telegram",
+  "source_id": "aalborg-2025-omlaegningsplan-trepart",
+  "archetype": null,
+  "prompt_sha256": "d53c5af7c9e6c5cf67035ae041c000999dce426e9f7e23698a2c7d97e67c5a4b",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 560,
+    "reasoning_effort": null
+  },
+  "text": "Aalborg Byråd har 15. december givet grønt lys til en ambitiøs omlægningsplan med 94 projekter, der skal forbedre vandmiljøet, øge naturen og reducere klimagasser. Planen, udarbejdet i samarbejde med Aalborg Trepart – bestående af repræsentanter fra Danmarks Naturfredningsforening, Landbrug & Fødevarer, Naturstyrelsen og byrådet med borgmester Lasse Frimand Jensen – omfatter blandt andet 77 lavbundsprojekter, der vådlægger tørvejord for at mindske CO2-udledning, 13 forslag til drikkevandsbeskyttelse og tre større naturområder ved Hals og Ulsted Rimmer, Lundby Bakker samt Halkær Bredning og Halkær Sø. Projektet kræver enighed med berørte lodsejere, og dialogmøder skal påbegyndes i 2026. Målet er, at kvælstof- og klimaindsatsen er afsluttet i 2030, mens skov- og naturindsatsen fortsætter herefter.",
+  "prompt_tokens": 1807,
+  "completion_tokens": 301,
+  "latency_ms": 6367,
+  "cost_usd": 0.000542,
+  "created": "2026-11-10T05:38:52.431941Z",
+  "error": null
+}

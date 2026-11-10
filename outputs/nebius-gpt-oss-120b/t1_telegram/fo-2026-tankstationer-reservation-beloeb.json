@@ -1,0 +1,21 @@
+{
+  "model_id": "nebius-gpt-oss-120b",
+  "pinned_version": "openai/gpt-oss-120b",
+  "task_id": "t1_telegram",
+  "source_id": "fo-2026-tankstationer-reservation-beloeb",
+  "archetype": null,
+  "prompt_sha256": "a24b474c351715bea86caa07eafb0ea7380a4b539ba1903d1c9397ca231cd179",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 2060,
+    "reasoning_effort": "low"
+  },
+  "text": "Forbrugerombudsmanden har afsluttet sagerne mod de fire største tankstationskæder, efter at Q8, OK, Shell og Uno‑X blev kritiseret for at reservere urimeligt høje beløb – op til 1.500 kr. – på forbrugernes konti, ofte uden tilstrækkeligt samtykke og med forsinket frigivelse på op til 11 dage. Efter dialog med brancheorganisationen Drivkraft Danmark i 2023 har Shell og Uno‑X indført, at kunderne selv kan vælge reservationsbeløbet på skærmen, mens OK nu begrænser reservationen til 100 kr. og planlægger bedre skiltning. Q8 fastholder 950 kr., men arbejder på en softwareløsning, der skal være klar i midten af 2026, og har lovet at indføre samtykke i skærmflowet. Forbrugerombudsmand Torben Jensen udtaler, at de nye tiltag sikrer, at reservationerne står i rimeligt forhold til den faktiske betaling, og at forbrugerne får hurtigere frigivelse af midlerne.",
+  "prompt_tokens": 2125,
+  "completion_tokens": 280,
+  "latency_ms": 1217,
+  "cost_usd": 0.00048675,
+  "created": "2026-11-10T05:37:58.754956Z",
+  "error": null
+}

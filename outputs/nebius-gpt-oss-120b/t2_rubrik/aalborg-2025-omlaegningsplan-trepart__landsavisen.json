@@ -1,0 +1,21 @@
+{
+  "model_id": "nebius-gpt-oss-120b",
+  "pinned_version": "openai/gpt-oss-120b",
+  "task_id": "t2_rubrik",
+  "source_id": "aalborg-2025-omlaegningsplan-trepart",
+  "archetype": "landsavisen",
+  "prompt_sha256": "6c3a0135ad1a3f965342da33814217cee1e0eb86e49058f521ad66292e58cca1",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 1900,
+    "reasoning_effort": "low"
+  },
+  "text": "RUBRIK: Aalborg Byråd vedtager omfattende omlægningsplan med 94 grønne projekter  \nUNDERRUBRIK: Planen, godkendt 15. december, skal fremme natur, renere vand og lavere CO₂‑udledning, men kræver enighed med berørte lodsejere.",
+  "prompt_tokens": 1842,
+  "completion_tokens": 98,
+  "latency_ms": 766,
+  "cost_usd": 0.0003351,
+  "created": "2026-11-10T05:38:01.379679Z",
+  "error": null
+}

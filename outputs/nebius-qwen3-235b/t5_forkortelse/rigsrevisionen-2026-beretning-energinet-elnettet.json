@@ -1,0 +1,21 @@
+{
+  "model_id": "nebius-qwen3-235b",
+  "pinned_version": "Qwen/Qwen3-235B-A22B-Instruct-2507",
+  "task_id": "t5_forkortelse",
+  "source_id": "rigsrevisionen-2026-beretning-energinet-elnettet",
+  "archetype": null,
+  "prompt_sha256": "1a851480cfa794380688098ea3d9dab47cbc07c95a533d7a2d39db07c6f3669d",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 860,
+    "reasoning_effort": null
+  },
+  "text": "Den 9. april 2026 behandlede Statsrevisorerne Beretning nr. 12/2025 om Energinets udbygning af elnettet. Elnettet omfatter ca. 9.000 km jordkabler og luftledninger. Energinet ejer og udvikler el- og gasnettet i Danmark, og staten ejer Energinet gennem Klima-, Energi- og Forsyningsministeriet. Klimaaftalen fra juni 2022 skal sikre markant udbygning af vedvarende energi, hvilket kræver udbygning af elnettet. Energinet forventer, at der frem mod 2030 skal etableres yderligere ca. 2.700 km elnet og frem mod 2050 yderligere 3.000–4.000 km. Statsrevisorerne vurderer, om Energinets styring og ministeriets tilsyn er tilfredsstillende. Ca. 70 % af udbygningsprojekterne er forsinkede, og de forsinkede projekter tager i gennemsnit 80 % længere tid end forventet. De ikke-forsinkede projekter er generelt nystartede. Energinet har kun delvist overblik over årsagerne. Statsrevisorerne kritiserer, at Klima-, Energi- og Forsyningsministeriet har reageret for sent, selvom forsinkelserne er kendt siden 2023. Forsinkelserne forsinkes den grønne omstilling og har gjort udbygningen mere end 10 mia. kr. dyrere. Energinet har systematisk undervurderet projektvarigheder, og forklaringer på forsinkelser er ikke entydige. Hastigheden i udbygningen skal mere end fordobles fra 120 km til 250 km årligt for at nå målene. Siden maj 2024 er 206 km elnet færdiggjort ud af 490 km, som skulle være færdige pr. 1. januar 2026. Ministeriet har tilstrækkeligt grundlag for tilsyn, men reagerede for sent. Primo februar 2026 igangsatte ministeriet en ekstern analyse, som kunne være startet tidligere. Ministeriet har ikke beregnet konsekvenserne for CO2-udledning eller tilslutning af nye solcelle- og vindmølleparker. Statsrevisorerne tilslutter sig Rigsrevisionens anbefaling om, at ministeriet bør undersøge konsekvenserne nærmere.",
+  "prompt_tokens": 1552,
+  "completion_tokens": 669,
+  "latency_ms": 39086,
+  "cost_usd": 0.0007118,
+  "created": "2026-11-10T05:44:51.969520Z",
+  "error": null
+}

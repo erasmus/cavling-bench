@@ -1,0 +1,21 @@
+{
+  "model_id": "nebius-gpt-oss-120b",
+  "pinned_version": "openai/gpt-oss-120b",
+  "task_id": "t2_rubrik",
+  "source_id": "regeringen-2026-grisefirepart",
+  "archetype": "lynposten",
+  "prompt_sha256": "595eec0a17ac22bd293f20ac0d28e682c204b9aae545721d244e990c88d5c777",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 1900,
+    "reasoning_effort": "low"
+  },
+  "text": "RUBRIK: Regeringen lancerer firepart for bedre griseproduktion  \nUNDERRUBRIK: Fireparten samler landbrug, dyrevelfærd og erhverv for at hæve dyrevelfærd, øge økologi og reducere antibiotikabrug i dansk svineproduktion.",
+  "prompt_tokens": 1526,
+  "completion_tokens": 207,
+  "latency_ms": 682,
+  "cost_usd": 0.0003531,
+  "created": "2026-11-10T05:38:11.556810Z",
+  "error": null
+}

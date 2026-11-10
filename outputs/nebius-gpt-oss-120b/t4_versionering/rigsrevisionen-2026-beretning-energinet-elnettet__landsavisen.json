@@ -1,0 +1,21 @@
+{
+  "model_id": "nebius-gpt-oss-120b",
+  "pinned_version": "openai/gpt-oss-120b",
+  "task_id": "t4_versionering",
+  "source_id": "rigsrevisionen-2026-beretning-energinet-elnettet",
+  "archetype": "landsavisen",
+  "prompt_sha256": "aea366a09b092cb0b94aeb472bfc586dc2b49b094b9a4c30429e2f657a22c867",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 2525,
+    "reasoning_effort": "low"
+  },
+  "text": "Statsrevisorerne har i deres beretning nr. 12/2025 konkluderet, at styringen af Energinets udbygning af elnettet er kritisabel, og at Klima‑, Energi‑ og Forsyningsministeriet har reageret for sent på de stigende forsinkelser. Beretningen, som blev behandlet i Folketinget den 9. april 2026, peger på, at udbygningen af elnettet er central for den grønne omstilling, men at den i øjeblikket trækker den planlagte omstilling bagud.\n\nEnerginet ejer og udvikler Danmarks el‑ og gasnet, som i dag omfatter ca. 9.000 km jordkabler og luftledninger. Ifølge Energinets seneste plan skal der frem mod 2030 etableres yderligere ca. 2.700 km elnet, og frem mod 2050 yderligere 3.000‑4.000 km. Statsrevisorerne finder, at ca. 70 % af de igangsatte udbygningsprojekter er forsinkede, og at de forsinkede projekter i gennemsnit tager omkring 80 % længere tid end forventet. Kun 206 km af de 490 km, der ifølge den langsigtede udviklingsplan fra maj 2024 skulle være færdiggjort pr. 1. januar 2026, er blevet afsluttet.\n\nBeretningen kritiserer også Energinets manglende overblik over årsagerne til forsinkelserne. Energinet peger på både interne og eksterne forhold, men forklaringerne er ifølge statsrevisorerne ikke entydige og giver ingen klar vej frem. Hastigheden i udbygningen skal ifølge beretningen mere end fordobles fra 120 km til 250 km årligt for at nå målet i 2050.\n\nKlima‑, Energi‑ og Forsyningsministeriet har siden starten af 2023 gentagne gange fået besked om de stigende forsinkelser, men har først i februar 2026 iværksat en ekstern analyse af rammerne for Energinet – en handling, som Rigsrevisionen mener kunne have været startet tidligere. Ministeriet har desuden ikke beregnet, hvordan forsinkelserne påvirker CO₂‑udledningen eller tilslutningen af nye sol‑ og vindparker. Statsrevisorerne anbefaler, at ministeriet undersøger disse konsekvenser nærmere for at sikre, at klimamålet for 2030 kan opnås.",
+  "prompt_tokens": 1578,
+  "completion_tokens": 600,
+  "latency_ms": 2229,
+  "cost_usd": 0.0005967,
+  "created": "2026-11-10T05:38:32.872987Z",
+  "error": null
+}

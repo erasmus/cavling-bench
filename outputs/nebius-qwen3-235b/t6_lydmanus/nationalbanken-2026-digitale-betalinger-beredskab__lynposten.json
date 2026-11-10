@@ -1,0 +1,21 @@
+{
+  "model_id": "nebius-qwen3-235b",
+  "pinned_version": "Qwen/Qwen3-235B-A22B-Instruct-2507",
+  "task_id": "t6_lydmanus",
+  "source_id": "nationalbanken-2026-digitale-betalinger-beredskab",
+  "archetype": "lynposten",
+  "prompt_sha256": "15ee8c047a8102fff947ff810f56472574e004643290afff35eb7c61c8d925b9",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 620,
+    "reasoning_effort": null
+  },
+  "text": "Ni ud af ti betalinger i Danmark er digitale. Det viser analyser fra Nationalbanken. Flere bruger mobilen til at betale, og wallet-betalinger som Apple Pay udgør nu hver tredje betaling i butikker. Kontanter bruges mindre, men bliver vigtigere som beredskab. Fire ud af ti danskere har mere end et tusind kroner i kontanter. Det var tre ud af ti i 2023. Syv ud af ti med kontanter bruger dem, hvis det digitale svigter. To nedbrud hos Nets i 2025 og 2026 viste, at betalingssystemet kan fejle. Offline-kortberedskabet hjalp mange butikker med at modtage betalinger. Nationalbankdirektør Ulrik Nødgaard siger, at flere butikker bør forberede sig. Borgere bør have to fysiske kort, lidt kontanter og en straksbetalingsløsning som MobilePay. Det gør det nemmere at betale, selv når systemerne fejler.",
+  "prompt_tokens": 2106,
+  "completion_tokens": 258,
+  "latency_ms": 14606,
+  "cost_usd": 0.000576,
+  "created": "2026-11-10T05:45:23.413468Z",
+  "error": null
+}

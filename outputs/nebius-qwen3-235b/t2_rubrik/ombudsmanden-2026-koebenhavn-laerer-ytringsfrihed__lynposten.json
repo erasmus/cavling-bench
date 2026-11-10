@@ -1,0 +1,21 @@
+{
+  "model_id": "nebius-qwen3-235b",
+  "pinned_version": "Qwen/Qwen3-235B-A22B-Instruct-2507",
+  "task_id": "t2_rubrik",
+  "source_id": "ombudsmanden-2026-koebenhavn-laerer-ytringsfrihed",
+  "archetype": "lynposten",
+  "prompt_sha256": "7523513d70e1b60b89c78a89d4b5403e0d509f96030c2b4717e5288c665ba790",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 400,
+    "reasoning_effort": null
+  },
+  "text": "RUBRIK: Københavns Kommune bryder lærers ytringsfrihed  \nUNDERRUBRIK: Ombudsmanden konkluderer, at kommunen ikke handlede med respekt for lærerens ret til at tale ud om vold på skolen – og kræver genoptagelse af sagen.",
+  "prompt_tokens": 2070,
+  "completion_tokens": 78,
+  "latency_ms": 5455,
+  "cost_usd": 0.00046080000000000003,
+  "created": "2026-11-10T05:40:05.019918Z",
+  "error": null
+}

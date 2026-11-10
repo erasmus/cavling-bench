@@ -1,0 +1,21 @@
+{
+  "model_id": "nebius-gpt-oss-120b",
+  "pinned_version": "openai/gpt-oss-120b",
+  "task_id": "t6_lydmanus",
+  "source_id": "aalborg-2025-omlaegningsplan-trepart",
+  "archetype": "lynposten",
+  "prompt_sha256": "c06dd680f46b092d982eb0c21f4447d123ee0fca00b8cf3960e1c20843a8b41b",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 2120,
+    "reasoning_effort": "low"
+  },
+  "text": "Nioogtifire projekter i Aalborg Kommune får grønt lys fra byrådet. Rådmænd og treparten har vedtaget en omfattende omlægningsplan, der skal give mere natur, renere drikkevand og et sundere vandmiljø. Planen indeholder fireoghalvfems projekter, herunder syvoghalvfems lavbundsinitiativer, tretten tildrikkevandsbeskyttelse og tre store naturområder omkring Hals, Lundby Bakker og Halkær Bredning. Målet er at vådlægge tørveholdige jordarter, reducere CO2‑udledning og kvælstof til Limfjorden. I to‑og‑halvtreds år skal de fleste lavbundsprojekter være afsluttede, mens skovrejsning og naturudvidelse fortsætter. Jan Nymark Rose Thaysen, rådmand for By og Land, roser samarbejdet i den lokale trepart. Ifølge Danmarks Statistik er dette et af de største klima‑ og vandprojekter i landet.",
+  "prompt_tokens": 1869,
+  "completion_tokens": 275,
+  "latency_ms": 1324,
+  "cost_usd": 0.00044534999999999996,
+  "created": "2026-11-10T05:38:40.134487Z",
+  "error": null
+}

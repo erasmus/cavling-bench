@@ -1,0 +1,21 @@
+{
+  "model_id": "nebius-gpt-oss-120b",
+  "pinned_version": "openai/gpt-oss-120b",
+  "task_id": "t4_versionering",
+  "source_id": "fo-2026-salling-group-oego-boede",
+  "archetype": "landsavisen",
+  "prompt_sha256": "54dc10c8765caf8e8ee555916bf0c6ded99467db2a5f2adedf2089638380f6fc",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 2525,
+    "reasoning_effort": "low"
+  },
+  "text": "Salling Group A/S har accepteret at betale en bøde på 10 millioner kroner efter, at Forbrugerombudsmanden i september 2025 politianmeldte selskabet for vildledende markedsføring af Nettos ØGO‑produktserie. Bøden er et svar på, at Netto i sine opslag på sociale medier og i en tilbudsmail fra Netto+ hævdede, at ØGO‑mærket “indtræder igen på fjerdepladsen blandt Danmarks mest bæredygtige brands”. Påstanden var baseret på en spørgeundersøgelse blandt 10 000 forbrugere udført af SB Insight, som kun afspejlede forbrugernes opfattelse og ikke dokumenterede de faktiske klima‑ og miljøegenskaber ved produkterne.\n\nForbrugerombudsmanden vurderede, at den anvendte markedsføring kunne give forbrugerne et fejlagtigt indtryk af ØGO‑seriens reelle bæredygtighed og dermed overtrådte markedsføringslovens forbud mod vildledning. Ifølge lovens § 5 må markedsføring ikke indeholde urigtige oplysninger, og § 13 kræver, at virksomheder kan dokumentere rigtigheden af deres påstande. Ombudsmand Torben Jensen understregede, at virksomheder skal være “meget varsomme med de udsagn, de benytter i deres markedsføring”, og at en fjerdeplads i bæredygtighed kun kan anvendes, hvis den kan bevises.\n\nSalling Group fjernede de omstridte opslag, efter Forbrugerombudsmandens henvendelse. Bødens størrelse er fastsat efter den nye bødemodel, der trådte i kraft 1. januar 2022 og har til formål at skærpe bødeniveauet for overtrædelser af markedsføringsloven. Modellen lægger vægt på overtrædelsens grovhed og virksomhedens omsætning, hvilket i dette tilfælde har resulteret i den maksimale bøde inden for Salling Groups omsætningskategori.",
+  "prompt_tokens": 1709,
+  "completion_tokens": 484,
+  "latency_ms": 1977,
+  "cost_usd": 0.00054675,
+  "created": "2026-11-10T05:38:23.816480Z",
+  "error": null
+}

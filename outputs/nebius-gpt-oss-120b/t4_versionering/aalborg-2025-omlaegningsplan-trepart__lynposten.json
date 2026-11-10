@@ -1,0 +1,21 @@
+{
+  "model_id": "nebius-gpt-oss-120b",
+  "pinned_version": "openai/gpt-oss-120b",
+  "task_id": "t4_versionering",
+  "source_id": "aalborg-2025-omlaegningsplan-trepart",
+  "archetype": "lynposten",
+  "prompt_sha256": "6678cf311a7da67fbee90c749158154a35e6af4bb35691cc266590f527a1c550",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 2525,
+    "reasoning_effort": "low"
+  },
+  "text": "94 projekter vedtages i Aalborgs nye omlægningsplan, og de rammer både landmænd, borgere og naturen.  \n\nAalborg Byråd gav grønt lys til planen på byrådsmødet den 15. december. Den er et resultat af Aftalen om et Grønt Danmark, som blev vedtaget i Folketinget i 2024. Kommunen skal nu sammen med den lokale trepart, Naturstyrelsen og landbrugets udtagningskonsulenter gennemføre projekterne.  \n\nRådmand Jan Nymark Rose Thaysen udtaler: “Det har været en stor og kompleks opgave at nå i mål med en samlet omlægningsplan for hele Aalborg Kommune.” Han roser samarbejdet i den lokale Aalborg Trepart.  \n\nPlanen indeholder 77 lavbundsprojekter, der skal vådlægge tørveholdige jordområder. Det skal reducere CO₂‑udledningen fra jorden. Derudover er der 13 tiltag for at sikre drikkevandet i de mest sårbare indvindingsoplande.  \n\nTre større naturområder foreslås også: Hals og Ulsted Rimmer, Lundby Bakker‑Gistrup‑Poulstrup og området omkring Halkær Bredning og Halkær Sø. De skal bidrage til Danmarks mål om 20 % beskyttet natur.  \n\nI 2026 starter dialogmøder med berørte borgere. Hoveddelen af lavbunds- og kvælstofindsatsen skal være færdig i 2030. Skovrejsning og naturudvikling fortsætter derefter.  \n\nPlanen kan kun lykkes, hvis der opnås enighed med de berørte lodsejere. Uden deres samtykke kan projekterne ikke gennemføres.",
+  "prompt_tokens": 1834,
+  "completion_tokens": 421,
+  "latency_ms": 1534,
+  "cost_usd": 0.0005277,
+  "created": "2026-11-10T05:38:17.605853Z",
+  "error": null
+}

@@ -1,0 +1,21 @@
+{
+  "model_id": "nebius-gpt-oss-120b",
+  "pinned_version": "openai/gpt-oss-120b",
+  "task_id": "t2_rubrik",
+  "source_id": "aalborg-2025-omlaegningsplan-trepart",
+  "archetype": "lynposten",
+  "prompt_sha256": "45205b97323cc675d1b72c3287f39ecd5e5c40c294614bf4aa33c395e75dbd83",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 1900,
+    "reasoning_effort": "low"
+  },
+  "text": "RUBRIK: Aalborg vedtager 94‑projekts omlægningsplan  \nUNDERRUBRIK: Kommunen får grønt lys til 94 projekter for mere natur, renere drikkevand og lavere CO₂‑udledning – men kun hvis lodsejerne giver enighed.",
+  "prompt_tokens": 1849,
+  "completion_tokens": 191,
+  "latency_ms": 720,
+  "cost_usd": 0.0003919499999999999,
+  "created": "2026-11-10T05:38:01.262664Z",
+  "error": null
+}

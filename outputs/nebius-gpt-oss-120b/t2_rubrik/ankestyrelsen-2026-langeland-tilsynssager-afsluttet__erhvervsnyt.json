@@ -1,0 +1,21 @@
+{
+  "model_id": "nebius-gpt-oss-120b",
+  "pinned_version": "openai/gpt-oss-120b",
+  "task_id": "t2_rubrik",
+  "source_id": "ankestyrelsen-2026-langeland-tilsynssager-afsluttet",
+  "archetype": "erhvervsnyt",
+  "prompt_sha256": "9e571500022d56755367ebe0311d21c9834c20191f2284411522f26207639932",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 1900,
+    "reasoning_effort": "low"
+  },
+  "text": "RUBRIK: Langeland Kommune lukker to tilsynssager efter gennemgang  \nUNDERRUBRIK: Ankestyrelsens tilsyn har konkluderet, at Langeland Kommune har fulgt op på mangler i Familieafdelingen og dermed ikke længere behøver yderligere tilsyn.",
+  "prompt_tokens": 1471,
+  "completion_tokens": 339,
+  "latency_ms": 1117,
+  "cost_usd": 0.00042405000000000003,
+  "created": "2026-11-10T05:38:02.483520Z",
+  "error": null
+}

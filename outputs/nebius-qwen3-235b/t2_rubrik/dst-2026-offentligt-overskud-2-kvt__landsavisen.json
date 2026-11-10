@@ -1,0 +1,21 @@
+{
+  "model_id": "nebius-qwen3-235b",
+  "pinned_version": "Qwen/Qwen3-235B-A22B-Instruct-2507",
+  "task_id": "t2_rubrik",
+  "source_id": "dst-2026-offentligt-overskud-2-kvt",
+  "archetype": "landsavisen",
+  "prompt_sha256": "a22244eaa90fcb0ce9ab8df368830a1e6a8a33c1665b591962d2a32487c7fcc6",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 400,
+    "reasoning_effort": null
+  },
+  "text": "RUBRIK: Offentligt overskud på 35,5 mia. kr. i 2. kvt. 2026  \nUNDERRUBRIK: Overskuddet stiger fra første kvartal, mens nettoformuen falder på grund af omvurderinger af finansielle aktiver og stigende gæld i offentlig sektor.",
+  "prompt_tokens": 1552,
+  "completion_tokens": 88,
+  "latency_ms": 11008,
+  "cost_usd": 0.00036320000000000005,
+  "created": "2026-11-10T05:39:38.445371Z",
+  "error": null
+}

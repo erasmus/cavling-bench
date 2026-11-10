@@ -1,0 +1,21 @@
+{
+  "model_id": "nebius-gpt-oss-120b",
+  "pinned_version": "openai/gpt-oss-120b",
+  "task_id": "t1_telegram",
+  "source_id": "dst-2026-bnp-2-kvartal-revideret",
+  "archetype": null,
+  "prompt_sha256": "63306dcc1fc78ed5d4f1e592f9c57d1b066f11e97f8eaa952d0d607edf3df39d",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 2060,
+    "reasoning_effort": "low"
+  },
+  "text": "BNP steg med 0,9 % i andet kvartal 2026 – en opjustering på 0,6 procentpoint efter revision af de seneste kildedata. Væksten skyldes primært medicinalindustrien, som løftede bruttoværditilvæksten (BVT) med 1,1 % (uden medicinalindustrien ville BVT kun være 0,7 %); den øvrige industri og den offentlige sektor bidrog også positivt. Beskæftigelsen steg med 0,2 % (7.800 personer) og de præsterede timer med 0,3 %. Faste bruttoinvesteringer voksede 1,5 % takket være en opjustering af intellektuelle rettigheder på 2,7 procentpoint, mens både offentligt og privat forbrug var fladt på 0,0 %. Importen steg 1,8 % og eksporten 1,5 %, hvor vareeksporten voksede 2,8 % og maskineeksporten var en væsentlig driver.",
+  "prompt_tokens": 2238,
+  "completion_tokens": 298,
+  "latency_ms": 1433,
+  "cost_usd": 0.0005145,
+  "created": "2026-11-10T05:37:57.536677Z",
+  "error": null
+}

@@ -1,0 +1,21 @@
+{
+  "model_id": "nebius-gpt-oss-120b",
+  "pinned_version": "openai/gpt-oss-120b",
+  "task_id": "t1_telegram",
+  "source_id": "rm-2026-kultur-sundhed-pulje-78-mio",
+  "archetype": null,
+  "prompt_sha256": "8ed1ebf22728b4cf3db47b7db0907049b7fdc3d496739e0632c2e54a70f2b100",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 2060,
+    "reasoning_effort": "low"
+  },
+  "text": "Region Midtjylland har oprettet en ny pulje på 7,8 millioner kroner, som kan søges af kulturaktører i samarbejde med sundheds‑ og socialpartnere indtil den 26. august 2026 kl. 12.00, for at udvikle konkrete tilbud, der forebygger sygdom, lindrer symptomer, styrker mestring og fremmer samarbejde mellem kommuner, hospitaler og kulturinstitutioner. Puljen, der kan finansiere projekter på op til tre år med en minimumssats på 200.000 kr. og krav om mindst 25 % medfinansiering, fokuserer på fire temaer: forebyggelse og trivsel for børn og unge, symptomlindring, rehabilitering/recovery samt tværsektorielt samarbejde. Ansøgninger behandles i november 2026, og regionen afholder et fysisk dialogmøde på Godsbanen i Aarhus 21. maj kl. 10‑13 samt et digitalt møde 2. juni kl. 13‑14.30 for at informere om kriterier og partnersøgning.",
+  "prompt_tokens": 1190,
+  "completion_tokens": 273,
+  "latency_ms": 1093,
+  "cost_usd": 0.00034229999999999997,
+  "created": "2026-11-10T05:38:01.365345Z",
+  "error": null
+}

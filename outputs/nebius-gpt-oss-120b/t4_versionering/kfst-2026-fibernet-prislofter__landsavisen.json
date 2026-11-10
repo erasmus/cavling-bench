@@ -1,0 +1,21 @@
+{
+  "model_id": "nebius-gpt-oss-120b",
+  "pinned_version": "openai/gpt-oss-120b",
+  "task_id": "t4_versionering",
+  "source_id": "kfst-2026-fibernet-prislofter",
+  "archetype": "landsavisen",
+  "prompt_sha256": "709ae06599a54d581f3744aa9c3b6088b029e93a35f226f0e24397f8f9f1b8ef",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 2525,
+    "reasoning_effort": "low"
+  },
+  "text": "Konkurrence- og Forbrugerstyrelsen har i december fastsat nye prislofter for fibernet, der gælder i fem år og træder i kraft ved årsskiftet. Afgørelserne er et svar på, at ejere af fibernet i områder med monopollignende status kan sætte lejepriserne så højt, at konkurrencen for forbrugere og mindre virksomheder svækkes. Styrelsen fastsætter kun loftene i sådanne monopolsituationer og tager højde for, at lejepriserne skal dække investeringer i beskyttelse mod fysiske og virtuelle angreb på fibernet, men ikke på ikke‑regulerede net som mobilnettet.\n\nEn særlig analyse, udarbejdet med eksterne eksperter og input fra de berørte virksomheder, har vist, at ekstraomkostninger til netrobusthed skal indregnes, hvilket gør de kommende loftene højere end tidligere. Styrelsen forventer, at bredbåndspriserne kan stige op til 35 % i den femårige periode, primært på grund af dyrere udstyr, højere forrentning af investeret kapital og nødvendigheden af at dække sikkerhedsinvesteringer.\n\nAfgørelserne omfatter 13 fibernetselskaber. Fem af dem – Aura, BornFiber, EnergiFyn, Fibia og Norlys – bindes til egne tilsagn, som styrelsen godkender. TDC får pålagt forpligtelser, fordi selskabet ikke har fremlagt acceptable tilsagn. De øvrige syv – Jysk Energi, RAH, SEF, Thy‑Mors Energi, Nordenergi og MES – skal holde deres net åbne for detailudbydere, idet de kun sælger engros.\n\nFør de endelige beslutninger træffes, sendes udkastene til Europa‑Kommissionens DG Connect for at sikre ensartet håndhævelse i EU. De berørte selskaber kan indbringe afgørelserne for Teleklagenævnet eller domstolene, hvis de ønsker at klage.",
+  "prompt_tokens": 1811,
+  "completion_tokens": 483,
+  "latency_ms": 1911,
+  "cost_usd": 0.00056145,
+  "created": "2026-11-10T05:38:25.728979Z",
+  "error": null
+}

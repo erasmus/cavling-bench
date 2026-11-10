@@ -1,0 +1,21 @@
+{
+  "model_id": "nebius-qwen3-235b",
+  "pinned_version": "Qwen/Qwen3-235B-A22B-Instruct-2507",
+  "task_id": "t5_forkortelse",
+  "source_id": "fm-2026-ok26-statens-overenskomst",
+  "archetype": null,
+  "prompt_sha256": "0f78d9fb9657cbd7d7b63d9085d5a93dd8bfff3a6ff747c951b0ef131cce5d39",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 860,
+    "reasoning_effort": null
+  },
+  "text": "Parterne på statens område har indgået et treårigt overenskomstforlig med en økonomisk ramme på 8,7 pct. over tre år. Forliget omfatter ca. 200.000 medarbejdere og indebærer lønstigninger allerede i foråret 2026. Finansminister Nicolai Wammen har sammen med Centralorganisationernes Fællesudvalg (CFU) og Akademikerne indgået aftalen. En prioritet har været at styrke rekruttering og fastholdelse i Forsvaret, hvorfor 275 mio. kr. af rammen sættes af til et ekstraordinært lønløft til Forsvarets militært ansatte. Den konkrete udmøntning aftales med organisationerne på forsvarsområdet. Desuden allokeres 250 mio. kr. mere til lokal løn og 20 mio. kr. til lønløft for erhvervsskolelærere. Forliget indeholder en ny fritvalgsordning med en fritvalgskonto, hvor medarbejdere kan vælge mellem løn, pension og frihed, samt en fritvalgsdag for udvalgte grupper og to ekstra seniordage uden løn, men med mulighed for udbetaling fra kontoen. Børnefamilier får fri med løn på hjemkaldelsesdagen og barnets tredje sygedag. Der sker forbedringer i lønret under barselsorlov, herunder for aleneforældre, sociale forældre og nærtstående, samt en udvidelse med to uger til deleorlov. Finansministeren fremhæver, at det er afgørende, at staten forbliver en attraktiv arbejdsplads, især i lyset af behovet for investeringer i forsvar og sikkerhed. Overenskomsten sendes til afstemning og gælder, hvis tiltrådt, fra 1. april 2026 til 31. marts 2029.",
+  "prompt_tokens": 1225,
+  "completion_tokens": 508,
+  "latency_ms": 28449,
+  "cost_usd": 0.0005497999999999999,
+  "created": "2026-11-10T05:43:56.644774Z",
+  "error": null
+}

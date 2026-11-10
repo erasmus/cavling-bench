@@ -1,0 +1,21 @@
+{
+  "model_id": "nebius-qwen3-235b",
+  "pinned_version": "Qwen/Qwen3-235B-A22B-Instruct-2507",
+  "task_id": "t3_faktaboks",
+  "source_id": "kk-2026-ventetidsgaranti-foedselsgener",
+  "archetype": null,
+  "prompt_sha256": "a5f913e65424e2a73c2a1f09edfe75655a544d2262f87258d25a7c2bf01aae33",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 575,
+    "reasoning_effort": null
+  },
+  "text": "- Københavns Kommunes efterfødselstilbud åbnede i foråret 2025.  \n- Ventetiden er i dag 17 dage fra henvisning til visitationssamtale.  \n- Kvinder skal fremover tilbydes første samtale senest 7 dage efter henvendelse.  \n- I 2026 kan kommunen hjælpe 800 kvinder gennem efterfødselstilbuddet.  \n- Der er afsat knap 12,5 mio. kroner til at styrke efterfødselshjælpen over de næste fire år.",
+  "prompt_tokens": 1980,
+  "completion_tokens": 152,
+  "latency_ms": 7756,
+  "cost_usd": 0.00048719999999999997,
+  "created": "2026-11-10T05:40:40.085156Z",
+  "error": null
+}

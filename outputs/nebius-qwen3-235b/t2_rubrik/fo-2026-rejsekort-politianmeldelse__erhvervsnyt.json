@@ -1,0 +1,21 @@
+{
+  "model_id": "nebius-qwen3-235b",
+  "pinned_version": "Qwen/Qwen3-235B-A22B-Instruct-2507",
+  "task_id": "t2_rubrik",
+  "source_id": "fo-2026-rejsekort-politianmeldelse",
+  "archetype": "erhvervsnyt",
+  "prompt_sha256": "6203e891b78cffab4f240fc18e09f75b1e82f2507847778b879ef58416dd4bfa",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 400,
+    "reasoning_effort": null
+  },
+  "text": "RUBRIK: Rejsekort & Rejseplan politianmeldt for vildledning  \nUNDERRUBRIK: Forbrugerombudsmanden vurderer, at markedsføringen skjulte, at der stadig vil være et fysisk alternativ til billet-apps, og anmelder selskabet for overtrædelse af markedsføringsloven.",
+  "prompt_tokens": 2256,
+  "completion_tokens": 95,
+  "latency_ms": 8582,
+  "cost_usd": 0.0005082,
+  "created": "2026-11-10T05:39:51.465012Z",
+  "error": null
+}

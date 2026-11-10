@@ -1,0 +1,21 @@
+{
+  "model_id": "nebius-gpt-oss-120b",
+  "pinned_version": "openai/gpt-oss-120b",
+  "task_id": "t2_rubrik",
+  "source_id": "datatilsynet-2026-faaborg-midtfyn-ai-aeldrepleje",
+  "archetype": "lynposten",
+  "prompt_sha256": "0051f0443a4363cd14a1a6eed64fba0c53e7625a7ad7fa0308cbf981413a099c",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 1900,
+    "reasoning_effort": "low"
+  },
+  "text": "RUBRIK: Datatilsynet kritiserer Faaborg-Midtfyns AI‑monitorering\nUNDERRUBRIK: Kommunen brugte AI‑system på 18 plejehjemsbeboere i seks måneder uden krav‑mæssig konsekvensanalyse, siger Datatilsynet.",
+  "prompt_tokens": 1389,
+  "completion_tokens": 397,
+  "latency_ms": 1267,
+  "cost_usd": 0.00044654999999999993,
+  "created": "2026-11-10T05:38:02.647284Z",
+  "error": null
+}

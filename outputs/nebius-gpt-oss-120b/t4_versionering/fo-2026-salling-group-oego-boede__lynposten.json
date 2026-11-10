@@ -1,0 +1,21 @@
+{
+  "model_id": "nebius-gpt-oss-120b",
+  "pinned_version": "openai/gpt-oss-120b",
+  "task_id": "t4_versionering",
+  "source_id": "fo-2026-salling-group-oego-boede",
+  "archetype": "lynposten",
+  "prompt_sha256": "1119f204e7f915d8c86cbc42bb832ca3abc9995e3e4042e864e8075a15dcf6db",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 2525,
+    "reasoning_effort": "low"
+  },
+  "text": "10 millioner kroner i bøde rammer Salling Group efter vildledende ØGO‑markedsføring.  \n\nSalling Group A/S har accepteret at betale 10 millioner kroner. Bøden følger en politianmeldelse fra Forbrugerombudsmanden i september 2025.  \n\nSalling Group har i sociale medier og i en tilbudsmail fra Netto+ påstået, at ØGO‑serien er Danmarks fjerde mest bæredygtige brand. Påstanden bygger på en spørgeundersøgelse blandt 10 000 forbrugere udført af SB Insight. Undersøgelsen måler kun forbrugernes opfattelse, ikke den faktiske bæredygtighed.  \n\nForbrugerombudsmanden vurderede, at udsagnet kan give forbrugerne et fejlagtigt indtryk af produkternes klima‑ og miljøbelastning. Det er i strid med markedsføringslovens forbud mod vildledning. Økologisk certificering alene begrunder ikke, at produktserien kan markedsføres som bæredygtig.  \n\nSalling Group fjernede de omtalte opslag efter Ombudsmandens henvendelse. Bødens størrelse er fastsat efter den nye bødemodel, der trådte i kraft 1. januar 2022 og har til formål at skærpe bødeniveauet for overtrædelser af markedsføringsloven.  \n\nForbrugerombudsmand Torben Jensen siger: “Virksomheder skal være meget varsomme med de udsagn, de benytter i deres markedsføring. Når Salling Group markedsfører sig med, at ØGO‑brandet har en fjerdeplads i bæredygtighed, så skal det naturligvis være korrekt og kunne dokumenteres.”  \n\nSagen viser, at forbrugernes fokus på grønne produkter kan føre til betydelige økonomiske konsekvenser, hvis virksomheder ikke kan dokumentere deres bæredygtighedsudsagn.",
+  "prompt_tokens": 1716,
+  "completion_tokens": 454,
+  "latency_ms": 1638,
+  "cost_usd": 0.0005298,
+  "created": "2026-11-10T05:38:23.188164Z",
+  "error": null
+}

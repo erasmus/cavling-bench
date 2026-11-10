@@ -1,0 +1,21 @@
+{
+  "model_id": "nebius-gpt-oss-120b",
+  "pinned_version": "openai/gpt-oss-120b",
+  "task_id": "t4_versionering",
+  "source_id": "nationalbanken-2026-digitale-betalinger-beredskab",
+  "archetype": "lynposten",
+  "prompt_sha256": "35c237b49e2ca81f7a70cc82e9cb7ccd9c9134d2c121d92c7aa68e42689590f0",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 2525,
+    "reasoning_effort": "low"
+  },
+  "text": "90 % af alle betalinger i Danmark er digitale, men kontanter bliver stadig set som et vigtigt beredskab, viser Nationalbankens nye analyser.  \n\nI 2025 udgjorde kontanter kun 9 % af fysiske betalinger, ned fra 11 % i 2023 og 23 % i 2017. Samtidig er wallet‑betalinger som Apple Pay og Google Pay steget til hver tredje betaling i fysisk handel.  \n\n41 % af befolkningen har over 1.000 kr. i kontanter, oppe fra 33 % i 2023. Syv ud af ti, der har kontanter, betragter dem som et beredskab.  \n\n“Vores analysearbejde viser, hvor meget digitale betalinger fylder i et moderne samfund, og det understreger igen, hvor vigtigt det er, at alle danskere og butikker har et betalingsberedskab, som er gearet til det betalingsmønster,” siger nationalbankdirektør Ulrik Nødgaard.  \n\nHan tilføjer: “Særligt to ting kan styrkes for at underbygge det: At endnu flere butikker er klar til at tage imod digitale betalinger offline, og at der bliver en større udbredelse af straksbetalinger via fx MobilePay.”  \n\nTekniske fejl hos Nets i juli 2025 og maj 2026 viste, at offline‑kortberedskabet kan holde butikker i gang, selv når kortinfrastrukturen fejler. “Offline‑kortberedskabet sørgede for, at mange kunder i dagligvarehandlen ikke mærkede Nets‑nedbruddet i maj 2026,” siger Nødgaard.  \n\nNationalbanken har sammen med detailhandlen og Betalingsrådet lanceret et offline‑kortberedskab. Det sikrer, at alle over 18 år kan betale med kort og wallets i dagligvarebutikker og apoteker i mindst syv dage, selvom terminalerne er offline.  \n\nButikker kan tilslutte sig den samme tekniske løsning for at modtage både kort‑ og wallet‑betalinger ved nedbrud.  \n\nNationalbanken anbefaler, at husstanden har mindst to fysiske betalingskort, et kontantbeløb på ca. 250 kr. pr. person og en mobil betalingsløsning som MobilePay. Detailhandlen skal forberede sig på offline‑betalinger og have klare instruktioner til personalet.",
+  "prompt_tokens": 1764,
+  "completion_tokens": 562,
+  "latency_ms": 1920,
+  "cost_usd": 0.0006018,
+  "created": "2026-11-10T05:38:27.096736Z",
+  "error": null
+}

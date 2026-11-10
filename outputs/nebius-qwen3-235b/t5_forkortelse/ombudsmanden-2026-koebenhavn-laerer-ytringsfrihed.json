@@ -1,0 +1,21 @@
+{
+  "model_id": "nebius-qwen3-235b",
+  "pinned_version": "Qwen/Qwen3-235B-A22B-Instruct-2507",
+  "task_id": "t5_forkortelse",
+  "source_id": "ombudsmanden-2026-koebenhavn-laerer-ytringsfrihed",
+  "archetype": null,
+  "prompt_sha256": "5699dc7c7a7f391dfed46443bc18c4da0374f3d0be8cc7468ad4ff7a072be783",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 860,
+    "reasoning_effort": null
+  },
+  "text": "Københavns Kommune indkaldte en lærer til en tilrettevisningssamtale efter et interview, hun gav til en avis med overskriften ”Lærer fik hjernerystelse og blå mærker efter slag: ’Som at være i en krigszone’”. Interviewet drejede sig om hendes oplevelser med voldelig elevadfærd på den skole, hvor hun tidligere var ansat, samt hendes syn på elevers adfærdsproblemer. Under samtalen modtog hun en tilrettevisning og blev bl.a. opfordret til at holde lav profil i forhold til pressen. Kommunen har efterfølgende betegnet opfordringen som yderst beklagelig, hvilket Folketingets Ombudsmand, Christian Britten Lundblad, er enig i. Ombudsmanden konkluderer, at kommunens håndtering ikke skete med respekt for lærerens ytringsfrihed. Han pointerer, at offentligt ansatte har en lovfæstet ret til at ytre sig på egne vegne – herunder i den offentlige debat – uden at risikere negative reaktioner fra ledelsen. Lærerens udtalelser anses som klart fremsat på egne vegne og i kerneområdet for ytringsfriheden. Kommunen forklarede, at samtalen skyldtes et pressefoto uden tilladelse, men ombudsmanden finder, at forløbet berettiget kan opfattes som en negativ reaktion på baggrund af hendes udtalelser. Læreren havde orienteret sin skoleleder om interviewet, og skolelederen havde ikke spurgt til eller vejledt om fotos. Ombudsmanden peger på, at kommunen ikke har rettet op på forholdene eller informeret hende korrekt om hendes rettigheder. Han henstiller, at Københavns Kommune genoptager sagen og inden tre måneder orienterer ham om handlinger. Ombudsmanden mener desuden, at kommunens pressemedarbejderes kontakt til medier om lærerens udtalelser var meget uheldig.",
+  "prompt_tokens": 1732,
+  "completion_tokens": 530,
+  "latency_ms": 12929,
+  "cost_usd": 0.0006644000000000001,
+  "created": "2026-11-10T05:44:11.745790Z",
+  "error": null
+}

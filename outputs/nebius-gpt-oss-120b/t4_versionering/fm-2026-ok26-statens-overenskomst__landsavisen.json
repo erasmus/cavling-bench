@@ -1,0 +1,21 @@
+{
+  "model_id": "nebius-gpt-oss-120b",
+  "pinned_version": "openai/gpt-oss-120b",
+  "task_id": "t4_versionering",
+  "source_id": "fm-2026-ok26-statens-overenskomst",
+  "archetype": "landsavisen",
+  "prompt_sha256": "216820c5057ccff945439e7341efa9a3c2d2bf61d3d95a380f2097d9ab9865eb",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 2525,
+    "reasoning_effort": "low"
+  },
+  "text": "Finansminister Nicolai Wammen har sammen med Centralorganisationernes Fællesudvalg (CFU) og Akademikerne indgået et treårigt overenskomstforlig for de omkring 200 000 statslige medarbejdere. Forliget svarer på krav om lønforhøjelser og bedre vilkår i en periode, hvor staten skal forblive en attraktiv arbejdsplads, og gælder fra 1. april 2026 til 31. march 2029.\n\nDen økonomiske ramme udgør 8,7 % over de kommende tre år og indeholder et ekstraordinært lønløft til Forsvarets militært ansatte på 275 mio. kr., som parterne har fremhævet som en prioritet for at styrke rekruttering og fastholdelse. Derudover afsættes 250 mio. kr. til lokal løn og 20 mio. kr. til lønstigning for erhvervsskolelærere. De første lønstigninger træder i kraft allerede i foråret, hvilket giver en mærkbar reallønsfremgang for den enkelte medarbejder.\n\nForliget indfører også en fritvalgskonto, hvor den ansatte kan fordele midler mellem løn, pension og frihed, samt en fritvalgsdag og to ekstra seniordage, som kan udbetales fra kontoen. Børnefamilier får løn på hjemkaldelsesdagen og på barnets tredje sygedag, mens barselsvilkårene udvides med to ekstra uger til deleorlov og forbedret lønret for aleneforældre, sociale forældre og nærtstående.\n\nFinansminister Wammen udtaler: “Det er helt afgørende, at vi fortsat har fokus på, at det skal være attraktivt at arbejde i staten… Jeg er glad for, at vi sammen med aftaleparterne kan prioritere et ekstraordinært lønløft til Forsvarets militært ansatte på 275 mio. kr. og gøre det bedre for mange børnefamilier.” Overenskomstresultatet sendes nu til afstemning hos de faglige organisationer.",
+  "prompt_tokens": 1330,
+  "completion_tokens": 520,
+  "latency_ms": 1668,
+  "cost_usd": 0.0005115,
+  "created": "2026-11-10T05:38:23.044012Z",
+  "error": null
+}

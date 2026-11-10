@@ -1,0 +1,21 @@
+{
+  "model_id": "nebius-qwen3-235b",
+  "pinned_version": "Qwen/Qwen3-235B-A22B-Instruct-2507",
+  "task_id": "t1_telegram",
+  "source_id": "politi-2026-midtvestsjaelland-idraetsforening",
+  "archetype": null,
+  "prompt_sha256": "4b3af25b0e8ed5f9ba97841491058913c0973a44b909136d4564af6ed2505da5",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 560,
+    "reasoning_effort": null
+  },
+  "text": "Retten i Roskilde idømte i dag en 46-årig mand et års fængsel for seksuelle overgreb og blufærdighedskrænkelser mod et stort antal drenge, herunder voldtægt af en dreng under 12 år. Manden, der var ansat i en idrætsforening i Roskilde, tilstod at have beført flere drenge og ulovligt filmet ikke færre end 42 drenge uden deres viden i perioden fra januar 2022 til april 2024. Han blev også dømt for at besidde seksuelt materiale med personer under 18 år, fundet på hans telefon efter anholdelsen. Senioranklager Pernille Fredin fra Midt- og Vestsjællands Politi kalder sagen et \"groft tillidsbrud\" og understreger, at det er særligt alvorligt, at ofrene var drenge, han burde have været en pålidelig voksen for. Manden er frakendt retten til at arbejde med børn og unge under 18 år. Han tog sig betænkningstid angående anke.",
+  "prompt_tokens": 944,
+  "completion_tokens": 293,
+  "latency_ms": 8623,
+  "cost_usd": 0.0003646,
+  "created": "2026-11-10T05:39:12.168295Z",
+  "error": null
+}

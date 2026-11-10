@@ -1,0 +1,21 @@
+{
+  "model_id": "nebius-qwen3-235b",
+  "pinned_version": "Qwen/Qwen3-235B-A22B-Instruct-2507",
+  "task_id": "t2_rubrik",
+  "source_id": "politi-2026-nsk-tidligere-advokat",
+  "archetype": "lynposten",
+  "prompt_sha256": "4932f9119837348a7555a59383593114e01d2004a83b2bd5379e6ea880d117bd",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 400,
+    "reasoning_effort": null
+  },
+  "text": "RUBRIK: Tidligere advokat idømt 6 måneders fængsel for groft misbrug  \nUNDERRUBRIK: Retten i Lyngby frakender manden retten til at arbejde som advokat efter, at han blev kurator trods inhabilitet og undlod at videregive oplysninger om kriminelle forhold.",
+  "prompt_tokens": 1328,
+  "completion_tokens": 90,
+  "latency_ms": 2563,
+  "cost_usd": 0.0003196,
+  "created": "2026-11-10T05:40:07.648883Z",
+  "error": null
+}

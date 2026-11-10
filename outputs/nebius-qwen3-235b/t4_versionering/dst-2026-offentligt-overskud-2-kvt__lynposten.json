@@ -1,0 +1,21 @@
+{
+  "model_id": "nebius-qwen3-235b",
+  "pinned_version": "Qwen/Qwen3-235B-A22B-Instruct-2507",
+  "task_id": "t4_versionering",
+  "source_id": "dst-2026-offentligt-overskud-2-kvt",
+  "archetype": "lynposten",
+  "prompt_sha256": "3279ad24bfa945bb1e7185aa1f6280d91f107c3a16772fbced6b96c2d715ec94",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 1025,
+    "reasoning_effort": null
+  },
+  "text": "35,5 mia. kr. i offentligt overskud i 2. kvt. 2026. Det rammer skatteydere, kommuner og staten.\n\nOverskuddet er 12,3 mia. kr. højere end i 1. kvartal. De offentlige indtægter var 415,3 mia. kr. Udgifterne var 379,9 mia. kr. Størst gik der til løn og overførsler. Aflønning af ansatte kostede 116,2 mia. kr. Indkomstoverførsler til husholdningerne var 116,9 mia. kr.\n\nSkatteindtægterne bygger på Skatte- og Vækstministeriets seneste Økonomisk Redegørelse. Personlige indkomstskatter, selskabsskatter og pensionsafkastskat er med i tallene.\n\nOverskuddet dækker dog ikke alt. Den offentlige finansielle nettoformue faldt med 11 mia. kr. Den var 871 mia. kr. ved udgangen af kvartalet. Faldet skyldes især negative omvurderinger af børsnoterede aktier og ejerandele. Disse fald vare 14,1 mia. kr. Der var også ændringer i statens forpligtelser på langfristede statsobligationer.\n\nNettoformuen er dog steget med 98,1 mia. kr. det seneste år. Det viser en stærkere finansiel stilling over tid.\n\nØMU-gælden steg med 19,4 mia. kr. Den var 859,1 mia. kr. ved udgangen af 2. kvartal. Det svarer til 27 pct. af BNP. Stigningen kommer især fra statens udstedelse af langløbende statsobligationer. Kommuner og regioner har også taget flere korte lån.\n\nRevisionsoplysninger ændrer billedet yderligere. Overskuddet i 1. kvartal 2026 er nu opjusteret til 23,2 mia. kr. Tidligere var det 9,3 mia. kr. Forskellen er 13,9 mia. kr. Det skyldes en opjustering af pensionsafkastskatten på 10,9 mia. kr.\n\nTallene kommer fra Danmarks Statistik. De dækker offentligt kvartalsregnskab for 2. kvartal 2026.",
+  "prompt_tokens": 1539,
+  "completion_tokens": 621,
+  "latency_ms": 10175,
+  "cost_usd": 0.0006804,
+  "created": "2026-11-10T05:41:19.054202Z",
+  "error": null
+}

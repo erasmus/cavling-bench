@@ -1,0 +1,21 @@
+{
+  "model_id": "nebius-qwen3-235b",
+  "pinned_version": "Qwen/Qwen3-235B-A22B-Instruct-2507",
+  "task_id": "t2_rubrik",
+  "source_id": "ombudsmanden-2026-lolland-avisabonnement-pression",
+  "archetype": "lynposten",
+  "prompt_sha256": "73f5bb30030d7793017bc3dea1a4f65fda393cedb8519c7dfa0ac2d660044a1b",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 400,
+    "reasoning_effort": null
+  },
+  "text": "RUBRIK: Ombudsmand: Avisabonnement må ikke straffe pressen  \nUNDERRUBRIK: Lolland Kommune opsagde abonnementer efter kritisk artikel. Folketingets Ombudsmand advarer: Det må ikke bruges som pres på medier.",
+  "prompt_tokens": 1782,
+  "completion_tokens": 66,
+  "latency_ms": 1421,
+  "cost_usd": 0.00039600000000000003,
+  "created": "2026-11-10T05:40:02.380430Z",
+  "error": null
+}

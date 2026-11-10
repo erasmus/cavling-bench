@@ -1,0 +1,21 @@
+{
+  "model_id": "nebius-qwen3-235b",
+  "pinned_version": "Qwen/Qwen3-235B-A22B-Instruct-2507",
+  "task_id": "t3_faktaboks",
+  "source_id": "dst-2026-bnp-2-kvartal-revideret",
+  "archetype": null,
+  "prompt_sha256": "056fcf6b416463768e368deb4d506f8c5e836861615c35af129f0b264892a52e",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 575,
+    "reasoning_effort": null
+  },
+  "text": "- BNP steg med 0,9 pct. i 2. kvartal 2026, revideret op med 0,6 procentpoint fra første opgørelse.  \n- Medicinalindustrien bidrog med en BVT-vækst på 1,1 pct. i 2. kvartal 2026.  \n- De faste bruttoinvesteringer steg med 1,5 pct. i 2. kvartal 2026, opjusteret med 0,7 procentpoint.  \n- Husholdningernes forbrug voksede med 2,8 pct. fra 2. kvartal 2025 til 2. kvartal 2026.  \n- Importen steg med 1,8 pct. i 2. kvartal 2026, hvor tjenesteimporten voksede med 2,6 pct.",
+  "prompt_tokens": 2682,
+  "completion_tokens": 212,
+  "latency_ms": 9363,
+  "cost_usd": 0.0006635999999999999,
+  "created": "2026-11-10T05:40:29.911585Z",
+  "error": null
+}

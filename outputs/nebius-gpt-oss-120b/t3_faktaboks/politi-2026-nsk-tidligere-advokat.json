@@ -1,0 +1,21 @@
+{
+  "model_id": "nebius-gpt-oss-120b",
+  "pinned_version": "openai/gpt-oss-120b",
+  "task_id": "t3_faktaboks",
+  "source_id": "politi-2026-nsk-tidligere-advokat",
+  "archetype": null,
+  "prompt_sha256": "83fc4a28c3e93cc110a0750eb33f1cf2c6e74c4e8c13d1d23bd49129a8476624",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 2075,
+    "reasoning_effort": "low"
+  },
+  "text": "- Retten i Lyngby idømte den 53‑årige tidligere advokat seks måneders ubetinget fængsel onsdag.  \n- Han blev frakendt retten til at udøve advokatvirksomhed indtil videre.  \n- Dommen vedrører groft stillingsmisbrug og pligtforsømmelse som kurator i to konkursboer.  \n- Specialanklager i NSK, Konrad Joe Frank, udtalte, at dommen viser, at retten strengt ser på advokaters forpligtelser.  \n- Retten fandt, at advokatens handlinger vanskeliggjorde politiefterforskning, skattemæssig undersøgelse og konkursbehandling.",
+  "prompt_tokens": 863,
+  "completion_tokens": 189,
+  "latency_ms": 712,
+  "cost_usd": 0.00024284999999999997,
+  "created": "2026-11-10T05:38:16.070378Z",
+  "error": null
+}

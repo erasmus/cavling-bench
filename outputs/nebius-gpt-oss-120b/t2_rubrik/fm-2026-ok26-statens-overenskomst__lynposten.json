@@ -1,0 +1,21 @@
+{
+  "model_id": "nebius-gpt-oss-120b",
+  "pinned_version": "openai/gpt-oss-120b",
+  "task_id": "t2_rubrik",
+  "source_id": "fm-2026-ok26-statens-overenskomst",
+  "archetype": "lynposten",
+  "prompt_sha256": "4fac4faee3dfde76b76bf6fe1fa2dd08dbda8cef5a760d5fd740259031051441",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 1900,
+    "reasoning_effort": "low"
+  },
+  "text": "RUBRIK: Finansminister og fagforeninger indgår treårigt forlig  \nUNDERRUBRIK: Overenskomst for 200.000 statslige medarbejdere giver 8,7 % lønstigning, ekstra lønløft til militært ansatte, ny fritvalgsordning og bedre vilkår ved barsel og børnesygdom.",
+  "prompt_tokens": 1352,
+  "completion_tokens": 371,
+  "latency_ms": 1088,
+  "cost_usd": 0.0004254,
+  "created": "2026-11-10T05:38:05.662724Z",
+  "error": null
+}

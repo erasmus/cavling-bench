@@ -1,0 +1,21 @@
+{
+  "model_id": "nebius-qwen3-235b",
+  "pinned_version": "Qwen/Qwen3-235B-A22B-Instruct-2507",
+  "task_id": "t6_lydmanus",
+  "source_id": "finanstilsynet-2026-danske-bank-boliglaansinspektion",
+  "archetype": "lynposten",
+  "prompt_sha256": "576c19b713e492f357a81581071cdbbca52642dbfa577298d806bddb4b8658ae",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 620,
+    "reasoning_effort": null
+  },
+  "text": "Femoghalvtreds boliglån i Danske Bank er undersøgt af Finanstilsynet. Fire af lånene burde ikke være bevilget. Det viser en inspektion af lån til kunder med høj gæld og høj belåningsgrad. Banken har ikke altid vurderet risiciene ordentligt. Det gælder især kunder med lav likviditet, usikker indkomst og store fald i rådighedsbeløb. For en særskilt kundegruppe med forenklet kreditvurdering er der fejl i seks af 23 sager. For andre kunder er der fejl i 13 af 35 sager. Finanstilsynet ser mangler i dokumentationen af kundens økonomiske robusthed. Bankens kreditindstillinger giver ikke altid gennemsigtighed for udgifter og beregninger. Danske Bank får nu påbud om at forbedre sit grundlag for boliglån. Det skal være mere dokumenteret og sikre en bedre vurdering af kundens rådighedsbeløb og opsparingsevne. Ifølge Finanstilsynet er bankens risikoprofil højere end hos andre pengeinstitutter.",
+  "prompt_tokens": 2018,
+  "completion_tokens": 300,
+  "latency_ms": 27770,
+  "cost_usd": 0.0005836,
+  "created": "2026-11-10T05:45:13.468034Z",
+  "error": null
+}

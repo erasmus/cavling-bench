@@ -1,0 +1,21 @@
+{
+  "model_id": "nebius-gpt-oss-120b",
+  "pinned_version": "openai/gpt-oss-120b",
+  "task_id": "t6_lydmanus",
+  "source_id": "nationalbanken-2026-udsigter-marts",
+  "archetype": "lynposten",
+  "prompt_sha256": "42f387b0280a6a2de0ae1ddbf0a43e575995e94a1018019371b81338b40bcc41",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 2120,
+    "reasoning_effort": "low"
+  },
+  "text": "Tre millioner fem hundrede tusind danskere får besked om, at økonomien er i god balance trods globale spændinger, siger Nationalbanken i sin nye prognose. Beskæftigelsen er høj og ledigheden lav, men energipriserne fra Mellemøsten udgør en væsentlig inflationsrisiko, ifølge Nationalbanken. Nationalbankdirektør Christian Kettel Thomsen understreger, at der ikke forventes en ny inflationskrise som efter Ruslands invasion af Ukraine. Inflationen skal ligge på et komma otte procent i år og stige til to komma nul procent i to tusind syvindevtende. I et risikoscenarie med høje olie- og gaspriser kan inflationen nå fire komma fem procent. Thomsen advarer om begrænset produktionskapacitet og opfordrer den kommende regering til at holde efterspørgslen inden for de nuværende rammer. Ifølge Nationalbanken skal forsvarsudgifterne på femoghalvfems milliarder kroner begrænse råderummet for andre prioriteringer.",
+  "prompt_tokens": 1287,
+  "completion_tokens": 280,
+  "latency_ms": 1456,
+  "cost_usd": 0.00036104999999999997,
+  "created": "2026-11-10T05:38:43.836006Z",
+  "error": null
+}

@@ -1,0 +1,21 @@
+{
+  "model_id": "nebius-gpt-oss-120b",
+  "pinned_version": "openai/gpt-oss-120b",
+  "task_id": "t2_rubrik",
+  "source_id": "kk-2026-vandkulturhus-papiroeen",
+  "archetype": "landsavisen",
+  "prompt_sha256": "623e12e44f8776c9a6bbb422f29627cd67c86cf05ec088719c4d7602d54e8d8e",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 1900,
+    "reasoning_effort": "low"
+  },
+  "text": "RUBRIK: KAI – nyt vandkulturhus på Papirøen åbner 5. december  \nUNDERRUBRIK: Det 5.800 m² store KAI, designet af Kengo Kuma, byder på 10 indendørs og udendørs bassiner, legebassiner, motions‑ og terapibassiner samt et bredt kulturprogram – et nyt offentligt samlingssted på havnekajen.",
+  "prompt_tokens": 2348,
+  "completion_tokens": 369,
+  "latency_ms": 1172,
+  "cost_usd": 0.0005736000000000001,
+  "created": "2026-11-10T05:38:08.386214Z",
+  "error": null
+}

@@ -1,0 +1,21 @@
+{
+  "model_id": "nebius-qwen3-235b",
+  "pinned_version": "Qwen/Qwen3-235B-A22B-Instruct-2507",
+  "task_id": "t4_versionering",
+  "source_id": "rigsrevisionen-2026-beretning-energinet-elnettet",
+  "archetype": "lynposten",
+  "prompt_sha256": "88756b28cc266abc840a4b819ce1d256a96861e65b4f063e7177f36f0997430f",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 1025,
+    "reasoning_effort": null
+  },
+  "text": "70 procent af Energinets elnetprojekter er forsinkede. Det rammer hele Danmark – og især de kommuner, der venter på grøn omstilling.\n\nEnerginet skal bygge 2.700 km ny elledning inden 2030. Frem til 2050 skal der yderligere 3.000-4.000 km til. I dag tager projekterne i gennemsnit 80 procent længere tid end planlagt.\n\nStatsrevisorerne har undersøgt, hvorfor. De konkluderer, at Energinet ikke har styr på sine tidsplaner. Virksomheden har systematisk undervurderet, hvor lang tid projekter tager. Årsagerne til forsinkelserne er uklare. Både interne og eksterne forhold nævnes – men uden præcision.\n\nHastigheden i udbygningen skal mere end fordobles. I dag bygges der 120 km om året. Frem mod 2050 skal det være 250 km årligt.\n\nFra maj 2024 til 1. januar 2026 blev 206 km færdige. Ifølge planen skulle der være 490 km. Allerede i 2023 fik Klima-, Energi- og Forsyningsministeriet advarsler om stigende forsinkelser. Ministeriet reagerede alligevel for sent.\n\nDet koster penge. Udbygningen er nu mere end 10 mia. kr. dyrere end beregnet. Ministeriet har ikke vurderet, hvad det betyder for CO2-udledningen. Heller ikke, hvordan det påvirker tilslutningen af nye vind- og solprojekter.\n\nRigsrevisionen anbefaler, at ministeriet undersøger konsekvenserne. Statsrevisorerne bakker op. Uden klarhed risikerer Danmark at mislykkes med klimamålene.",
+  "prompt_tokens": 1876,
+  "completion_tokens": 487,
+  "latency_ms": 7681,
+  "cost_usd": 0.0006674000000000001,
+  "created": "2026-11-10T05:43:10.846280Z",
+  "error": null
+}

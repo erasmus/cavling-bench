@@ -1,0 +1,21 @@
+{
+  "model_id": "nebius-qwen3-235b",
+  "pinned_version": "Qwen/Qwen3-235B-A22B-Instruct-2507",
+  "task_id": "t4_versionering",
+  "source_id": "rigsrevisionen-2026-beretning-energinet-elnettet",
+  "archetype": "landsavisen",
+  "prompt_sha256": "aea366a09b092cb0b94aeb472bfc586dc2b49b094b9a4c30429e2f657a22c867",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 1025,
+    "reasoning_effort": null
+  },
+  "text": "Den 9. april 2026 afgav Statsrevisorerne en beretning til Folketinget om Energinets udbygning af elnettet, efter to års stigende forsinkelser i projekterne. Beretningen er et svar på bekymring over, om Danmarks grønne omstilling kan holde kurs, når elnetudbygningen haler kraftigt bagud. Energinet, der ejes af staten gennem Klima-, Energi- og Forsyningsministeriet, skal sikre, at elnettet kan bære den øgede produktion fra vedvarende energikilder – en nødvendighed efter klimaaftalen fra juni 2022.\n\nStatsrevisorerne konstaterer, at omkring 70 procent af de igangsatte udbygningsprojekter er forsinkede, og at de forsinkede projekter i gennemsnit tager 80 procent længere tid end oprindeligt planlagt. Ifølge deres analyse har Energinet systematisk undervurderet projektets tidsmæssige krav og mangler et entydigt overblik over, hvorfor forsinkelserne opstår. Samtidig er udbygningen mere end 10 mia. kr. dyrere end beregnet. Siden maj 2024 er kun 206 km elnet blevet færdiggjort ud af de 490 km, der ifølge planen skulle være på plads pr. 1. januar 2026.\n\nStatsrevisorerne kritiserer også Klima-, Energi- og Forsyningsministeriet for at have handlet for sent, selvom ministeriet er blevet gjort opmærksom på forsinkelserne flere gange siden 2023. Ministeriet har dog i februar 2026 igangsat en ekstern analyse af Energinets rammer – en handling, som Statsrevisorerne mener kunne være sket tidligere. De understreger, at ministeriet endnu ikke har vurderet, hvordan forsinkelserne påvirker CO2-udledningen eller tilslutningen af nye vind- og solprojekter.  \n\nFor at nå målene for 2050 skal udbygningshastigheden mere end fordobles fra det nuværende niveau på 120 km årligt til 250 km.",
+  "prompt_tokens": 1875,
+  "completion_tokens": 592,
+  "latency_ms": 14016,
+  "cost_usd": 0.0007302000000000001,
+  "created": "2026-11-10T05:43:19.369125Z",
+  "error": null
+}

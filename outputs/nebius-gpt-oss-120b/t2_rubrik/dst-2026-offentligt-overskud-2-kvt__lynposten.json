@@ -1,0 +1,21 @@
+{
+  "model_id": "nebius-gpt-oss-120b",
+  "pinned_version": "openai/gpt-oss-120b",
+  "task_id": "t2_rubrik",
+  "source_id": "dst-2026-offentligt-overskud-2-kvt",
+  "archetype": "lynposten",
+  "prompt_sha256": "8f94c62884dd156392ac1ee51e924e185f85beb61b1c822001ea8a444f2958d3",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 1900,
+    "reasoning_effort": "low"
+  },
+  "text": "RUBRIK: Offentlige finanser viser 35,5 mia. kr. overskud  \nUNDERRUBRIK: Samtidig stiger ØMU‑gælden til 859,1 mia. kr., svarende til 27 % af BNP i andet kvartal 2026.",
+  "prompt_tokens": 1337,
+  "completion_tokens": 217,
+  "latency_ms": 893,
+  "cost_usd": 0.00033075,
+  "created": "2026-11-10T05:38:03.541547Z",
+  "error": null
+}

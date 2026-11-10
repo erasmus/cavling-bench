@@ -1,0 +1,21 @@
+{
+  "model_id": "nebius-gpt-oss-120b",
+  "pinned_version": "openai/gpt-oss-120b",
+  "task_id": "t4_versionering",
+  "source_id": "skim-2026-sommeraftale-sundhedsreform",
+  "archetype": "lynposten",
+  "prompt_sha256": "c995fdf250e9fc959a57c59c1e5f3ff6fed7a61839a13b1c520f57fec2b1623d",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 2525,
+    "reasoning_effort": "low"
+  },
+  "text": "3 mio. kroner i nye midler fra 2027 giver borgere første kronikerpakker, melder sundhedsminister Ida Auken. Pakkerne gælder KOL‑patienter og dem med kroniske lænderygsmerter. De får en behandlingsplan og tilbud om forebyggelse inden 21 dage efter lægehenvisning. Aftalen udvider også sygehusets ansvar til 96 timer efter udskrivelse for ældre medicinske patienter og visse psykiatriske patienter. Formand for Danske Regioner, Mads Duedahl, siger, at aftalen giver “vigtige rammer” for at gøre reformen mærkbar i hverdagen. Formand for KL’s Sundheds‑ og Ældreudvalg, Dorte West, roser udvidelsen af 96‑timmers behandlingsansvar og understreger, at sundhedsrådene skal have et stærkt mandat til at træffe beslutninger tæt på borgerne.  \n\nAftalen indeholder et kvalitetsløft for nye regionale sundheds‑ og omsorgspladser. Ophold på disse pladser er uden egenbetaling, og borgerne får frit valg af placering samt befordring, som ved sygehusbehandling.  \n\nDen første nationale sundhedsplan for 2027‑2030 fastsættes af sundhedsministeren. Planen skal sikre, at flere opgaver løses tættere på borgerne, og at ressourcerne fordeles efter behov.  \n\nDerudover justeres loftet over speciallægestillinger på store sygehuse for at tiltrække læger til svære rekrutteringsområder. Undtagelsen for læger, der også arbejder på mindre hospitaler, forlænges til første kvartal 2028.  \n\nEndelig afsættes 128 mio. kroner i 2027 til at nedbringe ventetider hos praktiserende speciallæger og forberede en kommende patientrettighed til hurtigere udredning og behandling.",
+  "prompt_tokens": 2323,
+  "completion_tokens": 465,
+  "latency_ms": 1604,
+  "cost_usd": 0.0006274500000000001,
+  "created": "2026-11-10T05:38:33.076368Z",
+  "error": null
+}

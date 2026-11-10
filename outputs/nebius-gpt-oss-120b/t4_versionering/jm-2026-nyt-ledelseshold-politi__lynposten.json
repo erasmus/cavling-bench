@@ -1,0 +1,21 @@
+{
+  "model_id": "nebius-gpt-oss-120b",
+  "pinned_version": "openai/gpt-oss-120b",
+  "task_id": "t4_versionering",
+  "source_id": "jm-2026-nyt-ledelseshold-politi",
+  "archetype": "lynposten",
+  "prompt_sha256": "5455fcf40c775cb09dba64aa944c2cc42fe168ec29f777842629b55072cc9e76",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 2525,
+    "reasoning_effort": "low"
+  },
+  "text": "203 ledere udnævnes i en omfattende rokade, der skal styrke dansk politi og anklagemyndighed frem mod 2030. Rokaden rammer både rigspolitiet, rigsadvokaten og de regionale politidirektører.  \n\nJustitsminister Nicolai Wammen siger, at de nye udnævnelser giver et “stærkt hold med solidt kendskab til og erfaring fra politiet og anklagemyndigheden”. Han takker afgående rigspolitichef Thorkild Fogde og de øvrige, der forlader deres stillinger.  \n\nFogde rokerer fra rigspolitichefen til politidirektør i Københavns Vestegns Politi. Lasse Boje Nielsen, tidligere rigsadvokat og politidirektør for National enhed for Særlig Kriminalitet, udpeges som ny rigspolitichef.  \n\nCaroline Østergaard Nielsen fortsætter som rigsadvokat i en midlertidig rolle. Rasmus Kieffer‑Kristensen får posten som chef for Politiets Efterretningstjeneste efter en karriere i FN, PET og som statsadvokat.  \n\nFinn Borch Andersen udnævnes til politidirektør i Københavns Politi efter at have ledet PET. Steen Bechmann Jacobsen får ansvaret for National enhed for Særlig Kriminalitet. Frits Villy Kjeldsen og Lene Frank overtager ledelsen i Østjyllands og Syd- og Sønderjyllands Politi.  \n\nHenriette Rosenborg Larsen, Brian Sølvberg Fussing, Lars Kirkegaard, Andreas Langsted, Anne Marie Roum Svendsen, Bjørn Tegner Bay, Helle Kyndesen og Martin Preisz Gravesen får nye eller fortsatte roller som politidirektører i deres respektive regioner.  \n\nMarie Bindslev udnævnes til statsadvokat i København efter at have været chefanklager i Sydsjællands‑ og Lolland‑Falster Politi. Jens‑Christian Bülow fortsætter som statsadvokat for Særlig Kriminalitet.  \n\nDen samlede udnævnelse skal sikre, at myndighederne leverer på de store forventninger, der er til dansk politi og anklagemyndighed.",
+  "prompt_tokens": 1744,
+  "completion_tokens": 522,
+  "latency_ms": 1722,
+  "cost_usd": 0.0005748,
+  "created": "2026-11-10T05:38:24.415350Z",
+  "error": null
+}

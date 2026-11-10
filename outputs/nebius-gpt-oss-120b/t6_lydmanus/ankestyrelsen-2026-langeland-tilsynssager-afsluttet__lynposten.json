@@ -1,0 +1,21 @@
+{
+  "model_id": "nebius-gpt-oss-120b",
+  "pinned_version": "openai/gpt-oss-120b",
+  "task_id": "t6_lydmanus",
+  "source_id": "ankestyrelsen-2026-langeland-tilsynssager-afsluttet",
+  "archetype": "lynposten",
+  "prompt_sha256": "5f82b57619335913d0a4a8c6d06723fd1483e12e8acfd1d55fbd275529dadc82",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 2120,
+    "reasoning_effort": "low"
+  },
+  "text": "Tofem hundrede femoghalvfemsag blev afsluttet af Ankestyrelsens tilsyn i Langeland Kommune. I den første sag fra november to tusind toogtyve fandt tilsynet, at Familieafdelingen ikke havde overholdt flere love. Kommunen gennemgik tohundrede femoghalvfemsager og foretog individuelle vurderinger. I marts to tusind femogtyve leverede kommunen en slutorientering, og tilsynet lukkede sagen. Ankechef Hanne Østergaard i Ankestyrelsen siger, at kommunen har fulgt op på udtalelsen fra november to tusind toogtyve og gennemført de nødvendige tiltag. Den anden sag fra to tusind fire blev indledt efter en henvendelse fra taskforcen for børn og unge. Kommunen har omorganiseret Familieafdelingen og genoptager samarbejdet med taskforcen fra maj to tusind seks til januar to tusind otte. Tilsynet følger ikke sagen yderligere, ifølge Ankestyrelsen.",
+  "prompt_tokens": 1508,
+  "completion_tokens": 289,
+  "latency_ms": 1508,
+  "cost_usd": 0.0003996,
+  "created": "2026-11-10T05:38:40.365023Z",
+  "error": null
+}

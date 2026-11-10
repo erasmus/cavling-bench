@@ -1,0 +1,21 @@
+{
+  "model_id": "nebius-gpt-oss-120b",
+  "pinned_version": "openai/gpt-oss-120b",
+  "task_id": "t2_rubrik",
+  "source_id": "fm-2026-ok26-statens-overenskomst",
+  "archetype": "landsavisen",
+  "prompt_sha256": "e3cf36fb9b5921b7197b9bed85ca13e271dfacf35b064ee177276e94a50cc9bc",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 1900,
+    "reasoning_effort": "low"
+  },
+  "text": "RUBRIK: Treårigt overenskomstforlig giver 8,7 % lønstigning i staten  \nUNDERRUBRIK: Forliget omfatter ekstra lønløft til militært ansatte, ny fritvalgsordning og forbedrede barsels- og sygevilkår for 200.000 statslige medarbejdere.",
+  "prompt_tokens": 1345,
+  "completion_tokens": 101,
+  "latency_ms": 580,
+  "cost_usd": 0.00026235,
+  "created": "2026-11-10T05:38:05.261230Z",
+  "error": null
+}

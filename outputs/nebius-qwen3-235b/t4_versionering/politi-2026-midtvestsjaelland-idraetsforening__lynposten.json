@@ -1,0 +1,21 @@
+{
+  "model_id": "nebius-qwen3-235b",
+  "pinned_version": "Qwen/Qwen3-235B-A22B-Instruct-2507",
+  "task_id": "t4_versionering",
+  "source_id": "politi-2026-midtvestsjaelland-idraetsforening",
+  "archetype": "lynposten",
+  "prompt_sha256": "4e8086dd858e1aa1e5af120631b26140b4747b0954480aa8985274bcf893cce7",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 1025,
+    "reasoning_effort": null
+  },
+  "text": "46-årig idrætsansat idømt et års fængsel for seksuelle overgreb mod drenge. Dommen rammer familier i Roskilde og ryster tilliden til voksenansatte i idrætsmiljøer.\n\nRetten i Roskilde har idømt manden straffen for blufærdighedskrænkelser og voldtægt mod en dreng under 12 år. Han var ansat i en lokal idrætsforening. Alle ofrene undtagen én var tilknyttet foreningen.\n\nHan har tilstået at have befølt flere drenge. Ikke færre end 42 er blevet filmet uden deres viden. Optagelserne foregik på et ikke frit tilgængeligt sted mellem januar 2022 og april 2024.\n\nPolitiet fandt store mængder ulovligt materiale på hans telefon. Det inkluderer seksuelle optagelser af personer under 18 år. Materialet dækker alle tre kategorier af børnepornografi.\n\n\"Det er et groft tillidsbrud. En voksen, som børnene burde kunne stole på, har misbrugt sin position,\" siger senioranklager Pernille Fredin fra Midt- og Vestsjællands Politi.\n\nHun kalder sagen meget alvorlig. Den har taget lang tid at efterforske. En vurdering af den dømtes mentale tilstand har været nødvendig.\n\nRetten har frakendt ham retten til at arbejde med børn og unge under 18 år. Det gælder fremover.\n\n\"Jeg håber, dommen kan give ofrene og deres familier en følelse af retfærdighed,\" siger Pernille Fredin.\n\nDen 46-årige har taget betænkningstid om anke.",
+  "prompt_tokens": 1286,
+  "completion_tokens": 460,
+  "latency_ms": 9271,
+  "cost_usd": 0.0005332000000000001,
+  "created": "2026-11-10T05:42:52.709026Z",
+  "error": null
+}

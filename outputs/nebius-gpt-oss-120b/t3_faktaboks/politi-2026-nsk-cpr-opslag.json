@@ -1,0 +1,21 @@
+{
+  "model_id": "nebius-gpt-oss-120b",
+  "pinned_version": "openai/gpt-oss-120b",
+  "task_id": "t3_faktaboks",
+  "source_id": "politi-2026-nsk-cpr-opslag",
+  "archetype": null,
+  "prompt_sha256": "79785f44a202bae98094c69df42b88ea18b27dca478ae98f00ee89bbf2f00d3a",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 2075,
+    "reasoning_effort": "low"
+  },
+  "text": "- Den 27‑årige mand fra Storkøbenhavn blev idømt fængsel i 3 år og 6 måneder ved Københavns Byret.  \n- Han foretog uberettigede CPR‑opslag fra juni 2023 til juli 2024 i sin stilling som studentermedhjælper i Københavns Kommune.  \n- Oplysningerne han solgte blev brugt i 34 tilfælde af forsøg på grov vold.  \n- Retten fandt ham skyldig i både personfarlig kriminalitet og misbrug af sin offentligt betroede stilling.  \n- National enhed for Særlig Kriminalitet (NSK) har omkring 1.200 ansatte med hovedsæde i Ejby ved Glostrup.",
+  "prompt_tokens": 1192,
+  "completion_tokens": 194,
+  "latency_ms": 835,
+  "cost_usd": 0.00029519999999999997,
+  "created": "2026-11-10T05:38:16.152221Z",
+  "error": null
+}

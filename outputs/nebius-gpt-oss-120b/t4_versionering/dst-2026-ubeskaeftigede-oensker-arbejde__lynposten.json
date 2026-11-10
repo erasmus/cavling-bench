@@ -1,0 +1,21 @@
+{
+  "model_id": "nebius-gpt-oss-120b",
+  "pinned_version": "openai/gpt-oss-120b",
+  "task_id": "t4_versionering",
+  "source_id": "dst-2026-ubeskaeftigede-oensker-arbejde",
+  "archetype": "lynposten",
+  "prompt_sha256": "f842e27bc57dc370a4c56004d6fbdce6a37f8b8f4b1983ae411f3d569e9e11be",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 2525,
+    "reasoning_effort": "low"
+  },
+  "text": "470 000 ubeskæftigede i alderen 15‑64 år ønskede et arbejde i første kvartal 2026. Det svarer til 52 % af de 905 000 ubeskæftigede og er en stigning på 85 000 personer siden første kvartal 2024, hvor andelen var 45 %. Den største efterspørgsel kom fra aldersgruppen 25‑34 år, hvor 66 % ønskede et job. I aldersgruppen 55‑64 år var andelen lavest med 28 %.\n\nDe resterende 435 000 ubeskæftigede ønskede ikke et arbejde, en nedgang på 41 000 personer siden 2024. Ifølge Arbejdskraftundersøgelsen er uddannelse den primære grund for, at 80 % af de 15‑24‑årige unge ikke vil have et job. Med stigende alder overtager pension mv. – efterløn, fleksydelse og førtidspension – som hovedårsag. Syv ud af ti i aldersgruppen 55‑64 år nævner pension mv. som årsag. Familiemæssige grunde er sjældne på tværs af alle aldersgrupper.\n\nAf de 470 000, der ønskede et arbejde, var 236 000 AKU‑ledige – altså personer, der aktivt søger og kan starte med det samme. Det udgør halvdelen af de ønskende. Yderligere 81 000 søgte arbejde, men kunne ikke starte med det samme, mens 40 000 kunne starte, men ikke søgte. Sammen med deltidsbeskæftigede, der vil have flere timer, udgør de 356 000 personer arbejdskraftreserven.\n\nAKU‑ledigheden udgjorde 7,5 % af arbejdsstyrken i første kvartal 2026, en stigning på 0,8 procentpoint fra året før. Uden studerende lå ledighedsprocenten på 6,2 %, også en stigning. Den øgede ledighed afspejler blandt andet mange opsigelser i andet halvår af 2025.",
+  "prompt_tokens": 1646,
+  "completion_tokens": 500,
+  "latency_ms": 1834,
+  "cost_usd": 0.0005469,
+  "created": "2026-11-10T05:38:20.641576Z",
+  "error": null
+}

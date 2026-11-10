@@ -1,0 +1,21 @@
+{
+  "model_id": "nebius-qwen3-235b",
+  "pinned_version": "Qwen/Qwen3-235B-A22B-Instruct-2507",
+  "task_id": "t4_versionering",
+  "source_id": "jm-2026-nyt-ledelseshold-politi",
+  "archetype": "lynposten",
+  "prompt_sha256": "5455fcf40c775cb09dba64aa944c2cc42fe168ec29f777842629b55072cc9e76",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 1025,
+    "reasoning_effort": null
+  },
+  "text": "Lasse Boje Nielsen bliver ny rigspolitichef. Han skal lede dansk politi og anklagemyndighed frem mod 2030.\n\nJustitsminister Nicolai Wammen siger, at det er det stærkeste ledelseshold, han kan sammensætte. Det bygger på erfaring og kendskab til politi og anklagemyndighed. Wammen roser det afgående ledelsesteam. Især takker han Thorkild Fogde for hans indsats.\n\nFogde flytter nu til stillingen som politidirektør i Københavns Vestegns Politi. Han afløser dermed Lasse Boje Nielsen, der tidligere var rigsadvokat. Nielsen har erfaring fra National enhed for Særlig Kriminalitet, fængsler og ministerier.\n\nCaroline Østergaard Nielsen bliver fungerende rigsadvokat. Hun er i dag statsadvokat ved Rigsadvokaten.\n\nRasmus Kieffer-Kristensen bliver ny chef for Politiets Efterretningstjeneste. Han kommer fra en stilling som politi- og sikkerhedsrådgiver i New York. Han har baggrund som juridisk chef i PET og statsadvokat.\n\nFlere politidirektører skifter eller genudnævnes. Blandt dem er Finn Borch Andersen, der går fra PET til Københavns Politi. Steen Bechmann Jacobsen får National enhed for Særlig Kriminalitet. Frits Villy Kjeldsen går til Østjyllands Politi, mens Lene Frank får Syd- og Sønderjyllands Politi.\n\nAndre får nye poster eller genudnævnes. Det gælder blandt andre Lars Kirkegaard i Fyns Politi og Andreas Langsted i Midt- og Vestsjællands Politi. Anne Marie Roum Svendsen, Bjørn Tegner Bay, Helle Kyndesen og Martin Preisz Gravesen genudnævnes.\n\nMarie Bindslev bliver ny statsadvokat i København. Jens-Christian Bülow genudnævnes som statsadvokat for Særlig Kriminalitet.",
+  "prompt_tokens": 1942,
+  "completion_tokens": 514,
+  "latency_ms": 16277,
+  "cost_usd": 0.0006967999999999999,
+  "created": "2026-11-10T05:42:11.448480Z",
+  "error": null
+}

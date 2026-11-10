@@ -1,0 +1,21 @@
+{
+  "model_id": "nebius-gpt-oss-120b",
+  "pinned_version": "openai/gpt-oss-120b",
+  "task_id": "t5_forkortelse",
+  "source_id": "aalborg-2025-omlaegningsplan-trepart",
+  "archetype": null,
+  "prompt_sha256": "c6e0a58fc9df8e8cf2e8d1c314dae5d8b7d17688922b7e362604976b2a62b2b9",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 2360,
+    "reasoning_effort": "low"
+  },
+  "text": "Aalborg Byråd vedtog den 15. december en principvedtagelse af en omlægningsplan for Aalborg Kommune, som skal gennemføres i samarbejde med den lokale trepart og 94 konkrete projekter. Planen er et resultat af Aftalen om et Grønt Danmark, indgået mellem Regeringen, landbruget og Danmarks Naturfredningsforening og vedtaget i Folketinget i 2024, som forpligtede kommunen til at udarbejde en plan i tæt samarbejde med Naturstyrelsen og landbrugets udtagningskonsulenter. Rådmand Jan Nymark Rose Thaysen roste det konstruktive samarbejde i Aalborg Trepart, der omfatter repræsentanter fra Danmarks Naturfredningsforening, Landbrug & Fødevarer, Naturstyrelsen og borgmester Lasse Frimand Jensen. \n\nPlanen indeholder 77 lavbundsprojekter, der vådlægger tørveholdige jordarter og reducerer CO₂‑udledning, 13 tiltag for at sikre drikkevand og udtagning af dyrkningsjord i oplandet til Halkær Bredning for at forbedre Limfjordens vandmiljø, samt tre store sammenhængende naturområder omkring Hals og Ulsted Rimmer, Lundby Bakker, Gistrup, Poulstrup og Halkær Bredning. I 2026 skal dialog med berørte borgere påbegyndes; hoveddelen af lavbunds- og kvælstofindsatsen skal være afsluttet i 2030, mens skovrejsning og naturudvikling fortsætter derefter. Målet er at bidrage til 20 % mere beskyttet natur i Danmark, renere vandmiljø, mindre klimagasser og sikret drikkevand.",
+  "prompt_tokens": 1555,
+  "completion_tokens": 414,
+  "latency_ms": 1307,
+  "cost_usd": 0.00048164999999999997,
+  "created": "2026-11-10T05:38:32.884983Z",
+  "error": null
+}

@@ -1,0 +1,21 @@
+{
+  "model_id": "nebius-gpt-oss-120b",
+  "pinned_version": "openai/gpt-oss-120b",
+  "task_id": "t4_versionering",
+  "source_id": "politi-2026-sydoestjylland-hadforbrydelse",
+  "archetype": "landsavisen",
+  "prompt_sha256": "08d963b556a00c1ca6a68eba77dc21c44ae425fafda8fa5d0e9b98dc5d49543d",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 2525,
+    "reasoning_effort": "low"
+  },
+  "text": "Tre unge mænd på henholdsvis 18, 18 og 17 år er i dag blevet idømt fængselsstraffe ved Retten i Horsens for en række voldsepisoder fra januar 2026 samt for overtrædelse af våbenlovgivningen. Dommen kommer som svar på flere alvorlige hændelser, der har rystet lokalsamfundet i Horsens.\n\nDe to 18‑årige blev dømt for vold og trusler med kniv, efter de overfaldt en mand i Vitus Beringsparken den 2. januar 2026. Den ene af dem blev desuden dømt for vold mod en mand i nattelivet den 4. januar på en bar i byen. Samme 18‑årige og den 17‑årige blev også dømt for grov vold som en hadforbrydelse, da de den 17. januar omkring kl. 02.10 ved banegården råbte skældsord om to kvinders seksuelle orientering, slog dem flere gange i hovedet med en totenschlæger og anvendte peberspray. Retten fastslog, at volden var delvist begrundet i kvindernes seksuelle orientering.\n\nDen 18‑årige, som også blev fundet skyldig i hadforbrydelsen, modtog et år og tre måneders fængsel, et seks‑måneders opholdsforbud i nattelivet, samt udvisning af Danmark med seks års indrejseforbud. Han blev umiddelbart fængslet efter dommen. Den 17‑årige fik ti måneders fængsel, mens den anden 18‑årige blev idømt tre måneders fængsel og en advarsel om udvisning.\n\n”Dommen i dag understreger blandt andet, at man som borger ikke skal diskrimineres eller udsættes for vold på baggrund af sin seksuelle orientering, kønsidentitet, kønsudtryk eller lignede,” udtaler Thomas Vestergaard, anklagerfuldmægtig i anklagemyndigheden ved Sydøstjyllands Politi. Den 18‑årige, der modtog tre måneders fængsel, blev idømt dommen, mens de to andre udbød sig betænkningstid.",
+  "prompt_tokens": 1245,
+  "completion_tokens": 532,
+  "latency_ms": 1579,
+  "cost_usd": 0.00050595,
+  "created": "2026-11-10T05:38:30.785225Z",
+  "error": null
+}

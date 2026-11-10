@@ -1,0 +1,21 @@
+{
+  "model_id": "nebius-qwen3-235b",
+  "pinned_version": "Qwen/Qwen3-235B-A22B-Instruct-2507",
+  "task_id": "t2_rubrik",
+  "source_id": "skim-2026-sommeraftale-sundhedsreform",
+  "archetype": "erhvervsnyt",
+  "prompt_sha256": "2ef754538ced5727d0a23ea2f34aee348c849c419d1b8c3e97afbdb113e8b018",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 400,
+    "reasoning_effort": null
+  },
+  "text": "RUBRIK: 800 mio. kr. til sundhedsreformen fra 2027  \nUNDERRUBRIK: Regeringen, Danske Regioner og KL enedes om sommeraftalen, der sætter konkrete rammer for kronikerpakker, 96 timers behandlingsansvar og sundhedsrådenes rolle.",
+  "prompt_tokens": 2768,
+  "completion_tokens": 87,
+  "latency_ms": 1700,
+  "cost_usd": 0.0006058000000000001,
+  "created": "2026-11-10T05:40:20.568601Z",
+  "error": null
+}

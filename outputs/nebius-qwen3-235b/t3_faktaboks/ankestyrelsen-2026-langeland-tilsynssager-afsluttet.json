@@ -1,0 +1,21 @@
+{
+  "model_id": "nebius-qwen3-235b",
+  "pinned_version": "Qwen/Qwen3-235B-A22B-Instruct-2507",
+  "task_id": "t3_faktaboks",
+  "source_id": "ankestyrelsen-2026-langeland-tilsynssager-afsluttet",
+  "archetype": null,
+  "prompt_sha256": "28912c2898bc280a7349116e59da0cd8319df3fd0c25991a6a7015daa8e838b3",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 575,
+    "reasoning_effort": null
+  },
+  "text": "- Ankestyrelsen afsluttede i marts 2025 tilsynssagen mod Langeland Kommune efter modtagelse af kommunens slutorientering.  \n- I november 2022 konstaterede tilsynet, at Langeland Kommunes Familieafdeling ikke havde overholdt bestemmelser i offentlighedsloven, forvaltningsloven, retssikkerhedsloven og serviceloven.  \n- Langeland Kommune identificerede 295 sager, der var relevante at gennemgå efter tilsynets anbefaling.  \n- Den anden tilsynssag, startet i 2024, blev afsluttet i august 2023 uden yderligere tilsynsaktioner.  \n- Taskforce-forløbet med Langeland Kommune varer fra maj 2026 til januar 2028 og fokuserer på at styrke lovmedhold og sagsbehandlingskvalitet.",
+  "prompt_tokens": 1399,
+  "completion_tokens": 244,
+  "latency_ms": 3859,
+  "cost_usd": 0.00042620000000000006,
+  "created": "2026-11-10T05:40:24.006970Z",
+  "error": null
+}

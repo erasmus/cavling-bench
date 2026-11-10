@@ -1,0 +1,21 @@
+{
+  "model_id": "nebius-qwen3-235b",
+  "pinned_version": "Qwen/Qwen3-235B-A22B-Instruct-2507",
+  "task_id": "t2_rubrik",
+  "source_id": "kk-2026-ventetidsgaranti-foedselsgener",
+  "archetype": "lynposten",
+  "prompt_sha256": "3900ba1f3e1928d49fdcce0ea19b67bae87b827c54e419a0236e46bb802dc56d",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 400,
+    "reasoning_effort": null
+  },
+  "text": "RUBRIK: København garanterer hjælp til fødselsgener i 7 dage  \nUNDERRUBRIK: Kvinder får første samtale senest 7 dage efter henvendelse og undersøgelse inden 3 uger. Ventetidsgaranti dækker også privat hjælp, hvis kommunen fejler.",
+  "prompt_tokens": 2315,
+  "completion_tokens": 84,
+  "latency_ms": 1595,
+  "cost_usd": 0.0005134,
+  "created": "2026-11-10T05:39:56.460219Z",
+  "error": null
+}

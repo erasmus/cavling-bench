@@ -1,0 +1,21 @@
+{
+  "model_id": "nebius-gpt-oss-120b",
+  "pinned_version": "openai/gpt-oss-120b",
+  "task_id": "t4_versionering",
+  "source_id": "ombudsmanden-2026-lolland-avisabonnement-pression",
+  "archetype": "lynposten",
+  "prompt_sha256": "cbccccbafecf7128fa69103d4195ff25f63a565eb8c80a9fd5808e6f69e2d640",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 2525,
+    "reasoning_effort": "low"
+  },
+  "text": "29. april 2026 opsagde Lolland Kommune tre avisabonnementer på Lolland‑Falsters Folketidende. Det rammer borgmesteren og to byrådsmedlemmer. Ombudsmanden har nu sendt kommunen en advarsel.\n\nFolketingets Ombudsmand Christian Britten Lundblad startede i maj en undersøgelse efter medieomtale af opsigelserne. Han påpeger, at en myndighed må følge forvaltningsretlige principper om saglighed og lighed. “En myndighed kan naturligvis som andre abonnenter vælge at opsige et avisabonnement, men det skal ske på sagligt grundlag,” siger Lundblad.\n\nKommunen har svaret, at abonnementerne blev opsagt efter anmodning fra de pågældende politikere. Kommunen hævder, at formålet ikke var at straffe avisen. Ombudsmanden mener dog, at udtalelser fra de berørte politikere kan give et andet indtryk. Han har derfor bedt Lolland Kommune om at overveje, om udtalelserne ændrer grundlaget for opsigelserne, og om at orientere ham om resultatet.\n\nJournalisten.dk rapporterede, at borgmesteren var “vred over en kritisk artikel” og havde skrevet på sociale medier, at kritikken skal være “fair, åben og ansvarlig”. Et byrådsmedlem skrev på Facebook, at han ikke længere vil betale for en avis, der “sætter loven for godt håndværk til side”. Det andet medlem beskrev den sidste manglende journalistiske kvalitet som “dråben, der fik bægeret til at flyde over”.\n\nOmbudsmanden understreger, at myndigheder ikke må bruge abonnementer som pression eller “straffeaktion” mod pressen. Han kræver, at Lolland Kommune sikrer, at beslutningen er saglig og ikke kan opfattes som et træk mod avisen.",
+  "prompt_tokens": 1534,
+  "completion_tokens": 442,
+  "latency_ms": 1522,
+  "cost_usd": 0.0004953,
+  "created": "2026-11-10T05:38:28.479758Z",
+  "error": null
+}

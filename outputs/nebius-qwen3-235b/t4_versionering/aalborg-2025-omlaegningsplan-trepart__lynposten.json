@@ -1,0 +1,21 @@
+{
+  "model_id": "nebius-qwen3-235b",
+  "pinned_version": "Qwen/Qwen3-235B-A22B-Instruct-2507",
+  "task_id": "t4_versionering",
+  "source_id": "aalborg-2025-omlaegningsplan-trepart",
+  "archetype": "lynposten",
+  "prompt_sha256": "6678cf311a7da67fbee90c749158154a35e6af4bb35691cc266590f527a1c550",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 1025,
+    "reasoning_effort": null
+  },
+  "text": "Aalborg Kommune lancerer plan for 94 grønne projekter. De rammer landmænd, drikkevandskilder og naturen i hele kommunen.\n\nByrådet godkendte omlægningsplanen 15. december. Den følger af den nationale Grønne Trepart fra 2024. Planen skal nedbringe klimagasser, beskytte drikkevand og forbedre vandmiljøet i Limfjorden.\n\nProjekterne kræver enighed med berørte lodsejere. Uden samarbejde kan planen ikke gennemføres.\n\nDer er 77 lavbundsprojekter, hvor tørvejord vådlægges. Aalborg har Danmarks største areal med tørveholdige lavbundsjorde. Vådlægning nedsætter CO2-udledningen markant.\n\n13 projekter fokuserer på drikkevand. De gælder de mest sårbare indvindingsoplande. Her skal dyrkede marker omdannes til skov og natur.\n\nTre større naturområder skal etableres. Ét ved Hals og Ulsted Rimmer, ét syd for Aalborg og ét vest for Nibe ved Halkær Bredning og Halkær Sø. De styrker biodiversiteten og friluftslivet.\n\nRådmand Jan Nymark Rose Thaysen kalder planen ambitiøs.  \n\"Det har været en stor og kompleks opgave at nå i mål med en samlet omlægningsplan for hele Aalborg Kommune. Jeg vil gerne kvittere for et godt og konstruktivt samarbejde i den lokale Aalborg Trepart,\" siger han.\n\nAalborg Trepart består af repræsentanter fra Naturstyrelsen, Danmarks Naturfredningsforening, Landbrug & Fødevarer og byrådet. Borgmester Lasse Frimand Jensen leder byrådets deltagelse.\n\nI 2026 starter dialogmøder med berørte borgere. Kaffe på bordet og samtaler med landmænd er planen.\n\nKvælstofindsatsen og lavbundsprojekterne skal være færdige i 2030. Skovrejsning og naturindsats fortsætter ud over.",
+  "prompt_tokens": 2149,
+  "completion_tokens": 562,
+  "latency_ms": 15667,
+  "cost_usd": 0.000767,
+  "created": "2026-11-10T05:41:08.878180Z",
+  "error": null
+}

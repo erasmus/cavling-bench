@@ -1,0 +1,21 @@
+{
+  "model_id": "nebius-qwen3-235b",
+  "pinned_version": "Qwen/Qwen3-235B-A22B-Instruct-2507",
+  "task_id": "t4_versionering",
+  "source_id": "fo-2026-tankstationer-reservation-beloeb",
+  "archetype": "landsavisen",
+  "prompt_sha256": "ede9e8a415c49ee12129e9dbfbc6937dc10e1d795912765ff0bc1ee76b5fc209",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 1025,
+    "reasoning_effort": null
+  },
+  "text": "Forbrugerombudsmanden har afsluttet en række sager mod store tankstationskæder, efter at de har reserveret urimeligt høje beløb på forbrugernes bankkonti ved brændstoftankning. Sagerne er en følge af en dialog i 2023 med brancheorganisationen Drivkraft Danmark om manglende samtykke og urimelige reservationsbeløb. Nu har de fleste kæder ændret deres praksis.\n\nQ8, OK, Shell og Uno-X har tidligere reserveret beløb langt over det, de fleste forbrugere faktisk betaler. Shell og Uno-X reserverede op til henholdsvis 1.500 og 1.200 kroner, mens Q8 og OK har reserveret 950 og 850 kroner. Forbrugerombudsmanden vurderer, at disse beløb ikke står i rimeligt forhold til tankpriser for mindre køretøjer. Desuden har reservationerne hos flere kæder ikke været frigivet hurtigt nok – i nogle tilfælde tog det op til 11 dage.\n\nShell og Uno-X har nu indført løsninger, hvor forbrugeren på skærmen kan vælge det maksimale reservationsbeløb, svarende til det beløb, de kan tanke for. OK har midlertidigt nedsat reservationen til 100 kroner og arbejder på en permanent løsning. Q8 reserverer fortsat 950 kroner, men har oplyst, at de arbejder på at implementere samtykke i skærmflowet – fuldt ud i midten af 2026.\n\nForbrugerombudsmand Torben Jensen understreger, at forbrugere skal give samtykke til det præcise reservationsbeløb, og at det reserverede beløb skal frigives hurtigst muligt. Han peger på, at manglende frigivelse ofte skyldes tekniske fejl hos bankerne, men at tankstationskæder alligevel har medvirkensansvar. Han er tilfreds med de nye løsninger hos Shell, Uno-X og OK, men forventer, at Q8 og OK fuldt ud efterlever reglerne.",
+  "prompt_tokens": 2863,
+  "completion_tokens": 549,
+  "latency_ms": 8790,
+  "cost_usd": 0.000902,
+  "created": "2026-11-10T05:42:03.266272Z",
+  "error": null
+}

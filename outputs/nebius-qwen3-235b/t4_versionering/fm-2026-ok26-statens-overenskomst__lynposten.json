@@ -1,0 +1,21 @@
+{
+  "model_id": "nebius-qwen3-235b",
+  "pinned_version": "Qwen/Qwen3-235B-A22B-Instruct-2507",
+  "task_id": "t4_versionering",
+  "source_id": "fm-2026-ok26-statens-overenskomst",
+  "archetype": "lynposten",
+  "prompt_sha256": "47a2a48cca08180a4f4d6ffed0bb9b17dcf88ad35f34a0079a785e6593097f83",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 1025,
+    "reasoning_effort": null
+  },
+  "text": "200.000 statsansatte får 8,7 pct. i lønstigning over tre år. Forliget mellem finansminister Nicolai Wammen, Centralorganisationernes Fællesudvalg (CFU) og Akademikerne gælder frem til 2029.\n\nLønrammen giver en reallønsfremgang for de fleste. De første lønstigninger træder i kraft allerede i foråret 2026.\n\nEt af hovedpunkterne er et ekstraordinært lønløft på 275 mio. kr. til Forsvarets militært ansatte. Formålet er at forbedre rekruttering og fastholdelse. Finansminister Nicolai Wammen siger:\n\n\"Det er helt afgørende, at det skal være attraktivt at arbejde i staten. Vi er afhængige af, at der er dygtige folk, som hver dag bidrager til velfærdssamfundet.\"\n\n250 mio. kr. går til lokal løn. 20 mio. kr. bruges på lønforbedringer for erhvervsskolelærere.\n\nDer kommer en ny fritvalgsordning. Medarbejdere kan vælge mellem løn, pension og frihed gennem en Fritvalgs Lønkonto. Udvalgte grupper får en fritvalgsdag. To ekstra seniordage indføres. Dage tages uden løn, men med støtte fra kontoen.\n\nFamilier får bedre vilkår. Der er nu fri med løn på hjemkaldelsesdagen og barnets tredje sygedag. Barselsorloven forbedres. Flere grupper får bedre lønret, herunder aleneforældre og sociale forældre. Deleorloven forlænges med to uger.\n\nFormålet er at gøre staten til en mere attraktiv arbejdsplads. Fokus er på fleksibilitet i hele arbejdslivet.\n\nForliget skal afstemmes i de faglige organisationer. Hvis det godkendes, gælder det fra 1. april 2026 til 31. marts 2029.",
+  "prompt_tokens": 1549,
+  "completion_tokens": 531,
+  "latency_ms": 6799,
+  "cost_usd": 0.0006284,
+  "created": "2026-11-10T05:41:45.870203Z",
+  "error": null
+}

@@ -1,0 +1,21 @@
+{
+  "model_id": "nebius-qwen3-235b",
+  "pinned_version": "Qwen/Qwen3-235B-A22B-Instruct-2507",
+  "task_id": "t4_versionering",
+  "source_id": "datatilsynet-2026-faaborg-midtfyn-ai-aeldrepleje",
+  "archetype": "lynposten",
+  "prompt_sha256": "b9d1df65a1eaf5fae8188b52ad9f88e3fb4c1830b7f46618befa2e7515263079",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 1025,
+    "reasoning_effort": null
+  },
+  "text": "18 ældre i Faaborg-Midtfyn er blevet overvåget med AI-teknologi uden tilstrækkeligt retligt grundlag. Datatilsynet kritiserer skarpt kommunens brug af systemet.\n\nSystemet bruger kameraer og sensorer til at analysere beboernes bevægelser, søvn og vejrtrækning. Det skulle øge trygheden og forebygge fald. Kommunen testede løsningen i seks måneder.\n\nTeknologien registrerer følsomme personoplysninger. Alligevel havde kommunen ikke foretaget en egentlig konsekvensanalyse. Det kræver reglerne, når der anvendes AI på sårbare borgere.\n\nRisikovurderingen var utilstrækkelig. Den nævnte kun generelle trusler. Kommunen vurderede alle risici som lave – uden begrundelse. Det accepterer Datatilsynet ikke.\n\nFormanden for Datatilsynet, Jacob Munk, siger:  \n\"Kommuner skal sikre, at ny teknologi overholder databeskyttelsesregler, før den tages i brug.\"  \nHan understreger:  \n\"Især når det gælder ældre med demens, er det afgørende, at borgerne beskyttes.\"\n\nKommunen henviste til ældreloven som retsgrundlag. Men det er ikke nok, mener Datatilsynet. Der findes særlige regler for velfærdsteknologi, som kommunen ikke har inddraget.\n\nDisse regler stiller krav til informerede samtykker, løbende evaluering og begrænset dataopbevaring. De gælder især, når AI anvendes til overvågning.\n\nDatatilsynet kræver nu, at kommunen reviderer sin tilgang. Andre kommuner advarer tilsynet mod at skynde sig med lignende projekter.\n\nAI kan hjælpe i plejen. Men ikke på bekostning af privatlivet.",
+  "prompt_tokens": 1604,
+  "completion_tokens": 480,
+  "latency_ms": 9127,
+  "cost_usd": 0.0006087999999999999,
+  "created": "2026-11-10T05:41:06.079335Z",
+  "error": null
+}

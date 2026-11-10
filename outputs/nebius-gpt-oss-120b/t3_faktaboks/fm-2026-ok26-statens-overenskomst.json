@@ -1,0 +1,21 @@
+{
+  "model_id": "nebius-gpt-oss-120b",
+  "pinned_version": "openai/gpt-oss-120b",
+  "task_id": "t3_faktaboks",
+  "source_id": "fm-2026-ok26-statens-overenskomst",
+  "archetype": null,
+  "prompt_sha256": "9bb055a0c0d5ad973bfdd2b561c279021cf60bebda06be2e1850b2d081687f3f",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 2075,
+    "reasoning_effort": "low"
+  },
+  "text": "- Overenskomstforliget dækker ca. 200.000 statslige medarbejdere og løber fra 1. april 2026 til 31. march 2029.  \n- Den samlede økonomiske ramme er 8,7 % over de kommende tre år.  \n- 275 millioner kr. af rammen er afsat til et ekstraordinært lønløft for Forsvarets militært ansatte.  \n- Der er afsat 250 millioner kr. til lokal løn og 20 millioner kr. til lønløft for erhvervsskolelærere.  \n- En fritvalgskonto indføres, hvor medarbejdere kan vælge mellem løn, pension, frihed samt to ekstra seniordage.",
+  "prompt_tokens": 1056,
+  "completion_tokens": 192,
+  "latency_ms": 775,
+  "cost_usd": 0.00027360000000000004,
+  "created": "2026-11-10T05:38:14.463458Z",
+  "error": null
+}

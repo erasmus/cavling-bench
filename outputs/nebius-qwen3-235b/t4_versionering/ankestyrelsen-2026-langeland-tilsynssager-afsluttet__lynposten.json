@@ -1,0 +1,21 @@
+{
+  "model_id": "nebius-qwen3-235b",
+  "pinned_version": "Qwen/Qwen3-235B-A22B-Instruct-2507",
+  "task_id": "t4_versionering",
+  "source_id": "ankestyrelsen-2026-langeland-tilsynssager-afsluttet",
+  "archetype": "lynposten",
+  "prompt_sha256": "40292cc14c2dfd5cba61ae7f90985c9126ed2f59530a24959dc6593d6cacd0e3",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 1025,
+    "reasoning_effort": null
+  },
+  "text": "295 sager gennemgået i Langeland Kommune efter fejl i sagsbehandling.  \n\nAnkestyrelsen afslutter to tilsynssager mod Langeland Kommune. Det rammer borgere, der har været igennem Familieafdelingens sagsbehandling.  \n\nI november 2022 konstaterede Ankestyrelsen, at kommunen ikke havde overholdt regler i offentlighedsloven, forvaltningsloven, retssikkerhedsloven og serviceloven. Tilsynet krævede derfor, at kommunen gennemgik eksisterende og afsluttede sager.  \n\nLangeland Kommune identificerede 295 sager til gennemgang. Der har været behov for præciseringer og ændringer i opfølgningen. I marts 2025 indgik kommunen sin slutorientering.  \n\nAnkestyrelsen vurderer nu, at kommunen har fulgt op. Der er foretaget individuel vurdering i sagerne. Fejl er identificeret. Relevante sager er genoptaget.  \n\n\"Det er derfor vores vurdering i dag, at kommunen har fulgt op på vores udtalelse fra november 2022 og gennemført de fornødne tiltag i Familieafdelingen. På den baggrund mener vi ikke, at der er grundlag for, at tilsynet foretager sig mere i sagen,\" siger ankechef Hanne Østergaard, Tilsyn og Underretning i Ankestyrelsen.  \n\nDen anden sag startede i 2024. Den byggede på en henvendelse fra en taskforce om bekymrende forhold i Familieafdelingen. Taskforcen stoppede derfor sit arbejde midlertidigt.  \n\nTaskforcen består af medarbejdere fra Socialstyrelsen og Ankestyrelsen. Den hjælper kommuner med at forbedre sagsbehandling for udsatte børn og unge.  \n\nTilsynet afsluttede sagen i august 2024. Der var ikke grundlag for sanktion. Men tilsynet ville følge op.  \n\nLangeland Kommune har nu omorganiseret Familieafdelingen. Der er sket en opnormering. Sagsbehandlingen er mere ensartet.  \n\nKommunen deltager nu i et nyt taskforce-forløb. Det løber fra maj 2026 til januar 2028. Fokus er på lovmedhold og socialfaglig kvalitet.  \n\nAnkestyrelsen konstaterer, at der ikke længere er grundlag for opfølgning.",
+  "prompt_tokens": 1720,
+  "completion_tokens": 653,
+  "latency_ms": 19008,
+  "cost_usd": 0.0007358,
+  "created": "2026-11-10T05:41:13.599139Z",
+  "error": null
+}

@@ -1,0 +1,21 @@
+{
+  "model_id": "nebius-qwen3-235b",
+  "pinned_version": "Qwen/Qwen3-235B-A22B-Instruct-2507",
+  "task_id": "t6_lydmanus",
+  "source_id": "dst-2026-ubeskaeftigede-oensker-arbejde",
+  "archetype": "lynposten",
+  "prompt_sha256": "2855c5316257bd3b05356a13494331b99bd05e93b58034fe1acf62550b94ecce",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 620,
+    "reasoning_effort": null
+  },
+  "text": "Fire hundrede og halvfjerds tusind ubeskæftigede ønsker et arbejde. Det viser tal fra Danmarks Statistik for første kvartal to tusind og seksogtyve. Der var ni hundrede og fem tusind ubeskæftigede i alt blandt personer i alderen femten til fireogtreds år. Andelen, der ønsker arbejde, er steget fra femogfyrre procent i første kvartal to tusind og fireogtyve. Stigningen svarer til femogfirs tusind flere personer. Blandt de yngste er seksogtres procent interesserede i et job. Blandt de ældste er det kun otteogtyve procent. Syv ud af ti i aldersgruppen femoghalvtreds til fireogtreds år ønsker ikke arbejde på grund af pension. Fire ud af fem unge, der ikke vil have arbejde, er i uddannelse. To hundrede og seksogtredive tusind personer er aktivt ledige efter internationale regler. Det svarer til syv og en halv procent af arbejdsstyrken. Det er en stigning på otte tiendedele procentpoint.",
+  "prompt_tokens": 2029,
+  "completion_tokens": 288,
+  "latency_ms": 8484,
+  "cost_usd": 0.0005786,
+  "created": "2026-11-10T05:44:53.741146Z",
+  "error": null
+}

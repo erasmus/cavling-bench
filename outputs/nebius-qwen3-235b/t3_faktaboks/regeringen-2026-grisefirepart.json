@@ -1,0 +1,21 @@
+{
+  "model_id": "nebius-qwen3-235b",
+  "pinned_version": "Qwen/Qwen3-235B-A22B-Instruct-2507",
+  "task_id": "t3_faktaboks",
+  "source_id": "regeringen-2026-grisefirepart",
+  "archetype": null,
+  "prompt_sha256": "8641ed13c42f8259da399106d72d2226ac43e4e86c591c7c3f0d858992fa815e",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 575,
+    "reasoning_effort": null
+  },
+  "text": "- Regeringen nedsætter en firepart for fremtidens griseproduktion med mål om bedre dyrevelfærd og bæredygtig produktion.  \n- Fireparten træder i kraft efter nytår og omfatter bl.a. Landbrug & Fødevarer, Dyrenes Beskyttelse og Dansk Erhverv.  \n- Cirka 95 procent af danske grise får klippet en del af halen af, ifølge natur- og dyrevelfærdsminister Christian Rabjerg Madsen.  \n- I de seneste 15 år er antallet af slagteriarbejdere i Danmark faldet med omkring en tredjedel, siger udenrigsminister Lars Løkke Rasmussen.  \n- Antallet af eksporterede smågrise er mere end tidoblet i løbet af de sidste 15 år, ifølge udenrigsministeren.",
+  "prompt_tokens": 1407,
+  "completion_tokens": 227,
+  "latency_ms": 3523,
+  "cost_usd": 0.0004176,
+  "created": "2026-11-10T05:40:52.313107Z",
+  "error": null
+}

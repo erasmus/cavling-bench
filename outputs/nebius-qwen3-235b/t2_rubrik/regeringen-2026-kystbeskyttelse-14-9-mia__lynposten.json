@@ -1,0 +1,21 @@
+{
+  "model_id": "nebius-qwen3-235b",
+  "pinned_version": "Qwen/Qwen3-235B-A22B-Instruct-2507",
+  "task_id": "t2_rubrik",
+  "source_id": "regeringen-2026-kystbeskyttelse-14-9-mia",
+  "archetype": "lynposten",
+  "prompt_sha256": "81ed566ccb4754736b5027355ae33ca8ad7e8e23520cb34e297af2a949a7703e",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 400,
+    "reasoning_effort": null
+  },
+  "text": "RUBRIK: Regeringen sætter 14,9 mia. kroner af til kystbeskyttelse  \nUNDERRUBRIK: Planen skal sikre 1 mio. danskere mod stigende vand og hyppigere stormflod – staten medfinansierer 85 procent af projekterne",
+  "prompt_tokens": 1917,
+  "completion_tokens": 79,
+  "latency_ms": 3144,
+  "cost_usd": 0.0004308,
+  "created": "2026-11-10T05:40:17.024467Z",
+  "error": null
+}

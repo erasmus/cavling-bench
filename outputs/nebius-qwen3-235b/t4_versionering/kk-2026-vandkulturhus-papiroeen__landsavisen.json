@@ -1,0 +1,21 @@
+{
+  "model_id": "nebius-qwen3-235b",
+  "pinned_version": "Qwen/Qwen3-235B-A22B-Instruct-2507",
+  "task_id": "t4_versionering",
+  "source_id": "kk-2026-vandkulturhus-papiroeen",
+  "archetype": "landsavisen",
+  "prompt_sha256": "45f38b792adb7ee477f425cdc57347c7f67bffd12b6e7d6a3e4e8d09893e5d53",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 1025,
+    "reasoning_effort": null
+  },
+  "text": "Københavns nye vandkulturhus KAI åbner 5. december 2026 på Papirøen. Byggeriet, tegnet af den japanske arkitektfirma Kengo Kuma & Associates, er et svar på en folkelig idé fra 2015, da Københavns Kommune indsamlede 160 forslag til ny fritidsfacilitet på Papirøen. Flertallet ønskede et svømmested med plads til ro, fordybelse og foreningsliv. Nu bliver visionen virkelighed med et 5.800 kvadratmeter stort hus, der kombinerer svømning, kultur og arkitektur i en markant ny bygning ved havnen.\n\nKAI rummer 10 bassiner, fordelt på flere etager. Stueetagen har et 25-meters motionsbassin, et undervisningsbassin og tre legebassiner, med direkte adgang til havnen via en træbrygge. På første etage ligger det ikoniske Dalbassin og Onsen, begge udendørs med udsigt over havnen. Arkitekten Yuki Ikeguchi fra Kengo Kuma & Associates kalder bygningen et led i havnens transformation fra industri- til kulturhavn og understreger, at KAI er et samlingssted, hvor vand og fællesskab står centralt.\n\nOverborgmester Sisse Marie Welling (SF) peger på manglen på svømmekapacitet i byen og kalder KAI en vigtig løsning for både børn og voksne. Kultur- og fritidsborgmester Christopher Røhl (R) ser KAI som en ny perle blandt byens markante samlingssteder, som Bryggen og Operaen.\n\nProjektet er muliggjort af en støtte på 546 millioner kroner fra Nordea-fonden, hvoraf 25 millioner går til bæredygtige løsninger som lodret jordpumpevarme. Bygherren, Ejendomsfonden Vandkulturhuset Papirøen, kalder KAI en funktionel og arkitektonisk unik bygning. Navnet KAI hentyder både til japansk for \"hav\" og dansk for kaj, og indskriver sig i traditionen med korte kulturbrands. KAI vil også rumme et kulturprogram med aktiviteter om vand, og kulturtårnet i bygningen skal blive et mødested for foreningsliv og kulturskabere.",
+  "prompt_tokens": 2669,
+  "completion_tokens": 616,
+  "latency_ms": 31988,
+  "cost_usd": 0.0009034000000000001,
+  "created": "2026-11-10T05:42:43.437474Z",
+  "error": null
+}

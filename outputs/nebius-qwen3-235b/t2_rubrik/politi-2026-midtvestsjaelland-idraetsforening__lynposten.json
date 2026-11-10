@@ -1,0 +1,21 @@
+{
+  "model_id": "nebius-qwen3-235b",
+  "pinned_version": "Qwen/Qwen3-235B-A22B-Instruct-2507",
+  "task_id": "t2_rubrik",
+  "source_id": "politi-2026-midtvestsjaelland-idraetsforening",
+  "archetype": "lynposten",
+  "prompt_sha256": "37c66b6e85b014a25b973ec333e4e3a8358bc3751ec12d652a8f92101a28949c",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 400,
+    "reasoning_effort": null
+  },
+  "text": "RUBRIK: 46-årig idømt et års fængsel for overgreb mod drenge  \nUNDERRUBRIK: Manden var ansat i idrætsforening i Roskilde. Ikke færre end 42 drenge blev ulovligt filmet, og flere blev seksuelt krænket. Han frakendes nu adgang til børn.",
+  "prompt_tokens": 1300,
+  "completion_tokens": 97,
+  "latency_ms": 21802,
+  "cost_usd": 0.0003182,
+  "created": "2026-11-10T05:40:24.183302Z",
+  "error": null
+}

@@ -56,11 +56,19 @@ def output_path(cfg: Config, model: ModelCfg, slot: Slot):
     return cfg.paths.outputs / model.id / slot.task.id / f"{slot.name}.json"
 
 
+def _has_error(path) -> bool:
+    """Outputs that recorded an error are retried on the next run; successes are kept."""
+    try:
+        return Output.model_validate_json(path.read_text()).error is not None
+    except Exception:  # noqa: BLE001 — unreadable file: regenerate it
+        return True
+
+
 async def _generate_one(
     cfg: Config, client: LLMClient, model: ModelCfg, slot: Slot, force: bool
 ) -> bool:
     path = output_path(cfg, model, slot)
-    if path.exists() and not force:
+    if path.exists() and not force and not _has_error(path):
         return False
     messages = render_messages(cfg, slot)
     params = client.effective_params(model, 0.0, slot.task.max_tokens, 42)

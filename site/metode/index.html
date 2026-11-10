@@ -100,7 +100,7 @@
     <div>
       <span class="pill">Arbejdsversion · foreløbige data</span>
       <h1>Et åbent benchmark for sprogmodeller på dansk redaktionelt arbejde</h1>
-      <p>Seks opgaver, 40 offentlige kildetekster, fire målte dimensioner og ingen samlet score. Her er maskinrummet, før tallene.</p>
+      <p>Seks opgaver, 40 offentlige kildetekster, fire målte dimensioner og ingen samlet score.</p>
     </div>
     <div class="facts">
       <div><b>6</b><span>redaktionelle opgaver</span></div>
@@ -111,7 +111,7 @@
   </section>
 
   <h2 id="pipeline">Pipelinen</h2>
-  <p class="sub">Seks trin, hvert et selvstændigt kommandolinjeværktøj. Klik på et trin for at se, hvad det tager ind, hvad det leverer, og hvor det er svagt.</p>
+  <p class="sub">Seks trin, hvert et selvstændigt kommandolinjeværktøj. Klik på et trin for at se, hvad det tager ind og hvad det leverer.</p>
   <div class="flow" role="tablist" aria-label="Pipeline-trin">
     <button role="tab" aria-selected="true" data-i="0"><small>collect</small><strong>Kilder</strong></button>
     <button role="tab" aria-selected="false" data-i="1"><small>generate</small><strong>Generering</strong></button>
@@ -123,7 +123,7 @@
   <div class="detail" id="detail" role="tabpanel" aria-live="polite"></div>
 
   <h2 id="opgaver">Opgaver × dimensioner</h2>
-  <p class="sub">Hver opgave måles kun på det, der giver mening for den. Tone måles kun, hvor der er en stilguide at ramme.</p>
+  <p class="sub">Hver opgave måles kun på det, der giver mening for den. Tone måles kun, hvor der er en redaktionel retningslinje at holde den op i mod.</p>
   <table>
     <thead><tr><th>Opgave</th><th>Krav</th><th>Stilguides</th><th class="c">Kildetroskab</th><th class="c">Fakta bevaret</th><th class="c">Tone</th><th class="c">Sprog</th><th class="c">Format</th></tr></thead>
     <tbody>
@@ -215,7 +215,7 @@
   </div>
 
   <h2 id="afvejninger">Styrker og svagheder</h2>
-  <p class="sub">Benchmarket er bygget til at være ærligt om sig selv. Hver svaghed står med den konsekvens, den har for læsningen af tallene.</p>
+  <p class="sub">Benchmarket er bygget til tydeligt at påpege eventuelle svagheder og hvilke  konsekvenser, de måtte have for læsningen af tallene.</p>
   <div class="trade">
     <div class="card"><h3>Styrker</h3><ul>
       <li>Rigtige redaktionelle opgaver<span>Ikke multiple choice; output kan læses og vurderes af en redaktør.</span></li>
@@ -227,9 +227,9 @@
     <div class="card w"><h3>Svagheder</h3><ul>
       <li>Én prompt til alle<span>Tunede opsætninger vil score højere.</span></li>
       <li>Kun 40 kildetekster<span>Overlappende intervaller er ikke forskelle.</span></li>
-      <li>Modeller bedømmer modeller<span>Tone og sprog hviler på dommere; menneskelig enighed afgør, hvor meget.</span></li>
-      <li>Opfundne publikationer<span>Udskift stilguiderne for at måle et rigtigt medie.</span></li>
-      <li>Øjebliksbillede<span>Modelversioner skifter på uger; alt er dateret.</span></li>
+      <li>Modeller bedømmer modeller<span>Tone og sprog hviler på dommere, menneskelig bedømmelse afgør, hvor meget.</span></li>
+      <li>Opfundne publikationer<span>Udskift de redaktionelle retningslinjer for at måle et rigtigt medie.</span></li>
+      <li>Øjebliksbillede<span>Modelversioner skifter på uger, så resultater er hurtigt forældede.</span></li>
     </ul></div>
   </div>
 

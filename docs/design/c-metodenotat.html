@@ -1,0 +1,154 @@
+<!DOCTYPE html>
+<html lang="da">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Forslag C · Metodenotat · Cavling-bench</title>
+<style>
+  :root { --bg:#ffffff; --side:#f6f6f4; --ink:#1b1b1a; --ink-2:#5c5b56; --line:#e4e3de; --accent:#0f6b5c; --note:#fff7e0; --note-ink:#6b4e00; }
+  @media (prefers-color-scheme: dark) { :root { --bg:#161615; --side:#1e1e1c; --ink:#ecebe6; --ink-2:#b5b3aa; --line:#34332f; --accent:#4fb8a4; --note:#2c2614; --note-ink:#e7cd7c; } }
+  * { box-sizing:border-box; }
+  body { margin:0; background:var(--bg); color:var(--ink); font:16px/1.6 "Inter", system-ui, -apple-system, sans-serif; display:grid; grid-template-columns:260px 1fr; min-height:100vh; }
+  aside { background:var(--side); border-right:1px solid var(--line); padding:1.5rem 1.25rem; position:sticky; top:0; height:100vh; overflow:auto; font-size:.9rem; }
+  aside .brand { font-weight:700; font-size:1.05rem; } aside .ver { color:var(--ink-2); font-size:.8rem; margin-bottom:1.5rem; }
+  aside h4 { font-size:.7rem; text-transform:uppercase; letter-spacing:.1em; color:var(--ink-2); margin:1.4rem 0 .4rem; }
+  aside a { display:block; color:var(--ink); text-decoration:none; padding:.25rem .5rem; border-radius:4px; }
+  aside a:hover { background:var(--line); }
+  aside a.res { margin-top:1.5rem; background:var(--accent); color:#fff; text-align:center; padding:.6rem; font-weight:600; }
+  main { max-width:780px; padding:2.5rem 3rem 5rem; }
+  .note { background:var(--note); color:var(--note-ink); border-radius:6px; padding:.8rem 1rem; font-size:.9rem; margin-bottom:2rem; }
+  h1 { font-size:2rem; line-height:1.2; margin:0 0 .5rem; }
+  .meta { color:var(--ink-2); font-size:.88rem; margin-bottom:2rem; }
+  .tldr { border:1px solid var(--line); border-radius:8px; padding:1.2rem 1.4rem; margin-bottom:2.5rem; }
+  .tldr h2 { border:0; padding:0; margin:0 0 .6rem; font-size:.75rem; text-transform:uppercase; letter-spacing:.1em; color:var(--accent); }
+  .tldr ul { margin:0; padding-left:1.1rem; } .tldr li { margin:.3rem 0; }
+  h2 { font-size:1.35rem; margin:2.8rem 0 .8rem; padding-top:1rem; border-top:1px solid var(--line); scroll-margin-top:1rem; }
+  h2 .n { color:var(--accent); font-variant-numeric:tabular-nums; margin-right:.4rem; }
+  h3 { font-size:1rem; margin:1.6rem 0 .3rem; }
+  details { border-bottom:1px solid var(--line); padding:.7rem 0; }
+  summary { cursor:pointer; font-weight:600; } details p { margin:.5rem 0 .2rem; color:var(--ink-2); }
+  table { width:100%; border-collapse:collapse; font-size:.88rem; margin:1rem 0; }
+  th, td { border-bottom:1px solid var(--line); padding:.55rem .5rem; text-align:left; vertical-align:top; }
+  th { font-size:.72rem; text-transform:uppercase; letter-spacing:.06em; color:var(--ink-2); }
+  .sev { display:inline-block; font-size:.72rem; font-weight:600; padding:.1rem .45rem; border-radius:3px; }
+  .hi { background:#f8d7cf; color:#8a2a14; } .md { background:#fbecc4; color:#6b4e00; } .lo { background:#d9efe7; color:#0f5a4c; }
+  @media (prefers-color-scheme: dark) { .hi { background:#4a2018; color:#f3b3a2; } .md { background:#40350f; color:#e7cd7c; } .lo { background:#173a33; color:#9fdccd; } }
+  pre { background:var(--side); border:1px solid var(--line); border-radius:6px; padding:.8rem 1rem; font-size:.82rem; overflow:auto; }
+  .flowtext { font-family:ui-monospace, monospace; font-size:.85rem; background:var(--side); border-radius:6px; padding:1rem; line-height:1.9; }
+  .flowtext b { color:var(--accent); }
+  @media (max-width:860px) { body { grid-template-columns:1fr; } aside { position:static; height:auto; } main { padding:1.5rem 1.25rem; } }
+</style>
+</head>
+<body>
+<aside aria-label="Navigation">
+  <div class="brand">Cavling-bench</div>
+  <div class="ver">Metodenotat · udkast · 10. nov. 2026</div>
+  <h4>Metode</h4>
+  <a href="#formaal">1 Formål</a>
+  <a href="#data">2 Data</a>
+  <a href="#opgaver">3 Opgaver</a>
+  <a href="#scoring">4 Scoring</a>
+  <a href="#pipeline">5 Pipeline</a>
+  <h4>Vurdering</h4>
+  <a href="#valg">6 Hvorfor sådan?</a>
+  <a href="#begraensninger">7 Begrænsninger</a>
+  <a href="#status">8 Status</a>
+  <a class="res" href="../../site/index.html">Foreløbige resultater →</a>
+  <h4>Kilder</h4>
+  <a href="https://github.com/erasmus/cavling-bench">GitHub-repo</a>
+  <a href="https://github.com/erasmus/cavling-bench/blob/main/DECISIONS.md">Beslutningslog</a>
+</aside>
+
+<main>
+  <div class="note" role="note"><b>Arbejdsversion.</b> Metoden er ikke låst, og resultaterne er foreløbige. Ændringer føres i beslutningsloggen.</div>
+  <h1>Cavling-bench: metode og ræsonnement</h1>
+  <div class="meta">Erasmus Hagen · Kode MIT · Data CC BY 4.0</div>
+
+  <section class="tldr" aria-labelledby="kort">
+    <h2 id="kort">Kort fortalt</h2>
+    <ul>
+      <li>13 sprogmodeller løser 6 redaktionelle opgaver på 40 danske offentlige kildetekster.</li>
+      <li>Fire dimensioner: kildetroskab, tonefit, dansk sprogkvalitet og format, målt hver for sig.</li>
+      <li>Mekaniske tjek, to dommermodeller fra forskellige familier og en blindet menneskelig stikprøve.</li>
+      <li>Ingen samlet score. Alle tal har 95 % konfidensintervaller.</li>
+      <li>Pris, latens, licens og EU-forhold rapporteres ved siden af kvaliteten.</li>
+    </ul>
+  </section>
+
+  <h2 id="formaal"><span class="n">1</span>Formål</h2>
+  <p>Benchmarket besvarer ét spørgsmål for danske nyhedsmedier: hvilke sprogmodeller kan betros danske redaktionelle opgaver, på hvilket grundlag, og til hvilken afhængighedspris? Det er ikke en generel sprogtest, og det rangerer ikke modeller samlet.</p>
+
+  <h2 id="data"><span class="n">2</span>Data</h2>
+  <table>
+    <thead><tr><th>Domæne</th><th>Tekster</th><th>Eksempler på afsendere</th></tr></thead>
+    <tbody>
+      <tr><td>Politik</td><td>8</td><td>Regeringen, ministerier</td></tr>
+      <tr><td>Økonomi</td><td>8</td><td>Danmarks Statistik, Nationalbanken</td></tr>
+      <tr><td>Retsvæsen</td><td>6</td><td>Anklagemyndigheden, politikredse</td></tr>
+      <tr><td>Forbruger</td><td>6</td><td>Forbrugerombudsmanden, KFST, Finanstilsynet</td></tr>
+      <tr><td>Lokalt</td><td>6</td><td>Kommuner, Region Midtjylland</td></tr>
+      <tr><td>Tilsyn</td><td>6</td><td>Ombudsmanden, Rigsrevisionen, Datatilsynet</td></tr>
+    </tbody>
+  </table>
+  <p>300–1.500 ord pr. tekst, udgivet efter 1. januar 2025. Hver tekst har mindst fem håndskrevne fakta, heraf mindst tre kritiske. Otte tekster indeholder en bevidst uklarhed.</p>
+
+  <h2 id="opgaver"><span class="n">3</span>Opgaver</h2>
+  <table>
+    <thead><tr><th>Opgave</th><th>Krav</th><th>Stilguide</th><th>Tekster/model</th></tr></thead>
+    <tbody>
+      <tr><td>T1 Nyhedstelegram</td><td>90–120 ord, ét afsnit</td><td>–</td><td>40</td></tr>
+      <tr><td>T2 Rubrik</td><td>≤ 60 + ≤ 160 tegn</td><td>Alle tre</td><td>120</td></tr>
+      <tr><td>T3 Faktaboks</td><td>5 punkter</td><td>–</td><td>40</td></tr>
+      <tr><td>T4 Versionering</td><td>225–275 ord</td><td>Tabloid, omnibus</td><td>80</td></tr>
+      <tr><td>T5 Forkortelse</td><td>180–220 ord, alle fakta</td><td>–</td><td>40</td></tr>
+      <tr><td>T6 Lydmanus</td><td>100–140 ord, tal som ord</td><td>Tabloid</td><td>40</td></tr>
+    </tbody>
+  </table>
+
+  <h2 id="scoring"><span class="n">4</span>Scoring</h2>
+  <h3>Kildetroskab</h3><p>Dommeren udtrækker atomare påstande og mærker dem understøttet, uunderstøttet eller modsagt med citat fra kilden. Rapporteres som andel understøttet og antal modsigelser.</p>
+  <h3>Tonefit</h3><p>Parvise blinde sammenligninger mod stilguiden; hver model indgår i mindst fire par pr. opgave. Omregnes med Bradley–Terry til en rating med middelværdi 50.</p>
+  <h3>Sprogkvalitet</h3><p>Skala 1–5 med skrevne ankre. Dommeren citerer de konkrete problemer.</p>
+  <h3>Format og fakta</h3><p>Regler i kode: ordtal, tegngrænser, punktantal, tal og forkortelser i lydmanus, samt bevarede tal og datoer med dansk talnormalisering.</p>
+
+  <h2 id="pipeline"><span class="n">5</span>Pipeline</h2>
+  <div class="flowtext"><b>collect</b> → <b>generate</b> → <b>check</b> → <b>judge</b> grounding · tone · fluency → <b>spotcheck</b> → <b>agreement</b> → <b>report</b> → <b>site</b></div>
+  <p>Hvert trin er idempotent og kan køres alene. Rapporten genskabes fra de committede scorer uden API-nøgler:</p>
+  <pre>uv sync
+uv run danews report</pre>
+
+  <h2 id="valg"><span class="n">6</span>Hvorfor sådan?</h2>
+  <details open><summary>Hvorfor ingen samlet score?</summary><p>En lokalavis og et erhvervsmedie vægter kildetroskab, tone og pris forskelligt. En samlet score skjuler netop den afvejning, læseren skal foretage.</p></details>
+  <details><summary>Hvorfor offentlige kildetekster?</summary><p>De må genbruges, de er tætte på efterprøvelige fakta, og de bruger ikke medieindhold, som modellerne kan være trænet på eller som er ophavsretligt beskyttet.</p></details>
+  <details><summary>Hvorfor to dommere fra forskellige familier?</summary><p>Modeller har en tendens til at foretrække tekst fra deres egen familie. Ingen dommer bedømmer tone hos sin egen familie, og celler med kun én dommer markeres.</p></details>
+  <details><summary>Hvorfor parvis tone i stedet for en karakter?</summary><p>Dommere er mere stabile, når de vælger mellem to tekster, end når de giver absolutte karakterer for stil.</p></details>
+  <details><summary>Hvorfor opfundne publikationer?</summary><p>For ikke at efterligne rigtige mediers stemme. Stilguiderne kan udskiftes, så et medie kan måle mod sin egen.</p></details>
+
+  <h2 id="begraensninger"><span class="n">7</span>Begrænsninger</h2>
+  <table>
+    <thead><tr><th>Begrænsning</th><th>Vægt</th><th>Hvad det betyder</th><th>Hvad vi gør</th></tr></thead>
+    <tbody>
+      <tr><td>Én fælles prompt</td><td><span class="sev md">Middel</span></td><td>Tunede opsætninger undervurderes</td><td>Første punkt i v2</td></tr>
+      <tr><td>40 kildetekster</td><td><span class="sev hi">Høj</span></td><td>Brede intervaller</td><td>Intervaller på alle tal</td></tr>
+      <tr><td>Tone er dommer-relativ</td><td><span class="sev hi">Høj</span></td><td>Afhænger af dommerens smag</td><td>Menneskelig enighed; ”vejledende” under 0,4</td></tr>
+      <tr><td>Sprog bedømt af modeller</td><td><span class="sev md">Middel</span></td><td>Dommere overser danske fejl</td><td>Menneskelig stikprøve</td></tr>
+      <tr><td>Opfundne arketyper</td><td><span class="sev lo">Lav</span></td><td>Ikke rigtige mediers stemmer</td><td>Udskiftelige stilguides</td></tr>
+      <tr><td>Dommer A er i testen</td><td><span class="sev lo">Lav</span></td><td>Risiko for selvbedømmelse</td><td>Krydsfamilie-regel, markerede celler</td></tr>
+      <tr><td>Modeller ændrer sig</td><td><span class="sev md">Middel</span></td><td>Tal forældes på uger</td><td>Datering og genkørsel med én kommando</td></tr>
+    </tbody>
+  </table>
+
+  <h2 id="status"><span class="n">8</span>Status</h2>
+  <table>
+    <thead><tr><th>Trin</th><th>Status</th></tr></thead>
+    <tbody>
+      <tr><td>Kilder og fakta</td><td>40 af 40</td></tr>
+      <tr><td>Generering</td><td>4 af 13 modeller</td></tr>
+      <tr><td>Dommere</td><td>Kørt for de 4 modeller</td></tr>
+      <tr><td>Menneskelig stikprøve</td><td>0 af 150</td></tr>
+    </tbody>
+  </table>
+  <p><a href="../../site/index.html">Se de foreløbige resultater →</a></p>
+</main>
+</body>
+</html>

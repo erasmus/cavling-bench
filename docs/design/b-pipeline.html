@@ -1,0 +1,160 @@
+<!DOCTYPE html>
+<html lang="da">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Forslag B · Pipeline først · Cavling-bench</title>
+<style>
+  :root { --bg:#fcfcfb; --panel:#ffffff; --ink:#0b0b0b; --ink-2:#55544f; --line:#e3e2dd; --accent:#2a78d6; --good:#1baf7a; --warn:#eb6834; --soft:#f3f2ee; }
+  @media (prefers-color-scheme: dark) { :root { --bg:#1a1a19; --panel:#222220; --ink:#f0efec; --ink-2:#c3c2b7; --line:#383835; --accent:#3987e5; --good:#199e70; --warn:#d95926; --soft:#262624; } }
+  * { box-sizing:border-box; }
+  body { margin:0; background:var(--bg); color:var(--ink); font:16px/1.55 system-ui, -apple-system, "Segoe UI", Roboto, sans-serif; }
+  .wrap { max-width:1140px; margin:0 auto; padding:0 1.25rem; }
+  .top { display:flex; justify-content:space-between; align-items:center; padding:1rem 0; border-bottom:1px solid var(--line); font-size:.9rem; }
+  .top b { font-size:1rem; } .top nav a { color:var(--ink-2); text-decoration:none; margin-left:1.2rem; }
+  .pill { display:inline-block; font-size:.75rem; font-weight:600; padding:.2rem .6rem; border-radius:99px; background:color-mix(in srgb, var(--warn) 18%, transparent); color:var(--warn); }
+  .hero { padding:3.5rem 0 2rem; display:grid; grid-template-columns:1.3fr 1fr; gap:3rem; align-items:end; }
+  h1 { font-size:clamp(2rem,4vw,2.9rem); line-height:1.1; margin:.7rem 0 1rem; letter-spacing:-.01em; }
+  .hero p { color:var(--ink-2); font-size:1.1rem; margin:0; }
+  .facts { display:grid; grid-template-columns:repeat(2,1fr); gap:.75rem; }
+  .facts div { background:var(--soft); border-radius:8px; padding:.9rem 1rem; }
+  .facts b { display:block; font-size:1.7rem; font-variant-numeric:tabular-nums; }
+  .facts span { color:var(--ink-2); font-size:.85rem; }
+  h2 { font-size:1.45rem; margin:3.5rem 0 .4rem; } .sub { color:var(--ink-2); margin:0 0 1.5rem; max-width:70ch; }
+  /* pipeline flow */
+  .flow { display:grid; grid-template-columns:repeat(6,1fr); gap:0; counter-reset:s; }
+  .flow button { all:unset; cursor:pointer; position:relative; padding:1rem .9rem 1rem 1rem; background:var(--panel); border:1px solid var(--line); border-right:none; }
+  .flow button:last-child { border-right:1px solid var(--line); border-radius:0 8px 8px 0; } .flow button:first-child { border-radius:8px 0 0 8px; }
+  .flow button::after { content:""; position:absolute; right:-9px; top:50%; width:16px; height:16px; background:inherit; border-top:1px solid var(--line); border-right:1px solid var(--line); transform:translateY(-50%) rotate(45deg); z-index:1; }
+  .flow button:last-child::after { display:none; }
+  .flow button[aria-selected="true"] { background:var(--accent); color:#fff; border-color:var(--accent); }
+  .flow button[aria-selected="true"] small { color:#ffffffcc; }
+  .flow button:focus-visible { outline:3px solid var(--accent); outline-offset:2px; }
+  .flow small { display:block; font-size:.72rem; color:var(--ink-2); font-family:ui-monospace, monospace; }
+  .flow strong { font-size:.95rem; }
+  .detail { display:grid; grid-template-columns:repeat(4,1fr); gap:1px; background:var(--line); border:1px solid var(--line); border-radius:8px; overflow:hidden; margin-top:1rem; }
+  .detail div { background:var(--panel); padding:1rem; font-size:.92rem; }
+  .detail h4 { margin:0 0 .4rem; font-size:.72rem; text-transform:uppercase; letter-spacing:.08em; color:var(--ink-2); }
+  .detail .weak h4 { color:var(--warn); }
+  /* matrix */
+  table { width:100%; border-collapse:collapse; background:var(--panel); border:1px solid var(--line); border-radius:8px; overflow:hidden; font-size:.9rem; }
+  th, td { padding:.65rem .8rem; border-bottom:1px solid var(--line); text-align:left; vertical-align:top; }
+  thead th { background:var(--soft); font-size:.78rem; text-transform:uppercase; letter-spacing:.05em; color:var(--ink-2); }
+  td.c { text-align:center; } .dot { display:inline-block; width:10px; height:10px; border-radius:50%; background:var(--accent); }
+  .dot.m { background:transparent; border:2px solid var(--accent); }
+  .legend { font-size:.82rem; color:var(--ink-2); margin-top:.5rem; }
+  /* judges */
+  .judges { display:grid; grid-template-columns:repeat(3,1fr); gap:1rem; }
+  .card { background:var(--panel); border:1px solid var(--line); border-radius:8px; padding:1.1rem; }
+  .card h3 { margin:0 0 .3rem; font-size:1rem; } .card p { margin:0; color:var(--ink-2); font-size:.92rem; }
+  .card .tag { font-size:.75rem; font-weight:600; color:var(--accent); }
+  /* tradeoffs */
+  .trade { display:grid; grid-template-columns:1fr 1fr; gap:1rem; }
+  .trade .card { border-top:4px solid var(--good); } .trade .card.w { border-top-color:var(--warn); }
+  .trade ul { margin:.4rem 0 0; padding-left:1.1rem; font-size:.93rem; } .trade li { margin:.45rem 0; }
+  .trade li span { display:block; color:var(--ink-2); font-size:.85rem; }
+  .results { margin:3.5rem 0 4rem; padding:2rem; border-radius:12px; background:var(--soft); display:flex; justify-content:space-between; align-items:center; gap:2rem; }
+  .results p { margin:.3rem 0 0; color:var(--ink-2); max-width:60ch; }
+  .btn { background:var(--accent); color:#fff; text-decoration:none; padding:.8rem 1.3rem; border-radius:8px; font-weight:600; white-space:nowrap; }
+  @media (max-width:860px) { .hero, .trade, .judges { grid-template-columns:1fr; } .flow { grid-template-columns:1fr 1fr; } .flow button { border:1px solid var(--line) !important; border-radius:0 !important; } .flow button::after { display:none; } .detail { grid-template-columns:1fr 1fr; } .results { flex-direction:column; align-items:flex-start; } }
+</style>
+</head>
+<body>
+<div class="wrap">
+  <div class="top"><b>Cavling-bench</b><nav><a href="#pipeline">Pipeline</a><a href="#opgaver">Opgaver</a><a href="#dommere">Bedømmelse</a><a href="#afvejninger">Styrker og svagheder</a><a href="#resultater">Resultater</a></nav></div>
+
+  <section class="hero">
+    <div>
+      <span class="pill">Arbejdsversion · foreløbige data</span>
+      <h1>Et åbent benchmark for sprogmodeller på dansk redaktionelt arbejde</h1>
+      <p>Seks opgaver, 40 offentlige kildetekster, fire målte dimensioner og ingen samlet score. Her er maskinrummet, før tallene.</p>
+    </div>
+    <div class="facts">
+      <div><b>6</b><span>redaktionelle opgaver</span></div>
+      <div><b>40</b><span>danske kildetekster</span></div>
+      <div><b>13</b><span>modeller i fem lag</span></div>
+      <div><b>360</b><span>tekster pr. model</span></div>
+    </div>
+  </section>
+
+  <h2 id="pipeline">Pipelinen</h2>
+  <p class="sub">Seks trin, hvert et selvstændigt kommandolinjeværktøj. Klik på et trin for at se, hvad det tager ind, hvad det leverer, og hvor det er svagt.</p>
+  <div class="flow" role="tablist" aria-label="Pipeline-trin">
+    <button role="tab" aria-selected="true" data-i="0"><small>collect</small><strong>Kilder</strong></button>
+    <button role="tab" aria-selected="false" data-i="1"><small>generate</small><strong>Generering</strong></button>
+    <button role="tab" aria-selected="false" data-i="2"><small>check</small><strong>Mekaniske tjek</strong></button>
+    <button role="tab" aria-selected="false" data-i="3"><small>judge</small><strong>Dommere</strong></button>
+    <button role="tab" aria-selected="false" data-i="4"><small>spotcheck</small><strong>Mennesker</strong></button>
+    <button role="tab" aria-selected="false" data-i="5"><small>report</small><strong>Rapport</strong></button>
+  </div>
+  <div class="detail" id="detail" role="tabpanel" aria-live="polite"></div>
+
+  <h2 id="opgaver">Opgaver × dimensioner</h2>
+  <p class="sub">Hver opgave måles kun på det, der giver mening for den. Tone måles kun, hvor der er en stilguide at ramme.</p>
+  <table>
+    <thead><tr><th>Opgave</th><th>Krav</th><th>Stilguides</th><th class="c">Kildetroskab</th><th class="c">Fakta bevaret</th><th class="c">Tone</th><th class="c">Sprog</th><th class="c">Format</th></tr></thead>
+    <tbody>
+      <tr><td><b>T1 Nyhedstelegram</b></td><td>90–120 ord</td><td>–</td><td class="c"><span class="dot"></span></td><td class="c"><span class="dot m"></span></td><td class="c"></td><td class="c"><span class="dot"></span></td><td class="c"><span class="dot"></span></td></tr>
+      <tr><td><b>T2 Rubrik</b></td><td>≤ 60 + ≤ 160 tegn</td><td>3</td><td class="c"><span class="dot"></span></td><td class="c"></td><td class="c"><span class="dot"></span></td><td class="c"><span class="dot"></span></td><td class="c"><span class="dot"></span></td></tr>
+      <tr><td><b>T3 Faktaboks</b></td><td>5 punkter</td><td>–</td><td class="c"><span class="dot"></span></td><td class="c"><span class="dot m"></span></td><td class="c"></td><td class="c"><span class="dot"></span></td><td class="c"><span class="dot"></span></td></tr>
+      <tr><td><b>T4 Versionering</b></td><td>225–275 ord</td><td>2</td><td class="c"><span class="dot"></span></td><td class="c"></td><td class="c"><span class="dot"></span></td><td class="c"><span class="dot"></span></td><td class="c"><span class="dot"></span></td></tr>
+      <tr><td><b>T5 Forkortelse</b></td><td>180–220 ord</td><td>–</td><td class="c"><span class="dot"></span></td><td class="c"><span class="dot m"></span></td><td class="c"></td><td class="c"><span class="dot"></span></td><td class="c"><span class="dot"></span></td></tr>
+      <tr><td><b>T6 Lydmanus</b></td><td>100–140 ord, tal som ord</td><td>1</td><td class="c"><span class="dot"></span></td><td class="c"></td><td class="c"><span class="dot"></span></td><td class="c"><span class="dot"></span></td><td class="c"><span class="dot"></span></td></tr>
+    </tbody>
+  </table>
+  <p class="legend"><span class="dot"></span> dommermodel eller regel &nbsp; <span class="dot m"></span> mekanisk tjek mod håndskreven faktaliste</p>
+
+  <h2 id="dommere">Hvem bedømmer?</h2>
+  <p class="sub">Tre lag, der kontrollerer hinanden. Enigheden mellem dem offentliggøres; er den for lav, mærkes tabellen <i>vejledende</i>.</p>
+  <div class="judges">
+    <div class="card"><span class="tag">100 % af teksterne</span><h3>Dommer A</h3><p>Åben model (gpt-oss-120b). Bedømmer kildetroskab, tone og sprog. Bedømmer aldrig tonen hos sin egen modelfamilie.</p></div>
+    <div class="card"><span class="tag">25 % stikprøve</span><h3>Dommer B</h3><p>Anden modelfamilie (DeepSeek-V4-Pro). Bruges til at måle, hvor enige dommerne er, og dækker de tonebedømmelser, A ikke må lave.</p></div>
+    <div class="card"><span class="tag">150 tekster, blindet</span><h3>Mennesker</h3><p>Redaktionelle bedømmere uden modelnavne. Facit for, om dommerne kan stoles på.</p></div>
+  </div>
+
+  <h2 id="afvejninger">Styrker og svagheder</h2>
+  <p class="sub">Benchmarket er bygget til at være ærligt om sig selv. Hver svaghed står med den konsekvens, den har for læsningen af tallene.</p>
+  <div class="trade">
+    <div class="card"><h3>Styrker</h3><ul>
+      <li>Rigtige redaktionelle opgaver<span>Ikke multiple choice; output kan læses og vurderes af en redaktør.</span></li>
+      <li>Fakta tjekkes mekanisk<span>Bevarede tal og datoer kræver ingen dommermodel.</span></li>
+      <li>Usikkerhed på alle tal<span>95 % bootstrap-intervaller over kildetekster.</span></li>
+      <li>Afhængighed ved siden af kvalitet<span>Pris, latens, licens, åbne vægte, EU-residens.</span></li>
+      <li>Fuldt reproducerbart<span>Rå output, scorer og prompts i repoet.</span></li>
+    </ul></div>
+    <div class="card w"><h3>Svagheder</h3><ul>
+      <li>Én prompt til alle<span>Tunede opsætninger vil score højere.</span></li>
+      <li>Kun 40 kildetekster<span>Overlappende intervaller er ikke forskelle.</span></li>
+      <li>Modeller bedømmer modeller<span>Tone og sprog hviler på dommere; menneskelig enighed afgør, hvor meget.</span></li>
+      <li>Opfundne publikationer<span>Udskift stilguiderne for at måle et rigtigt medie.</span></li>
+      <li>Øjebliksbillede<span>Modelversioner skifter på uger; alt er dateret.</span></li>
+    </ul></div>
+  </div>
+
+  <section class="results" id="resultater">
+    <div><span class="pill">4 af 13 modeller kørt · 0 af 150 menneskelige bedømmelser</span>
+      <h2 style="margin:.6rem 0 0">Foreløbige resultater</h2>
+      <p>Tallene viser, at pipelinen virker, ikke hvilken model der er bedst. Citér dem ikke som en rangering.</p></div>
+    <a class="btn" href="../../site/index.html">Se resultaterne →</a>
+  </section>
+</div>
+<script>
+const steps = [
+  { ind:'Registret over 50 kandidattekster fra ministerier, Danmarks Statistik, politi, tilsyn og kommuner.', ud:'40 rensede kildetekster og håndskrevne faktalister. Fryses før kørslen.', hvorfor:'Offentlige tekster må genbruges og er tætte på tal, navne og datoer, der kan efterprøves.', svag:'Offentligt sprog er ikke hele nyhedsbilledet; ingen interviews, ingen breaking news.' },
+  { ind:'Opgaveprompts, stilguides og kildetekster.', ud:'360 tekster pr. model med tokens, pris, latens og version.', hvorfor:'Samme prompt, temperatur 0 og fast seed gør modellerne sammenlignelige.', svag:'Én fælles prompt undervurderer modeller, der ville klare sig bedre med tuning.' },
+  { ind:'Alle output og faktalister.', ud:'Format, bevarede fakta, engelsk i teksten, særskrivning, sproglige tics.', hvorfor:'Det, der kan måles med regler, skal ikke overlades til en model.', svag:'Tics og særskrivning er heuristikker; de rapporteres som indikatorer, ikke scorer.' },
+  { ind:'Output, kilde og stilguide, anonymiseret.', ud:'Påstande med labels, parvise toneafgørelser, sprogkarakterer.', hvorfor:'Skalerer til tusindvis af tekster; to modelfamilier begrænser selvbedømmelse.', svag:'Dommerne er selv sprogmodeller, og deres dansk er ikke perfekt.' },
+  { ind:'Stratificeret, blindet stikprøve på 150 tekster.', ud:'Menneskelige karakterer og enighedstal mod dommerne.', hvorfor:'Viser, hvor meget dommernes tal er værd.', svag:'Få bedømmere; stikprøven er lille pr. model og opgave.' },
+  { ind:'Alle scorefiler; ingen API-kald.', ud:'Tabeller pr. opgave med intervaller, afhængighedstabel, figurer.', hvorfor:'Ingen samlet score: en redaktion vægter dimensionerne forskelligt.', svag:'Uden samlet score skal læseren selv gøre arbejdet med at afveje.' },
+];
+const tabs = document.querySelectorAll('.flow button'), detail = document.getElementById('detail');
+function show(i) {
+  tabs.forEach(t => t.setAttribute('aria-selected', t.dataset.i == i));
+  const s = steps[i];
+  detail.innerHTML = `<div><h4>Ind</h4>${s.ind}</div><div><h4>Ud</h4>${s.ud}</div><div><h4>Hvorfor</h4>${s.hvorfor}</div><div class="weak"><h4>Svaghed</h4>${s.svag}</div>`;
+}
+tabs.forEach(t => t.addEventListener('click', () => show(t.dataset.i)));
+show(0);
+</script>
+</body>
+</html>

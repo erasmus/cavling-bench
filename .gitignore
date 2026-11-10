@@ -7,8 +7,8 @@ __pycache__/
 .pytest_cache/
 .ruff_cache/
 dist/
-site/site_data.json
-site/figures/
+site/resultater/site_data.json
+site/resultater/figures/
 
 # Spec stays out of version control
 REQUIREMENTS.md

@@ -3,174 +3,117 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Cavling-bench – hvilke sprogmodeller kan betros danske redaktionelle opgaver?</title>
+<title>Cavling-bench – kan en sprogmodel skrive dansk nyhedsjournalistik?</title>
+<meta name="description" content="Et åbent benchmark, der tester sprogmodeller på seks danske redaktionelle opgaver. Arbejdsversion.">
 <style>
-  :root { color-scheme: light; --surface: #fcfcfb; --surface-2: #f3f2ee; --text: #0b0b0b; --text-2: #52514e; --grid: #e3e2dd; --accent: #2a78d6;
-          --t-frontier_proprietary:#2a78d6; --t-mid_proprietary:#eb6834; --t-eu:#1baf7a; --t-open_global:#eda100; --t-open_nordic:#e87ba4; }
-  @media (prefers-color-scheme: dark) { :root { color-scheme: dark; --surface:#1a1a19; --surface-2:#242423; --text:#f0efec; --text-2:#c3c2b7; --grid:#383835; --accent:#3987e5;
-          --t-frontier_proprietary:#3987e5; --t-mid_proprietary:#d95926; --t-eu:#199e70; --t-open_global:#c98500; --t-open_nordic:#d55181; } }
-  * { box-sizing: border-box; }
-  body { margin: 0; font: 16px/1.5 system-ui, -apple-system, "Segoe UI", Roboto, sans-serif; background: var(--surface); color: var(--text); }
-  main { max-width: 1100px; margin: 0 auto; padding: 2rem 1.25rem 4rem; }
-  h1 { font-size: 1.8rem; margin: 0 0 .25rem; } h2 { font-size: 1.3rem; margin: 2.5rem 0 .75rem; } h3 { font-size: 1.05rem; margin: 1.5rem 0 .5rem; }
-  p.lead { color: var(--text-2); max-width: 70ch; }
-  .meta { color: var(--text-2); font-size: .9rem; }
-  table { border-collapse: collapse; width: 100%; font-size: .9rem; margin: .5rem 0 1rem; }
-  th, td { text-align: left; padding: .4rem .5rem; border-bottom: 1px solid var(--grid); vertical-align: top; }
-  th { color: var(--text-2); font-weight: 600; cursor: pointer; user-select: none; white-space: nowrap; }
-  th[aria-sort]::after { content: " ↕"; opacity: .5; } th[aria-sort="ascending"]::after { content: " ↑"; opacity: 1; } th[aria-sort="descending"]::after { content: " ↓"; opacity: 1; }
-  td.num { font-variant-numeric: tabular-nums; white-space: nowrap; }
-  .ci { color: var(--text-2); font-size: .8em; }
-  .tier { display: inline-block; width: .7em; height: .7em; border-radius: 50%; margin-right: .4em; vertical-align: -1px; }
-  .badge { display: inline-block; font-size: .75rem; padding: .05rem .4rem; border: 1px solid var(--grid); border-radius: .5rem; color: var(--text-2); margin-left: .4rem; }
-  .figs { display: grid; grid-template-columns: repeat(auto-fit, minmax(320px, 1fr)); gap: 1rem; }
-  .figs img { width: 100%; height: auto; background: white; border: 1px solid var(--grid); border-radius: 6px; }
-  details { background: var(--surface-2); padding: .75rem 1rem; border-radius: 6px; margin: .5rem 0; }
-  summary { cursor: pointer; font-weight: 600; }
-  button.model { background: none; border: 0; color: var(--accent); cursor: pointer; padding: 0; font: inherit; text-decoration: underline; }
-  #panel { position: fixed; right: 0; top: 0; height: 100%; width: min(420px, 100%); background: var(--surface-2); border-left: 1px solid var(--grid); padding: 1.25rem; overflow: auto; transform: translateX(100%); transition: transform .2s; }
-  #panel[aria-hidden="false"] { transform: none; }
-  #panel dl { display: grid; grid-template-columns: 9rem 1fr; gap: .3rem .6rem; font-size: .9rem; } #panel dt { color: var(--text-2); }
-  .sr-only { position: absolute; left: -9999px; }
-  footer { margin-top: 3rem; color: var(--text-2); font-size: .9rem; }
-  a { color: var(--accent); }
+  :root { --bg:#fbfaf7; --ink:#141414; --ink-2:#5a5852; --rule:#e2dfd6; --accent:#b4321f; --tint:#f3efe5; }
+  @media (prefers-color-scheme: dark) { :root { --bg:#191817; --ink:#efede8; --ink-2:#b8b5ab; --rule:#3a3835; --accent:#e0694f; --tint:#24221f; } }
+  * { box-sizing:border-box; }
+  body { margin:0; background:var(--bg); color:var(--ink); font:18px/1.65 Georgia, "Iowan Old Style", "Times New Roman", serif; }
+  a { color:inherit; }
+  .wip { background:var(--ink); color:var(--bg); font:14px/1.4 system-ui, sans-serif; padding:.6rem 1rem; text-align:center; }
+  main { max-width:700px; margin:0 auto; padding:4.5rem 1.25rem 5rem; }
+  .kicker { font:600 13px/1 system-ui, sans-serif; letter-spacing:.12em; text-transform:uppercase; color:var(--accent); }
+  h1 { font-size:clamp(2.2rem, 5vw, 3.3rem); line-height:1.08; margin:.6rem 0 1rem; }
+  .dek { font-size:1.25rem; color:var(--ink-2); margin:0 0 1.5rem; }
+  .byline { font:14px system-ui, sans-serif; color:var(--ink-2); border-top:1px solid var(--rule); padding-top:.8rem; margin-bottom:3rem; }
+  section { margin:0 0 3rem; }
+  h2 { font-size:1.6rem; line-height:1.2; margin:0 0 .9rem; }
+  p { margin:0 0 1.1rem; }
+  blockquote { margin:1.75rem 0; padding:0 0 0 1.25rem; border-left:3px solid var(--accent); font-size:1.35rem; line-height:1.35; font-style:italic; }
+  .tasks { display:grid; grid-template-columns:repeat(3,1fr); gap:1px; background:var(--rule); border:1px solid var(--rule); margin:1.25rem 0 1.5rem; font:15px/1.4 system-ui, sans-serif; }
+  .tasks div { background:var(--bg); padding:.8rem .9rem; }
+  .tasks b { display:block; } .tasks span { color:var(--ink-2); font-size:.85rem; }
+  dl.dims { margin:0; } dl.dims dt { font-weight:700; } dl.dims dd { margin:0 0 .8rem; }
+  .ledger { display:grid; grid-template-columns:1fr 1fr; gap:2rem; font:15px/1.5 system-ui, sans-serif; }
+  .ledger h3 { font:700 13px system-ui, sans-serif; letter-spacing:.1em; text-transform:uppercase; margin:0 0 .6rem; padding-bottom:.4rem; border-bottom:2px solid var(--ink); }
+  .ledger ul { padding-left:1.1rem; margin:0; } .ledger li { margin:.45rem 0; }
+  .cta { background:var(--tint); padding:2rem; border-radius:4px; font-family:system-ui, sans-serif; }
+  .cta h2 { font-family:Georgia, serif; }
+  .status { display:flex; gap:2rem; flex-wrap:wrap; margin:0 0 1.25rem; font-size:14px; }
+  .status b { display:block; font:700 1.6rem Georgia, serif; }
+  .btn { display:inline-block; background:var(--accent); color:#fff; padding:.7rem 1.2rem; border-radius:3px; text-decoration:none; font-weight:600; margin:.5rem .6rem 0 0; }
+  .btn.ghost { background:transparent; color:var(--ink); border:1px solid var(--ink); }
+  footer { font:14px system-ui, sans-serif; color:var(--ink-2); border-top:1px solid var(--rule); padding-top:1rem; }
+  @media (max-width:640px) { .tasks { grid-template-columns:1fr 1fr; } .ledger { grid-template-columns:1fr; } }
 </style>
 </head>
 <body>
+<div class="wip" role="note">Arbejdsversion · Metoden er under udvikling, og tallene er foreløbige.</div>
+
 <main>
-  <h1>Cavling-bench</h1>
-  <p class="lead">Hvilke sprogmodeller kan betros danske redaktionelle opgaver – på hvilket grundlag og til hvilken afhængighedspris? Seks opgaver, 40 offentlige kildetekster, scorer pr. opgave og pr. dimension. Ingen samlet score.</p>
-  <p class="meta" id="meta"></p>
+  <header>
+    <div class="kicker">Cavling-bench</div>
+    <h1>Kan en sprogmodel skrive dansk nyhedsjournalistik, man tør trykke?</h1>
+    <p class="dek">Et åbent benchmark, der tester sprogmodeller på seks redaktionelle opgaver, og som er ærligt om, hvor målingen selv er usikker.</p>
+    <div class="byline">Erasmus Hagen · Opdateret 10. november 2026 · Kode MIT, data CC BY 4.0</div>
+  </header>
 
-  <h2 id="dep-h">Afhængighed</h2>
-  <div id="dependency" role="region" aria-labelledby="dep-h"></div>
+  <section>
+    <h2>Spørgsmålet</h2>
+    <p>De fleste benchmarks måler engelsk, paratviden eller kode. Ingen af dem fortæller en redaktør, om modellen holder sig til kilden, rammer husets tone og skriver dansk, som ikke skal rettes.</p>
+    <blockquote>Hvilke modeller kan betros danske redaktionelle opgaver, på hvilket grundlag, og hvad koster afhængigheden?</blockquote>
+    <p>Afhængigheden tæller lige så meget som kvaliteten. En model, der skriver lidt bedre, men kun kan køres hos én amerikansk leverandør, er et andet valg end en åben model, man selv kan drive.</p>
+  </section>
 
-  <h2 id="tasks-h">Resultater pr. opgave</h2>
-  <p class="meta">Klik på en kolonneoverskrift for at sortere. Intervaller er 95 % bootstrap over kildetekster. <span id="indicative"></span></p>
-  <div id="tasks"></div>
+  <section>
+    <h2>Sådan måler vi</h2>
+    <p>13 modeller løser seks faste opgaver på 40 danske offentlige kildetekster: statistiknyheder, ministeriers udspil, politiets meddelelser, tilsynsafgørelser og kommunale beslutninger. Tre opfundne medier, et tabloidmedie, en omnibusavis og et erhvervsdagblad, giver stilguides at skrive efter.</p>
+    <div class="tasks">
+      <div><b>Telegram</b><span>90–120 ord</span></div>
+      <div><b>Rubrik</b><span>≤ 60 tegn</span></div>
+      <div><b>Faktaboks</b><span>5 punkter</span></div>
+      <div><b>Versionering</b><span>To medier</span></div>
+      <div><b>Forkortelse</b><span>Alle fakta bevaret</span></div>
+      <div><b>Lydmanus</b><span>Til oplæsning</span></div>
+    </div>
+    <dl class="dims">
+      <dt>Kildetroskab</dt><dd>Hver påstand slås op i kilden; tal og datoer tjekkes mekanisk.</dd>
+      <dt>Tone</dt><dd>Blinde parvise dueller: hvilken tekst følger stilguiden bedst?</dd>
+      <dt>Sprog</dt><dd>Dansk på en skala fra 1 til 5 med faste ankre.</dd>
+      <dt>Format</dt><dd>Ordtal, tegngrænser og punktantal, kontrolleret af kode.</dd>
+    </dl>
+    <p>To dommermodeller fra forskellige familier bedømmer, og mennesker kontrollerer dem på en stikprøve. Der er ingen samlet score, og alle tal har usikkerhedsintervaller.</p>
+  </section>
 
-  <h2 id="figs-h">Figurer</h2>
-  <div class="figs" id="figures" role="region" aria-labelledby="figs-h"></div>
+  <section>
+    <h2>Styrker og svagheder</h2>
+    <div class="ledger">
+      <div>
+        <h3>Det holder</h3>
+        <ul>
+          <li>Redaktionelle opgaver, ikke quizspørgsmål</li>
+          <li>Fakta tjekkes mod håndskrevne lister</li>
+          <li>Pris, licens og EU-forhold ved siden af kvaliteten</li>
+          <li>Alt er åbent og kan genkøres</li>
+        </ul>
+      </div>
+      <div>
+        <h3>Det skal man vide</h3>
+        <ul>
+          <li>Én fælles prompt; tunede opsætninger klarer sig bedre</li>
+          <li>40 tekster giver brede intervaller</li>
+          <li>Modeller bedømmer modeller</li>
+          <li>Modeller ændrer sig på uger</li>
+        </ul>
+      </div>
+    </div>
+  </section>
 
-  <h2>Enighed mellem dommere og mennesker</h2>
-  <div id="agreement"></div>
-
-  <h2>Begrænsninger</h2>
-  <ol id="limitations"></ol>
-
-  <h2>v2</h2>
-  <ol id="v2"></ol>
+  <section class="cta">
+    <h2>Status</h2>
+    <div class="status">
+      <div><b>4 / 13</b>modeller kørt</div>
+      <div><b>0 / 150</b>menneskelige bedømmelser</div>
+    </div>
+    <p>De første tal viser, at målingen virker, ikke hvilken model der er bedst.</p>
+    <a class="btn" href="metode/">Sådan virker det →</a>
+    <a class="btn ghost" href="resultater/">Foreløbige resultater</a>
+  </section>
 
   <footer>
-    <p><a id="repo" href="#">Kode, data og rådata på GitHub</a> · Data CC BY 4.0, kode MIT · Skriv-op: <a href="https://erasmus.fyi">erasmus.fyi</a></p>
+    <a href="https://github.com/erasmus/cavling-bench">Kode, data og rådata på GitHub</a> · <a href="https://github.com/erasmus/cavling-bench/blob/main/DECISIONS.md">Beslutningslog</a>
   </footer>
 </main>
-
-<aside id="panel" aria-hidden="true" aria-label="Modeldetaljer">
-  <button id="close" aria-label="Luk">✕ Luk</button>
-  <h2 id="panel-title"></h2>
-  <dl id="panel-dl"></dl>
-</aside>
-
-<script>
-(async function () {
-  const fmt = (x, d = 1) => (x == null || Number.isNaN(x)) ? '–' : Number(x).toFixed(d);
-  const ci = (c, d = 1) => c && c.point != null ? `${fmt(c.point, d)} <span class="ci">[${fmt(c.lo, d)}; ${fmt(c.hi, d)}]</span>` : '–';
-  const tierDot = (t, labels) => `<span class="tier" style="background:var(--t-${t})" aria-hidden="true"></span><span class="sr-only">${labels[t] || t}</span>`;
-
-  let data;
-  try { data = await (await fetch('site_data.json')).json(); }
-  catch (e) { document.getElementById('meta').textContent = 'Kunne ikke indlæse site_data.json. Kør `make site`.'; return; }
-
-  document.getElementById('meta').textContent = `Målt ${data.run_date} · ${data.n_outputs} output · ${data.n_sources} kildetekster · genereret ${data.generated}`;
-  document.getElementById('repo').href = data.repo;
-  const labels = data.tier_labels;
-
-  function makeTable(headers, rows, caption) {
-    const t = document.createElement('table');
-    t.innerHTML = `<caption class="sr-only">${caption}</caption><thead><tr>${headers.map((h, i) => `<th scope="col" aria-sort="none" data-i="${i}">${h.label}</th>`).join('')}</tr></thead><tbody></tbody>`;
-    const tb = t.querySelector('tbody');
-    const render = (rs) => { tb.innerHTML = rs.map(r => `<tr>${headers.map(h => `<td class="${h.num ? 'num' : ''}">${h.cell(r)}</td>`).join('')}</tr>`).join(''); };
-    render(rows);
-    t.querySelectorAll('th').forEach(th => th.addEventListener('click', () => {
-      const i = +th.dataset.i, h = headers[i];
-      const dir = th.getAttribute('aria-sort') === 'ascending' ? 'descending' : 'ascending';
-      t.querySelectorAll('th').forEach(x => x.setAttribute('aria-sort', 'none'));
-      th.setAttribute('aria-sort', dir);
-      const sorted = [...rows].sort((a, b) => {
-        const va = h.sort(a), vb = h.sort(b);
-        if (va == null) return 1; if (vb == null) return -1;
-        return (va < vb ? -1 : va > vb ? 1 : 0) * (dir === 'ascending' ? 1 : -1);
-      });
-      render(sorted);
-    }));
-    return t;
-  }
-
-  const modelBtn = (m) => `<button class="model" data-id="${m.model_id}">${tierDot(m.tier, labels)}${m.display}</button>`;
-
-  // Dependency table
-  const dep = makeTable([
-    { label: 'Model', cell: m => modelBtn(m), sort: m => m.display },
-    { label: 'Niveau', cell: m => labels[m.tier], sort: m => labels[m.tier] },
-    { label: 'USD pr. 1.000 T1', num: true, cell: m => m.billing === 'local' ? 'selvhostet' : fmt(m.cost_per_1000_t1_usd, 2), sort: m => m.cost_per_1000_t1_usd },
-    { label: 'Latens median/p95 ms', num: true, cell: m => m.latency_median_ms == null ? '–' : `${fmt(m.latency_median_ms, 0)}/${fmt(m.latency_p95_ms, 0)}${m.billing === 'local' ? ' (lokal)' : ''}`, sort: m => m.latency_median_ms },
-    { label: 'Åbne vægte', cell: m => m.open_weights ? 'ja' : 'nej', sort: m => m.open_weights ? 1 : 0 },
-    { label: 'Licens', cell: m => m.licence, sort: m => m.licence },
-    { label: 'EU-residens', cell: m => m.eu_residency, sort: m => m.eu_residency },
-    { label: 'Params (mia.)', num: true, cell: m => fmt(m.params_b, 1), sort: m => m.params_b },
-    { label: 'Version', cell: m => `<code>${m.pinned_version}</code>`, sort: m => m.pinned_version },
-  ], data.models, 'Afhængighedstabel');
-  document.getElementById('dependency').appendChild(dep);
-
-  // Per-task tables
-  const ind = data.indicative || {};
-  document.getElementById('indicative').textContent = (ind.tone || ind.fluency) ? `Mærket * = Vejledende: enighed med menneskelige bedømmere under tærsklen (${[ind.fluency && 'sprogkvalitet', ind.tone && 'tone'].filter(Boolean).join(', ')}).` : '';
-  const tasksEl = document.getElementById('tasks');
-  for (const t of data.tasks) {
-    const h = document.createElement('h3'); h.textContent = `${t.name} (${t.id})`; tasksEl.appendChild(h);
-    const headers = [
-      { label: 'Model', cell: r => modelBtn(r), sort: r => r.display },
-      { label: 'n', num: true, cell: r => r.n, sort: r => r.n },
-      { label: 'Understøttede påstande %', num: true, cell: r => ci(r.pct_supported), sort: r => r.pct_supported.point },
-      { label: 'Modsigelser (sum)', num: true, cell: r => r.n_contradicted, sort: r => r.n_contradicted },
-    ];
-    if (t.rows.some(r => r.facts_preserved_pct != null)) headers.push({ label: 'Fakta bevaret %', num: true, cell: r => fmt(r.facts_preserved_pct, 0), sort: r => r.facts_preserved_pct });
-    headers.push({ label: 'Sprogkvalitet 1–5' + (ind.fluency ? ' *' : ''), num: true, cell: r => ci(r.fluency, 2), sort: r => r.fluency.point });
-    for (const a of t.archetypes) headers.push({ label: `Tone BT ${a}` + (ind.tone ? ' *' : ''), num: true, cell: r => ci(r.tone_bt[a], 0) + (r.single_judge_tone ? '<span class="badge" title="Bedømt af én dommer (krydsfamilie-reglen)">én dommer</span>' : ''), sort: r => (r.tone_bt[a] || {}).point });
-    headers.push({ label: 'Format OK %', num: true, cell: r => fmt(r.format_pass_pct, 0), sort: r => r.format_pass_pct });
-    tasksEl.appendChild(makeTable(headers, t.rows, `Resultater for ${t.name}`));
-  }
-
-  // Figures
-  const alts = { f1_grounding: 'Figur 1: andel understøttede påstande pr. opgave, punkt med 95 % interval pr. model', f2_fluency: 'Figur 2: dansk sprogkvalitet 1–5 pr. opgave, punkt med interval pr. model', f3_tone_t4: 'Figur 3: Bradley–Terry-tonerating for versionering pr. arketype', f4_quality_cost: 'Figur 4: kvalitet mod pris pr. 1.000 opgaver, logaritmisk x-akse, markørform efter niveau' };
-  document.getElementById('figures').innerHTML = data.figures.map(f => `<figure><img src="figures/${f}" alt="${alts[f.replace('.png', '')] || f}" loading="lazy"><figcaption class="meta">${f}</figcaption></figure>`).join('');
-
-  // Agreement
-  const a = data.agreement || {};
-  document.getElementById('agreement').innerHTML = `<table><caption class="sr-only">Enighed</caption><thead><tr><th scope="col">Mål</th><th scope="col">Menneske vs. dommer A</th><th scope="col">Dommer A vs. B</th></tr></thead><tbody>
-    <tr><td>Kildetroskab, Pearson r</td><td class="num">${fmt(a.grounding_r, 2)}</td><td class="num">${fmt(a.ab_grounding_r, 2)}</td></tr>
-    <tr><td>Sprogkvalitet, vægtet κ</td><td class="num">${fmt(a.fluency_kappa, 2)}</td><td class="num">${fmt(a.ab_fluency_kappa, 2)}</td></tr>
-    <tr><td>Tone, Spearman ρ / vinder-enighed</td><td class="num">${fmt(a.tone_rho, 2)}</td><td class="num">${a.ab_tone_winner_agreement == null ? '–' : fmt(100 * a.ab_tone_winner_agreement, 0) + ' %'}</td></tr>
-  </tbody></table><p class="meta">${a.n_human_rows || 0} menneskelige rækker fra ${a.n_raters || 0} bedømmer(e). Celler med én dommer: ${(data.single_judge_cells || []).map(c => c[0]).join(', ') || 'ingen'}.</p>`;
-
-  document.getElementById('limitations').innerHTML = data.limitations.map(l => `<li>${l}</li>`).join('');
-  document.getElementById('v2').innerHTML = data.v2.map(l => `<li>${l}</li>`).join('');
-
-  // Model details panel
-  const panel = document.getElementById('panel');
-  document.body.addEventListener('click', (e) => {
-    const b = e.target.closest('button.model'); if (!b) return;
-    const m = data.models.find(x => x.model_id === b.dataset.id); if (!m) return;
-    document.getElementById('panel-title').textContent = m.display;
-    const rows = data.tasks.map(t => { const r = t.rows.find(x => x.model_id === m.model_id); return r ? [`${t.name}: understøttede`, ci(r.pct_supported)] : null; }).filter(Boolean);
-    const dl = [['Niveau', labels[m.tier]], ['Version', `<code>${m.pinned_version}</code>`], ['Øjebliksbillede', m.snapshot_date], ['Pris pr. 1.000 T1', m.billing === 'local' ? 'selvhostet' : 'USD ' + fmt(m.cost_per_1000_t1_usd, 2)], ['Latens median/p95', `${fmt(m.latency_median_ms, 0)}/${fmt(m.latency_p95_ms, 0)} ms`], ['Åbne vægte', m.open_weights ? 'ja' : 'nej'], ['Licens', m.licence], ['EU-residens', m.eu_residency], ['Parametre', fmt(m.params_b, 1) + ' mia.'], ...rows];
-    document.getElementById('panel-dl').innerHTML = dl.map(([k, v]) => `<dt>${k}</dt><dd>${v}</dd>`).join('');
-    panel.setAttribute('aria-hidden', 'false'); document.getElementById('close').focus();
-  });
-  document.getElementById('close').addEventListener('click', () => panel.setAttribute('aria-hidden', 'true'));
-  document.addEventListener('keydown', e => { if (e.key === 'Escape') panel.setAttribute('aria-hidden', 'true'); });
-})();
-</script>
 </body>
 </html>

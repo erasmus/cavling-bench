@@ -125,3 +125,10 @@ Pages cannot serve a `site/` folder from a branch (only `/` or `/docs`), so `.gi
 runs `danews site` and deploys `site/` as a Pages artifact on pushes to `main` (and on demand).
 Owner chose to go live now with partial results (4 of 13 generators); URL follows the user site's
 custom domain: erasmus.fyi/cavling-bench/.
+
+## 2026-11-10 09:20 — Site split into landing, method and results pages
+The run is exploratory, so the front page now explains the method instead of showing numbers.
+`site/index.html` is a short Danish explainer (layout A), `site/metode/` the deeper method page with
+the pipeline, task × dimension matrix, judges and trade-offs (layout B), and the data-driven
+leaderboard moved to `site/resultater/` with a "foreløbige tal" note. `danews site` now copies
+`site_data.json` and figures into `site/resultater/`. Mockups A–C kept in `docs/design/`.

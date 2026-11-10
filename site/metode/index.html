@@ -4,15 +4,16 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Metode · Cavling-bench</title>
+<meta name="description" content="Sådan virker Cavling-bench: pipeline, opgaver, dommere og de afvejninger, der ligger bag målingen af sprogmodeller på dansk redaktionelt arbejde.">
 <style>
-  :root { --bg:#fcfcfb; --panel:#ffffff; --ink:#0b0b0b; --ink-2:#55544f; --line:#e3e2dd; --accent:#2a78d6; --good:#1baf7a; --warn:#eb6834; --soft:#f3f2ee; }
-  @media (prefers-color-scheme: dark) { :root { --bg:#1a1a19; --panel:#222220; --ink:#f0efec; --ink-2:#c3c2b7; --line:#383835; --accent:#3987e5; --good:#199e70; --warn:#d95926; --soft:#262624; } }
+  :root { --bg:#fcfcfb; --panel:#ffffff; --ink:#0b0b0b; --ink-2:#55544f; --line:#e3e2dd; --accent:#1f63b8; --good:#1baf7a; --warn:#eb6834; --warn-ink:#a33f0e; --soft:#f3f2ee; }
+  @media (prefers-color-scheme: dark) { :root { --bg:#1a1a19; --panel:#222220; --ink:#f0efec; --ink-2:#c3c2b7; --line:#383835; --accent:#3987e5; --good:#199e70; --warn:#d95926; --warn-ink:#f08a5d; --soft:#262624; } }
   * { box-sizing:border-box; }
   body { margin:0; background:var(--bg); color:var(--ink); font:16px/1.55 system-ui, -apple-system, "Segoe UI", Roboto, sans-serif; }
   .wrap { max-width:1140px; margin:0 auto; padding:0 1.25rem; }
   .top { display:flex; justify-content:space-between; align-items:center; padding:1rem 0; border-bottom:1px solid var(--line); font-size:.9rem; }
-  .top b { font-size:1rem; } .top nav a { color:var(--ink-2); text-decoration:none; margin-left:1.2rem; }
-  .pill { display:inline-block; font-size:.75rem; font-weight:600; padding:.2rem .6rem; border-radius:99px; background:color-mix(in srgb, var(--warn) 18%, transparent); color:var(--warn); }
+  .top b { font-size:1rem; } .top nav a { color:var(--ink-2); text-decoration:none; margin-left:.9rem; display:inline-block; padding:.45rem .3rem; }
+  .pill { display:inline-block; font-size:.75rem; font-weight:600; padding:.2rem .6rem; border-radius:99px; background:color-mix(in srgb, var(--warn) 14%, transparent); color:var(--warn-ink); }
   .hero { padding:3.5rem 0 2rem; display:grid; grid-template-columns:1.3fr 1fr; gap:3rem; align-items:end; }
   h1 { font-size:clamp(2rem,4vw,2.9rem); line-height:1.1; margin:.7rem 0 1rem; letter-spacing:-.01em; }
   .hero p { color:var(--ink-2); font-size:1.1rem; margin:0; }
@@ -28,14 +29,14 @@
   .flow button::after { content:""; position:absolute; right:-9px; top:50%; width:16px; height:16px; background:inherit; border-top:1px solid var(--line); border-right:1px solid var(--line); transform:translateY(-50%) rotate(45deg); z-index:1; }
   .flow button:last-child::after { display:none; }
   .flow button[aria-selected="true"] { background:var(--accent); color:#fff; border-color:var(--accent); }
-  .flow button[aria-selected="true"] small { color:#ffffffcc; }
+  .flow button[aria-selected="true"] small { color:#fff; }
   .flow button:focus-visible { outline:3px solid var(--accent); outline-offset:2px; }
   .flow small { display:block; font-size:.72rem; color:var(--ink-2); font-family:ui-monospace, monospace; }
   .flow strong { font-size:.95rem; }
   .detail { display:grid; grid-template-columns:repeat(4,1fr); gap:1px; background:var(--line); border:1px solid var(--line); border-radius:8px; overflow:hidden; margin-top:1rem; }
   .detail div { background:var(--panel); padding:1rem; font-size:.92rem; }
-  .detail h4 { margin:0 0 .4rem; font-size:.72rem; text-transform:uppercase; letter-spacing:.08em; color:var(--ink-2); }
-  .detail .weak h4 { color:var(--warn); }
+  .detail h3 { margin:0 0 .4rem; font-size:.72rem; text-transform:uppercase; letter-spacing:.08em; color:var(--ink-2); }
+  .detail .weak h3 { color:var(--warn-ink); }
   /* matrix */
   table { width:100%; border-collapse:collapse; background:var(--panel); border:1px solid var(--line); border-radius:8px; overflow:hidden; font-size:.9rem; }
   th, td { padding:.65rem .8rem; border-bottom:1px solid var(--line); text-align:left; vertical-align:top; }
@@ -151,7 +152,7 @@ const tabs = document.querySelectorAll('.flow button'), detail = document.getEle
 function show(i) {
   tabs.forEach(t => t.setAttribute('aria-selected', t.dataset.i == i));
   const s = steps[i];
-  detail.innerHTML = `<div><h4>Ind</h4>${s.ind}</div><div><h4>Ud</h4>${s.ud}</div><div><h4>Hvorfor</h4>${s.hvorfor}</div><div class="weak"><h4>Svaghed</h4>${s.svag}</div>`;
+  detail.innerHTML = `<div><h3>Ind</h3>${s.ind}</div><div><h3>Ud</h3>${s.ud}</div><div><h3>Hvorfor</h3>${s.hvorfor}</div><div class="weak"><h3>Svaghed</h3>${s.svag}</div>`;
 }
 tabs.forEach(t => t.addEventListener('click', () => show(t.dataset.i)));
 show(0);

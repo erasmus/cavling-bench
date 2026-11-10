@@ -4,8 +4,9 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Cavling-bench – hvilke sprogmodeller kan betros danske redaktionelle opgaver?</title>
+<meta name="description" content="Foreløbige resultater fra Cavling-bench: sprogmodeller på seks danske redaktionelle opgaver, med usikkerhedsintervaller og afhængighedstabel.">
 <style>
-  :root { color-scheme: light; --surface: #fcfcfb; --surface-2: #f3f2ee; --text: #0b0b0b; --text-2: #52514e; --grid: #e3e2dd; --accent: #2a78d6;
+  :root { color-scheme: light; --surface: #fcfcfb; --surface-2: #f3f2ee; --text: #0b0b0b; --text-2: #52514e; --grid: #e3e2dd; --accent: #1f63b8;
           --t-frontier_proprietary:#2a78d6; --t-mid_proprietary:#eb6834; --t-eu:#1baf7a; --t-open_global:#eda100; --t-open_nordic:#e87ba4; }
   @media (prefers-color-scheme: dark) { :root { color-scheme: dark; --surface:#1a1a19; --surface-2:#242423; --text:#f0efec; --text-2:#c3c2b7; --grid:#383835; --accent:#3987e5;
           --t-frontier_proprietary:#3987e5; --t-mid_proprietary:#d95926; --t-eu:#199e70; --t-open_global:#c98500; --t-open_nordic:#d55181; } }
@@ -44,6 +45,7 @@
   <p class="lead">Hvilke sprogmodeller kan betros danske redaktionelle opgaver – på hvilket grundlag og til hvilken afhængighedspris? Seks opgaver, 40 offentlige kildetekster, scorer pr. opgave og pr. dimension. Ingen samlet score.</p>
   <p class="meta" id="meta"></p>
 
+  <div id="content" hidden>
   <h2 id="dep-h">Afhængighed</h2>
   <div id="dependency" role="region" aria-labelledby="dep-h"></div>
 
@@ -66,9 +68,10 @@
   <footer>
     <p><a id="repo" href="#">Kode, data og rådata på GitHub</a> · Data CC BY 4.0, kode MIT · Skriv-op: <a href="https://erasmus.fyi">erasmus.fyi</a></p>
   </footer>
+  </div>
 </main>
 
-<aside id="panel" aria-hidden="true" aria-label="Modeldetaljer">
+<aside id="panel" aria-hidden="true" inert aria-label="Modeldetaljer">
   <button id="close" aria-label="Luk">✕ Luk</button>
   <h2 id="panel-title"></h2>
   <dl id="panel-dl"></dl>
@@ -158,9 +161,13 @@
 
   document.getElementById('limitations').innerHTML = data.limitations.map(l => `<li>${l}</li>`).join('');
   document.getElementById('v2').innerHTML = data.v2.map(l => `<li>${l}</li>`).join('');
+  document.getElementById('content').hidden = false;
 
   // Model details panel
   const panel = document.getElementById('panel');
+  let opener = null;
+  const openPanel = (btn) => { opener = btn; panel.inert = false; panel.setAttribute('aria-hidden', 'false'); document.getElementById('close').focus(); };
+  const closePanel = () => { if (panel.inert) return; panel.inert = true; panel.setAttribute('aria-hidden', 'true'); if (opener) opener.focus(); };
   document.body.addEventListener('click', (e) => {
     const b = e.target.closest('button.model'); if (!b) return;
     const m = data.models.find(x => x.model_id === b.dataset.id); if (!m) return;
@@ -168,10 +175,10 @@
     const rows = data.tasks.map(t => { const r = t.rows.find(x => x.model_id === m.model_id); return r ? [`${t.name}: understøttede`, ci(r.pct_supported)] : null; }).filter(Boolean);
     const dl = [['Niveau', labels[m.tier]], ['Version', `<code>${m.pinned_version}</code>`], ['Øjebliksbillede', m.snapshot_date], ['Pris pr. 1.000 T1', m.billing === 'local' ? 'selvhostet' : 'USD ' + fmt(m.cost_per_1000_t1_usd, 2)], ['Latens median/p95', `${fmt(m.latency_median_ms, 0)}/${fmt(m.latency_p95_ms, 0)} ms`], ['Åbne vægte', m.open_weights ? 'ja' : 'nej'], ['Licens', m.licence], ['EU-residens', m.eu_residency], ['Parametre', fmt(m.params_b, 1) + ' mia.'], ...rows];
     document.getElementById('panel-dl').innerHTML = dl.map(([k, v]) => `<dt>${k}</dt><dd>${v}</dd>`).join('');
-    panel.setAttribute('aria-hidden', 'false'); document.getElementById('close').focus();
+    openPanel(b);
   });
-  document.getElementById('close').addEventListener('click', () => panel.setAttribute('aria-hidden', 'true'));
-  document.addEventListener('keydown', e => { if (e.key === 'Escape') panel.setAttribute('aria-hidden', 'true'); });
+  document.getElementById('close').addEventListener('click', closePanel);
+  document.addEventListener('keydown', e => { if (e.key === 'Escape') closePanel(); });
 })();
 </script>
 </body>

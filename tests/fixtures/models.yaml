@@ -49,3 +49,4 @@ models:
     open_weights: false
     licence: proprietary
     eu_residency: "cloud region"
+    enabled: false

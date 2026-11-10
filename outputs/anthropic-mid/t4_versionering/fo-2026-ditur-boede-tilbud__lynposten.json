@@ -1,0 +1,21 @@
+{
+  "model_id": "anthropic-mid",
+  "pinned_version": "claude-sonnet-5-5",
+  "task_id": "t4_versionering",
+  "source_id": "fo-2026-ditur-boede-tilbud",
+  "archetype": "lynposten",
+  "prompt_sha256": "f41008b48e3d16fd0d3ce00367855fa4cdf8b8093a9753f0d38e4caa7241bf37",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 4025,
+    "reasoning_effort": "low"
+  },
+  "text": "Ditur.dk ApS betaler 4,25 millioner kroner i bøde for at have vildledt forbrugerne med falske tilbud. Virksomheden har erkendt alle sagens forhold.\n\nForbrugerombudsmanden politianmeldte i maj 2026 selskabet for 26 overtrædelser. Det brød markedsføringslovens forbud mod vildledning og prismærkningsbekendtgørelsen.\n\nOmbudsmanden overvågede priserne på avile.dk og ditur.dk i fem måneder. Han fulgte en række tilfældigt udvalgte varer. Smykker og ure stod på tilbud så længe, at der ikke længere var tale om tilbud.\n\nEt eksempel er en halskæde. Den var på tilbud i 28 af 50 dage. Normalprisen var opgivet som fast 599 kroner. De laveste priser i de to foregående 30-dagesperioder var 199 og 179 kroner. Besparelsen var altså langt mindre, end kunderne fik at vide.\n\nReglerne er klare. Normalprisen skal være den laveste pris, virksomheden har brugt i mindst 30 dage før nedsættelsen.\n\nForbrugerombudsmand Torben Jensen siger: \"Vi har desværre haft en del sager, hvor en virksomhed markedsfører tilbud baseret på normalpriser, der ikke har været retvisende, så forbrugerne tror, at de kan gøre et godt køb.\"\n\nHan kalder sagen en overtrædelse af både markedsføringsloven og prismærkningsbekendtgørelsen. Derfor politianmeldte ombudsmanden den. Han siger, at han ser med stor alvor på den slags sager.\n\nBøden er udmålt efter en bødemodel, der gælder fra 1. januar 2022. Modellen skal generelt skærpe bødeniveauet for overtrædelser af markedsføringsloven.",
+  "prompt_tokens": 3104,
+  "completion_tokens": 662,
+  "latency_ms": 4918,
+  "cost_usd": 0.012828,
+  "created": "2026-11-10T05:23:47.483659Z",
+  "error": null
+}

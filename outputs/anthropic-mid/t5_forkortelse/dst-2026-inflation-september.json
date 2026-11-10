@@ -1,0 +1,21 @@
+{
+  "model_id": "anthropic-mid",
+  "pinned_version": "claude-sonnet-5-5",
+  "task_id": "t5_forkortelse",
+  "source_id": "dst-2026-inflation-september",
+  "archetype": null,
+  "prompt_sha256": "e09e7c28675bbb5abca8e6ef4d2f150530d2bd21f8a8592ad99319e035089016",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 3860,
+    "reasoning_effort": "low"
+  },
+  "text": "Inflationen steg igen i september. Det samlede forbrugerprisindeks steg med 2,2 pct. i forhold til samme måned året før, mod 2,0 pct. i august. Hovedgruppen transport bidrog mest, især på grund af dyrere brændstof. Kerneinflationen, altså forbrugerprisindekset ekskl. energi og ikke-forarbejdede fødevarer, havde en årsstigning på 1,9 pct. i september, hvilket primært skyldes højere husleje. I august var kerneinflationen 2,2 pct.\n\nFra august til september var forbrugerprisindekset uændret. Prisstigninger på især brændstof, tøj og flyrejser trak indekset op med 0,46 procentpoint, mens prisfald på bl.a. leje af sommerhus, pakkerejser og fødevarer trak det ned med 0,72 procentpoint.\n\nDanmarks EU-harmoniserede inflation lå på 2,1 pct. i september. Tallene for september er endnu ikke offentliggjort på europæisk niveau. I august steg den EU-harmoniserede inflation samlet for de 27 EU-lande til 3,2 pct. fra 3,0 pct. i juli. Lavest i august lå Sverige med 0,3 pct., Estland med 1,3 pct. og Tjekkiet med 1,5 pct. Højest lå Rumænien med 6,3 pct., Litauen med 5,6 pct. og Cypern med 5,2 pct.\n\nDet EU-harmoniserede forbrugerprisindeks (HICP) opgøres, så tallene er sammenlignelige på tværs af landene. Forskellen til det danske forbrugerprisindeks er, at udgifter til ejerboliger ikke indgår i HICP. Eurostat offentliggør tallene for de 27 EU-lande én gang månedligt, og tallene for september udkommer 16. oktober 2026.",
+  "prompt_tokens": 1305,
+  "completion_tokens": 664,
+  "latency_ms": 4024,
+  "cost_usd": 0.00925,
+  "created": "2026-11-10T05:23:19.440538Z",
+  "error": null
+}

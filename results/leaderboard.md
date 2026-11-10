@@ -1,26 +1,26 @@
 # Cavling-bench – resultater
 
-*Målt 2026-11-09. Ingen samlet score: hver tabel rangerer pr. opgave og pr. dimension. Alle tal har 95 % bootstrap-intervaller over kildetekster.*
+*Målt 2026-11-10. Ingen samlet score: hver tabel rangerer pr. opgave og pr. dimension. Alle tal har 95 % bootstrap-intervaller over kildetekster.*
 
-Cavling-bench målte 2 sprogmodeller på 6 redaktionelle opgaver over 40 danske offentlige kildetekster (90 output, kørt 2026-11-09). På versioneringsopgaven lå andelen af understøttede påstande mellem 89 % (Qwen3-235B-A22B (Nebius)) og 93 % (gpt-oss-120b (Nebius)); intervallerne overlapper for de fleste modeller. Prisen for 1.000 telegrammer spændte fra USD 0.36 (gpt-oss-120b (Nebius)) til USD 0.47 (Qwen3-235B-A22B (Nebius)).
+Cavling-bench målte 3 sprogmodeller på 6 redaktionelle opgaver over 40 danske offentlige kildetekster (135 output, kørt 2026-11-10). På versioneringsopgaven lå andelen af understøttede påstande mellem 89 % (Qwen3-235B-A22B (Nebius)) og 100 % (Claude Sonnet 5.5); intervallerne overlapper for de fleste modeller. Prisen for 1.000 telegrammer spændte fra USD 0.36 (gpt-oss-120b (Nebius)) til USD 7.04 (Claude Sonnet 5.5).
 
 ## Afhængighed
 
 | Model | Niveau | USD pr. 1.000 T1 | Latens median/p95 ms | Åbne vægte | Licens | EU-residens | Params (mia.) | Version | Dato |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Claude Fable 5.1 | Frontier (proprietær) | – | – | nej | proprietary | no | – | `claude-fable-5-1` | 2026-11-09 |
-| Claude Sonnet 5.5 | Mellemklasse (proprietær) | – | – | nej | proprietary | no | – | `claude-sonnet-5-5` | 2026-11-09 |
-| GPT-6 Astra | Frontier (proprietær) | – | – | nej | proprietary | cloud region | – | `gpt-6-astra` | 2026-11-09 |
-| GPT-6 Luna | Mellemklasse (proprietær) | – | – | nej | proprietary | cloud region | – | `gpt-6-luna` | 2026-11-09 |
-| Gemini 4 Argon | Frontier (proprietær) | – | – | nej | proprietary | no | – | `gemini-4-argon` | 2026-11-09 |
-| Gemini 3.8 Flash | Mellemklasse (proprietær) | – | – | nej | proprietary | no | – | `gemini-3.8-flash` | 2026-11-09 |
-| Mistral Large 4 | Europæisk | – | – | ja | Mistral Ecosystem Open Weight License | yes | 1050.0 | `mistral-large-4-0` | 2026-11-09 |
-| Mistral Small 4 | Europæisk | – | – | ja | Apache-2.0 | yes | 119.0 | `mistral-small-2603` | 2026-11-09 |
-| gpt-oss-120b (Nebius) | Åbne vægte (global) | 0.36 | 1456/1877 | ja | Apache-2.0 | cloud region | 120.0 | `openai/gpt-oss-120b` | 2026-11-09 |
-| Qwen3-235B-A22B (Nebius) | Åbne vægte (global) | 0.47 | 13973/17698 | ja | Apache-2.0 | cloud region | 235.0 | `Qwen/Qwen3-235B-A22B-Instruct-2507` | 2026-11-09 |
-| DFM Mimir v1.5 (1.8B) | Dansk/nordisk åben | selvhostet* | – | ja | Apache-2.0 | self-hosted | 1.8 | `danish-foundation-models/DFM-Mimir-v1.5` | 2026-11-09 |
-| DFM Munin 7B alpha | Dansk/nordisk åben | selvhostet* | – | ja | Apache-2.0 | self-hosted | 7.0 | `danish-foundation-models/munin-7b-alpha` | 2026-11-09 |
-| DanskGPT v4 12B | Dansk/nordisk åben | selvhostet* | – | ja | CC-BY-4.0 (Gemma terms apply) | self-hosted | 12.0 | `syvai/danskgpt-v4-12b` | 2026-11-09 |
+| Claude Fable 5.1 | Frontier (proprietær) | – | – | nej | proprietary | no | – | `claude-fable-5-1` | 2026-11-10 |
+| Claude Sonnet 5.5 | Mellemklasse (proprietær) | 7.04 | 2948/3054 | nej | proprietary | no | – | `claude-sonnet-5-5` | 2026-11-10 |
+| GPT-6 Astra | Frontier (proprietær) | – | – | nej | proprietary | cloud region | – | `gpt-6-astra` | 2026-11-10 |
+| GPT-6 Luna | Mellemklasse (proprietær) | – | – | nej | proprietary | cloud region | – | `gpt-6-luna` | 2026-11-10 |
+| Gemini 4 Argon | Frontier (proprietær) | – | – | nej | proprietary | no | – | `gemini-4-argon` | 2026-11-10 |
+| Gemini 3.8 Flash | Mellemklasse (proprietær) | – | – | nej | proprietary | no | – | `gemini-3.8-flash` | 2026-11-10 |
+| Mistral Large 4 | Europæisk | – | – | ja | Mistral Ecosystem Open Weight License | yes | 1050.0 | `mistral-large-4-0` | 2026-11-10 |
+| Mistral Small 4 | Europæisk | – | – | ja | Apache-2.0 | yes | 119.0 | `mistral-small-2603` | 2026-11-10 |
+| gpt-oss-120b (Nebius) | Åbne vægte (global) | 0.36 | 1456/1877 | ja | Apache-2.0 | cloud region | 120.0 | `openai/gpt-oss-120b` | 2026-11-10 |
+| Qwen3-235B-A22B (Nebius) | Åbne vægte (global) | 0.47 | 13973/17698 | ja | Apache-2.0 | cloud region | 235.0 | `Qwen/Qwen3-235B-A22B-Instruct-2507` | 2026-11-10 |
+| DFM Mimir v1.5 (1.8B) | Dansk/nordisk åben | selvhostet* | – | ja | Apache-2.0 | self-hosted | 1.8 | `danish-foundation-models/DFM-Mimir-v1.5` | 2026-11-10 |
+| DFM Munin 7B alpha | Dansk/nordisk åben | selvhostet* | – | ja | Apache-2.0 | self-hosted | 7.0 | `danish-foundation-models/munin-7b-alpha` | 2026-11-10 |
+| DanskGPT v4 12B | Dansk/nordisk åben | selvhostet* | – | ja | CC-BY-4.0 (Gemma terms apply) | self-hosted | 12.0 | `syvai/danskgpt-v4-12b` | 2026-11-10 |
 
 \* Selvhostede modeller: GPU-time ÷ gennemløb, se `docs/serving.md`.
 
@@ -30,6 +30,7 @@ Cavling-bench målte 2 sprogmodeller på 6 redaktionelle opgaver over 40 danske 
 
 | Model | Niveau | n | Understøttede påstande % [CI] | Modsigelser (sum) | Fakta bevaret % | Sprogkvalitet 1–5 [CI] * | Format OK % |
 | --- | --- | --- | --- | --- | --- | --- | --- |
+| Claude Sonnet 5.5 | Mellemklasse (proprietær) | 5 | 100.0 [100.0; 100.0] | 0 | 96 | 3.80 [3.20; 4.40] | 80 |
 | gpt-oss-120b (Nebius) | Åbne vægte (global) | 5 | 98.2 [94.5; 100.0] | 0 | 91 | 4.80 [4.40; 5.00] | 80 |
 | Qwen3-235B-A22B (Nebius) | Åbne vægte (global) | 5 | 90.9 [87.4; 95.8] | 1 | 96 | 4.40 [4.00; 4.80] | 80 |
 
@@ -39,8 +40,9 @@ Cavling-bench målte 2 sprogmodeller på 6 redaktionelle opgaver over 40 danske 
 
 | Model | Niveau | n | Understøttede påstande % [CI] | Modsigelser (sum) | Sprogkvalitet 1–5 [CI] * | Tone BT lynposten [CI] * | Tone BT landsavisen [CI] * | Tone BT erhvervsnyt [CI] * | Format OK % |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Claude Sonnet 5.5 | Mellemklasse (proprietær) | 15 | 92.0 [85.7; 98.3] | 1 | 4.73 [4.33; 5.00] | 50 [35; 65] † | 50 [35; 65] † | 35 [35; 35] † | 60 |
 | gpt-oss-120b (Nebius) | Åbne vægte (global) | 15 | 95.0 [91.1; 98.9] | 2 | 4.93 [4.80; 5.00] | – † | – † | – † | 53 |
-| Qwen3-235B-A22B (Nebius) | Åbne vægte (global) | 15 | 86.0 [74.6; 95.9] | 0 | 4.40 [3.67; 4.93] | – | – | – | 67 |
+| Qwen3-235B-A22B (Nebius) | Åbne vægte (global) | 15 | 86.0 [74.6; 95.9] | 0 | 4.40 [3.67; 4.93] | 50 [35; 65] | 50 [35; 65] | 65 [65; 65] | 67 |
 
 \* **Vejledende**: enigheden med menneskelige bedømmere lå under tærsklen (se Enighed).
 † Tone bedømt af én dommer (krydsfamilie-reglen).
@@ -49,6 +51,7 @@ Cavling-bench målte 2 sprogmodeller på 6 redaktionelle opgaver over 40 danske 
 
 | Model | Niveau | n | Understøttede påstande % [CI] | Modsigelser (sum) | Fakta bevaret % | Sprogkvalitet 1–5 [CI] * | Format OK % |
 | --- | --- | --- | --- | --- | --- | --- | --- |
+| Claude Sonnet 5.5 | Mellemklasse (proprietær) | 5 | 100.0 [100.0; 100.0] | 0 | 78 | 4.00 [3.00; 4.80] | 80 |
 | gpt-oss-120b (Nebius) | Åbne vægte (global) | 5 | 96.0 [88.0; 100.0] | 0 | 70 | 4.40 [3.60; 5.00] | 100 |
 | Qwen3-235B-A22B (Nebius) | Åbne vægte (global) | 5 | 96.0 [88.0; 100.0] | 0 | 78 | 4.40 [3.60; 5.00] | 80 |
 
@@ -58,8 +61,9 @@ Cavling-bench målte 2 sprogmodeller på 6 redaktionelle opgaver over 40 danske 
 
 | Model | Niveau | n | Understøttede påstande % [CI] | Modsigelser (sum) | Sprogkvalitet 1–5 [CI] * | Tone BT lynposten [CI] * | Tone BT landsavisen [CI] * | Format OK % |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Claude Sonnet 5.5 | Mellemklasse (proprietær) | 10 | 100.0 [100.0; 100.0] | 0 | 3.80 [3.30; 4.20] | 65 [35; 65] † | 65 [35; 65] † | 70 |
 | gpt-oss-120b (Nebius) | Åbne vægte (global) | 10 | 92.9 [88.5; 97.3] | 2 | 4.00 [4.00; 4.00] | – † | – † | 40 |
-| Qwen3-235B-A22B (Nebius) | Åbne vægte (global) | 10 | 89.0 [83.1; 93.5] | 0 | 4.30 [4.10; 4.50] | – | – | 60 |
+| Qwen3-235B-A22B (Nebius) | Åbne vægte (global) | 10 | 89.0 [83.1; 93.5] | 0 | 4.30 [4.10; 4.50] | 35 [35; 65] | 35 [35; 65] | 60 |
 
 \* **Vejledende**: enigheden med menneskelige bedømmere lå under tærsklen (se Enighed).
 † Tone bedømt af én dommer (krydsfamilie-reglen).
@@ -68,6 +72,7 @@ Cavling-bench målte 2 sprogmodeller på 6 redaktionelle opgaver over 40 danske 
 
 | Model | Niveau | n | Understøttede påstande % [CI] | Modsigelser (sum) | Fakta bevaret % | Sprogkvalitet 1–5 [CI] * | Format OK % |
 | --- | --- | --- | --- | --- | --- | --- | --- |
+| Claude Sonnet 5.5 | Mellemklasse (proprietær) | 5 | 100.0 [100.0; 100.0] | 0 | 94 | 3.80 [2.80; 4.60] | 20 |
 | gpt-oss-120b (Nebius) | Åbne vægte (global) | 5 | 98.3 [95.0; 100.0] | 0 | 88 | 4.00 [4.00; 4.00] | 40 |
 | Qwen3-235B-A22B (Nebius) | Åbne vægte (global) | 5 | 97.3 [92.0; 100.0] | 1 | 92 | 3.40 [2.40; 4.40] | 60 |
 
@@ -77,8 +82,9 @@ Cavling-bench målte 2 sprogmodeller på 6 redaktionelle opgaver over 40 danske 
 
 | Model | Niveau | n | Understøttede påstande % [CI] | Modsigelser (sum) | Sprogkvalitet 1–5 [CI] * | Tone BT lynposten [CI] * | Format OK % |
 | --- | --- | --- | --- | --- | --- | --- | --- |
+| Claude Sonnet 5.5 | Mellemklasse (proprietær) | 5 | 92.4 [83.8; 100.0] | 2 | 3.40 [2.40; 4.40] | 65 [65; 65] † | 100 |
 | gpt-oss-120b (Nebius) | Åbne vægte (global) | 5 | 92.3 [80.9; 100.0] | 2 | 2.60 [2.00; 3.40] | – † | 60 |
-| Qwen3-235B-A22B (Nebius) | Åbne vægte (global) | 5 | 87.1 [81.5; 92.5] | 4 | 3.60 [2.20; 4.60] | – | 20 |
+| Qwen3-235B-A22B (Nebius) | Åbne vægte (global) | 5 | 87.1 [81.5; 92.5] | 4 | 3.60 [2.20; 4.60] | 35 [35; 35] | 20 |
 
 \* **Vejledende**: enigheden med menneskelige bedømmere lå under tærsklen (se Enighed).
 † Tone bedømt af én dommer (krydsfamilie-reglen).
@@ -88,6 +94,7 @@ Cavling-bench målte 2 sprogmodeller på 6 redaktionelle opgaver over 40 danske 
 | Model | Hedges | Fyldord | Generiske | Anglicismer | Passiv-andel | Gns. sætningslængde | Sprog-lækage (ord) | Særskrivning |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | *Stilguidernes mål* | 0 | 0 | 0 | 0 | lav | Lynposten < 14; Landsavisen 16–22; Erhvervsnyt 15–20 | 0 | 0 |
+| Claude Sonnet 5.5 | 0.00 | 0.16 | 0.00 | 0.00 | 0.07 | 17.2 | 0.00 | 0.00 |
 | gpt-oss-120b (Nebius) | 0.00 | 0.11 | 0.00 | 0.00 | 0.09 | 23.5 | 0.00 | 0.00 |
 | Qwen3-235B-A22B (Nebius) | 0.02 | 0.13 | 0.00 | 0.00 | 0.08 | 19.8 | 0.00 | 0.00 |
 
@@ -99,10 +106,10 @@ Menneskelige rækker: 0 fra 0 bedømmer(e).
 
 | Dimension | Mål | Menneske vs. dommer A | Dommer A vs. dommer B | Menneske vs. menneske |
 | --- | --- | --- | --- | --- |
-| Kildetroskab | Pearson r på andel understøttede påstande | – | – | – |
+| Kildetroskab | Pearson r på andel understøttede påstande | – | 0.46 | – |
 | Kildetroskab | Gns. absolut forskel (procentpoint) | – | – | – |
-| Kildetroskab | Eksakt enighed om modsigelser | – | – | – |
-| Sprogkvalitet | Kvadratisk vægtet Cohen's κ | – | – | – |
+| Kildetroskab | Eksakt enighed om modsigelser | – | 73 % | – |
+| Sprogkvalitet | Kvadratisk vægtet Cohen's κ | – | 0.17 | – |
 | Sprogkvalitet | Andel inden for ±1 | – | – | – |
 | Tone | Spearman ρ (menneskelig 1–5 vs. BT-rating) | – | – | – (κ) |
 | Tone | Enighed om vinder i par | – | – | – |

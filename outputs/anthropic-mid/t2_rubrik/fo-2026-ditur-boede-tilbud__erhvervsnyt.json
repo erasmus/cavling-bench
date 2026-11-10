@@ -1,0 +1,21 @@
+{
+  "model_id": "anthropic-mid",
+  "pinned_version": "claude-sonnet-5-5",
+  "task_id": "t2_rubrik",
+  "source_id": "fo-2026-ditur-boede-tilbud",
+  "archetype": "erhvervsnyt",
+  "prompt_sha256": "02703bbf85b58ce6eff91b90c47cf4c4b7e1ff7f608e3d30097e7eff548cd0fd",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 3400,
+    "reasoning_effort": "low"
+  },
+  "text": "RUBRIK: Ditur.dk betaler 4,25 mio. kr. i bøde for falske tilbud\nUNDERRUBRIK: Forbrugerombudsmanden politianmeldte webshoppen for 26 overtrædelser. Smykker og ure var på tilbud så længe, at normalprisen ikke var reel.",
+  "prompt_tokens": 3108,
+  "completion_tokens": 117,
+  "latency_ms": 1558,
+  "cost_usd": 0.007386,
+  "created": "2026-11-10T05:23:37.615831Z",
+  "error": null
+}

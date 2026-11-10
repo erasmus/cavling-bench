@@ -1,0 +1,21 @@
+{
+  "model_id": "anthropic-mid",
+  "pinned_version": "claude-sonnet-5-5",
+  "task_id": "t2_rubrik",
+  "source_id": "politi-2026-fyn-spraengning-beboelsesejendom",
+  "archetype": "landsavisen",
+  "prompt_sha256": "9191beb9573f9cfbb3d32c0eae9415539c430ed16fdab5b7dfc1c66dc490848d",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 3400,
+    "reasoning_effort": "low"
+  },
+  "text": "RUBRIK: Tre mænd idømt 14 års fængsel for forsøg på sprængning i Odense\nUNDERRUBRIK: Retten i Odense dømte fredag tre 19-22-årige for et forsøg på at sprænge fire kilo dynamit i en opgang i 2023 samt for skud mod en bolig og en voldtægt.",
+  "prompt_tokens": 1879,
+  "completion_tokens": 124,
+  "latency_ms": 2009,
+  "cost_usd": 0.004998,
+  "created": "2026-11-10T05:23:38.735643Z",
+  "error": null
+}

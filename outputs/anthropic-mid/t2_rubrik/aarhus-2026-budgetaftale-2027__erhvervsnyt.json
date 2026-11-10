@@ -1,0 +1,21 @@
+{
+  "model_id": "anthropic-mid",
+  "pinned_version": "claude-sonnet-5-5",
+  "task_id": "t2_rubrik",
+  "source_id": "aarhus-2026-budgetaftale-2027",
+  "archetype": "erhvervsnyt",
+  "prompt_sha256": "b4f9e738b40fe5a8edc45c33c695918ec2b81ad9de787c78c9905e3f6f577bef",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 3400,
+    "reasoning_effort": "low"
+  },
+  "text": "RUBRIK: Aarhus-byråd enigt: 138 mio. kr. årligt til socialområdet\nUNDERRUBRIK: Alle ni partier har indgået budgetaftale for 2027. Der er 197 mio. kr. årligt til drift og 810 mio. kr. til anlæg, mens kommuneskatten holdes i ro.",
+  "prompt_tokens": 2242,
+  "completion_tokens": 124,
+  "latency_ms": 1816,
+  "cost_usd": 0.005724,
+  "created": "2026-11-10T05:23:36.332799Z",
+  "error": null
+}

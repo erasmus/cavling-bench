@@ -1,0 +1,21 @@
+{
+  "model_id": "anthropic-mid",
+  "pinned_version": "claude-sonnet-5-5",
+  "task_id": "t2_rubrik",
+  "source_id": "aarhus-2026-budgetaftale-2027",
+  "archetype": "landsavisen",
+  "prompt_sha256": "ba30d9c5eaf2e8cdb359079bb9691fa0d553b189bdddc186a0020d0cc8153ece",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 3400,
+    "reasoning_effort": "low"
+  },
+  "text": "RUBRIK: Samlet byråd i Aarhus er enigt om budget med løft til socialområdet\nUNDERRUBRIK: Alle ni partier står bag aftalen for de kommende fire år. Socialområdet får 138 mio. kr. årligt, og der afsættes 810 mio. kr. til anlæg, blandt andet til fremkommelighed.",
+  "prompt_tokens": 2235,
+  "completion_tokens": 128,
+  "latency_ms": 1421,
+  "cost_usd": 0.00575,
+  "created": "2026-11-10T05:23:35.653550Z",
+  "error": null
+}

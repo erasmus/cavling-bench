@@ -1,0 +1,21 @@
+{
+  "model_id": "anthropic-mid",
+  "pinned_version": "claude-sonnet-5-5",
+  "task_id": "t6_lydmanus",
+  "source_id": "politi-2026-fyn-spraengning-beboelsesejendom",
+  "archetype": "lynposten",
+  "prompt_sha256": "52c2efccdf13f57086a6ad9401b4f992d0721d4158dc38a426729ab5d2de3b25",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 3620,
+    "reasoning_effort": "low"
+  },
+  "text": "Fjorten års fængsel til hver. Sådan lyder straffen til tre unge mænd fra Odense Kommune. Retten i Odense dømte dem fredag den tyvende februar 2026.\n\nI december 2023 forsøgte de at sprænge en bombe med mere end fire kilo dynamit. Det skete i en opgang på Nyborgvej i Odense. Mellem nitten og femogtyve mennesker var i ejendommen. Forsøget mislykkedes. Mændene kom ikke ind i opgangen, og politiet forstyrrede dem.\n\nFire andre er tidligere dømt i samme sag.\n\nDe tre mænd er også dømt for skud mod en bolig i Seden i marts 2023. En familie med to børn var hjemme.\n\nSpecialanklager Daniel Dokkedahl fra Fyns Politi siger, at denne form for kriminalitet bliver straffet hårdt.\n\nTo af mændene har anket dommen. Den toogtyveårige har bedt om betænkningstid.",
+  "prompt_tokens": 1931,
+  "completion_tokens": 1289,
+  "latency_ms": 9996,
+  "cost_usd": 0.016752,
+  "created": "2026-11-10T05:24:09.758761Z",
+  "error": null
+}

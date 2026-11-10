@@ -1,3 +1,4 @@
 model_id,n,pct_supported,pct_supported_lo,pct_supported_hi,n_contradicted,facts_preserved_pct,fluency,fluency_lo,fluency_hi,format_pass_pct
+anthropic-mid,5,100.0,100.0,100.0,0,93.87755102040816,3.8,2.8,4.6,20.0
 nebius-gpt-oss-120b,5,98.33333333333334,95.00000000000001,100.0,0,87.75510204081633,4.0,4.0,4.0,40.0
 nebius-qwen3-235b,5,97.33333333333334,92.00000000000001,100.0,1,91.83673469387755,3.4,2.4,4.4,60.0

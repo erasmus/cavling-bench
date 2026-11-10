@@ -1,0 +1,21 @@
+{
+  "model_id": "anthropic-mid",
+  "pinned_version": "claude-sonnet-5-5",
+  "task_id": "t5_forkortelse",
+  "source_id": "rigsrevisionen-2026-beretning-pesticider",
+  "archetype": null,
+  "prompt_sha256": "e945ada437c48fd48e4a97f95830305ae53a42412c9c31ad344815388b8a5cf5",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 3860,
+    "reasoning_effort": "low"
+  },
+  "text": "Den 7. september 2026 behandlede Statsrevisorerne Beretning nr. 23/2025 om kontrol med pesticider og afgav den til Folketinget. Indholdet af pesticider i danske drikkevandsboringer har været stigende siden 2018, og i 2025 blev der fundet rester i over halvdelen af boringerne. Vandforsyningsselskaberne må flere steder fortynde grundvandet, før det kan sendes ud som drikkevand. I 2022 blev der indgået en politisk aftale om at styrke kontrollen, og der blev tilført flere penge i 2022-2026. I 2025 kom en tillægsaftale.\n\nStatsrevisorerne finder Miljøministeriets kontrol med brug af pesticider stærkt foruroligende og helt utilstrækkelig. Den bygger næsten kun på virksomhedernes selvangivelser og ikke på en risikovurdering af den enkelte virksomhed. Overtrædelser har i en række tilfælde ikke haft konsekvenser. Miljøstyrelsen har i flere tilfælde forvaltet i strid med kemikalieloven.\n\nBlandt resultaterne:\n- Styrelsen efterprøver ikke virksomhedernes oplysninger om forbrug.\n- Siden 2011 er der indkøbt 7.800 tons glyfosat, som ikke er indberettet som forbrugt, knap halvdelen af det samlede indkøb. Styrelsen har ikke undersøgt, hvor det er blevet af.\n- I 2022-2025 søgte styrelsen kun efter 4 slags ulovlige pesticider, selv om hundredvis er forbudt.\n- Kontrolbesøg bygger næsten kun på sprøjtejournaler.\n- Frem til foråret 2025 kontrollerede styrelsen ikke selvanmeldte overtrædelser, i strid med loven.\n- Virksomheder, der angiver intet pesticidbrug, er undtaget fra kontrol.\n- Styrelsen for Grøn Arealomlægning og Vandmiljø foreslog flere gange fra 2020 krydstjek af køb, forbrug og lager, men Miljøstyrelsen forholdt sig ikke til forslagene.",
+  "prompt_tokens": 2428,
+  "completion_tokens": 775,
+  "latency_ms": 4923,
+  "cost_usd": 0.012606,
+  "created": "2026-11-10T05:24:02.541402Z",
+  "error": null
+}

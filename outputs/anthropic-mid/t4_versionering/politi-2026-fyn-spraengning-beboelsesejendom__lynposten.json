@@ -1,0 +1,21 @@
+{
+  "model_id": "anthropic-mid",
+  "pinned_version": "claude-sonnet-5-5",
+  "task_id": "t4_versionering",
+  "source_id": "politi-2026-fyn-spraengning-beboelsesejendom",
+  "archetype": "lynposten",
+  "prompt_sha256": "ebe1e128904256576d04dac03085e8645273aa93e40782ccc97aeea83e0bab10",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 4025,
+    "reasoning_effort": "low"
+  },
+  "text": "Tre mænd har fået 14 års fængsel hver for at forsøge at sprænge en bombe i en opgang i Odense. Dommen faldt fredag den 20. februar 2026 ved Retten i Odense.\n\nBomben indeholdt mere end fire kilo dynamit. Den skulle sprænges på Nyborgvej i december 2023. Mellem 19 og 25 mennesker var i ejendommen.\n\nForsøget mislykkedes. Mændene kunne ikke komme ind i opgangen. Politiet ankom og forstyrrede dem.\n\nDe tre er også dømt for indførsel, transport og besiddelse af sprængstof under særligt skærpende omstændigheder. Dertil kommer overtrædelser af våbenloven. Fire andre har tidligere fået lange straffe i samme sag for planlægning og håndtering af sprængstoffet.\n\nMændene er desuden dømt for at have planlagt skud mod en beboelsesejendom i Seden i marts 2023. En familie med to børn var hjemme. Skuddene skabte nærliggende fare for beboernes liv og førlighed.\n\nEn af de tre er dømt for frihedsberøvelse og mishandling af en mand i februar 2023. Offeret blev holdt tilbage i mindst to uger. Forholdene var stærkt uhygiejniske. Han blev slået, sparket og forbrændt i ansigtet. Han blev også voldtaget. Overgrebet blev filmet og delt på sociale medier.\n\n\"Retten har i dag sendt et klart signal om, at denne form for ekstrem og organiseret kriminalitet bliver straffet hårdt,\" siger specialanklager Daniel Dokkedahl fra Fyns Politi.\n\nMændenes alder er uklar i kilden. Indledningen nævner 19, 21 og 22 år. Oversigten over dommene nævner 20, 21 og 22 år.\n\nSprængstof, våben og mobiltelefon konfiskeres. Videoen skal slettes.\n\nDe tre er varetægtsfængslet. Den 22-årige har bedt om betænkningstid. De to andre anker dommen.",
+  "prompt_tokens": 1882,
+  "completion_tokens": 1870,
+  "latency_ms": 12276,
+  "cost_usd": 0.022464,
+  "created": "2026-11-10T05:23:59.761371Z",
+  "error": null
+}

@@ -1,0 +1,21 @@
+{
+  "model_id": "anthropic-mid",
+  "pinned_version": "claude-sonnet-5-5",
+  "task_id": "t2_rubrik",
+  "source_id": "dst-2026-inflation-september",
+  "archetype": "erhvervsnyt",
+  "prompt_sha256": "ba20d4542113bda77c072a75770a4ef6a436c482a4bc55153993ca0259031388",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 400,
+    "reasoning_effort": null
+  },
+  "text": "RUBRIK: Inflationen steg til 2,2 pct. i september fra 2,0 i august\nUNDERRUBRIK: Brændstof trak mest op i årsstigningen på 2,2 pct. Kerneinflationen faldt til 1,9 pct. fra 2,2 pct. i august, og priserne var uændrede fra august til september.",
+  "prompt_tokens": 1761,
+  "completion_tokens": 122,
+  "latency_ms": 2285,
+  "cost_usd": 0.004742,
+  "created": "2026-11-10T05:22:28.301764Z",
+  "error": null
+}

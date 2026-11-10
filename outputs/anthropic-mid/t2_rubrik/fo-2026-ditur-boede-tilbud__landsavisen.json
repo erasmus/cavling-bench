@@ -1,0 +1,21 @@
+{
+  "model_id": "anthropic-mid",
+  "pinned_version": "claude-sonnet-5-5",
+  "task_id": "t2_rubrik",
+  "source_id": "fo-2026-ditur-boede-tilbud",
+  "archetype": "landsavisen",
+  "prompt_sha256": "81954eeb2d3fc2dfa22d7bb59914274df33781df9313b3eecffa3172f27a9fb9",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 3400,
+    "reasoning_effort": "low"
+  },
+  "text": "RUBRIK: Ditur betaler 4,25 mio. kr. i bøde for vildledende tilbud\nUNDERRUBRIK: Forbrugerombudsmanden politianmeldte i maj 2026 Ditur.dk for 26 overtrædelser af reglerne om normalpriser. Virksomheden har erkendt alle forhold.",
+  "prompt_tokens": 3101,
+  "completion_tokens": 123,
+  "latency_ms": 1288,
+  "cost_usd": 0.007432,
+  "created": "2026-11-10T05:23:36.943100Z",
+  "error": null
+}

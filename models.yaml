@@ -22,6 +22,8 @@ models:
     eu_residency: "no"
     supports_seed: false
     supports_temperature: false
+    reasoning_effort: low
+    reasoning_budget_tokens: 3000
     notes: "Anthropic API 2026-10-21 removed temperature/top_p/top_k; inference_geo only global/us."
 
   - id: anthropic-mid
@@ -39,6 +41,8 @@ models:
     eu_residency: "no"
     supports_seed: false
     supports_temperature: false
+    reasoning_effort: low
+    reasoning_budget_tokens: 3000
     notes: "Judge B."
 
   - id: openai-frontier

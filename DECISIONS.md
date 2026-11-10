@@ -82,3 +82,11 @@ request (`max_tokens` incl. `reasoning_budget_tokens`, plus `reasoning_effort`);
 gpt-oss outputs still say `max_tokens: 560`, which was the task cap, not the 2060 sent. They are
 not regenerated (outputs/ is not frozen, but a rerun costs money for no scoring change); the next
 `generate --force` corrects them.
+
+## 2026-11-10 00:40 — Anthropic key added; Sonnet 5.5 needs a reasoning budget too
+`ANTHROPIC_API_KEY` is now in `.env`. First Sonnet 5.5 call: 7 of 9 outputs empty with
+`finish_reason=length`, because Claude 5.5 models always think (adaptive, effort high) and the
+thinking counts against `max_tokens`. Both `anthropic-*` rows pinned at `reasoning_effort: low`,
+`reasoning_budget_tokens: 3000`; after that 45/45 outputs on 5 sources. Three models × 5 sources
+now run end to end with both judges (Judge B 45 grounding, 45 fluency, 8 tone pairs). Spend so
+far: paid USD 1.54, Nebius credit USD 0.26.

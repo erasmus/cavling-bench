@@ -1,0 +1,21 @@
+{
+  "model_id": "anthropic-frontier",
+  "pinned_version": "claude-fable-5-1",
+  "task_id": "t5_forkortelse",
+  "source_id": "dst-2026-bnp-2-kvartal-revideret",
+  "archetype": null,
+  "prompt_sha256": "823b554d4e3321679fe5c98a56b60574262aeeff4cb098f20a35e67f7a3864a4",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 3860,
+    "reasoning_effort": "low"
+  },
+  "text": "Bruttonationalproduktet (BNP) steg med 0,9 pct. i andet kvartal 2026, korrigeret for prisudvikling og sæsonbevægelser. Væksten er revideret op med 0,6 procentpoint, primært som følge af opdaterede kildedata fra Industriens produktion og omsætning, Firmaernes køb og salg samt Betalingsbalance og udenrigshandel. Bruttoværditilvæksten (BVT) steg med 1,1 pct., og 0,7 pct. uden Medicinalindustrien. BNP i første halvår 2026 er 6,0 pct. højere end året før. Beskæftigelsen steg med 0,2 pct., svarende til 7.800 personer, og præsterede timer med 0,3 pct.\n\nDe faste bruttoinvesteringer steg 1,5 pct., en opjustering på 0,7 procentpoint. Væksten i intellektuelle rettigheder er opjusteret med 2,7 procentpoint på grund af et patentkøb i udlandet, fra et fald på 1,2 pct. til en stigning på 1,5 pct. Andet byggeri og anlæg bidrog positivt, mens transportmidler og maskiner faldt.\n\nOffentligt og husholdningernes forbrug lå fladt på 0,0 pct.; husholdningernes forbrug er opjusteret 0,3 procentpoint. Tjenesteforbruget steg 0,8 pct., vareforbruget faldt 0,8 pct., heraf køretøjer 1,8 pct. og øvrige varer 0,7 pct., efter en stigning på 12,7 pct. i første kvartal. Årligt steg husholdningernes forbrug 2,8 pct. og det offentlige 2,0 pct.\n\nImporten steg 1,8 pct. (opjusteret 0,7 procentpoint): tjenester 2,6 pct., varer 1,1 pct. Eksporten steg 1,5 pct. (opjusteret 0,6 procentpoint): tjenester faldt 0,5 pct., varer steg 2,8 pct.\n\nLagre bidrog mekanisk med 0,4 procentpoint i andet og 2,4 procentpoint i første kvartal, hvilket skal fortolkes med stor påpasselighed. BNP-væksten i første kvartal er 1,7 pct., opjusteret 0,2 procentpoint.",
+  "prompt_tokens": 3420,
+  "completion_tokens": 826,
+  "latency_ms": 9254,
+  "cost_usd": 0.0755,
+  "created": "2026-11-10T07:25:25.190605Z",
+  "error": null
+}

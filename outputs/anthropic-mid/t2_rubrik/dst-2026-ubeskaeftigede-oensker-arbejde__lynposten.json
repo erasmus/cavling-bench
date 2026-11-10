@@ -1,0 +1,21 @@
+{
+  "model_id": "anthropic-mid",
+  "pinned_version": "claude-sonnet-5-5",
+  "task_id": "t2_rubrik",
+  "source_id": "dst-2026-ubeskaeftigede-oensker-arbejde",
+  "archetype": "lynposten",
+  "prompt_sha256": "482ed29d7f861d8d1938059701c67013c735f0bad0927aded6ad2dcd6907793c",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 3400,
+    "reasoning_effort": "low"
+  },
+  "text": "RUBRIK: 470.000 ubeskæftigede ønsker nu et arbejde\nUNDERRUBRIK: Hver anden ubeskæftigede vil have job. Tallet stiger med 85.000 siden 2024. Højest er andelen blandt de 25-34-årige, hvor 66 procent ønsker et arbejde.",
+  "prompt_tokens": 2556,
+  "completion_tokens": 119,
+  "latency_ms": 1919,
+  "cost_usd": 0.006302,
+  "created": "2026-11-10T07:15:04.935000Z",
+  "error": null
+}

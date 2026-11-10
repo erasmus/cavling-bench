@@ -1,0 +1,21 @@
+{
+  "model_id": "anthropic-frontier",
+  "pinned_version": "claude-fable-5-1",
+  "task_id": "t6_lydmanus",
+  "source_id": "ombudsmanden-2026-lolland-avisabonnement-pression",
+  "archetype": "lynposten",
+  "prompt_sha256": "30127d1d16ea0828512e49d2a6733bbb1cf011d18c3b44cd2f5ce1e8783804c2",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 3620,
+    "reasoning_effort": "low"
+  },
+  "text": "Folketingets Ombudsmand sender nu en klar besked til Lolland Kommune. En kommune må ikke opsige avisabonnementer for at straffe pressen.\n\nSagen begyndte i april 2026. Mediet journalisten punktum dk skrev, at kommunen havde opsagt borgmesterens abonnement på Lolland-Falsters Folketidende efter en kritisk artikel. Ombudsmanden gik ind i sagen i maj.\n\nIfølge Lolland Kommune blev tre abonnementer opsagt. De tilhørte borgmesteren og to byrådsmedlemmer. Kommunen oplyser, at politikerne selv bad om det, og at formålet ikke var at straffe avisen.\n\nMen ombudsmanden hæfter sig ved politikernes egne udtalelser. Det ene byrådsmedlem skrev på Facebook, at avisens journalister satte godt håndværk til side, og at det ville han ikke længere betale for.\n\nFolketingets Ombudsmand Christian Britten Lundblad siger, at en myndighed gerne må opsige et abonnement. Men det skal ske på sagligt grundlag. Ikke for at straffe eller presse medier.\n\nKommunen skal nu melde tilbage til ombudsmanden.",
+  "prompt_tokens": 2437,
+  "completion_tokens": 439,
+  "latency_ms": 6982,
+  "cost_usd": 0.04632,
+  "created": "2026-11-10T07:27:43.929570Z",
+  "error": null
+}

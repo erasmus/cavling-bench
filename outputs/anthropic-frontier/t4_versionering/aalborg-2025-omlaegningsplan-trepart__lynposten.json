@@ -1,0 +1,21 @@
+{
+  "model_id": "anthropic-frontier",
+  "pinned_version": "claude-fable-5-1",
+  "task_id": "t4_versionering",
+  "source_id": "aalborg-2025-omlaegningsplan-trepart",
+  "archetype": "lynposten",
+  "prompt_sha256": "6678cf311a7da67fbee90c749158154a35e6af4bb35691cc266590f527a1c550",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 4025,
+    "reasoning_effort": "low"
+  },
+  "text": "94 projekter skal ændre landskabet i Aalborg Kommune. Byrådet vedtog omlægningsplanen på mødet 15. december. Planen rammer lodsejere over hele kommunen.\n\nDer er tale om en principvedtagelse. Projekterne kan kun gennemføres, hvis de berørte lodsejere siger ja. I 2026 inviterer kommunen til dialogmøder med alle berørte borgere.\n\nPlanen rummer 77 forslag til lavbundsprojekter. Aalborg er den kommune i Danmark med det største areal med tørveholdige lavbundsjorde. Når jorderne tages ud af drift og vådlægges, falder udledningen af CO2.\n\n13 forslag skal sikre drikkevandet. Her skal dyrkede marker blive til skov og natur i de mest sårbare områder, hvor vandet pumpes op. Kommunen har ifølge planen en stor udfordring med at sikre rent drikkevand i fremtiden.\n\nPlanen peger også på udtagning af dyrkningsjord i oplandet til Halkær Bredning vest for Nibe. Det skal mindske udledningen af kvælstof til Limfjorden.\n\nEndelig foreslår planen tre store naturområder. De ligger ved Hals og Ulsted Rimmer, syd for Aalborg ved Lundby Bakker, Gistrup og Poulstrup, og ved Halkær Bredning og Halkær Sø.\n\n\"Det har været en stor og kompleks opgave at nå i mål med en samlet omlægningsplan for hele Aalborg Kommune,\" siger Jan Nymark Rose Thaysen, rådmand for By og Land og næstformand i Aalborg Trepart.\n\nHan roser samarbejdet i treparten. Planen viser ifølge ham vejen til renere vandmiljø, mere natur og renere drikkevand. Samtidig skal kommunen fastholde en stærk fødevareproduktion.\n\nPlanen udspringer af Aftalen om et Grønt Danmark fra 2024. Aalborg Trepart består af Danmarks Naturfredningsforening, Landbrug & Fødevarer, Naturstyrelsen og byrådet med borgmester Lasse Frimand Jensen i spidsen.\n\nHovedparten af lavbunds- og kvælstofindsatsen skal være færdig i 2030. Skovrejsning og natur fortsætter i årene derefter.",
+  "prompt_tokens": 2822,
+  "completion_tokens": 835,
+  "latency_ms": 10614,
+  "cost_usd": 0.06997,
+  "created": "2026-11-10T07:21:55.306869Z",
+  "error": null
+}

@@ -1,0 +1,21 @@
+{
+  "model_id": "anthropic-mid",
+  "pinned_version": "claude-sonnet-5-5",
+  "task_id": "t3_faktaboks",
+  "source_id": "dst-2026-offentligt-overskud-2-kvt",
+  "archetype": null,
+  "prompt_sha256": "3f8b38ea77630fd7c32a606d712ce3f12a74a0dd51f86c2c33afc7a68fb62648",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 3575,
+    "reasoning_effort": "low"
+  },
+  "text": "- Overskuddet på de offentlige finanser var 35,5 mia. kr. i andet kvartal 2026, hvilket er 12,3 mia. kr. mere end i første kvartal.\n- De samlede offentlige udgifter udgjorde 379,9 mia. kr. i andet kvartal 2026, mens indtægterne udgjorde 415,3 mia. kr.\n- Den offentlige finansielle nettoformue faldt med 11 mia. kr. i andet kvartal 2026 og udgjorde 871 mia. kr. ved kvartalets udgang.\n- ØMU-gælden steg med 19,4 mia. kr. i andet kvartal 2026 til 859,1 mia. kr., svarende til 27 pct. af BNP.\n- Overskuddet i første kvartal 2026 er opjusteret med 13,9 mia. kr. til 23,2 mia. kr. mod tidligere 9,3 mia. kr.",
+  "prompt_tokens": 1478,
+  "completion_tokens": 325,
+  "latency_ms": 2686,
+  "cost_usd": 0.006206,
+  "created": "2026-11-10T07:15:42.738015Z",
+  "error": null
+}

@@ -1,0 +1,21 @@
+{
+  "model_id": "anthropic-mid",
+  "pinned_version": "claude-sonnet-5-5",
+  "task_id": "t5_forkortelse",
+  "source_id": "fm-2026-finanslovforslag-2027",
+  "archetype": null,
+  "prompt_sha256": "bcd79be6afefb7445f903727e59ca98b0eb6bd3dc88336c57ec2223ac5c84175",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 3860,
+    "reasoning_effort": "low"
+  },
+  "text": "Regeringen præsenterer i dag sit forslag til finanslov for 2027, der skal løfte velfærden for børn, hjælpe danskerne, særligt de pensionister der har mindst, og tage de første skridt mod at blive den grønneste regering nogensinde.\n\nMed henvisning til krigen på det europæiske kontinent og Ruslands trussel mod Danmarks sikkerhed afsættes midler til at løfte forsvarsudgifterne til 3,5 pct. af BNP i 2030.\n\nTil folkeskolen og dagtilbud investeres 1,2 mia. kr. i 2027 og 1,1 mia. kr. årligt i 2028-2030.\n\nSom første skridt mod vederlagsfri tandpleje for hele befolkningen i 2035 afsættes 0,6 mia. kr. i 2027 og 0,9 mia. kr. årligt fra 2028 til førtidspensionister og udsatte grupper. Folkepensionister, der har mindst, får et permanent løft i den månedlige ydelse på godt 1.600 kr., svarende til 1.000 kr. om måneden efter skat.\n\nTil elektrificering og omstilling væk fra fossile brændsler afsættes 650 mio. kr. i 2027 og 850 mio. kr. årligt i 2028-2030.\n\nTil kollektiv transport afsættes 800 mio. kr. i 2027 og 1.000 mio. kr. i helårsniveau for at begynde indfasning af gratis kollektiv transport for unge under 22 år. Regeringen vil også investere i bedre muligheder for erhvervslivet.\n\nFinansminister Peter Hummelgaard fremhæver investeringer i tryghed og grøn omstilling samt hjælp til dem, der har sværest ved at få økonomien til at hænge sammen.\n\nØkonomi- og indenrigsminister Pia Olsen Dyhr peger på 900 mio. kr. til folkeskolen, støtte til landdistrikternes skoler, en indsats mod de 100 skoler med størst udfordringer, flere pædagoger og pædagogiske assistenter samt et løft af demensområdet frem mod 2030.\n\nSkatte- og vækstminister Jakob Engel-Schmidt fremhæver skattelettelser og, at man ikke skal straffes med mellemskat for ekstra arbejde.\n\nErhvervs- og konkurrencekraftsminister Martin Lidegaard vil investere i børn, unge, uddannelse og elektrificering.",
+  "prompt_tokens": 2586,
+  "completion_tokens": 862,
+  "latency_ms": 5564,
+  "cost_usd": 0.013792,
+  "created": "2026-11-10T07:17:48.418041Z",
+  "error": null
+}

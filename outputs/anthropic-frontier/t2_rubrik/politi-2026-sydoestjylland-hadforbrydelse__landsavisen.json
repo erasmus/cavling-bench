@@ -1,0 +1,21 @@
+{
+  "model_id": "anthropic-frontier",
+  "pinned_version": "claude-fable-5-1",
+  "task_id": "t2_rubrik",
+  "source_id": "politi-2026-sydoestjylland-hadforbrydelse",
+  "archetype": "landsavisen",
+  "prompt_sha256": "b9ff70ded400f292d4e3463074ca76411fa4d62ae1243e119d32ff6e855d5522",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 3400,
+    "reasoning_effort": "low"
+  },
+  "text": "RUBRIK: Tre unge mænd dømt for hadforbrydelse og vold i Horsens\nUNDERRUBRIK: Retten i Horsens idømte de tre mænd mellem tre og 15 måneders fængsel. En 18-årig udvises også, efter to kvinder blev overfaldet på grund af deres seksuelle orientering.",
+  "prompt_tokens": 1810,
+  "completion_tokens": 123,
+  "latency_ms": 1670,
+  "cost_usd": 0.02425,
+  "created": "2026-11-10T07:20:56.201245Z",
+  "error": null
+}

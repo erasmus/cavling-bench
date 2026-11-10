@@ -1,0 +1,21 @@
+{
+  "model_id": "anthropic-mid",
+  "pinned_version": "claude-sonnet-5-5",
+  "task_id": "t4_versionering",
+  "source_id": "fo-2026-tankstationer-reservation-beloeb",
+  "archetype": "lynposten",
+  "prompt_sha256": "427307f2dc944fabf0cad261f004aafb88351c91c47389704eff3421e14df506",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 4025,
+    "reasoning_effort": "low"
+  },
+  "text": "Q8 reserverer stadig 950 kroner på kundernes konti, selv om Forbrugerombudsmanden kalder beløbet urimeligt for mindre køretøjer. Kæden arbejder på en løsning.\n\nOmbudsmanden har vurderet, at Q8, OK, Shell og Uno-X har reserveret for store beløb. Det gælder i forhold til det, kunderne endte med at betale. Virksomheden bag Q8 driver også de ubemandede F24-stationer.\n\nShell reserverede 1.500 kroner, og Uno-X reserverede 1.200 kroner. Beløbene stod ikke i rimeligt forhold til, hvad de fleste tanker for. OK reserverede 850 kroner. Det var urimeligt for minibiler, små biler og mindre køretøjer.\n\nShell og Uno-X har ændret praksis. Kunden vælger nu selv beløbet på standerens skærm. OK har sat beløbet ned til 100 kroner, men venter en anden løsning senere.\n\nNogle kunder ventede op til 11 dage på at få pengene frigivet. Det gjaldt hos OK, Uno-X og Shell. Ofte skyldes forsinkelser tekniske fejl hos banken. Kæderne har nu iværksat tiltag mod forsinkelser.\n\nQ8 og OK har desuden ikke oplyst tydeligt nok om reservationen. Q8 har endnu ikke samtykke til beløbet i skærmflowet. Det skal være på plads i midten af 2026. Begge kæder mangler en løsning til kunder, der betaler med Apple/Google Pay.\n\n– Det er urimeligt, når tankstationer reserverer omkring 900 kroner eller mere hos kunder, der skal tanke et mindre køretøj, siger forbrugerombudsmand Torben Jensen.\n\nHan er tilfreds med Shell, Uno-X og OK. Sagerne mod alle kæderne er afsluttet. Q8 og OK er bedt om at følge reglerne.",
+  "prompt_tokens": 3802,
+  "completion_tokens": 702,
+  "latency_ms": 5401,
+  "cost_usd": 0.014624,
+  "created": "2026-11-10T07:16:39.376000Z",
+  "error": null
+}

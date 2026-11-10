@@ -1,0 +1,21 @@
+{
+  "model_id": "anthropic-frontier",
+  "pinned_version": "claude-fable-5-1",
+  "task_id": "t4_versionering",
+  "source_id": "dst-2026-ledighed-september",
+  "archetype": "landsavisen",
+  "prompt_sha256": "088d510bbf852e9501babc49f58cb8acb195edc1799795cc14d782d997362f11",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 4025,
+    "reasoning_effort": "low"
+  },
+  "text": "Ledigheden faldt med 200 fuldtidspersoner fra august til september og lå herefter på 93.600. Det fremgår af en opgørelse offentliggjort den 30. oktober 2026. Ledighedsprocenten var uændret på 3,1 pct. af arbejdsstyrken, så faldet ændrer ikke det samlede billede af et stabilt arbejdsmarked.\n\nBag det samlede tal gemmer sig modsatrettede bevægelser. Antallet af aktiverede ledige faldt med 500, mens antallet af ikke-aktiverede ledige steg med 300. Fordelt på ydelsestype faldt både antallet af ledige dagpengemodtagere og ledige kontanthjælpsmodtagere med 100. Herefter var 78.600 fuldtidsledige på dagpenge og 15.000 på kontanthjælp.\n\nSet på alder var der små forskydninger. Ledighedsprocenten faldt med 0,1 procentpoint for de 30-39-årige, mens den steg tilsvarende for de 25-29-årige. For begge køn og for de øvrige aldersgrupper var procenten uændret. Både mænd og kvinder lå på 3,1 pct. Ledigheden var fortsat lavest blandt de 16-24-årige med 1,6 pct. og højest blandt de 25-29-årige med 5,0 pct. af arbejdsstyrken.\n\nGeografisk faldt ledighedsprocenten med 0,1 procentpoint i Københavns omegn og i Vestjylland, mens den steg med 0,1 procentpoint i Byen København og på Bornholm. I landets øvrige syv landsdele var den uændret. Vestjylland havde dermed landets laveste ledighedsprocent med 2,1 pct., mens Byen København fortsat havde den højeste med 4,0 pct.\n\nTallene for juni, juli og august er alle nedjusteret med 100 i forhold til den seneste offentliggørelse den 30. september. Ifølge opgørelsen kan sådanne revisioner både skyldes opdateringer af de indberettede ledighedstal og selve sæsonkorrektionen, der hver måned justerer de seneste tal, når den aktuelle måneds faktiske tal inddrages.\n\nSamtlige tal er sæsonkorrigerede, omregnet til fuldtidspersoner og afrundet til hele hundrede.",
+  "prompt_tokens": 1815,
+  "completion_tokens": 827,
+  "latency_ms": 10787,
+  "cost_usd": 0.0595,
+  "created": "2026-11-10T07:22:27.646048Z",
+  "error": null
+}

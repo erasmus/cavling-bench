@@ -1,0 +1,21 @@
+{
+  "model_id": "anthropic-frontier",
+  "pinned_version": "claude-fable-5-1",
+  "task_id": "t4_versionering",
+  "source_id": "regeringen-2026-grisefirepart",
+  "archetype": "lynposten",
+  "prompt_sha256": "c50c75fd78e2e7d8d0246b727449ca6371aab74614659719f424f2fb609f7fe9",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 4025,
+    "reasoning_effort": "low"
+  },
+  "text": "Omkring 95 procent af danske grise får klippet en del af halen af. Millioner af pattegrise dør hvert år. Nu vil regeringen gøre noget ved det.\n\nRegeringen nedsætter en firepart for fremtidens griseproduktion. Målet er bedre dyrevelfærd og en mere bæredygtig produktion. Arbejdet går i gang efter nytår.\n\nOm bordet sidder Landbrug & Fødevarer, Dyrenes Beskyttelse, Fødevareforbundet NNF, Danmarks Naturfredningsforening, Dansk Erhverv, Dansk Industri og regeringen selv.\n\nParterne skal sammen finde løsninger, der løfter dyrevelfærden. Samtidig skal de sikre en stærk griseproduktion. Opgaverne handler også om mere økologi, mindre antibiotika og at rykke produktionen op i værdikæden.\n\nChristian Rabjerg Madsen, minister for natur og dyrevelfærd, siger det ligeud.\n\n\"Effektivitet må aldrig ske på bekostning af det gode dyreliv. I dag har mange grise for lidt plads,\" siger han.\n\nHan vil have, at Danmark primært opdrætter de grise, vi selv spiser eller eksporterer som forædlede produkter.\n\nUdenrigsminister Lars Løkke Rasmussen peger på en udvikling, der er gået den forkerte vej. På 15 år er antallet af slagtninger og slagteriarbejdere i Danmark faldet med omkring en tredjedel. Antallet af eksporterede smågrise er mere end tidoblet.\n\n\"Hvordan vi vender denne udvikling, har vi ikke svaret på i dag,\" siger han.\n\nDerfor nedsætter regeringen også et ekspertpanel. Det skal vise vejen til mere forædling, bedre dyrevelfærd og en bæredygtig produktion.\n\nMiljøminister Maria Reumert Gjerding fremhæver naturen og naboerne.\n\n\"Vi har en svineproduktion, der belaster vores fjorde og kystvande. Tæt på staldene mærker naboerne også konsekvenserne. Sådan skal det ikke fortsætte,\" siger hun.\n\nErhvervs- og konkurrencekraftsminister Martin Lidegaard kalder fireparten et vigtigt skridt. Regeringen vil senere præsentere en national strategi for hele fødevaresektoren.",
+  "prompt_tokens": 2349,
+  "completion_tokens": 844,
+  "latency_ms": 9961,
+  "cost_usd": 0.06569,
+  "created": "2026-11-10T07:24:48.202967Z",
+  "error": null
+}

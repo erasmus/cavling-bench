@@ -1,0 +1,21 @@
+{
+  "model_id": "anthropic-mid",
+  "pinned_version": "claude-sonnet-5-5",
+  "task_id": "t4_versionering",
+  "source_id": "nationalbanken-2026-udsigter-marts",
+  "archetype": "lynposten",
+  "prompt_sha256": "3c82118e0a740e22706ae4881349aaada3b3884844f600ab6f593a3e3a04bc67",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 4025,
+    "reasoning_effort": "low"
+  },
+  "text": "Nationalbanken venter en inflation på 1,8 pct. i år. Det fremgår af bankens nye prognose for dansk økonomi, som blev offentliggjort i dag. Banken vurderer, at dansk økonomi er i god balance med høj beskæftigelse og lav ledighed.\n\nInflationen stiger til 2,0 pct. i 2027 og lander på 1,9 pct. i 2028. Kerneinflationen er 2,2 pct. i 2026, 2,1 pct. i 2027 og 1,7 pct. i 2028.\n\nEnergipriserne er den store risiko. Krigen i Mellemøsten driver dem op. Nationalbanken har lavet et risikoscenarie, hvor forsyningen af olie og gas fra Den Persiske Golf bliver begrænset. Priserne ligger da betydeligt og langvarigt over dagens niveau. Så kan inflationen i år ende på 4,5 pct.\n\nNationalbankdirektør Christian Kettel Thomsen afviser dog et gentagelsesopgør med krisen efter Ruslands invasion af Ukraine.\n\n”Trods de nuværende stigninger i energipriserne forventer vi ikke, at vi ser ind i en inflationskrise, som den vi oplevede efter Ruslands invasion af Ukraine,” siger han.\n\nBruttonationalproduktet, BNP, vokser med 1,8 pct. i år og næste år. I 2028 vokser det med 2 pct.\n\nNationalbanken har også en besked til den nye regering. Der er kun begrænset ledig kapacitet i økonomien. Regeringen bør derfor ikke give efterspørgslen mere gas i finansloven for 2027, end den tidligere regerings 2035-plan allerede lægger op til.\n\nForsvaret fylder i regnestykket. Udgifterne er løftet permanent med 75 mia. kr. i forhold til før invasionen af Ukraine.\n\n”Rummet for yderligere prioriteringer er nu væsentligt mindre,” siger Christian Kettel Thomsen.\n\nBanken råder den kommende regering til forsigtighed med at bruge hele råderummet. Den bør heller ikke udvide det yderligere ved at svække den strukturelle saldo.",
+  "prompt_tokens": 1919,
+  "completion_tokens": 778,
+  "latency_ms": 5878,
+  "cost_usd": 0.011618,
+  "created": "2026-11-10T07:16:58.483223Z",
+  "error": null
+}

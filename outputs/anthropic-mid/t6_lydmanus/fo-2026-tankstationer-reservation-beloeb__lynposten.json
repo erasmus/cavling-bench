@@ -1,0 +1,21 @@
+{
+  "model_id": "anthropic-mid",
+  "pinned_version": "claude-sonnet-5-5",
+  "task_id": "t6_lydmanus",
+  "source_id": "fo-2026-tankstationer-reservation-beloeb",
+  "archetype": "lynposten",
+  "prompt_sha256": "93eb9931eed4a77282e06624e1616770e76cd27a472a6a46a572799880a0b347",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 3620,
+    "reasoning_effort": "low"
+  },
+  "text": "Ni hundrede og halvtreds kroner. Så meget reserverer Q8 stadig på kundernes konti, selv om Forbrugerombudsmanden kalder urimeligt høje reservationer for ulovlige.\n\nSagen rammer kunder hos Q8, OK, Shell og Uno-X. Ifølge Forbrugerombudsmanden stod beløbene ikke i rimeligt forhold til det, kunderne tankede for. Shell reserverede femten hundrede kroner. Uno-X reserverede tolv hundrede.\n\nI nogle tilfælde gik der op til elleve dage, før pengene blev frigivet.\n\nUno-X og Shell har ændret praksis. Kunden vælger nu selv beløbet. OK har sat beløbet ned til hundrede kroner. Q8 arbejder på en løsning.\n\nForbrugerombudsmand Torben Jensen siger: \"Det er urimeligt, når tankstationer reserverer omkring ni hundrede kroner eller mere hos kunder, der skal tanke et mindre køretøj.\"\n\nSagerne er afsluttet. Q8 og OK skal følge reglerne.",
+  "prompt_tokens": 3851,
+  "completion_tokens": 397,
+  "latency_ms": 3784,
+  "cost_usd": 0.011672,
+  "created": "2026-11-10T07:18:29.566637Z",
+  "error": null
+}

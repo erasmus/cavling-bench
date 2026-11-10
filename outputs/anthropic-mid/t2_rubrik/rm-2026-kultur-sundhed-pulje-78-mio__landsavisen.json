@@ -1,0 +1,21 @@
+{
+  "model_id": "anthropic-mid",
+  "pinned_version": "claude-sonnet-5-5",
+  "task_id": "t2_rubrik",
+  "source_id": "rm-2026-kultur-sundhed-pulje-78-mio",
+  "archetype": "landsavisen",
+  "prompt_sha256": "ce3fbc5a81ca21975ff9374a4a0be90d0a035c6f513f2c562af0ff3558fb005f",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 3400,
+    "reasoning_effort": "low"
+  },
+  "text": "RUBRIK: Region Midtjylland åbner pulje på 7,8 mio. kr. til kultur og sundhed\nUNDERRUBRIK: Kulturaktører kan i samarbejde med sundhedspartnere søge støtte til projekter på op til tre år. Ansøgningsfristen er den 26. august 2026.",
+  "prompt_tokens": 2311,
+  "completion_tokens": 116,
+  "latency_ms": 1360,
+  "cost_usd": 0.005782,
+  "created": "2026-11-10T07:15:37.032449Z",
+  "error": null
+}

@@ -1,0 +1,21 @@
+{
+  "model_id": "anthropic-frontier",
+  "pinned_version": "claude-fable-5-1",
+  "task_id": "t5_forkortelse",
+  "source_id": "odense-2026-skolefravaer-95-mio",
+  "archetype": null,
+  "prompt_sha256": "2200fabfe582254203caf848506daf81fab4ff75f30868714cc0c4298bf0048f",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 3860,
+    "reasoning_effort": "low"
+  },
+  "text": "Odense Kommune investerer 9,5 millioner kroner om året i en styrket indsats mod ufrivilligt skolefravær. Knap hver femte elev i Odense har et bekymrende skolefravær på mere end 10 procent, og bag fraværet gemmer sig ofte mistrivsel eller andre udfordringer, der rammer både barnet, familien og klassefællesskabet.\n\nBørn- og Ungeudvalget har på sit møde i dag besluttet at udvide den nuværende indsats med en række nye tiltag. Midlerne blev afsat med budgetaftalen for 2026. I starten af 2027 åbner en ny fraværslinje, hvor forældre kan få råd og vejledning. Familier, hvor fraværet har særligt bekymrende karakter, kan desuden få tilbudt en fast tovholder, der skaber overblik og koordinerer mellem alle aktører omkring barnet.\n\n- Det er katastrofalt, når en elev ikke kommer i skole. Derfor er det afgørende, at der bliver sat ind tidligere, også i de mest komplekse sager, siger Brian Dybro, børn- og ungerådmand (SF).\n\nIndsatsen giver også flere ressourcer til tiltag på barnets skole, flere timer til medarbejdere, der hjælper børn med komplekse fraværsudfordringer, samt et styrket tværfagligt samarbejde og tidligere opsporing.\n\n- Vi har set positive resultater af vores tværfaglige samarbejde. Med de nye tiltag får vi endnu bedre muligheder for at sætte tidligere ind og skabe en mere koordineret støtte omkring barnet og familien, siger Kristian Fahnøe Munksgaard, udviklingschef, Familie- og Forebyggelsesafdelingen.",
+  "prompt_tokens": 2087,
+  "completion_tokens": 623,
+  "latency_ms": 7315,
+  "cost_usd": 0.05202,
+  "created": "2026-11-10T07:26:20.400524Z",
+  "error": null
+}

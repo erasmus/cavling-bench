@@ -1,0 +1,21 @@
+{
+  "model_id": "anthropic-frontier",
+  "pinned_version": "claude-fable-5-1",
+  "task_id": "t4_versionering",
+  "source_id": "fo-2026-salling-group-oego-boede",
+  "archetype": "landsavisen",
+  "prompt_sha256": "54dc10c8765caf8e8ee555916bf0c6ded99467db2a5f2adedf2089638380f6fc",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 4025,
+    "reasoning_effort": "low"
+  },
+  "text": "Salling Group A/S har accepteret at betale en bøde på 10 millioner kroner for vildledende markedsføring af Nettos egen økologiske produktserie ØGO. Bøden kommer, efter at Forbrugerombudsmanden i september 2025 politianmeldte selskabet for at have overtrådt markedsføringslovens forbud mod vildledning.\n\nSagen handler om, at Salling Group markedsførte ØGO som det fjerde mest bæredygtige mærke i Danmark. Udsagnet indgik i Nettos opslag på sociale medier og i en tilbudsmail fra Netto+ med teksten \"ØGO indtager igen 4. pladsen blandt Danmarks mest bæredygtige brands\".\n\nPlaceringen stammede fra en spørgeundersøgelse blandt 10.000 danske forbrugere, gennemført af den private virksomhed SB Insight, som står bag Sustainable Brand Index. Kåringen udtrykte dermed alene forbrugernes opfattelse af mærket og dokumenterede ikke produkternes faktiske bæredygtighed.\n\nForbrugerombudsmanden vurderede, at markedsføringen kunne give forbrugerne et fejlagtigt indtryk af produkternes reelle klima- og miljøbelastning. Myndigheden fandt desuden, at det ikke kan begrunde en markedsføring som bæredygtig, at ØGO-produkterne er økologiske. Virksomheder må efter loven ikke bruge bæredygtighedsudsagn, medmindre de kan dokumentere, at udsagnene er korrekte, og ifølge Forbrugerombudsmanden kan den anvendte markedsføring i urimelig grad påvirke forbrugernes adfærd, fordi mange lægger vægt på at vælge produkter, der bidrager til den grønne omstilling.\n\nSalling Group fjernede opslagene, efter at Forbrugerombudsmanden havde henvendt sig.\n\nForbrugerombudsmand Torben Jensen siger: \"Virksomheder skal generelt være meget varsomme med de udsagn, de benytter i deres markedsføring. Når Salling Group markedsfører sig med, at ØGO-brandet har en fjerdeplads i bæredygtighed, så skal det naturligvis være korrekt og kunne dokumenteres. Der er i markedsføringsretlig sammenhæng en meget væsentlig forskel på, om en virksomheds produkter er bæredygtige eller af forbrugerne bliver opfattet som bæredygtige.\"\n\nBøden er udmålt efter den bødemodel, der trådte i kraft 1. januar 2022, og som skal skærpe bødeniveauet for overtrædelser af markedsføringsloven. Ved udmålingen lægges der vægt på overtrædelsens grovhed og virksomhedens omsætning.",
+  "prompt_tokens": 2591,
+  "completion_tokens": 991,
+  "latency_ms": 11198,
+  "cost_usd": 0.07546,
+  "created": "2026-11-10T07:23:19.514679Z",
+  "error": null
+}

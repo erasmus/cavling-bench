@@ -1,0 +1,21 @@
+{
+  "model_id": "anthropic-frontier",
+  "pinned_version": "claude-fable-5-1",
+  "task_id": "t2_rubrik",
+  "source_id": "dst-2026-offentligt-overskud-2025",
+  "archetype": "lynposten",
+  "prompt_sha256": "578558cb94ec8804d73e10102a71cc48d93153b9cd4ef56180cec9983070a598",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 3400,
+    "reasoning_effort": "low"
+  },
+  "text": "RUBRIK: Offentligt overskud falder til 90,9 mia. kr. i 2025\nUNDERRUBRIK: Overskuddet lå på 123,5 mia. kr. i 2024. Udgifterne steg 85 mia. kr. – især til socialområdet, sundhed og forsvar. Indtægterne steg 52,4 mia. kr.",
+  "prompt_tokens": 1941,
+  "completion_tokens": 127,
+  "latency_ms": 3182,
+  "cost_usd": 0.02576,
+  "created": "2026-11-10T07:20:00.969673Z",
+  "error": null
+}

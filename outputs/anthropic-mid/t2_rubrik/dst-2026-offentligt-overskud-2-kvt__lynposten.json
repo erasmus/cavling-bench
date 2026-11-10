@@ -1,0 +1,21 @@
+{
+  "model_id": "anthropic-mid",
+  "pinned_version": "claude-sonnet-5-5",
+  "task_id": "t2_rubrik",
+  "source_id": "dst-2026-offentligt-overskud-2-kvt",
+  "archetype": "lynposten",
+  "prompt_sha256": "8f94c62884dd156392ac1ee51e924e185f85beb61b1c822001ea8a444f2958d3",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 3400,
+    "reasoning_effort": "low"
+  },
+  "text": "RUBRIK: Staten har 35,5 mia. kr. i overskud i andet kvartal\nUNDERRUBRIK: Overskuddet er 12,3 mia. kr. højere end i første kvartal. Nettoformuen falder dog 11 mia. kr. til 871 mia. kr., og ØMU-gælden stiger 19,4 mia. kr.",
+  "prompt_tokens": 1947,
+  "completion_tokens": 128,
+  "latency_ms": 1365,
+  "cost_usd": 0.005174,
+  "created": "2026-11-10T07:15:01.702474Z",
+  "error": null
+}

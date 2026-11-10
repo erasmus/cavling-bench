@@ -1,0 +1,21 @@
+{
+  "model_id": "anthropic-frontier",
+  "pinned_version": "claude-fable-5-1",
+  "task_id": "t4_versionering",
+  "source_id": "dst-2026-ubeskaeftigede-oensker-arbejde",
+  "archetype": "lynposten",
+  "prompt_sha256": "f842e27bc57dc370a4c56004d6fbdce6a37f8b8f4b1983ae411f3d569e9e11be",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 4025,
+    "reasoning_effort": "low"
+  },
+  "text": "470.000 danskere uden job vil gerne arbejde. Det viser nye tal fra Danmarks Statistik for første kvartal 2026.\n\nI alt var 905.000 personer mellem 15 og 64 år ubeskæftigede. 52 procent af dem ønskede et arbejde. Det er 85.000 flere end i første kvartal 2024. Dengang var andelen 45 procent.\n\nLysten til at arbejde er størst blandt de 25-34-årige. Her ønsker 66 procent et job. Blandt de 55-64-årige er det kun 28 procent.\n\nDe resterende 435.000 ubeskæftigede ønsker ikke et arbejde. Det er 41.000 færre end for to år siden. Årsagerne skifter med alderen. Blandt de 15-24-årige er uddannelse grunden for fire ud af fem. Blandt de 55-64-årige er det pension, efterløn, fleksydelse eller førtidspension for syv ud af ti. Meget få peger på familiemæssige årsager.\n\nIkke alle, der ønsker et job, tæller som ledige. 236.000 personer søgte aktivt og kunne starte med det samme. De kaldes AKU-ledige. Det svarer til 7,5 procent af arbejdsstyrken. Ledigheden er dermed steget 0,8 procentpoint på et år.\n\nMange af de ledige er studerende. De søger ofte deltidsjob med få timer. Uden studerende var ledigheden 6,2 procent. Det er en stigning på 0,5 procentpoint.\n\nDanmarks Statistik peger på et relativt højt antal opsigelser i andet halvår af 2025 som en del af forklaringen.\n\nDerudover søgte 81.000 personer arbejde, men kunne ikke starte med det samme. 40.000 søgte ikke, men kunne starte straks. Tilsammen med de AKU-ledige udgør de 356.000 personer. Lagt sammen med deltidsansatte, der vil have flere timer, kaldes gruppen arbejdskraftreserven.\n\nAKU-ledigheden er højere end registerledigheden. Den tæller nemlig også folk, der ikke får dagpenge eller kontanthjælp.",
+  "prompt_tokens": 2539,
+  "completion_tokens": 760,
+  "latency_ms": 10053,
+  "cost_usd": 0.06339,
+  "created": "2026-11-10T07:22:37.699983Z",
+  "error": null
+}

@@ -1,0 +1,21 @@
+{
+  "model_id": "anthropic-frontier",
+  "pinned_version": "claude-fable-5-1",
+  "task_id": "t6_lydmanus",
+  "source_id": "dst-2026-ledighed-september",
+  "archetype": "lynposten",
+  "prompt_sha256": "7a1317ac211b8a1e92d3dcc0b4ac7262744b9e18cd3980d9ea194a229e2f82bf",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 3620,
+    "reasoning_effort": "low"
+  },
+  "text": "Ledigheden faldt i september. Det viser nye tal fra Danmarks Statistik. Fra august til september faldt ledigheden med to hundrede personer. Nu er der treoghalvfems tusind seks hundrede fuldtidsledige i Danmark. Ledighedsprocenten er uændret. Den ligger stadig på tre komma en procent af arbejdsstyrken.\n\nBåde dagpenge og kontanthjælp går lidt ned. Et hundrede færre er ledige på dagpenge. Et hundrede færre er ledige på kontanthjælp. I alt er otteoghalvfjerds tusind seks hundrede på dagpenge. Femten tusind er på kontanthjælp.\n\nDe unge klarer sig bedst. Ledigheden er lavest blandt de seksten til fireogtyveårige. Her er den en komma seks procent. Den er højest blandt de femogtyve til niogtyveårige. Her er den fem komma nul procent.\n\nVestjylland har landets laveste ledighed med to komma en procent. Byen København har den højeste med fire komma nul procent.\n\nTallene er sæsonkorrigerede, ifølge Danmarks Statistik.",
+  "prompt_tokens": 1884,
+  "completion_tokens": 406,
+  "latency_ms": 7188,
+  "cost_usd": 0.03914,
+  "created": "2026-11-10T07:27:11.550318Z",
+  "error": null
+}

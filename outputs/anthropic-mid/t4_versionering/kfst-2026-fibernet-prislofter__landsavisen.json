@@ -1,0 +1,21 @@
+{
+  "model_id": "anthropic-mid",
+  "pinned_version": "claude-sonnet-5-5",
+  "task_id": "t4_versionering",
+  "source_id": "kfst-2026-fibernet-prislofter",
+  "archetype": "landsavisen",
+  "prompt_sha256": "709ae06599a54d581f3744aa9c3b6088b029e93a35f226f0e24397f8f9f1b8ef",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 4025,
+    "reasoning_effort": "low"
+  },
+  "text": "Konkurrence- og Forbrugerstyrelsen har udarbejdet udkast til nye prislofter for leje af fibernet, som skal gælde fra årsskiftet. Som uafhængig telekonkurrencemyndighed vil styrelsen i december fastsætte de endelige lofter for de kommende fem år. Udspillet er et svar på mediernes interesse, især for rammerne til TDC, og på misforståelser, som styrelsen mener er opstået i den forbindelse.\n\nPrislofterne gælder kun i områder, hvor ejeren af fibernettet har monopollignende status og derfor kunne sætte prisen meget højt over for andre bredbåndsudbydere, der vil leje sig ind. For TDC er det ifølge styrelsen en mindre del af forretningen, der omfattes. Der kommer ikke begrænsninger på selskabets prissætning på mobilområdet eller på fiberlejepriser uden for hovedstadsområdet.\n\nStyrelsen forventer, at prisen på bredbånd stiger en del i perioden. Alt efter selskab og område bliver lofterne op til 35 procent højere end i dag. Det skyldes tre forhold: højere priser på udstyr som følge af generelle prisstigninger, en højere tilladt forrentning af investeret kapital, fordi renteniveauet er steget, og behovet for at kunne dække investeringer i beskyttelse mod udefrakommende angreb.\n\nNetop beskyttelsen har styrelsen fået analyseret med hjælp fra eksterne eksperter. Ekstraomkostninger til robusthed er indregnet, så lofterne bliver højere, end de ellers ville have været. Lejepriserne skal dog ikke finansiere beskyttelse af ikke-regulerede net som mobilnettet.\n\nDer skal træffes afgørelser om 13 fibernetselskaber. Fem, blandt dem Norlys og Fibia, bindes til egne tilsagn. TDC får pålagt forpligtelser, fordi selskabet ikke har fremlagt acceptable tilsagn. Syv selskaber, der kun sælger engros, skal primært holde nettene åbne for detailudbydere.\n\nAfgørelserne sendes til Europa-Kommissionen (DG Connect) inden den endelige beslutning. Selskaberne kan indbringe dem for Teleklagenævnet og domstolene.",
+  "prompt_tokens": 2778,
+  "completion_tokens": 824,
+  "latency_ms": 6316,
+  "cost_usd": 0.013796,
+  "created": "2026-11-10T07:16:50.681459Z",
+  "error": null
+}

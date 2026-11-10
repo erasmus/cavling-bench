@@ -1,0 +1,21 @@
+{
+  "model_id": "anthropic-frontier",
+  "pinned_version": "claude-fable-5-1",
+  "task_id": "t1_telegram",
+  "source_id": "fm-2026-ok26-statens-overenskomst",
+  "archetype": null,
+  "prompt_sha256": "edf47245906bf09756f932b4ed8b325dd227cd9d38735560607d75329b951a31",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 3560,
+    "reasoning_effort": "low"
+  },
+  "text": "Finansministeren, Centralorganisationernes Fællesudvalg (CFU) og Akademikerne har indgået et treårigt overenskomstforlig for de omkring 200.000 ansatte i staten med en økonomisk ramme på 8,7 pct. over tre år. Forliget prioriterer 275 mio. kr. til et ekstraordinært lønløft til Forsvarets militært ansatte, 250 mio. kr. mere til lokal løn og 20 mio. kr. til erhvervsskolelærerne. Der etableres desuden en fritvalgskonto, hvor ansatte kan vælge mellem løn, pension og frihed, samt to ekstra seniordage. Børnefamilier får fri med løn på barnets tredje sygedag, og lønretten ved deleorlov øges med to uger. De første lønstigninger kommer i foråret, oplyser parterne. Resultatet sendes nu til afstemning hos de faglige organisationer og vil, hvis det tiltrædes, gælde fra 1. april 2026 til 31. marts 2029.",
+  "prompt_tokens": 1546,
+  "completion_tokens": 367,
+  "latency_ms": 4066,
+  "cost_usd": 0.03381,
+  "created": "2026-11-10T07:19:08.870371Z",
+  "error": null
+}

@@ -1,0 +1,21 @@
+{
+  "model_id": "anthropic-frontier",
+  "pinned_version": "claude-fable-5-1",
+  "task_id": "t2_rubrik",
+  "source_id": "kk-2026-ventetidsgaranti-foedselsgener",
+  "archetype": "lynposten",
+  "prompt_sha256": "3900ba1f3e1928d49fdcce0ea19b67bae87b827c54e419a0236e46bb802dc56d",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 3400,
+    "reasoning_effort": "low"
+  },
+  "text": "RUBRIK: København lover fødende kvinder hjælp inden syv dage\nUNDERRUBRIK: Ventetiden til efterfødselshjælp i Vanløse er i dag 17 dage. Ny garanti giver første samtale inden 7 dage og undersøgelse senest 3 uger senere.",
+  "prompt_tokens": 3014,
+  "completion_tokens": 109,
+  "latency_ms": 3420,
+  "cost_usd": 0.03559,
+  "created": "2026-11-10T07:20:31.516265Z",
+  "error": null
+}

@@ -1,0 +1,21 @@
+{
+  "model_id": "anthropic-mid",
+  "pinned_version": "claude-sonnet-5-5",
+  "task_id": "t4_versionering",
+  "source_id": "fo-2026-salling-group-oego-boede",
+  "archetype": "lynposten",
+  "prompt_sha256": "1119f204e7f915d8c86cbc42bb832ca3abc9995e3e4042e864e8075a15dcf6db",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 4025,
+    "reasoning_effort": "low"
+  },
+  "text": "Salling Group betaler 10 millioner kroner i bøde for at have vildledt forbrugerne om Nettos ØGO-mærke. Selskabet har accepteret bøden. Forbrugerombudsmanden politianmeldte det i september 2025.\n\nSalling Group skrev, at ØGO var det fjerde mest bæredygtige mærke i Danmark. Det holdt ikke. Udsagnet byggede på en spørgeundersøgelse blandt 10.000 danske forbrugere. SB Insight, der står bag Sustainable Brand Index, gennemførte den.\n\nUndersøgelsen viste kun, hvad forbrugerne mente om mærket. Den dokumenterede ikke, hvor bæredygtige produkterne faktisk er.\n\nUdsagnet stod i Nettos opslag på sociale medier. Det stod også i en tilbudsmail fra Netto+. Her lød teksten: \"ØGO indtager igen 4. pladsen blandt Danmarks mest bæredygtige brands.\"\n\nForbrugerombudsmanden vurderede, at markedsføringen kunne give forbrugerne et forkert indtryk af produkternes klima- og miljøbelastning. Dermed brød Salling Group forbuddet mod vildledning i markedsføringsloven. At produkterne er økologiske, kan ikke begrunde, at serien kaldes bæredygtig, mener ombudsmanden.\n\nSalling Group fjernede opslagene, efter ombudsmanden henvendte sig.\n\nBøden er udmålt efter en ny bødemodel. Den gælder fra 1. januar 2022 og skal skærpe bødeniveauet for overtrædelser af markedsføringsloven.\n\nForbrugerombudsmand Torben Jensen peger på forskellen mellem to ting:\n\n\"Virksomheder skal generelt være meget varsomme med de udsagn, de benytter i deres markedsføring. Der er en meget væsentlig forskel på, om produkter er bæredygtige, eller om forbrugerne opfatter dem som bæredygtige.\"\n\nVirksomheder må ikke bruge bæredygtighedsudsagn, medmindre de kan dokumentere, at de er korrekte.",
+  "prompt_tokens": 2611,
+  "completion_tokens": 759,
+  "latency_ms": 5117,
+  "cost_usd": 0.012812,
+  "created": "2026-11-10T07:16:35.448287Z",
+  "error": null
+}

@@ -1,0 +1,21 @@
+{
+  "model_id": "anthropic-mid",
+  "pinned_version": "claude-sonnet-5-5",
+  "task_id": "t6_lydmanus",
+  "source_id": "dst-2026-ledighed-september",
+  "archetype": "lynposten",
+  "prompt_sha256": "7a1317ac211b8a1e92d3dcc0b4ac7262744b9e18cd3980d9ea194a229e2f82bf",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 3620,
+    "reasoning_effort": "low"
+  },
+  "text": "Ledigheden faldt med to hundrede i september. Det viser nye tal fra Danmarks Statistik.\n\nDer var treoghalvfems tusind seks hundrede ledige fuldtidspersoner. Ledighedsprocenten lå uændret på tre komma et procent af arbejdsstyrken.\n\nDer er færre ledige på dagpenge og kontanthjælp. Begge grupper faldt med hundrede. Otteoghalvfjerds tusind seks hundrede er ledige på dagpenge. Femten tusind er ledige på kontanthjælp.\n\nUnge mellem femogtyve og niogtyve år har den højeste ledighed. Den ligger på fem komma nul procent. Ledigheden steg for den gruppe med nul komma et procentpoint.\n\nLavest er ledigheden i Vestjylland med to komma et procent. Højest er den i Byen København med fire komma nul procent.\n\nAlle tal er sæsonkorrigerede, ifølge Danmarks Statistik.",
+  "prompt_tokens": 1884,
+  "completion_tokens": 344,
+  "latency_ms": 3224,
+  "cost_usd": 0.007208,
+  "created": "2026-11-10T07:18:20.408308Z",
+  "error": null
+}

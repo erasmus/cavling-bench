@@ -1,0 +1,21 @@
+{
+  "model_id": "anthropic-mid",
+  "pinned_version": "claude-sonnet-5-5",
+  "task_id": "t2_rubrik",
+  "source_id": "aalborg-2025-omlaegningsplan-trepart",
+  "archetype": "erhvervsnyt",
+  "prompt_sha256": "e8339691d4628f323ef3a6cab1488cc0259c6a83aa99de50d00af065fe391fac",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 3400,
+    "reasoning_effort": "low"
+  },
+  "text": "RUBRIK: Aalborg Byråd vedtager plan med 94 grønne projekter\nUNDERRUBRIK: Principvedtagelse 15. december omfatter 77 lavbundsprojekter og 13 drikkevandsforslag. Projekterne kræver enighed med de berørte lodsejere.",
+  "prompt_tokens": 2826,
+  "completion_tokens": 110,
+  "latency_ms": 1330,
+  "cost_usd": 0.006752,
+  "created": "2026-11-10T07:14:56.743461Z",
+  "error": null
+}

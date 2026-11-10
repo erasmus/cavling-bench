@@ -1,0 +1,21 @@
+{
+  "model_id": "anthropic-mid",
+  "pinned_version": "claude-sonnet-5-5",
+  "task_id": "t2_rubrik",
+  "source_id": "dst-2026-bnp-2-kvartal-revideret",
+  "archetype": "lynposten",
+  "prompt_sha256": "dd9e896dd4f3b7490c96859b047643eeb3c1185a96caaba65adcb9618f8b1af8",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 3400,
+    "reasoning_effort": "low"
+  },
+  "text": "RUBRIK: BNP stiger 0,9 pct. i andet kvartal – opjusteret med 0,6\nUNDERRUBRIK: Væksten er revideret op fra første opgørelse. Beskæftigelsen stiger med 7.800 personer, og medicinalindustrien trækker op. Forbruget er uændret.",
+  "prompt_tokens": 3889,
+  "completion_tokens": 116,
+  "latency_ms": 1379,
+  "cost_usd": 0.008938,
+  "created": "2026-11-10T07:14:59.653237Z",
+  "error": null
+}

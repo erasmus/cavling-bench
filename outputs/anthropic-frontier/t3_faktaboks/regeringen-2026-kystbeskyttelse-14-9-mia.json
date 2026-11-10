@@ -1,0 +1,21 @@
+{
+  "model_id": "anthropic-frontier",
+  "pinned_version": "claude-fable-5-1",
+  "task_id": "t3_faktaboks",
+  "source_id": "regeringen-2026-kystbeskyttelse-14-9-mia",
+  "archetype": null,
+  "prompt_sha256": "cefcfca0a8a01b846fe3636fdfeeed40262018ce613f2ac4bd70698c0c08474d",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 3575,
+    "reasoning_effort": "low"
+  },
+  "text": "- Regeringen afsætter 14,9 mia. kroner til en national investeringsplan for kystbeskyttelse med Klimatilpasningsplan II.\n- Staten vil medfinansiere 85 procent af anlægsinvesteringerne, mens kommunerne bidrager med 15 procent.\n- Samlet giver det mulighed for investeringer på op mod 20 mia. kroner til kystbeskyttelse frem mod 2040.\n- Op mod 100.000 husstande og virksomheder med 175.000 arbejdspladser langs kysterne risikerer oversvømmelser fra havet.\n- Regeringen har nedsat en ekspertgruppe, der skal anbefale en model for fordeling af et muligt finansieringsbidrag mellem lodsejere.",
+  "prompt_tokens": 2085,
+  "completion_tokens": 268,
+  "latency_ms": 2767,
+  "cost_usd": 0.03425,
+  "created": "2026-11-10T07:21:43.130781Z",
+  "error": null
+}

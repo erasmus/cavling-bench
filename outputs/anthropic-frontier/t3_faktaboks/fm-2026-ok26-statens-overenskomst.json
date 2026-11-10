@@ -1,0 +1,21 @@
+{
+  "model_id": "anthropic-frontier",
+  "pinned_version": "claude-fable-5-1",
+  "task_id": "t3_faktaboks",
+  "source_id": "fm-2026-ok26-statens-overenskomst",
+  "archetype": null,
+  "prompt_sha256": "9bb055a0c0d5ad973bfdd2b561c279021cf60bebda06be2e1850b2d081687f3f",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 3575,
+    "reasoning_effort": "low"
+  },
+  "text": "- Forliget omfatter omkring 200.000 medarbejdere i staten og har en økonomisk ramme på 8,7 pct. over tre år.\n- Parterne afsætter 275 mio. kr. til rekruttering og fastholdelse af Forsvarets militært ansatte.\n- Der prioriteres 250 mio. kr. mere til lokal løn og 20 mio. kr. til et lønløft til erhvervsskolelærerne.\n- Børnefamilier får mulighed for fri med løn på hjemkaldelsesdagen og på barnets tredje sygedag.\n- Hvis forliget tiltrædes ved afstemning, gælder det fra 1. april 2026 til 31. marts 2029.",
+  "prompt_tokens": 1564,
+  "completion_tokens": 246,
+  "latency_ms": 2900,
+  "cost_usd": 0.02794,
+  "created": "2026-11-10T07:21:22.716300Z",
+  "error": null
+}

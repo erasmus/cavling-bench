@@ -1,0 +1,21 @@
+{
+  "model_id": "anthropic-mid",
+  "pinned_version": "claude-sonnet-5-5",
+  "task_id": "t6_lydmanus",
+  "source_id": "fo-2026-rejsekort-politianmeldelse",
+  "archetype": "lynposten",
+  "prompt_sha256": "09353e7cf43f2d33d0480738fe66e7a151aa6c5033d81a56a6c3bf12639cd63d",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 3620,
+    "reasoning_effort": "low"
+  },
+  "text": "Forbrugerombudsmanden politianmelder Rejsekort og Rejseplan. Selskabet har vildledt rejsende, mener ombudsmanden.\n\nKampagnen sagde, at man skulle bruge en billet-app, når det fysiske rejsekort lukkede. Den sagde ikke klart, at der stadig ville være et alternativ uden app.\n\nKampagnen kørte på sociale medier, på skilte på stationerne og på skærme i busser og tog. Hætter over standerne sendte et signal om, at det fysiske kort ikke kunne bruges mere.\n\nForbrugerombudsmanden har fået over femogtredive klager.\n\nForbrugerombudsmand Torben Jensen siger: \"Man giver nogle oplysninger, men udelader andre væsentlige oplysninger.\" Han kalder det skærpende, at kampagnen var så omfattende, og at man ikke bare kan fravælge offentlig transport.\n\nRejsekort og Rejseplan mener ikke, at markedsføringen er vildledende.",
+  "prompt_tokens": 3108,
+  "completion_tokens": 357,
+  "latency_ms": 2937,
+  "cost_usd": 0.009786,
+  "created": "2026-11-10T07:18:27.298743Z",
+  "error": null
+}

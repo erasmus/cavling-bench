@@ -1,0 +1,21 @@
+{
+  "model_id": "anthropic-frontier",
+  "pinned_version": "claude-fable-5-1",
+  "task_id": "t6_lydmanus",
+  "source_id": "fm-2026-2035-plan",
+  "archetype": "lynposten",
+  "prompt_sha256": "e12ceae45a6a5b5f54ef5a883b8778c6c158f9c62ab61993b4393dd81ee30a68",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 3620,
+    "reasoning_effort": "low"
+  },
+  "text": "Regeringen præsenterer i dag sin 2035-plan. Planen prioriterer forsvar, velfærd, beredskab og klima.\n\nForsvarsudgifterne er steget fra en komma seksogtredive procent af bruttonationalproduktet i 2022 til forventet tre en halv procent i år. Regeringen vil løfte dem yderligere. Målet er at leve op til NATO's målsætning på tre en halv procent allerede i 2030.\n\nBeredskabet får en akutpakke på en komma to milliarder kroner i år. I 2035 skal løftet svare til fem milliarder kroner årligt.\n\nTil kystbeskyttelse mod stormflod afsættes cirka femten milliarder kroner frem til 2040.\n\nFinansminister Nicolai Wammen siger, at Danmark har råd på grund af ansvarlige beslutninger. Men han advarer. Fremtiden kræver skarp prioritering.\n\nUdenrigsminister Lars Løkke Rasmussen siger det ligeud. Når regningerne er betalt, er kassen så godt som tom. Store udfordringer efter 2035 løses ikke med planen.",
+  "prompt_tokens": 3084,
+  "completion_tokens": 394,
+  "latency_ms": 4749,
+  "cost_usd": 0.05054,
+  "created": "2026-11-10T07:27:17.356015Z",
+  "error": null
+}

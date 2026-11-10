@@ -1,0 +1,21 @@
+{
+  "model_id": "anthropic-mid",
+  "pinned_version": "claude-sonnet-5-5",
+  "task_id": "t1_telegram",
+  "source_id": "ombudsmanden-2026-lolland-avisabonnement-pression",
+  "archetype": null,
+  "prompt_sha256": "7a1fbff151e6ddbcd3c30fedcb336c9eda539d2622a06449750929be74e9cf94",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 3560,
+    "reasoning_effort": "low"
+  },
+  "text": "Folketingets Ombudsmand, Christian Britten Lundblad, har i en udtalelse til Lolland Kommune slået fast, at en myndigheds opsigelse af avisabonnementer ikke må ske som pression eller \"straffeaktion\" over for pressen. Ombudsmanden indledte i maj 2026 en undersøgelse, efter at kommunen havde opsagt abonnementer på Lolland-Falsters Folketidende efter en artikel. Kommunen oplyser, at abonnementerne tilhørte borgmesteren og to byrådsmedlemmer, og at opsigelserne skete efter deres anmodning uden at skulle straffe avisen. Ombudsmanden mener, at flere politikerudtalelser kan efterlade et andet indtryk, og har bedt kommunen overveje sagen og orientere ham om resultatet.",
+  "prompt_tokens": 1918,
+  "completion_tokens": 295,
+  "latency_ms": 2776,
+  "cost_usd": 0.006786,
+  "created": "2026-11-10T07:14:49.957269Z",
+  "error": null
+}

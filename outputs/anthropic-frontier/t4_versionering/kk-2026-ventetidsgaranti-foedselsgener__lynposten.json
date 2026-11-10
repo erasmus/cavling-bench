@@ -1,0 +1,21 @@
+{
+  "model_id": "anthropic-frontier",
+  "pinned_version": "claude-fable-5-1",
+  "task_id": "t4_versionering",
+  "source_id": "kk-2026-ventetidsgaranti-foedselsgener",
+  "archetype": "lynposten",
+  "prompt_sha256": "773239f5474639cb1a554d2a7785181adc3a34bfcca9ec699014ce04e284e818",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 4025,
+    "reasoning_effort": "low"
+  },
+  "text": "Kvinder i København med gener efter fødsel skal nu vente højst syv dage på første samtale. Det er resultatet af en ny ventetidsgaranti i Københavns Kommunes budgetaftale.\n\nI dag venter kvinderne 17 dage fra henvisning til visitationssamtale. Derefter går der yderligere 44 dage til afklarende samtale og undersøgelse. Det er for længe, mener politikerne bag aftalen.\n\nFremover skal første samtale ske efter højst syv dage. Undersøgelsen skal ske senest tre uger senere. Kan kommunen ikke overholde garantien, får kvinden et forløb hos en privat leverandør.\n\n\"Oplever en kvinde gener efter en fødsel, så skal hun have adgang til kompetent hjælp med det samme,\" siger sundheds- og omsorgsborgmester Jens-Kristian Lütken (V).\n\nDet gratis tilbud ligger i Vanløse og åbnede i foråret 2025. Siden er kvinder med inkontinens, bristninger, delte mavemuskler og rygsmerter strømmet til. Første samtale varetages af gynækologisk obstetriske fysioterapeuter. Her får kvinden rådgivning og øvelser, hun kan gå i gang med derhjemme.\n\nI år kan kommunen hjælpe omkring 800 kvinder. Næste år godt 1.000. Fra 2027 skal 1.500 kvinder kunne få hjælp. Kommunen står selv for 320 af de nye forløb. Private leverandører ventes at tage 180.\n\nPartierne har afsat knap 12,5 millioner kroner over fire år. De kommer oven i knap 19 millioner kroner fra tidligere aftaler.\n\n\"Vi sikrer, at kvinder ikke skal vente for længe på at få den hjælp, de har brug for,\" siger overborgmester Sisse Marie Welling (SF).\n\nAlexander Ryle, gruppeformand for Liberal Alliance i Borgerrepræsentationen, bakker op.\n\n\"Det handler ikke om privat eller offentlig. Det handler om at sætte mennesket før systemet,\" siger han.\n\nKommunen vil føre tilsyn med de private samarbejdspartnere.",
+  "prompt_tokens": 2997,
+  "completion_tokens": 773,
+  "latency_ms": 9829,
+  "cost_usd": 0.06862,
+  "created": "2026-11-10T07:23:49.387585Z",
+  "error": null
+}

@@ -1,0 +1,21 @@
+{
+  "model_id": "anthropic-mid",
+  "pinned_version": "claude-sonnet-5-5",
+  "task_id": "t5_forkortelse",
+  "source_id": "politi-2026-midtvestsjaelland-idraetsforening",
+  "archetype": null,
+  "prompt_sha256": "39014e4e0084a0387d72d6e74ac2fc0bb82a45ae8e06a3065babb89c5bf9d61c",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 3860,
+    "reasoning_effort": "low"
+  },
+  "text": "Retten i Roskilde har i dag idømt en 46-årig mand et års fængsel for seksuelle overgreb og blufærdighedskrænkelser mod et stort antal drenge. Manden har tilstået forholdene.\n\nHan var ansat i en idrætsforening i Roskilde, hvor alle de forurettede drenge på nær én var tilknyttet.\n\nManden har tilstået at have udsat et større antal drenge for blufærdighedskrænkelser og at have voldtaget en dreng under 12 år ved andet seksuelt forhold end samleje. Nogle af drengene blev udsat for befølinger, mens ikke færre end 42 drenge blev filmet uden deres viden. Manden er derfor også dømt for uberettiget at have filmet på et ikke frit tilgængeligt sted i perioden fra januar 2022 til april 2024.\n\nSenioranklager Pernille Fredin fra anklagemyndigheden hos Midt- og Vestsjællands Politi siger: \"Der er tale om en meget alvorlig sag, hvor et stort antal drenge er blevet udsat for seksuelle krænkelser af en voksen, som de burde kunne have tillid til. Det er et groft tillidsbrud, som kan have store konsekvenser for de berørte.\"\n\nEfter anholdelsen fik politiet adgang til mandens telefon, hvor der blev fundet en større mængde seksuelt billed- og videomateriale med personer under 18 år. Materialet fordelte sig på alle tre kategorier af seksuelt overgrebsmateriale med børn.\n\nUd over fængselsstraffen blev han frakendt retten til at beskæftige sig med børn og unge under 18 år.\n\nIfølge Pernille Fredin har sagen været længe undervejs, blandt andet fordi der skulle foretages en vurdering af den dømtes mentale tilstand. Hun håber, at dommen kan give drengene og deres familier en følelse af retfærdighed og den afklaring, de har ventet på.\n\nDen 46-årige tog sig betænkningstid i forhold til anke.",
+  "prompt_tokens": 1181,
+  "completion_tokens": 714,
+  "latency_ms": 4157,
+  "cost_usd": 0.009502,
+  "created": "2026-11-10T07:18:06.158118Z",
+  "error": null
+}

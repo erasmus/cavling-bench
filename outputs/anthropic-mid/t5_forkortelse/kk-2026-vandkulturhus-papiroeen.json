@@ -1,0 +1,21 @@
+{
+  "model_id": "anthropic-mid",
+  "pinned_version": "claude-sonnet-5-5",
+  "task_id": "t5_forkortelse",
+  "source_id": "kk-2026-vandkulturhus-papiroeen",
+  "archetype": null,
+  "prompt_sha256": "0ce7849500ef9540baf46f91b51b69d6bd547a6b10ae247fd6c6bbb24f900c07",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 3860,
+    "reasoning_effort": "low"
+  },
+  "text": "KAI – Københavns nye vandkulturhus på Papirøen åbner den 5. december 2026. Det 5.800 m2 store hus ligger på havnekajen og har 10 bassiner inde og ude. Det er tegnet af den japanske tegnestue Kengo Kuma & Associates. Huset er stadig under opførelse og lukket for offentligheden frem til åbningen; program for indvielsen offentliggøres senere.\n\nOverborgmester Sisse Marie Welling (SF) peger på, at København er presset på svømmekapacitet, og at huset giver nye bassiner til voksne og legebassiner til de mindste. Idéen stammer fra en idékonkurrence om Papirøen, som Københavns Kommune afholdt i 2015, hvor københavnerne indsendte 160 forslag. Langt de fleste ønskede en svømmefacilitet og et mødested for foreningslivet. Kultur-, fritids- og borgerserviceborgmester Christopher Røhl (R) kalder KAI en ny perle på rækken af Bryggen, Den Sorte Diamant og Operaen.\n\nNordea-fonden har støttet projektet med 546 mio. kr., heraf 25 mio. kr. til bæredygtighed, bl.a. lodret jordpumpevarme med 10 boringer til 250 meters dybde, som opvarmer de udendørs bassiner på første etage.\n\nStueetagen har 25-metersbassin, undervisningsbassin og tre legebassiner samt adgang til havnen med bade- og dyppezone ved en træbrygge. På første etage ligger Dalbassinet mellem husets fem teglstubbe og bassinet Onsen med udsigt over havnen.\n\nNavnet KAI betyder hav på japansk. Kulturtårnet i den højeste teglstub rummer bevægelses- og kulturlokaler. Borgere og kulturskabere kan indsende idéer til kulturprogrammet. Se www.kai.kk.dk.",
+  "prompt_tokens": 3046,
+  "completion_tokens": 684,
+  "latency_ms": 4989,
+  "cost_usd": 0.012932,
+  "created": "2026-11-10T07:17:58.466092Z",
+  "error": null
+}

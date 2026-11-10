@@ -1,0 +1,21 @@
+{
+  "model_id": "anthropic-frontier",
+  "pinned_version": "claude-fable-5-1",
+  "task_id": "t6_lydmanus",
+  "source_id": "politi-2026-midtvestsjaelland-idraetsforening",
+  "archetype": "lynposten",
+  "prompt_sha256": "06a7f9b23ceedaa7c6c29ef6f2b251a0580a467f503e0e706edaffd3923613dd",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 3620,
+    "reasoning_effort": "low"
+  },
+  "text": "En seksogfyrreårig mand er idømt et års fængsel for seksuelle overgreb mod et stort antal drenge. Dommen faldt i dag ved Retten i Roskilde. Manden har tilstået.\n\nHan var ansat i en idrætsforening i Roskilde. Alle drengene på nær én var tilknyttet foreningen.\n\nManden har tilstået blufærdighedskrænkelser mod et større antal drenge. Han har også tilstået at have voldtaget en dreng under tolv år ved andet seksuelt forhold end samleje. Nogle drenge blev befølt. Mindst toogfyrre drenge blev filmet uden deres viden. Det skete fra januar 2022 til april 2024.\n\nPolitiet fandt desuden en større mængde overgrebsmateriale med børn på hans telefon.\n\nSenioranklager Pernille Fredin fra Midt- og Vestsjællands Politi kalder sagen meget alvorlig. Hun siger, at det er et groft tillidsbrud.\n\nManden er frakendt retten til at arbejde med børn og unge under atten år. Han overvejer, om han vil anke.",
+  "prompt_tokens": 1682,
+  "completion_tokens": 391,
+  "latency_ms": 6134,
+  "cost_usd": 0.03637,
+  "created": "2026-11-10T07:27:45.686549Z",
+  "error": null
+}

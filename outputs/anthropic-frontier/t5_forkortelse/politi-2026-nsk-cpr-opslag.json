@@ -1,0 +1,21 @@
+{
+  "model_id": "anthropic-frontier",
+  "pinned_version": "claude-fable-5-1",
+  "task_id": "t5_forkortelse",
+  "source_id": "politi-2026-nsk-cpr-opslag",
+  "archetype": null,
+  "prompt_sha256": "c47343722506643b4f3e6dbe835b4226a77bd836fce6f89f736b5c808b9a6841",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 3860,
+    "reasoning_effort": "low"
+  },
+  "text": "En 27-årig mand fra Storkøbenhavn er ved Københavns Byret idømt fængsel i 3 år og 6 måneder for at muliggøre personfarlig kriminalitet ved opslag i CPR-registret. Sagen er efterforsket af National enhed for Særlig Kriminalitet (NSK).\n\nRetten fandt det onsdag bevist, at manden fra juni 2023 til juli 2024 misbrugte sin stilling som studentermedhjælper på Københavns Kommunes vielseskontor til at skaffe personfølsomme oplysninger fra Det Centrale Personregister (CPR), blandt andet bopælsadresser og familienetværk på konkrete personer. Oplysningerne solgte han til medgerningsmænd i det kriminelle miljø og medvirkede dermed til 34 tilfælde af forsøg på grov vold.\n\nHan blev desuden dømt for at have misbrugt sin offentligt betroede stilling ved de uberettigede opslag og for uberettiget at have videregivet oplysningerne mod betaling.\n\nSpecialanklager i NSK Rikke Holm Schønsted kalder det alvorligt, at den dømte havde forsæt til at facilitere personfarlig kriminalitet mod konkrete forurettede, og er tilfreds med, at salget af oplysninger kan straffes som medvirken til forsøg.\n\nAnklager i NSK Tine Graakjær fremhæver, at der ikke findes lignende retspraksis fra tidligere straffesager. Den dømte deltog ikke direkte i planlægningen, men retten fandt bevist, at han måtte have indset, at oplysningerne skulle bruges til personfarlig kriminalitet.\n\nDen 27-årige tog betænkningstid med hensyn til at anke dommen.\n\nNSK er en landsdækkende enhed med cirka 1.200 ansatte og hovedsæde i Ejby ved Glostrup.",
+  "prompt_tokens": 1792,
+  "completion_tokens": 1847,
+  "latency_ms": 18870,
+  "cost_usd": 0.11027,
+  "created": "2026-11-10T07:26:43.647172Z",
+  "error": null
+}

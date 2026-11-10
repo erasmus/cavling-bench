@@ -1,0 +1,21 @@
+{
+  "model_id": "anthropic-frontier",
+  "pinned_version": "claude-fable-5-1",
+  "task_id": "t2_rubrik",
+  "source_id": "aalborg-2025-omlaegningsplan-trepart",
+  "archetype": "lynposten",
+  "prompt_sha256": "45205b97323cc675d1b72c3287f39ecd5e5c40c294614bf4aa33c395e75dbd83",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 3400,
+    "reasoning_effort": "low"
+  },
+  "text": "RUBRIK: Aalborg Byråd vedtager plan med 94 grønne projekter\nUNDERRUBRIK: Planen skal give mere natur, renere drikkevand og mindre CO2. Projekterne kræver enighed med lodsejerne, og dialogmøderne starter i 2026.",
+  "prompt_tokens": 2839,
+  "completion_tokens": 106,
+  "latency_ms": 2935,
+  "cost_usd": 0.03369,
+  "created": "2026-11-10T07:19:43.806703Z",
+  "error": null
+}

@@ -1,0 +1,21 @@
+{
+  "model_id": "anthropic-mid",
+  "pinned_version": "claude-sonnet-5-5",
+  "task_id": "t4_versionering",
+  "source_id": "jm-2026-nyt-ledelseshold-politi",
+  "archetype": "landsavisen",
+  "prompt_sha256": "24a4a4ca78e5c0c9118390b915e6d38fed1489dee13880e62778f027a654ff5b",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 4025,
+    "reasoning_effort": "low"
+  },
+  "text": "Justitsminister Nicolai Wammen har sat et nyt ledelseshold for dansk politi og anklagemyndighed frem mod 2030. Baggrunden er, at åremålsansættelserne for en betydelig del af de øverste chefer på Justitsministeriets område udløber. Rokaden skal ifølge ministeriet stille det ledelsesmæssigt stærkeste hold.\n\nDen mest markante ændring er øverst i politiet. Rigsadvokat Lasse Boje Nielsen udpeges som rigspolitichef. Han har tidligere været politidirektør for National enhed for Særlig Kriminalitet og har erfaring fra Danmarks Fængsler, Justitsministeriet og Beskæftigelsesministeriet. Hidtidig rigspolitichef Thorkild Fogde bliver politidirektør i Københavns Vestegns Politi. Statsadvokat Caroline Østergaard Nielsen fungerer indtil videre som rigsadvokat.\n\nRasmus Kieffer-Kristensen er udnævnt som chef for Politiets Efterretningstjeneste. Han kommer fra en stilling som ministerråd ved Danmarks Faste Mission ved FN i New York og har tidligere været juridisk chef i PET og statsadvokat ved Rigsadvokaten. Hans forgænger, Finn Borch Andersen, bliver politidirektør i Københavns Politi.\n\nBlandt øvrige udnævnelser bliver Steen Bechmann Jacobsen politidirektør i National enhed for Særlig Kriminalitet, Frits Villy Kjeldsen i Østjyllands Politi og Lene Frank i Syd- og Sønderjyllands Politi. Henriette Rosenborg Larsen skifter til Sydsjællands- og Lolland-Falsters Politi, mens Brian Sølvberg Fussing, Lars Kirkegaard og Andreas Langsted overtager henholdsvis Sydøstjyllands, Fyns og Midt- og Vestsjællands Politi. Fire politidirektører genudnævnes: Anne Marie Roum Svendsen i Nordjylland, Bjørn Tegner Bay i Grønland, Helle Kyndesen i Midt- og Vestjylland og Martin Preisz Gravesen på Bornholm.\n\nHos anklagemyndigheden bliver Marie Bindslev statsadvokat i København, og Jens-Christian Bülow genudnævnes som statsadvokat for Særlig Kriminalitet.\n\n”Samlet set er det holdet, som jeg vurderer bedst vil kunne lede politi og anklagemyndighed i de kommende år,” siger justitsminister Nicolai Wammen (hvis parti ikke fremgår af kilden). Han takker samtidig Thorkild Fogde og de øvrige, der forlader deres stillinger.",
+  "prompt_tokens": 2651,
+  "completion_tokens": 998,
+  "latency_ms": 6381,
+  "cost_usd": 0.015282,
+  "created": "2026-11-10T07:16:44.364838Z",
+  "error": null
+}

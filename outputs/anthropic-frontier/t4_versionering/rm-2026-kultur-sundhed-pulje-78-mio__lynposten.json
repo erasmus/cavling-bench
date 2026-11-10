@@ -1,0 +1,21 @@
+{
+  "model_id": "anthropic-frontier",
+  "pinned_version": "claude-fable-5-1",
+  "task_id": "t4_versionering",
+  "source_id": "rm-2026-kultur-sundhed-pulje-78-mio",
+  "archetype": "lynposten",
+  "prompt_sha256": "3c16f0be8c4e8ba8953ec8bade132ce65d7a0bd299c7781ca2714315bab6d090",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 4025,
+    "reasoning_effort": "low"
+  },
+  "text": "7,8 millioner kroner. Så meget sætter Region Midtjylland af til kultur, der skal gøre borgere og patienter sundere. Pengene går til projekter i hele regionen.\n\nPuljen skal omsætte viden og erfaringer til konkrete tilbud. Ifølge regionen viser forskning, at kultur kan forebygge sygdom. Den kan også lindre symptomer og øge trivsel. Og den kan hjælpe folk videre efter sygdom.\n\n- Vi ved, at kulturen kan spille en afgørende rolle for vores sundhed og trivsel. Det viser vores erfaringer de seneste ti år, siger Per Møller Jensen (S), formand for Region Midtjyllands Udvalg for Regional Udvikling.\n\nHan vil have flere gode indsatser ud til dem, der har brug for dem.\n\nPuljen peger på fire temaer. Det første er forebyggelse og trivsel, særligt blandt børn og unge. Det andet er lindring af symptomer under sygdom. Det tredje er et godt liv med psykisk eller kronisk sygdom. Det fjerde er samarbejde mellem kommuner og hospitaler eller socialområdet.\n\nDet er kulturaktører, der kan søge. De skal gøre det sammen med partnere fra sundhedsområdet.\n\n- Vi skal have flere løsninger, der virker i hverdagen, siger Vivi Altenburg (DD), næstformand for Udvalg for Regional Udvikling.\n\nHun vil have projekter, der kan bruges på tværs af kommuner og institutioner.\n\nDer er krav til ansøgerne. Man skal søge mindst 200.000 kroner. Projektet skal selv betale mindst 25 procent af budgettet. Et projekt kan vare op til tre år.\n\nFristen er den 26. august 2026 klokken 12. Regionen behandler ansøgningerne i november 2026.\n\nInden da holder regionen to dialogmøder. Det fysiske møde er på Godsbanen i Aarhus den 21. maj klokken 10-13. Det digitale er den 2. juni klokken 13-14.30.\n\nPuljen er en del af regionens samlede indsats for sundhed og kultur. I december sidste år præsenterede regionsrådet landets første regionale politik på området.",
+  "prompt_tokens": 2314,
+  "completion_tokens": 791,
+  "latency_ms": 9703,
+  "cost_usd": 0.06269,
+  "created": "2026-11-10T07:25:08.448270Z",
+  "error": null
+}

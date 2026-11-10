@@ -1,0 +1,21 @@
+{
+  "model_id": "anthropic-mid",
+  "pinned_version": "claude-sonnet-5-5",
+  "task_id": "t6_lydmanus",
+  "source_id": "dst-2026-ubeskaeftigede-oensker-arbejde",
+  "archetype": "lynposten",
+  "prompt_sha256": "2855c5316257bd3b05356a13494331b99bd05e93b58034fe1acf62550b94ecce",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 3620,
+    "reasoning_effort": "low"
+  },
+  "text": "Fireoghalvtreds tusind flere ubeskæftigede ønsker et arbejde. Nej, tallet er femogfirs tusind. Hver anden ubeskæftigede vil i dag have et job.\n\nIfølge Danmarks Statistik var der i første kvartal 2026 ni hundrede og fem tusind ubeskæftigede mellem femten og fireogtres år. Firehundrede og halvfjerds tusind af dem ønskede et arbejde. Det er toogfemtive procent. I første kvartal 2024 var andelen femogfyrre procent.\n\nFlest vil have arbejde blandt femogtyve til fireogtredive-årige. Her gælder det seksogtres procent. Færrest vil det blandt femoghalvtreds til fireogtres-årige. Her er andelen otteogtyve procent.\n\nTo hundrede og seksogtredive tusind var ledige efter de internationale regler. Ledigheden er syv komma fem procent af arbejdsstyrken.",
+  "prompt_tokens": 2588,
+  "completion_tokens": 341,
+  "latency_ms": 4612,
+  "cost_usd": 0.008586,
+  "created": "2026-11-10T07:18:24.361008Z",
+  "error": null
+}

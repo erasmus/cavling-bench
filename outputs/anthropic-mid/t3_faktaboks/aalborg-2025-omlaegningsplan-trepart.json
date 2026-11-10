@@ -1,0 +1,21 @@
+{
+  "model_id": "anthropic-mid",
+  "pinned_version": "claude-sonnet-5-5",
+  "task_id": "t3_faktaboks",
+  "source_id": "aalborg-2025-omlaegningsplan-trepart",
+  "archetype": null,
+  "prompt_sha256": "6f35ce24f92d64e8c0c8184bff6649d199d010758aa921f48a3bd15005605b29",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 3575,
+    "reasoning_effort": "low"
+  },
+  "text": "- Aalborg Byråd vedtog omlægningsplanen som principvedtagelse på byrådsmødet den 15. december.\n- Omlægningsplanen foreslår i alt 94 projekter fordelt over hele Aalborg Kommune.\n- Af projekterne er 77 forslag til lavbundsprojekter, som skal vådlægge tørveholdige jorde og nedbringe udledningen af CO2.\n- Planen rummer 13 forslag til sikring af drikkevandet i de mest sårbare indvindingsoplande.\n- Hovedparten af lavbundsindsatsen og kvælstofindsatsen skal ifølge kilden være afsluttet i 2030.",
+  "prompt_tokens": 2370,
+  "completion_tokens": 237,
+  "latency_ms": 1924,
+  "cost_usd": 0.00711,
+  "created": "2026-11-10T07:15:39.741241Z",
+  "error": null
+}

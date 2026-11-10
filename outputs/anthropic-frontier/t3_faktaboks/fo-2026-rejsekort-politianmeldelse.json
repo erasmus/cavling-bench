@@ -1,0 +1,21 @@
+{
+  "model_id": "anthropic-frontier",
+  "pinned_version": "claude-fable-5-1",
+  "task_id": "t3_faktaboks",
+  "source_id": "fo-2026-rejsekort-politianmeldelse",
+  "archetype": null,
+  "prompt_sha256": "4a7a98699478f9ce0b3b5e89222ad6a1a52cba87e9030e1196bf9b62db95f153",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 3575,
+    "reasoning_effort": "low"
+  },
+  "text": "- Forbrugerombudsmanden politianmelder Rejsekort & Rejseplan A/S for vildledende markedsføring i forbindelse med lukningen af det fysiske rejsekort.\n- Forbrugerombudsmanden har modtaget over 35 forbrugerklager over Rejsekort & Rejseplans markedsføring.\n- Fra oktober 2025 blev en række tjek ind-standere på stationer overdækket med hætter med teksten \"Rejs med digitalt\".\n- Rejsekort & Rejseplan har oplyst til Forbrugerombudsmanden, at virksomheden ikke mener, der er tale om vildledende markedsføring.\n- Politianmeldelsen henviser til markedsføringslovens paragraf 5, stk. 1, og paragraf 6, stk. 1, om vildledende handlinger og udeladelser.",
+  "prompt_tokens": 2607,
+  "completion_tokens": 297,
+  "latency_ms": 7858,
+  "cost_usd": 0.04092,
+  "created": "2026-11-10T07:21:28.716832Z",
+  "error": null
+}

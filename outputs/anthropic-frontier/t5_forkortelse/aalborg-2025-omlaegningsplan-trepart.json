@@ -1,0 +1,21 @@
+{
+  "model_id": "anthropic-frontier",
+  "pinned_version": "claude-fable-5-1",
+  "task_id": "t5_forkortelse",
+  "source_id": "aalborg-2025-omlaegningsplan-trepart",
+  "archetype": null,
+  "prompt_sha256": "c6e0a58fc9df8e8cf2e8d1c314dae5d8b7d17688922b7e362604976b2a62b2b9",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 3860,
+    "reasoning_effort": "low"
+  },
+  "text": "Aalborg Byråd har principvedtaget en omlægningsplan for Aalborg Kommune med 94 projekter, der skal give mere natur og skov, renere drikkevand og et sundere vandmiljø. Projekterne kan kun gennemføres i enighed med de berørte lodsejere.\n\nPlanen udspringer af Aftalen om et Grønt Danmark, indgået mellem Regeringen, landbruget og Danmarks Naturfredningsforening og vedtaget af et bredt flertal i Folketinget i 2024. Den skal gennemføres i samarbejde med bl.a. Naturstyrelsen og landbrugets udtagningskonsulenter og fik grønt lys på byrådsmødet 15. december.\n\nRådmand for By og Land og næstformand i Aalborg Trepart, Jan Nymark Rose Thaysen, kalder opgaven stor og kompleks og fremhæver, at planen både giver renere vandmiljø, mere natur, mindre udledning af klimagasser og renere drikkevand, samtidig med at en stærk fødevareproduktion fastholdes.\n\nI Danmark er nedsat 23 lokale treparter. Aalborg Trepart består af Danmarks Naturfredningsforening, Landbrug & Fødevarer, Naturstyrelsen og repræsentanter for Aalborg Byråd med borgmester Lasse Frimand Jensen i spidsen.\n\nAf de 94 projekter er 77 lavbundsprojekter; Aalborg er den kommune med det største areal tørveholdige lavbundsjorde, og vådlægning nedbringer CO2-udledningen. Desuden er der 13 forslag til sikring af drikkevandet, udtagning af dyrkningsjord i oplandet til Halkær Bredning for at forbedre Limfjordens vandmiljø, samt tre større naturområder, der bidrager til målet om 20 procent mere beskyttet natur: ved Hals og Ulsted Rimmer, syd for Aalborg omkring Lundby Bakker, Gistrup og Poulstrup, samt omkring Halkær Bredning og Halkær Sø vest for Nibe.\n\nI 2026 indledes dialogmøder med berørte borgere. Hovedparten af lavbunds- og kvælstofindsatsen skal være afsluttet i 2030, mens skovrejsning og natur fortsætter derefter.",
+  "prompt_tokens": 2370,
+  "completion_tokens": 827,
+  "latency_ms": 9452,
+  "cost_usd": 0.06505,
+  "created": "2026-11-10T07:25:16.818636Z",
+  "error": null
+}

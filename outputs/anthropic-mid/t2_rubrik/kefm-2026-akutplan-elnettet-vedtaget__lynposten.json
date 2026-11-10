@@ -1,0 +1,21 @@
+{
+  "model_id": "anthropic-mid",
+  "pinned_version": "claude-sonnet-5-5",
+  "task_id": "t2_rubrik",
+  "source_id": "kefm-2026-akutplan-elnettet-vedtaget",
+  "archetype": "lynposten",
+  "prompt_sha256": "ff96de00130757683b66c727c89a3a7f79f1868a841e86a5a19dbff2d0ef187b",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 3400,
+    "reasoning_effort": "low"
+  },
+  "text": "RUBRIK: Folketinget vedtager akutplan: Elnettet skal prioriteres\nUNDERRUBRIK: Et bredt flertal erstatter først-til-mølle i elnettet. Energinet og netselskaberne kan prioritere, hvem der får plads. Loven træder i kraft 12. oktober.",
+  "prompt_tokens": 4277,
+  "completion_tokens": 114,
+  "latency_ms": 1483,
+  "cost_usd": 0.009694,
+  "created": "2026-11-10T07:15:15.722416Z",
+  "error": null
+}

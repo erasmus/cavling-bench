@@ -1,0 +1,21 @@
+{
+  "model_id": "anthropic-mid",
+  "pinned_version": "claude-sonnet-5-5",
+  "task_id": "t2_rubrik",
+  "source_id": "finanstilsynet-2026-danske-bank-boliglaansinspektion",
+  "archetype": "landsavisen",
+  "prompt_sha256": "85d97766003d171daaf946280edc7923480e0bbd1c89a50c702035596d4bbf0e",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 3400,
+    "reasoning_effort": "low"
+  },
+  "text": "RUBRIK: Finanstilsynet giver Danske Bank påbud om boliglånsbevillinger\nUNDERRUBRIK: Efter inspektion af 58 bevillinger vurderer tilsynet, at 4 ikke burde være bevilget. Banken skal sikre et dokumenteret grundlag for vurdering af kundernes økonomi.",
+  "prompt_tokens": 2622,
+  "completion_tokens": 126,
+  "latency_ms": 1468,
+  "cost_usd": 0.006504,
+  "created": "2026-11-10T07:15:05.969873Z",
+  "error": null
+}

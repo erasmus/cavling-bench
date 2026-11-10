@@ -1,0 +1,21 @@
+{
+  "model_id": "anthropic-frontier",
+  "pinned_version": "claude-fable-5-1",
+  "task_id": "t2_rubrik",
+  "source_id": "skim-2026-sommeraftale-sundhedsreform",
+  "archetype": "landsavisen",
+  "prompt_sha256": "81b3b2214443fb7d8c390962f3dcba7e0dc7ae585667472ab3c00f44d8545c8a",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 3400,
+    "reasoning_effort": "low"
+  },
+  "text": "RUBRIK: Ny aftale om sundhedsreform giver kronikerpakker fra 2027\nUNDERRUBRIK: Regeringen, Danske Regioner og KL er enige om en sommeraftale, der udvider 96 timers behandlingsansvar og løfter sundhedsvæsenet med knap 800 mio. kr. i 2027.",
+  "prompt_tokens": 3628,
+  "completion_tokens": 125,
+  "latency_ms": 1764,
+  "cost_usd": 0.04253,
+  "created": "2026-11-10T07:21:08.672047Z",
+  "error": null
+}

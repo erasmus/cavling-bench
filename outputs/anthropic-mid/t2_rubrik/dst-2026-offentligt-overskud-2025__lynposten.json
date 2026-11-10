@@ -1,0 +1,21 @@
+{
+  "model_id": "anthropic-mid",
+  "pinned_version": "claude-sonnet-5-5",
+  "task_id": "t2_rubrik",
+  "source_id": "dst-2026-offentligt-overskud-2025",
+  "archetype": "lynposten",
+  "prompt_sha256": "578558cb94ec8804d73e10102a71cc48d93153b9cd4ef56180cec9983070a598",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 3400,
+    "reasoning_effort": "low"
+  },
+  "text": "RUBRIK: Staten lander 90,9 mia. kr. i plus – 32,6 mia. under 2024\nUNDERRUBRIK: Overskuddet på de offentlige finanser faldt i 2025 fra 123,5 til 90,9 mia. kr. Udgifterne steg med 85,0 mia. kr., indtægterne med 52,4 mia. kr.",
+  "prompt_tokens": 1941,
+  "completion_tokens": 132,
+  "latency_ms": 2159,
+  "cost_usd": 0.005202,
+  "created": "2026-11-10T07:15:03.661790Z",
+  "error": null
+}

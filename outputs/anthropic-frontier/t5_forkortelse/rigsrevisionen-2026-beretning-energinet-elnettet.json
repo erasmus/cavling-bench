@@ -1,0 +1,21 @@
+{
+  "model_id": "anthropic-frontier",
+  "pinned_version": "claude-fable-5-1",
+  "task_id": "t5_forkortelse",
+  "source_id": "rigsrevisionen-2026-beretning-energinet-elnettet",
+  "archetype": null,
+  "prompt_sha256": "1a851480cfa794380688098ea3d9dab47cbc07c95a533d7a2d39db07c6f3669d",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 3860,
+    "reasoning_effort": "low"
+  },
+  "text": "Statsrevisorerne behandlede den 9. april 2026 Beretning nr. 12/2025 om Energinets udbygning af elnettet og afgav den til Folketinget.\n\nElnettet omfatter i dag ca. 9.000 km jordkabler og luftledninger. Energinet ejer og udvikler el- og gasnettet, og staten ejer Energinet via Klima-, Energi- og Forsyningsministeriet. Et flertal af Folketingets partier indgik i juni 2022 Klimaaftale om grøn strøm og varme, som bl.a. skal sikre markant udbygning af vedvarende energi. Energinet forventer, at der frem mod 2030 skal etableres yderligere ca. 2.700 km elnet og frem mod 2050 yderligere 3.000-4.000 km.\n\nStatsrevisorerne finder styringen af udbygningen kritisabel, da ca. 70 % af de igangsatte projekter er forsinkede, og Energinet kun delvist har overblik over årsagerne. De forsinkede projekter tager i gennemsnit ca. 80 % længere tid end forventet. Ministeriet kritiseres for at have reageret for sent i sit tilsyn. Udbygningen er foreløbigt blevet mere end 10 mia. kr. dyrere end planlagt.\n\nStatsrevisorerne hæfter sig ved, at Energinet systematisk har undervurderet projekternes varighed, at hastigheden skal øges fra 120 km til 250 km elnet årligt for at nå målet i 2050, og at der siden udviklingsplanen fra maj 2024 er færdiggjort 206 km af de 490 km, der var behov for pr. 1. januar 2026. Ministeriet er siden starten af 2023 gentagne gange gjort opmærksom på forsinkelserne, igangsatte primo februar 2026 en ekstern analyse og har ikke beregnet konsekvenserne for CO2-udledningen eller tilslutning af solcelle- og vindmølleparker.\n\nStatsrevisorerne tilslutter sig Rigsrevisionens anbefaling om, at ministeriet undersøger konsekvenserne for klimamålet frem mod 2030.",
+  "prompt_tokens": 1945,
+  "completion_tokens": 761,
+  "latency_ms": 7719,
+  "cost_usd": 0.0575,
+  "created": "2026-11-10T07:26:55.066251Z",
+  "error": null
+}

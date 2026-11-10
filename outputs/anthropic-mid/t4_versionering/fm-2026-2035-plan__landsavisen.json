@@ -1,0 +1,21 @@
+{
+  "model_id": "anthropic-mid",
+  "pinned_version": "claude-sonnet-5-5",
+  "task_id": "t4_versionering",
+  "source_id": "fm-2026-2035-plan",
+  "archetype": "landsavisen",
+  "prompt_sha256": "589852bf1699ea6622c837ebfd3f2ae2f8f9d513fe26a83aff8af2a49a7d846a",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 4025,
+    "reasoning_effort": "low"
+  },
+  "text": "Regeringen har fremlagt sin 2035-plan, der fastsætter de finanspolitiske rammer frem mod 2035 og prioriterer midler til forsvar, beredskab, klima og velfærd. Planen er regeringens svar på en verden, som den selv beskriver som mere usikker, med nye udfordringer i forsvars- og sikkerhedspolitikken, i handels- og klimapolitikken og i Danmarks og Europas position.\n\nMålet for den strukturelle saldo på -0,5 procent af BNP i 2030 fastholdes. Der sættes et nyt mellemfristet mål på -0,6 procent af BNP i 2035. Ifølge planen er finanspolitikken med disse rammer fortsat sund og holdbar på langt sigt, og den offentlige gæld forbliver lav.\n\nForsvarsudgifterne er øget fra 1,36 procent af BNP i 2022 til forventet 3½ procent i år. Regeringen vil løfte dem yderligere og leve op til NATO's målsætning på 3,5 procent allerede i 2030. Til beredskabet afsættes en akutpakke på 1,2 mia. kr. i år og et løft, der i 2035 svarer til 5 mia. kr. På klimaområdet er der prioriteret 4 mia. kr. årligt til det nye mål om 82 procents reduktion af CO2e-udledningen i 2035 i forhold til 1990. Dertil kommer cirka 15 mia. kr. i 2029-2040 til statslig medfinansiering af kystbeskyttelse mod stormflod i Klimatilpasningsplan II.\n\nRegeringen peger på et stærkt udgangspunkt: offentlige overskud for niende år i træk og lav gæld.\n\nFinansminister Nicolai Wammen siger, at planen viser, at investeringerne i forsvar og sikkerhed går hånd i hånd med økonomisk ansvarlighed, men også at \"vi i fremtiden bliver nødt til at prioritere skarpt\".\n\nØkonomiminister Stephanie Lose siger, at investeringerne er ambitiøse og samtidig begrænser rummet til andre prioriteringer frem mod 2030.\n\nUdenrigsminister Lars Løkke Rasmussen siger: \"Når regningerne er betalt, er kassen så godt som tom, og der er samtidig store strukturelle udfordringer efter 2035, der ikke håndteres med denne plan.\"",
+  "prompt_tokens": 3015,
+  "completion_tokens": 844,
+  "latency_ms": 5549,
+  "cost_usd": 0.01447,
+  "created": "2026-11-10T07:16:27.102120Z",
+  "error": null
+}

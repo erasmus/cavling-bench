@@ -1,0 +1,21 @@
+{
+  "model_id": "anthropic-frontier",
+  "pinned_version": "claude-fable-5-1",
+  "task_id": "t2_rubrik",
+  "source_id": "odense-2026-skolefravaer-95-mio",
+  "archetype": "lynposten",
+  "prompt_sha256": "d100d72b9c06fd0ac91e3d3287376bfc5d3a301248ba303c988707005fb03db1",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 3400,
+    "reasoning_effort": "low"
+  },
+  "text": "RUBRIK: Odense sætter 9,5 millioner af mod skolefravær hvert år\nUNDERRUBRIK: Knap hver femte elev i Odense har fravær over 10 procent. Nu får forældre en fraværslinje, faste tovholdere og mere hjælp på skolerne.",
+  "prompt_tokens": 2556,
+  "completion_tokens": 106,
+  "latency_ms": 3410,
+  "cost_usd": 0.03086,
+  "created": "2026-11-10T07:20:37.925273Z",
+  "error": null
+}

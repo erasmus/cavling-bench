@@ -1,0 +1,21 @@
+{
+  "model_id": "anthropic-frontier",
+  "pinned_version": "claude-fable-5-1",
+  "task_id": "t1_telegram",
+  "source_id": "rigsrevisionen-2026-beretning-energinet-elnettet",
+  "archetype": null,
+  "prompt_sha256": "f40bd26879b04efe947fa16ed6b08bb7828c16545fda1c93a364071e91b055af",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 3560,
+    "reasoning_effort": "low"
+  },
+  "text": "Statsrevisorerne finder Energinets styring af udbygningen af elnettet kritisabel, da ca. 70 % af de igangsatte projekter er forsinkede, og udbygningen foreløbigt er blevet mere end 10 mia. kr. dyrere end planlagt. Det fremgår af beretning nr. 12/2025, som Statsrevisorerne behandlede den 9. april 2026. De forsinkede projekter tager i gennemsnit ca. 80 % længere tid end forventet, og Energinet har ifølge beretningen systematisk undervurderet projekternes varighed. Statsrevisorerne kritiserer desuden, at Klima-, Energi- og Forsyningsministeriet har reageret for sent i sit tilsyn, selv om det siden starten af 2023 gentagne gange er blevet gjort opmærksom på stigende forsinkelser. Siden maj 2024 er 206 km elnet færdiggjort ud af de 490 km, der var behov for pr. 1. januar 2026. Frem mod 2030 skal der etableres yderligere ca. 2.700 km elnet.",
+  "prompt_tokens": 1927,
+  "completion_tokens": 384,
+  "latency_ms": 4471,
+  "cost_usd": 0.03847,
+  "created": "2026-11-10T07:19:39.964460Z",
+  "error": null
+}

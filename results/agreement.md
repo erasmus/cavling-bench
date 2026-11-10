@@ -4,13 +4,13 @@ Menneskelige rækker: 0 fra 0 bedømmer(e).
 
 | Dimension | Mål | Menneske vs. dommer A | Dommer A vs. dommer B | Menneske vs. menneske |
 | --- | --- | --- | --- | --- |
-| Kildetroskab | Pearson r på andel understøttede påstande | – | 0.46 | – |
+| Kildetroskab | Pearson r på andel understøttede påstande | – | 0.45 | – |
 | Kildetroskab | Gns. absolut forskel (procentpoint) | – | – | – |
-| Kildetroskab | Eksakt enighed om modsigelser | – | 73 % | – |
-| Sprogkvalitet | Kvadratisk vægtet Cohen's κ | – | 0.17 | – |
+| Kildetroskab | Eksakt enighed om modsigelser | – | 78 % | – |
+| Sprogkvalitet | Kvadratisk vægtet Cohen's κ | – | 0.13 | – |
 | Sprogkvalitet | Andel inden for ±1 | – | – | – |
 | Tone | Spearman ρ (menneskelig 1–5 vs. BT-rating) | – | – | – (κ) |
-| Tone | Enighed om vinder i par | – | – | – |
+| Tone | Enighed om vinder i par | – | 42 % | – |
 
 ## Publiceringsregel
 

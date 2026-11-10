@@ -1,0 +1,21 @@
+{
+  "model_id": "anthropic-mid",
+  "pinned_version": "claude-sonnet-5-5",
+  "task_id": "t2_rubrik",
+  "source_id": "jm-2026-nyt-ledelseshold-politi",
+  "archetype": "landsavisen",
+  "prompt_sha256": "622f75d219af7b6af79538b2e6c3043b21915adb7da0d3dac66fee145ebe5261",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 3400,
+    "reasoning_effort": "low"
+  },
+  "text": "RUBRIK: Ny rokade i politiets top: Boje Nielsen bliver rigspolitichef\nUNDERRUBRIK: Når åremål udløber, skifter Thorkild Fogde til Vestegnen, mens rigsadvokat Lasse Boje Nielsen overtager Rigspolitiet. Ny chef for PET og flere nye politidirektører.",
+  "prompt_tokens": 2668,
+  "completion_tokens": 132,
+  "latency_ms": 2014,
+  "cost_usd": 0.006656,
+  "created": "2026-11-10T07:15:15.244641Z",
+  "error": null
+}

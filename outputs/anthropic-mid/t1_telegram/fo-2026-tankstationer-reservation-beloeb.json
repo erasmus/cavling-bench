@@ -1,0 +1,21 @@
+{
+  "model_id": "anthropic-mid",
+  "pinned_version": "claude-sonnet-5-5",
+  "task_id": "t1_telegram",
+  "source_id": "fo-2026-tankstationer-reservation-beloeb",
+  "archetype": null,
+  "prompt_sha256": "a24b474c351715bea86caa07eafb0ea7380a4b539ba1903d1c9397ca231cd179",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 3560,
+    "reasoning_effort": "low"
+  },
+  "text": "Forbrugerombudsmanden har afsluttet sagerne mod Q8, OK, Shell og Uno-X, som har reserveret urimeligt høje beløb på kunders konti, og har bedt Q8 og OK om at efterleve reglerne. Uno-X og Shell har ændret praksis, så kunderne selv vælger reservationsbeløbet på standerens skærm. Før reserverede de henholdsvis 1.200 og 1.500 kroner. OK har for nuværende sat beløbet til 100 kroner, mens Q8 fortsat reserverer 950 kroner og arbejder på en løsning. OK har tidligere reserveret 850 kroner. Ombudsmanden fandt 950 og 850 kroner urimeligt for mindre køretøjer. Q8 forventer fuldt samtykke i skærmflowet i midten af 2026. I nogle tilfælde gik der op til 11 dage, før reservationer blev frigivet. Forbrugerombudsmand Torben Jensen kalder det urimeligt at reservere omkring 900 kroner eller mere hos kunder med mindre køretøjer.",
+  "prompt_tokens": 3332,
+  "completion_tokens": 389,
+  "latency_ms": 2973,
+  "cost_usd": 0.010554,
+  "created": "2026-11-10T07:14:42.613940Z",
+  "error": null
+}

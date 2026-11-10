@@ -1,0 +1,21 @@
+{
+  "model_id": "anthropic-frontier",
+  "pinned_version": "claude-fable-5-1",
+  "task_id": "t1_telegram",
+  "source_id": "finanstilsynet-2026-danske-bank-boliglaansinspektion",
+  "archetype": null,
+  "prompt_sha256": "3b72233b9fa917a61c523dca041fe0b54f7ad350a8e1f2e1c01831a41dfb2e0f",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 3560,
+    "reasoning_effort": "low"
+  },
+  "text": "Finanstilsynet har givet Danske Bank påbud om at sikre et korrekt og dokumenteret bevillingsgrundlag for boliglån, efter en inspektion viste, at 4 ud af 58 gennemgåede bevillinger ikke burde have været givet. Stikprøven omfattede kunder med gældsfaktor over 3,5, belåningsgrad over 60 pct. og bankengagement over 200.000 kr. Tilsynet fandt væsentlige fejl i 13 ud af 35 sager (37 pct.) blandt almindelige kunder og i 6 ud af 23 sager (26 pct.) i en særskilt kundegruppe, hvor banken bruger en forenklet kreditproces. Banken havde ifølge tilsynet ikke tilstrækkeligt dokumenteret kundernes økonomiske robusthed, og den har en højere andel af bevillinger med høj gældsfaktor og belåning end de øvrige institutter i undersøgelsen. Inspektionen ændrer ikke bankens solvensbehov.",
+  "prompt_tokens": 2155,
+  "completion_tokens": 365,
+  "latency_ms": 4891,
+  "cost_usd": 0.0398,
+  "created": "2026-11-10T07:19:05.031677Z",
+  "error": null
+}

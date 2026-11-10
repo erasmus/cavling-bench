@@ -1,0 +1,21 @@
+{
+  "model_id": "anthropic-mid",
+  "pinned_version": "claude-sonnet-5-5",
+  "task_id": "t4_versionering",
+  "source_id": "dst-2026-ledighed-september",
+  "archetype": "landsavisen",
+  "prompt_sha256": "088d510bbf852e9501babc49f58cb8acb195edc1799795cc14d782d997362f11",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 4025,
+    "reasoning_effort": "low"
+  },
+  "text": "Ledigheden faldt med 200 fuldtidspersoner fra august til september og lå dermed på 93.600 fuldtidspersoner. Ledighedsprocenten var uændret på 3,1 pct. af arbejdsstyrken. Det fremgår af månedens opgørelse over arbejdsløsheden, der blev offentliggjort 30. oktober 2026. Samtlige tal er sæsonkorrigeret, omregnet til fuldtidspersoner og afrundet til hele 100.\n\nAntallet af aktiverede ledige faldt med 500, mens antallet af ikke-aktiverede ledige steg med 300. Blandt dagpengemodtagerne faldt antallet af ledige med 100 til 78.600 fuldtidsledige. Antallet af ledige kontanthjælpsmodtagere faldt også med 100 og udgjorde herefter 15.000 fuldtidsledige.\n\nBag det uændrede samlede billede ligger små udsving mellem aldersgrupper. Ledighedsprocenten faldt med 0,1 procentpoint for de 30-39-årige og steg med 0,1 procentpoint for de 25-29-årige. For begge køn og for de øvrige aldersgrupper var den uændret. Mænd og kvinder lå fortsat på 3,1 pct. Lavest var ledighedsprocenten blandt de 16-24-årige med 1,6 pct., mens de 25-29-årige havde den højeste med 5,0 pct.\n\nOgså regionalt var bevægelserne begrænsede. Ledighedsprocenten faldt med 0,1 procentpoint i Københavns omegn og i Vestjylland og steg med 0,1 procentpoint i Byen København og på Bornholm. I landets resterende syv landsdele var den uændret. Vestjylland havde med 2,1 pct. landets laveste ledighedsprocent, mens Byen København fortsat havde den højeste med 4,0 pct.\n\nVed denne offentliggørelse er de sæsonkorrigerede ledighedstal for juni, juli og august alle nedjusteret med 100 i forhold til opgørelsen 30. september. Revisioner kan skyldes opdateringer af de indberettede ledighedstal for de enkelte måneder. De kan også skyldes selve sæsonkorrektionen, som hver måned justerer de seneste sæsonkorrigerede tal, når det nye faktiske tal for den aktuelle måned indgår.",
+  "prompt_tokens": 1815,
+  "completion_tokens": 846,
+  "latency_ms": 5558,
+  "cost_usd": 0.01209,
+  "created": "2026-11-10T07:16:14.439350Z",
+  "error": null
+}

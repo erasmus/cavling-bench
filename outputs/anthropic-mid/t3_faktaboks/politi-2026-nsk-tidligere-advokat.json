@@ -1,0 +1,21 @@
+{
+  "model_id": "anthropic-mid",
+  "pinned_version": "claude-sonnet-5-5",
+  "task_id": "t3_faktaboks",
+  "source_id": "politi-2026-nsk-tidligere-advokat",
+  "archetype": null,
+  "prompt_sha256": "83fc4a28c3e93cc110a0750eb33f1cf2c6e74c4e8c13d1d23bd49129a8476624",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 3575,
+    "reasoning_effort": "low"
+  },
+  "text": "- Retten i Lyngby idømte onsdag en 53-årig tidligere advokat seks måneders ubetinget fængsel for groft stillingsmisbrug og pligtforsømmelse.\n- Sagen blev ført af National enhed for Særlig Kriminalitet (NSK) mod den 53-årige tidligere advokat.\n- Den 53-åriges ret til at udøve advokatvirksomhed blev frakendt, og frakendelsen gælder ifølge kilden indtil videre.\n- Den tidligere advokat lod sig udpege som kurator i to konkursboer, selv om han var inhabil på grund af forudgående rådgivning.\n- Specialanklager Konrad Joe Frank fra NSK udtalte, at han er tilfreds med dommen.",
+  "prompt_tokens": 1255,
+  "completion_tokens": 267,
+  "latency_ms": 2458,
+  "cost_usd": 0.00518,
+  "created": "2026-11-10T07:15:55.449405Z",
+  "error": null
+}

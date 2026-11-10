@@ -1,0 +1,21 @@
+{
+  "model_id": "anthropic-mid",
+  "pinned_version": "claude-sonnet-5-5",
+  "task_id": "t2_rubrik",
+  "source_id": "politi-2026-sydoestjylland-hadforbrydelse",
+  "archetype": "lynposten",
+  "prompt_sha256": "86a3b9ae4c2aab55649c7a11da1a3c3f1d3beeabf8e9182c015b5959c19b08bd",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 3400,
+    "reasoning_effort": "low"
+  },
+  "text": "RUBRIK: 18-årig får 1 år og 3 mdr. for hadvold mod to kvinder\nUNDERRUBRIK: Retten i Horsens dømmer tre unge mænd for vold og hadforbrydelse. Den 18-årige udvises og fængsles efter dom. En 17-årig får 10 måneders fængsel.",
+  "prompt_tokens": 1830,
+  "completion_tokens": 121,
+  "latency_ms": 1451,
+  "cost_usd": 0.00487,
+  "created": "2026-11-10T07:15:31.666138Z",
+  "error": null
+}

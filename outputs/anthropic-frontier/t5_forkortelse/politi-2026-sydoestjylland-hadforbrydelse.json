@@ -1,0 +1,21 @@
+{
+  "model_id": "anthropic-frontier",
+  "pinned_version": "claude-fable-5-1",
+  "task_id": "t5_forkortelse",
+  "source_id": "politi-2026-sydoestjylland-hadforbrydelse",
+  "archetype": null,
+  "prompt_sha256": "eb6661d343fe6775439ae70ba6dd9268031beae76f66ece3c6864a0aaf36f43c",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 3860,
+    "reasoning_effort": "low"
+  },
+  "text": "Tre unge mænd på 18, 18 og 17 år er i dag ved Retten i Horsens idømt fængselsstraffe for flere voldsepisoder begået i Horsens i januar 2026 samt overtrædelse af våbenlovgivningen.\n\nDe to 18-årige blev dømt for vold og trusler med kniv, da de overfaldt en mand i Vitus Beringsparken den 2. januar 2026. Den ene 18-årige blev også dømt for vold mod en mand på en bar i Horsens den 4. januar 2026.\n\nSamme 18-årige og den 17-årige blev desuden dømt for grov vold begået som hadforbrydelse. Den 17. januar 2026 omkring kl. 02.10 råbte de ved banegården i Horsens skældsord efter to kvinder om deres seksuelle orientering, slog dem flere gange i og omkring hovedet med en totenschlæger og eksponerede dem for peberspray. Retten fandt, at volden helt eller delvist var begrundet i kvindernes seksuelle orientering.\n\nDen 18-årige blev dømt for besiddelse af peberspray, den 17-årige for besiddelse af totenschlæger og peberspray.\n\nDen 18-årige, der blandt andet blev kendt skyldig i hadforbrydelsen, fik et år og tre måneders fængsel, opholdsforbud i nattelivet i seks måneder og udvisning med indrejseforbud i seks år. Han blev fængslet efter dom. Den 17-årige fik 10 måneders fængsel. Den anden 18-årige fik tre måneders fængsel og en advarsel om udvisning.\n\n”Dommen i dag understreger blandt andet, at man som borger ikke skal diskrimineres eller udsættes for vold på baggrund af sin seksuelle orientering, kønsidentitet, kønsudtryk eller lignede,” udtaler Thomas Vestergaard, anklagerfuldmægtig ved Sydøstjyllands Politi.\n\nDen 18-årige med tre måneders fængsel modtog dommen; de to andre udbad sig betænkningstid.",
+  "prompt_tokens": 1361,
+  "completion_tokens": 730,
+  "latency_ms": 8182,
+  "cost_usd": 0.05011,
+  "created": "2026-11-10T07:26:47.732756Z",
+  "error": null
+}

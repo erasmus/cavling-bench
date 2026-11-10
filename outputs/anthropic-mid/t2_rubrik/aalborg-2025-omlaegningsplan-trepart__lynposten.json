@@ -1,0 +1,21 @@
+{
+  "model_id": "anthropic-mid",
+  "pinned_version": "claude-sonnet-5-5",
+  "task_id": "t2_rubrik",
+  "source_id": "aalborg-2025-omlaegningsplan-trepart",
+  "archetype": "lynposten",
+  "prompt_sha256": "45205b97323cc675d1b72c3287f39ecd5e5c40c294614bf4aa33c395e75dbd83",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 3400,
+    "reasoning_effort": "low"
+  },
+  "text": "RUBRIK: Aalborg Byråd vedtager plan med 94 grønne projekter\nUNDERRUBRIK: Byrådet sagde ja 15. december. Planen skal give mere natur og skov, renere drikkevand og et sundere vandmiljø. Projekterne kræver enighed med lodsejerne.",
+  "prompt_tokens": 2839,
+  "completion_tokens": 113,
+  "latency_ms": 1391,
+  "cost_usd": 0.006808,
+  "created": "2026-11-10T07:14:55.412670Z",
+  "error": null
+}

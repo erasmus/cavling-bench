@@ -1,0 +1,21 @@
+{
+  "model_id": "anthropic-mid",
+  "pinned_version": "claude-sonnet-5-5",
+  "task_id": "t6_lydmanus",
+  "source_id": "fm-2026-2035-plan",
+  "archetype": "lynposten",
+  "prompt_sha256": "e12ceae45a6a5b5f54ef5a883b8778c6c158f9c62ab61993b4393dd81ee30a68",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 3620,
+    "reasoning_effort": "low"
+  },
+  "text": "Regeringen sætter fire milliarder kroner af hvert år til klimaet. Det fremgår af regeringens 2035-plan.\n\nPlanen prioriterer danskernes sikkerhed. Forsvarsudgifterne stiger fra en komma tre seks procent af bruttonationalproduktet i 2022 til forventet tre og en halv procent i år. Danmark vil nå målet på tre og en halv procent allerede i 2030.\n\nBeredskabet får en akutpakke på en komma to milliarder kroner i år. I 2035 svarer løftet til fem milliarder kroner.\n\nTil kystbeskyttelse mod stormflod afsættes cirka femten milliarder kroner fra 2029 til 2040.\n\nFinansminister Nicolai Wammen siger, at Danmark i fremtiden bliver nødt til at prioritere skarpt.\n\nUdenrigsminister Lars Løkke Rasmussen siger, at kassen er så godt som tom, når regningerne er betalt.",
+  "prompt_tokens": 3084,
+  "completion_tokens": 340,
+  "latency_ms": 3124,
+  "cost_usd": 0.009568,
+  "created": "2026-11-10T07:18:25.781596Z",
+  "error": null
+}

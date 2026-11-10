@@ -1,0 +1,21 @@
+{
+  "model_id": "anthropic-mid",
+  "pinned_version": "claude-sonnet-5-5",
+  "task_id": "t2_rubrik",
+  "source_id": "datatilsynet-2026-faaborg-midtfyn-ai-aeldrepleje",
+  "archetype": "landsavisen",
+  "prompt_sha256": "dcbe3110958594df0752a61c4305efda515e5fd3cb7c2035f90fe00bdaa9b965",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 3400,
+    "reasoning_effort": "low"
+  },
+  "text": "RUBRIK: Datatilsynet kritiserer Faaborg-Midtfyns AI-overvågning af beboere\nUNDERRUBRIK: Kommunens risikovurdering var for generel, og der manglede en konsekvensanalyse, før et kamerabaseret system blev brugt over for 18 plejehjemsbeboere.",
+  "prompt_tokens": 2115,
+  "completion_tokens": 119,
+  "latency_ms": 1339,
+  "cost_usd": 0.00542,
+  "created": "2026-11-10T07:14:58.272820Z",
+  "error": null
+}

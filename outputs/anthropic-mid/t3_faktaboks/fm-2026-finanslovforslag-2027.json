@@ -1,0 +1,21 @@
+{
+  "model_id": "anthropic-mid",
+  "pinned_version": "claude-sonnet-5-5",
+  "task_id": "t3_faktaboks",
+  "source_id": "fm-2026-finanslovforslag-2027",
+  "archetype": null,
+  "prompt_sha256": "f52eb64dcd7a7e2f60913d9d8cceb82f1458ccb284e700edcec36551f8812cc7",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 3575,
+    "reasoning_effort": "low"
+  },
+  "text": "- Regeringen vil med finanslovforslaget for 2027 løfte forsvarsudgifterne til 3,5 pct. af BNP i 2030.\n- Til folkeskolen og dagtilbud afsættes 1,2 mia. kr. i 2027 og 1,1 mia. kr. årligt i 2028-2030.\n- Til vederlagsfri tandpleje for førtidspensionister og udsatte grupper afsættes 0,6 mia. kr. i 2027 og 0,9 mia. kr. årligt fra 2028.\n- Folkepensionister, der har mindst, får et permanent løft i ydelsen på godt 1.600 kr. om måneden, svarende til 1.000 kr. efter skat.\n- Til elektrificering og omstilling fra fossile brændsler afsættes 650 mio. kr. i 2027 og 850 mio. kr. årligt i 2028-2030.",
+  "prompt_tokens": 2586,
+  "completion_tokens": 312,
+  "latency_ms": 2607,
+  "cost_usd": 0.008292,
+  "created": "2026-11-10T07:15:45.683145Z",
+  "error": null
+}

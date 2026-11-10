@@ -1,0 +1,21 @@
+{
+  "model_id": "anthropic-mid",
+  "pinned_version": "claude-sonnet-5-5",
+  "task_id": "t4_versionering",
+  "source_id": "kefm-2026-akutplan-elnettet-vedtaget",
+  "archetype": "landsavisen",
+  "prompt_sha256": "fac7f24b636ff2ee6b717e2d65cb4178fa74aadfe39f1071334f4cc0f06c75ac",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 4025,
+    "reasoning_effort": "low"
+  },
+  "text": "Folketinget har vedtaget en akutplan for elnettet, der afløser først-til-mølle-princippet med en ny model for prioritering af nettilslutninger. Det er det samme brede flertal, som før sommeren indgik en politisk forståelse om planen. Dermed er de lovgivningsmæssige rammer på plads. Planen er et svar på, at presset på elnettet nogle steder er så stort, at der ikke er plads til alle projekter, der ønsker tilslutning.\n\nMed den nye model får Energinet og netvirksomhederne i højere grad mulighed for at prioritere, hvem der får adgang til den begrænsede kapacitet. Ifølge planen træder loven i kraft 12. oktober. Herefter kan Energinet og netvirksomhederne administrere efter reglerne, når der næste gang i efteråret skal fordeles kapacitet.\n\nForståelsen fra før sommerferien er blevet til en politisk aftale med justeringer. Den offentlige høring, Folketingets behandling og partiernes spørgsmål har ifølge kilden kvalificeret både lovforslaget og de bekendtgørelser, der skal udmønte reglerne. Klima-, Energi- og Forsyningsministeriet vurderer på baggrund af dialog med Forsyningstilsynet, at den politisk fastsatte prioritering af samfundshensyn ikke i sig selv kræver metodegodkendelse fra tilsynet. Den konkrete anvendelse af netvenlighed skal derimod baseres på metoder, som Forsyningstilsynet har godkendt.\n\nFlere partier understreger, at ordningen skal være midlertidig. \"Akutplanen skal være midlertidig kriselovgivning - ikke en ny normaltilstand,\" siger Anders Storgaard (K), klima-, energi- og forsyningsordfører. Venstres ordfører, Mathilde Hjort Bressum, vil have prioriteringsmodellen brugt som styringsværktøj i en akut situation og kræver hurtigt forhandlinger om udbygning af transmissionsnettet.\n\nKlima-, energi- og forsyningsminister Samira Nawa kalder akutplanen \"kun første skridt i en genopretningsplan\". Aftalepartierne inviteres til drøftelser om udbygning af elnettet og Energiinfrastrukturplan 2035.",
+  "prompt_tokens": 4240,
+  "completion_tokens": 813,
+  "latency_ms": 5714,
+  "cost_usd": 0.01661,
+  "created": "2026-11-10T07:16:46.972078Z",
+  "error": null
+}

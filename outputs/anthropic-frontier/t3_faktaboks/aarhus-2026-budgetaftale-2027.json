@@ -1,0 +1,21 @@
+{
+  "model_id": "anthropic-frontier",
+  "pinned_version": "claude-fable-5-1",
+  "task_id": "t3_faktaboks",
+  "source_id": "aarhus-2026-budgetaftale-2027",
+  "archetype": null,
+  "prompt_sha256": "79ff93e9773d01d2091f594883a276ca926658aad72d4eec079472784e57f91a",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 3575,
+    "reasoning_effort": "low"
+  },
+  "text": "- Et enigt Aarhus Byråd indgik torsdag den 17. september aftale om kommunens budget for de kommende fire år.\n- Socialområdet får et årligt løft på i alt 138 mio. kr. til at imødegå områdets strukturelle udfordringer.\n- Partierne har prioriteret 197 mio. kr. årligt til drift og 810 mio. kr. til anlæg i budgetperioden.\n- Et nyt velfærdsbidrag skal fra 2028 blandt andet frigøre penge til investeringer i nye velfærdsløsninger.\n- Budgetforliget holder kommuneskatten i ro, og bag aftalen står ni partier, herunder Socialdemokratiet, SF og Venstre.",
+  "prompt_tokens": 1786,
+  "completion_tokens": 255,
+  "latency_ms": 4527,
+  "cost_usd": 0.03061,
+  "created": "2026-11-10T07:21:13.200051Z",
+  "error": null
+}

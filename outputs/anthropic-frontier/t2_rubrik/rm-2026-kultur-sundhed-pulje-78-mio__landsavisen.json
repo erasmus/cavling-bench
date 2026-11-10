@@ -1,0 +1,21 @@
+{
+  "model_id": "anthropic-frontier",
+  "pinned_version": "claude-fable-5-1",
+  "task_id": "t2_rubrik",
+  "source_id": "rm-2026-kultur-sundhed-pulje-78-mio",
+  "archetype": "landsavisen",
+  "prompt_sha256": "ce3fbc5a81ca21975ff9374a4a0be90d0a035c6f513f2c562af0ff3558fb005f",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 3400,
+    "reasoning_effort": "low"
+  },
+  "text": "RUBRIK: Region Midtjylland afsætter 7,8 mio. kr. til kultur i sundhedsvæsenet\nUNDERRUBRIK: Ny pulje skal få kulturaktører, kommuner og hospitaler til at udvikle tilbud, der forebygger sygdom, lindrer symptomer og øger trivsel. Frist 26. august.",
+  "prompt_tokens": 2311,
+  "completion_tokens": 130,
+  "latency_ms": 3425,
+  "cost_usd": 0.02961,
+  "created": "2026-11-10T07:21:07.655418Z",
+  "error": null
+}

@@ -1,0 +1,21 @@
+{
+  "model_id": "anthropic-frontier",
+  "pinned_version": "claude-fable-5-1",
+  "task_id": "t4_versionering",
+  "source_id": "dst-2026-bnp-2-kvartal-revideret",
+  "archetype": "landsavisen",
+  "prompt_sha256": "bf3a136a137883a53626df2901ca8bfbd33f27136f0bb5194ba36e1dc5c58cf6",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 4025,
+    "reasoning_effort": "low"
+  },
+  "text": "Dansk økonomi voksede mere i andet kvartal 2026 end først antaget. Bruttonationalproduktet (BNP) steg med 0,9 procent, når der korrigeres for prisudvikling og sæsonbevægelser, viser den reviderede opgørelse af nationalregnskabet, offentliggjort den 30. september 2026. Det er en opjustering på 0,6 procentpoint i forhold til den første opgørelse, og revisionen skyldes primært nye kildedata, særligt fra Industriens produktion og omsætning, Firmaernes køb og salg samt Betalingsbalance og udenrigshandel.\n\nMedicinalindustrien bidrog til væksten. Bruttoværditilvæksten (BVT) for hele økonomien steg med 1,1 procent, mens væksten var 0,7 procent, hvis der ses bort fra medicinalindustrien. Også den øvrige industri og den offentlige sektor trak positivt. Set over et halvt år er BNP i første halvår af 2026 6,0 procent højere end i samme periode året før. Beskæftigelsen steg med 0,2 procent i andet kvartal, svarende til 7.800 personer.\n\nDe faste bruttoinvesteringer steg med 1,5 procent. Opjusteringen her kommer især fra et patentkøb i udlandet, som betyder, at investeringerne i intellektuelle rettigheder er revideret fra et fald på 1,2 procent til en stigning på 1,5 procent. Andet byggeri end boligbyggeri samt anlæg bidrog positivt, mens transportmidler og maskiner faldt kraftigt.\n\nBåde det offentlige og husholdningernes forbrug var uændret med 0,0 procent. Husholdningerne brugte 0,8 procent mere på tjenester, men 0,8 procent mindre på varer, blandt andet fordi køb af køretøjer faldt med 1,8 procent efter en stigning på 12,7 procent i første kvartal.\n\nImporten steg med 1,8 procent og eksporten med 1,5 procent. Vareeksporten voksede 2,8 procent, især drevet af maskiner, mens tjenesteeksporten faldt 0,5 procent.\n\nOpgørelsen understreger, at de store udsving i lagerændringerne skal fortolkes med stor påpasselighed, blandt andet fordi sæsonkorrektionen af lagrene er behæftet med betydelig usikkerhed. Væksten i første kvartal er samtidig opjusteret med 0,2 procentpoint til 1,7 procent.",
+  "prompt_tokens": 3852,
+  "completion_tokens": 884,
+  "latency_ms": 10725,
+  "cost_usd": 0.08272,
+  "created": "2026-11-10T07:22:16.857846Z",
+  "error": null
+}

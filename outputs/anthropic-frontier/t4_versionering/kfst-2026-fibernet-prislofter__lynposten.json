@@ -1,0 +1,21 @@
+{
+  "model_id": "anthropic-frontier",
+  "pinned_version": "claude-fable-5-1",
+  "task_id": "t4_versionering",
+  "source_id": "kfst-2026-fibernet-prislofter",
+  "archetype": "lynposten",
+  "prompt_sha256": "c953c355ec0c8654da9d70ebc00902af7e36fd5675ee1ec4bee37ccd40f53726",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 4025,
+    "reasoning_effort": "low"
+  },
+  "text": "Bredbåndskunder må forvente højere priser de næste fem år. Prislofterne på fibernet kan stige med op til 35 procent. Det oplyser Konkurrence- og Forbrugerstyrelsen.\n\nStyrelsen er ved at fastsætte nye prislofter for 13 fibernetselskaber. Lofterne skal gælde fra årsskiftet og fem år frem. De endelige afgørelser kommer i december.\n\nPrislofterne gælder kun i områder, hvor ejeren af fibernettet har monopollignende status. Der kunne ejeren ellers sætte prisen meget højt, når andre bredbåndsudbydere vil leje sig ind på nettet.\n\nStyrelsen peger på tre årsager til stigningen. Generelle prisstigninger har gjort udstyr til fibernet dyrere. Højere renter betyder højere tilladt forrentning af den investerede kapital. Og selskaberne skal kunne få dækket investeringer i at beskytte nettet mod angreb udefra.\n\nStyrelsen har fået lavet en særlig analyse af udgifterne til beskyttelse af fibernettet. Eksterne eksperter har hjulpet med analysen. Den førte til, at en række ekstraomkostninger til robusthed er regnet med. Prislofterne bliver derfor højere, end de ellers ville have været. Lejepriserne skal dog ikke betale for beskyttelse af ikke-regulerede net som mobilnettet.\n\nTDC har fået særlig opmærksomhed i medierne. Styrelsen understreger, at kun en mindre del af TDC's forretning er reguleret. Der er ingen begrænsninger på TDC's mobilpriser eller på fiberlejepriser uden for hovedstadsområdet.\n\nTDC er det eneste selskab, der får pålagt forpligtelser, fordi det ikke har afgivet tilsagn, styrelsen kan acceptere. Fem selskaber – Aura, BornFiber, EnergiFyn, Fibia og Norlys – bindes til egne tilsagn. Syv selskaber, der kun sælger fibernet engros, skal holde deres net åbne for andre udbydere.\n\nAfgørelserne sendes til EU-Kommissionen, før de bliver endelige. Selskaberne kan klage til Teleklagenævnet og domstolene.\n\nStyrelsen kan revidere lofterne, hvis forudsætningerne ændrer sig markant. Det kan for eksempel være nye krav til beskyttelse af fibernettet.",
+  "prompt_tokens": 2798,
+  "completion_tokens": 872,
+  "latency_ms": 10949,
+  "cost_usd": 0.07158,
+  "created": "2026-11-10T07:23:39.557529Z",
+  "error": null
+}

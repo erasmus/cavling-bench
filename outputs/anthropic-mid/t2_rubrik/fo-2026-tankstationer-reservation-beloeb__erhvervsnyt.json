@@ -1,0 +1,21 @@
+{
+  "model_id": "anthropic-mid",
+  "pinned_version": "claude-sonnet-5-5",
+  "task_id": "t2_rubrik",
+  "source_id": "fo-2026-tankstationer-reservation-beloeb",
+  "archetype": "erhvervsnyt",
+  "prompt_sha256": "c57109b34fcee6357dcc65a35ae2012cc5b814c950c681b8464793366a09b16b",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 3400,
+    "reasoning_effort": "low"
+  },
+  "text": "RUBRIK: Q8 reserverer stadig 950 kr. på tankkunders konti\nUNDERRUBRIK: Forbrugerombudsmanden kalder reservationer på 850-1.500 kr. urimelige for små biler. Shell, Uno-X og OK har ændret praksis, mens Q8 først er klar i midten af 2026.",
+  "prompt_tokens": 3806,
+  "completion_tokens": 123,
+  "latency_ms": 1433,
+  "cost_usd": 0.008842,
+  "created": "2026-11-10T07:15:14.237561Z",
+  "error": null
+}

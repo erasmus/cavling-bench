@@ -1,0 +1,21 @@
+{
+  "model_id": "anthropic-frontier",
+  "pinned_version": "claude-fable-5-1",
+  "task_id": "t5_forkortelse",
+  "source_id": "dst-2026-offentligt-overskud-2025",
+  "archetype": null,
+  "prompt_sha256": "32b0278b8249c21dd46c8087df2a89c12caaa2ac71666b94b77f53500b30fd1f",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 3860,
+    "reasoning_effort": "low"
+  },
+  "text": "I 2025 var der et overskud på 90,9 mia. kr. på de offentlige finanser mod 123,5 mia. kr. i 2024. Udgifterne steg med 85,0 mia. kr. til 1.472,8 mia. kr., mens indtægterne steg med 52,4 mia. kr. til 1.563,8 mia. kr. Indtægterne fra pensionsafkastskatten er opgjort til 47,0 mia. kr. i 2025, lidt højere end sidste år, hvilket sammen med stigende personskatter og selskabsskatter forklarer stigningen i indtægterne. Stigningen i udgifterne skyldes især socialområdet, sundhedsområdet og forsvaret.\n\nSocial beskyttelse er med 41 pct. den største udgiftspost i 2025, efterfulgt af sundhedsvæsen med 17 pct. Uddannelse og generelle offentlige tjenester udgør hver 12 pct. Andelen til forsvar er steget de seneste år og udgør 5 pct. i 2025.\n\nUdgifterne til sociale ydelser steg med 18,8 mia. kr. i forhold til 2024 til 438,4 mia. kr. i 2025. Udgifterne til generelle pensioner steg med 11,8 mia. kr. på grund af flere pensionister og højere satser.\n\nSiden seneste offentliggørelse (Nyt fra Danmarks Statistik 68:2026) er den offentlige saldo opjusteret med 2,5 mia. kr. i 2025, nedjusteret med 7,0 mia. kr. i 2024 og opjusteret med 1,9 mia. kr. i 2023, hovedsageligt på grund af reviderede skatteindtægter fra Skattestyrelsen og revisioner af forbrugsudgiften. Forbrugsudgiften er opjusteret med 5,9 mia. kr. i 2025, bl.a. med endelige regnskabstal for kommuner og regioner, nye informationer om universiteter og selvejende institutioner samt højere afskrivninger. I 2024 er forbrugsudgiften opjusteret med 2,2 mia. kr.",
+  "prompt_tokens": 1472,
+  "completion_tokens": 742,
+  "latency_ms": 7289,
+  "cost_usd": 0.05182,
+  "created": "2026-11-10T07:25:30.644628Z",
+  "error": null
+}

@@ -1,0 +1,21 @@
+{
+  "model_id": "anthropic-frontier",
+  "pinned_version": "claude-fable-5-1",
+  "task_id": "t2_rubrik",
+  "source_id": "politi-2026-fyn-spraengning-beboelsesejendom",
+  "archetype": "landsavisen",
+  "prompt_sha256": "9191beb9573f9cfbb3d32c0eae9415539c430ed16fdab5b7dfc1c66dc490848d",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 3400,
+    "reasoning_effort": "low"
+  },
+  "text": "RUBRIK: 14 års fængsel til tre mænd for bombeforsøg i Odense-opgang\nUNDERRUBRIK: Retten i Odense dømte fredag tre mænd for forsøg på at sprænge over fire kilo dynamit i en opgang på Nyborgvej, hvor op til 25 personer opholdt sig.",
+  "prompt_tokens": 1879,
+  "completion_tokens": 914,
+  "latency_ms": 11035,
+  "cost_usd": 0.06449,
+  "created": "2026-11-10T07:20:51.645449Z",
+  "error": null
+}

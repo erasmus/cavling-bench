@@ -1,0 +1,21 @@
+{
+  "model_id": "anthropic-frontier",
+  "pinned_version": "claude-fable-5-1",
+  "task_id": "t4_versionering",
+  "source_id": "aalborg-2025-omlaegningsplan-trepart",
+  "archetype": "landsavisen",
+  "prompt_sha256": "c9990e77c86bee8b2ddce225f5fe0927433d1cfafb3993fcc71a08f3542b435a",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 4025,
+    "reasoning_effort": "low"
+  },
+  "text": "Aalborg Byråd har på sit møde den 15. december principvedtaget en omlægningsplan for Aalborg Kommune med 94 projekter, der skal give mere natur og skov, renere drikkevand og et sundere vandmiljø. Planen er kommunens svar på Aftalen om et Grønt Danmark, den såkaldte grønne trepart, som regeringen, landbruget og Danmarks Naturfredningsforening indgik, og som et bredt flertal i Folketinget vedtog i 2024.\n\nAftalen forpligtede kommunen til at udarbejde planen, og arbejdet er sket i Aalborg Trepart med repræsentanter for Danmarks Naturfredningsforening, Landbrug & Fødevarer, Naturstyrelsen og Aalborg Byråd med borgmester Lasse Frimand Jensen i spidsen. På landsplan har 23 lokale treparter koordineret omlægningsplanerne.\n\nAf de 94 projekter er 77 forslag til lavbundsprojekter. Aalborg er den kommune i Danmark med det største areal med tørveholdige lavbundsjorde, og når de udtages og vådlægges, nedbringes udledningen af CO2. Dertil kommer 13 forslag til sikring af drikkevandet i de mest sårbare indvindingsoplande samt udtagning af dyrkningsjord i oplandet til Halkær Bredning, hvor kravet om at reducere kvælstof til Limfjorden er stort.\n\nPlanen peger desuden på tre større sammenhængende naturområder: omkring Hals og Ulsted Rimmer, syd for Aalborg omkring Lundby Bakker, Gistrup og Poulstrup samt omkring Halkær Bredning og Halkær Sø vest for Nibe. De skal bidrage til trepartsaftalens mål om 20 procent mere beskyttet natur.\n\n\"Det har været en stor og kompleks opgave at nå i mål med en samlet omlægningsplan for hele Aalborg Kommune,\" siger Jan Nymark Rose Thaysen, rådmand for By og Land og næstformand i Aalborg Trepart, som fremhæver, at planen både sigter mod renere vandmiljø og klimagevinster, samtidig med at kommunen fastholder en stærk fødevareproduktion.\n\nProjekterne kan kun gennemføres, hvis der opnås enighed med de berørte lodsejere. Dialogmøder med borgerne begynder i 2026. Hovedparten af lavbunds- og kvælstofindsatsen skal være afsluttet i 2030, mens skovrejsning og natur fortsætter derefter.",
+  "prompt_tokens": 2802,
+  "completion_tokens": 918,
+  "latency_ms": 11133,
+  "cost_usd": 0.07392,
+  "created": "2026-11-10T07:21:56.817246Z",
+  "error": null
+}

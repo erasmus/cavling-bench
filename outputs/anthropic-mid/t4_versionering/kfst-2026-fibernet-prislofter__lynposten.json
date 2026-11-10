@@ -1,0 +1,21 @@
+{
+  "model_id": "anthropic-mid",
+  "pinned_version": "claude-sonnet-5-5",
+  "task_id": "t4_versionering",
+  "source_id": "kfst-2026-fibernet-prislofter",
+  "archetype": "lynposten",
+  "prompt_sha256": "c953c355ec0c8654da9d70ebc00902af7e36fd5675ee1ec4bee37ccd40f53726",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 4025,
+    "reasoning_effort": "low"
+  },
+  "text": "Prisen på bredbånd stiger op til 35 procent. Det forventer Konkurrence- og Forbrugerstyrelsen, når nye prislofter på fibernet gælder fra årsskiftet.\n\nStigningen rammer husholdninger og mindre virksomheder. Den varierer efter selskab og område. Styrelsen sammenligner med de lofter, selskaberne har i dag.\n\nStyrelsen peger på tre årsager. Priserne på udstyr til fibernet er steget. Den tilladte forrentning af investeret kapital stiger, fordi renteniveauet er højere. Og selskaberne skal kunne få dækket udgifter til at beskytte nettet mod fysiske og virtuelle angreb.\n\nBeskyttelsen har direkte betydning for prisen. Styrelsen har ladet eksterne eksperter analysere den. Derfor er ekstraomkostninger til robusthed med i beregningerne, og lofterne bliver højere, end de ellers ville have været. Lejepriserne skal dog ikke betale for beskyttelse af net uden regulering, for eksempel mobilnettet.\n\nStyrelsen afgør sager om 13 fibernetselskaber for de kommende fem år. Fem selskaber bindes til egne tilsagn: Aura, BornFiber, EnergiFyn, Fibia og Norlys. TDC får pålagt forpligtelser, fordi selskabet ikke har fremlagt tilsagn, styrelsen kan acceptere. Syv selskaber skal holde deres net åbne for udbydere i detailleddet.\n\nFor TDC gælder lofterne kun en mindre del af forretningen. Der er ingen begrænsninger på prisen for mobil eller på fiberleje uden for hovedstadsområdet.\n\nStyrelsen fastsætter kun lofter, hvor ejeren har monopollignende status. De endelige afgørelser kommer i december. Før da gennemgår Europa-Kommissionen dem.\n\nSelskaberne kan indbringe afgørelserne for Teleklagenævnet og domstolene.",
+  "prompt_tokens": 2798,
+  "completion_tokens": 713,
+  "latency_ms": 5407,
+  "cost_usd": 0.012726,
+  "created": "2026-11-10T07:16:46.694533Z",
+  "error": null
+}

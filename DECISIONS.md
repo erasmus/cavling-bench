@@ -99,3 +99,23 @@ held back on this pass pending the decision to move it from `anthropic-mid` (est
 the full 25 % sample) to a DeepSeek-V4 row on Nebius credit. Spend: paid USD 1.54, credit USD 1.47.
 Gemini key is on the free tier (5 req/min) and unusable until billing is enabled or OpenRouter is
 used; OpenAI and Mistral keys do not exist yet. Owner will use Nebius GPU hours for Munin/DanskGPT.
+
+## 2026-11-10 — Judge B moved to DeepSeek-V4-Pro (Nebius); Anthropic rows complete
+Owner approved DeepSeek-V4-Pro on Nebius credit as Judge B (replacing Sonnet 5.5, est. USD 33
+paid). New row `nebius-deepseek-v4-pro` with `enabled: false`, which keeps it out of the generator
+set but lets `judges.B` resolve it. Called without `reasoning_effort`: DeepSeek-V4 then answers
+directly (0 reasoning tokens observed; with `reasoning_effort` it thinks first). Family `deepseek`
+is shared by no generator, so every tone cell now has two judges. The 45 + 45 + 8 Sonnet Judge B
+records from the 5-source pilot were removed from `scores/` (they remain in git history, commit
+336a636) so the files match `models.yaml`.
+`JUDGE_MAX_TOKENS["grounding"]` raised 3000 → 6000: DeepSeek lists 25–60 claims per output with
+long spans, and 14 of the first 195 grounding calls were truncated mid-JSON. Two t2_rubrik
+grounding calls still overflow at 6000 and remain error records (2 of 374); accepted.
+Known gap: one gpt-oss-120b t1 output (`ombudsmanden-2026-lolland-avisabonnement-pression`)
+degenerated into repeated "i i i"; both fluency judges echo the degeneration and return no JSON,
+so it has no fluency score (it still has grounding and checks records).
+Generators: `anthropic-mid` 360/360 and `anthropic-frontier` 360/360, 0 errors. Judge A: 1440
+grounding, 1439 fluency, 774 tone pairs. Judge B: 372 grounding, 363 fluency, 410 tone pairs.
+Spend: paid USD 21.49 (Fable 5.1 came in under the USD 22 estimate), Nebius credit USD 7.98.
+Anthropic account held USD 42.89 before this run. Munin/DanskGPT: owner will create an L40S VM
+in Nebius AI Cloud (eu-north1) and serve with vLLM per docs/serving.md.

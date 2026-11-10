@@ -1,0 +1,21 @@
+{
+  "model_id": "anthropic-mid",
+  "pinned_version": "claude-sonnet-5-5",
+  "task_id": "t2_rubrik",
+  "source_id": "fo-2026-rejsekort-politianmeldelse",
+  "archetype": "erhvervsnyt",
+  "prompt_sha256": "6203e891b78cffab4f240fc18e09f75b1e82f2507847778b879ef58416dd4bfa",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 3400,
+    "reasoning_effort": "low"
+  },
+  "text": "RUBRIK: Rejsekort & Rejseplan politianmeldes for vildledning\nUNDERRUBRIK: Forbrugerombudsmanden mener, kampagnen om lukket fysisk rejsekort fik forbrugere til at tro, at de måtte bruge en billet-app. Over 35 har klaget.",
+  "prompt_tokens": 3063,
+  "completion_tokens": 114,
+  "latency_ms": 1563,
+  "cost_usd": 0.007266,
+  "created": "2026-11-10T07:15:11.295418Z",
+  "error": null
+}

@@ -1,0 +1,21 @@
+{
+  "model_id": "anthropic-frontier",
+  "pinned_version": "claude-fable-5-1",
+  "task_id": "t2_rubrik",
+  "source_id": "datatilsynet-2026-faaborg-midtfyn-ai-aeldrepleje",
+  "archetype": "landsavisen",
+  "prompt_sha256": "dcbe3110958594df0752a61c4305efda515e5fd3cb7c2035f90fe00bdaa9b965",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 3400,
+    "reasoning_effort": "low"
+  },
+  "text": "RUBRIK: Datatilsynet kritiserer kommunes brug af AI på plejehjem\nUNDERRUBRIK: Faaborg-Midtfyn Kommune manglede konsekvensanalyse og konkret risikovurdering, da den afprøvede AI-overvågning af 18 plejehjemsbeboere, fastslår tilsynet.",
+  "prompt_tokens": 2115,
+  "completion_tokens": 126,
+  "latency_ms": 3296,
+  "cost_usd": 0.02745,
+  "created": "2026-11-10T07:19:51.863025Z",
+  "error": null
+}

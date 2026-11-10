@@ -1,0 +1,21 @@
+{
+  "model_id": "anthropic-mid",
+  "pinned_version": "claude-sonnet-5-5",
+  "task_id": "t5_forkortelse",
+  "source_id": "dst-2026-ledighed-september",
+  "archetype": null,
+  "prompt_sha256": "02300720de38f3c54f163492f7c267f7046745d38f536e8e90ff9437faeb3b3c",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 3860,
+    "reasoning_effort": "low"
+  },
+  "text": "Fra august til september 2026 faldt ledigheden med 200 til 93.600 fuldtidspersoner. Ledighedsprocenten forblev uændret på 3,1 pct. af arbejdsstyrken. Antallet af aktiverede ledige faldt med 500, mens antallet af ikke-aktiverede ledige steg med 300. Samtlige ledighedstal er sæsonkorrigeret, omregnet til fuldtidspersoner og afrundet til hele 100.\n\nAntallet af ledige dagpengemodtagere faldt med 100, og antallet af ledige kontanthjælpsmodtagere faldt ligeledes med 100. Der var herefter 78.600 fuldtidsledige på dagpenge og 15.000 fuldtidsledige på kontanthjælp.\n\nLedighedsprocenten faldt med 0,1 procentpoint for de 30-39-årige, mens den steg med 0,1 procentpoint for de 25-29-årige. For begge køn og for de øvrige opgjorte aldersgrupper var den uændret. Ledighedsprocenten lå dermed fortsat på 3,1 pct. for både mænd og kvinder. Efter alder var den fortsat lavest for de 16-24-årige med 1,6 pct. og højest for de 25-29-årige med 5,0 pct. af arbejdsstyrken i september.\n\nLedighedsprocenten faldt med 0,1 procentpoint i Københavns omegn og i Vestjylland, mens den steg med 0,1 procentpoint i Byen København og på Bornholm. I landets resterende syv landsdele var den uændret. Vestjylland havde herefter landets laveste ledighedsprocent med 2,1 pct., mens den højeste fortsat var i Byen København med 4,0 pct.\n\nI forhold til offentliggørelsen 30. september er de sæsonkorrigerede ledighedstal for juni, juli og august alle nedjusteret med 100. Revisionerne kan skyldes opdateringer af de indberettede ledighedstal for de enkelte måneder og selve sæsonkorrektionen, som hver måned justerer de seneste sæsonkorrigerede månedstal ved at inddrage det nye faktiske tal for den aktuelle måned.",
+  "prompt_tokens": 1383,
+  "completion_tokens": 777,
+  "latency_ms": 4574,
+  "cost_usd": 0.010536,
+  "created": "2026-11-10T07:17:39.236363Z",
+  "error": null
+}

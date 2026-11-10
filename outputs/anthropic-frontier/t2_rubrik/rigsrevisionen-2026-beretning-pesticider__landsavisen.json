@@ -1,0 +1,21 @@
+{
+  "model_id": "anthropic-frontier",
+  "pinned_version": "claude-fable-5-1",
+  "task_id": "t2_rubrik",
+  "source_id": "rigsrevisionen-2026-beretning-pesticider",
+  "archetype": "landsavisen",
+  "prompt_sha256": "1e2e5cbbea019f2f91670d6d54f6ef772db5979d798fee59fdf2c9f65e594b88",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 3400,
+    "reasoning_effort": "low"
+  },
+  "text": "RUBRIK: Statsrevisorer: Kontrol med pesticider er helt utilstrækkelig\nUNDERRUBRIK: Miljøstyrelsen efterprøver ikke virksomhedernes egne oplysninger, og 7.800 tons glyfosat købt siden 2011 er aldrig indberettet som forbrugt.",
+  "prompt_tokens": 2877,
+  "completion_tokens": 121,
+  "latency_ms": 1860,
+  "cost_usd": 0.03482,
+  "created": "2026-11-10T07:21:04.229576Z",
+  "error": null
+}

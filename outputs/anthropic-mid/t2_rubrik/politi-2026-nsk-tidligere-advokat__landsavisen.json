@@ -1,0 +1,21 @@
+{
+  "model_id": "anthropic-mid",
+  "pinned_version": "claude-sonnet-5-5",
+  "task_id": "t2_rubrik",
+  "source_id": "politi-2026-nsk-tidligere-advokat",
+  "archetype": "landsavisen",
+  "prompt_sha256": "11d07f956166d5300a635a57209cd77335bb2c961347e993adceba1f86d42049",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 3400,
+    "reasoning_effort": "low"
+  },
+  "text": "RUBRIK: Tidligere advokat idømt fængsel for at være inhabil kurator\nUNDERRUBRIK: Retten i Lyngby gav 53-årig seks måneders ubetinget fængsel og frakendte ham advokatvirksomhed. Han skjulte kriminelle forhold i to konkursboer, han var inhabil i.",
+  "prompt_tokens": 1704,
+  "completion_tokens": 123,
+  "latency_ms": 1583,
+  "cost_usd": 0.004638,
+  "created": "2026-11-10T07:15:30.214243Z",
+  "error": null
+}

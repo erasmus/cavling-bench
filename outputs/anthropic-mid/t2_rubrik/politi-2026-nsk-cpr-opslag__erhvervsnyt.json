@@ -1,0 +1,21 @@
+{
+  "model_id": "anthropic-mid",
+  "pinned_version": "claude-sonnet-5-5",
+  "task_id": "t2_rubrik",
+  "source_id": "politi-2026-nsk-cpr-opslag",
+  "archetype": "erhvervsnyt",
+  "prompt_sha256": "72bba42880f85983c103d35b1c61942c2f8acdb0667c18c8e3547067f1042e29",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 3400,
+    "reasoning_effort": "low"
+  },
+  "text": "RUBRIK: 27-årig idømt 3 år og 6 mdr. for CPR-opslag til kriminelle\nUNDERRUBRIK: Studentermedhjælper i Københavns Kommune solgte adresser og familiedata og medvirkede til 34 forsøg på grov vold. Han har betænkningstid i forhold til anke.",
+  "prompt_tokens": 2248,
+  "completion_tokens": 121,
+  "latency_ms": 1465,
+  "cost_usd": 0.005706,
+  "created": "2026-11-10T07:15:28.629772Z",
+  "error": null
+}

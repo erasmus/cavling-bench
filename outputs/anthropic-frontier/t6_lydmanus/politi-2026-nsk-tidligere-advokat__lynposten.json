@@ -1,0 +1,21 @@
+{
+  "model_id": "anthropic-frontier",
+  "pinned_version": "claude-fable-5-1",
+  "task_id": "t6_lydmanus",
+  "source_id": "politi-2026-nsk-tidligere-advokat",
+  "archetype": "lynposten",
+  "prompt_sha256": "9da5f95de0e65d31d9b3d4441e5fa11a307af443a95288a551dd5e34e4da3388",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 3620,
+    "reasoning_effort": "low"
+  },
+  "text": "En treoghalvtredsårig tidligere advokat skal seks måneder i fængsel. Det har Retten i Lyngby afgjort onsdag. Han mister samtidig retten til at arbejde som advokat indtil videre.\n\nManden er dømt for groft stillingsmisbrug og pligtforsømmelse. Han lod sig udpege som kurator i to konkursboer. Men han var inhabil. Han havde forinden rådgivet ejeren og direktøren af selskaberne. Rådet gik på, hvordan konkursbehandlingen kunne blive overfladisk og kortvarig.\n\nRetten fandt det også bevist, at han afgav urigtige erklæringer til skifteretten. Og han tilbageholdt væsentlige oplysninger om kriminelle forhold i selskaberne. Ifølge retten forsinkede det politiets efterforskning, skattemyndighedernes undersøgelse og konkursbehandlingen.\n\nSagen er ført af National enhed for Særlig Kriminalitet. Specialanklager Konrad Joe Frank er tilfreds med dommen. Han siger, at dommen viser, hvor afgørende tilliden til kuratorer er for systemet.",
+  "prompt_tokens": 1756,
+  "completion_tokens": 413,
+  "latency_ms": 6509,
+  "cost_usd": 0.03821,
+  "created": "2026-11-10T07:27:50.439582Z",
+  "error": null
+}

@@ -1,0 +1,21 @@
+{
+  "model_id": "anthropic-mid",
+  "pinned_version": "claude-sonnet-5-5",
+  "task_id": "t2_rubrik",
+  "source_id": "fo-2026-tankstationer-reservation-beloeb",
+  "archetype": "lynposten",
+  "prompt_sha256": "a5f86f3abfb4a32eb64fc28e10932241d3a9b458d5e02f806f0356e876b6844a",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 3400,
+    "reasoning_effort": "low"
+  },
+  "text": "RUBRIK: Q8 reserverer stadig 950 kroner hos tankende kunder\nUNDERRUBRIK: Forbrugerombudsmanden kalder beløbet urimeligt for små biler. Shell, Uno-X og OK har ændret praksis, og Q8 og OK skal nu efterleve reglerne.",
+  "prompt_tokens": 3819,
+  "completion_tokens": 116,
+  "latency_ms": 1885,
+  "cost_usd": 0.008798,
+  "created": "2026-11-10T07:15:13.229596Z",
+  "error": null
+}

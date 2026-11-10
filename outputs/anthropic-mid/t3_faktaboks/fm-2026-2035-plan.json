@@ -1,0 +1,21 @@
+{
+  "model_id": "anthropic-mid",
+  "pinned_version": "claude-sonnet-5-5",
+  "task_id": "t3_faktaboks",
+  "source_id": "fm-2026-2035-plan",
+  "archetype": null,
+  "prompt_sha256": "ac21ec2da54fea9f777223cb596084d95b743790970645d7c84012fca0acff0e",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 3575,
+    "reasoning_effort": "low"
+  },
+  "text": "- Regeringen vil løfte forsvarsudgifterne fra 1,36 pct. af BNP i 2022 til forventet 3½ pct. af BNP i år.\n- Danmark vil med 2035-planen leve op til NATO's 3,5-procent-målsætning for forsvar og sikkerhed allerede i 2030.\n- Regeringen prioriterer en akutpakke på beredskabsområdet på 1,2 mia. kr. i år og et løft svarende til 5 mia. kr. i 2035.\n- Der afsættes ca. 15 mia. kr. i 2029-2040 til statslig medfinansiering af kystbeskyttelse mod stormflod i Klimatilpasningsplan II.\n- Planen fastholder målet for den strukturelle saldo på -0,5 pct. af BNP i 2030 og sætter et nyt mål på -0,6 pct. i 2035.",
+  "prompt_tokens": 2583,
+  "completion_tokens": 309,
+  "latency_ms": 2032,
+  "cost_usd": 0.008256,
+  "created": "2026-11-10T07:15:44.770580Z",
+  "error": null
+}

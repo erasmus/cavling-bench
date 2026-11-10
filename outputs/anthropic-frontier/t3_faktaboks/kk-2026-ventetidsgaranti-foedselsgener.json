@@ -1,0 +1,21 @@
+{
+  "model_id": "anthropic-frontier",
+  "pinned_version": "claude-fable-5-1",
+  "task_id": "t3_faktaboks",
+  "source_id": "kk-2026-ventetidsgaranti-foedselsgener",
+  "archetype": null,
+  "prompt_sha256": "a5f913e65424e2a73c2a1f09edfe75655a544d2262f87258d25a7c2bf01aae33",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 3575,
+    "reasoning_effort": "low"
+  },
+  "text": "- Ventetiden er i dag 17 dage fra henvisning til visitationssamtale og yderligere 44 dage til afklarende samtale og undersøgelse.\n- Med garantien skal kvinder tilbydes første samtale efter maksimalt 7 dage og en undersøgelse senest 3 uger senere.\n- Kan kommunen ikke overholde garantien, tilbydes kvinden et forløb hos en privat leverandør.\n- Partierne bag budgetaftalen har afsat knap 12,5 mio. kroner til efterfødselshjælpen over de næste fire år.\n- Københavns Kommune forventer at kunne tilbyde 1.500 kvinder efterfødselshjælp fra 2027, heraf 180 forløb hos private leverandører.",
+  "prompt_tokens": 2545,
+  "completion_tokens": 266,
+  "latency_ms": 4502,
+  "cost_usd": 0.03875,
+  "created": "2026-11-10T07:21:33.220228Z",
+  "error": null
+}

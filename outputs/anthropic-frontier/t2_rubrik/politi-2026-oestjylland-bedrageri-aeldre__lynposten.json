@@ -1,0 +1,21 @@
+{
+  "model_id": "anthropic-frontier",
+  "pinned_version": "claude-fable-5-1",
+  "task_id": "t2_rubrik",
+  "source_id": "politi-2026-oestjylland-bedrageri-aeldre",
+  "archetype": "lynposten",
+  "prompt_sha256": "71d73c99dca9444659453e47f714bc5f4ba970ff1c843a54d807d37ace116250",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 3400,
+    "reasoning_effort": "low"
+  },
+  "text": "RUBRIK: 32-årig får halvandet års fængsel for at svindle 48 ældre\nUNDERRUBRIK: Falsk bankbud fra Tilst hentede kort og koder hos ældre og hævede 270.000 kroner. Han tilstod også forsøg på at svindle 150 andre borgere i telefonen.",
+  "prompt_tokens": 2578,
+  "completion_tokens": 117,
+  "latency_ms": 3549,
+  "cost_usd": 0.03163,
+  "created": "2026-11-10T07:20:55.195261Z",
+  "error": null
+}

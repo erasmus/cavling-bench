@@ -1,0 +1,21 @@
+{
+  "model_id": "anthropic-mid",
+  "pinned_version": "claude-sonnet-5-5",
+  "task_id": "t3_faktaboks",
+  "source_id": "nationalbanken-2026-udsigter-marts",
+  "archetype": null,
+  "prompt_sha256": "c8a53826a36cac90b19c0cbdc9c10a538368a99e760126bf36c2a8e9334238af",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 3575,
+    "reasoning_effort": "low"
+  },
+  "text": "- Nationalbanken forventer, at inflationen bliver 1,8 pct. i år, 2,0 pct. i 2027 og 1,9 pct. i 2028.\n- I et risikoscenarie med begrænset olie- og gasforsyning fra Den Persiske Golf vurderes inflationen i år at kunne ende på 4,5 pct.\n- Det permanente løft af forsvarsudgifterne udgør 75 mia. kr. i forhold til niveauet før Ruslands invasion af Ukraine.\n- Danmarks BNP ventes at vokse med 1,8 pct. i år og næste år og med 2 pct. i 2028.\n- Kerneinflationen vurderes at være 2,2 pct. i 2026, 2,1 pct. i 2027 og 1,7 pct. i 2028.",
+  "prompt_tokens": 1467,
+  "completion_tokens": 280,
+  "latency_ms": 2073,
+  "cost_usd": 0.005734,
+  "created": "2026-11-10T07:15:51.003005Z",
+  "error": null
+}

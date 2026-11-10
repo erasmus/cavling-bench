@@ -1,0 +1,21 @@
+{
+  "model_id": "anthropic-frontier",
+  "pinned_version": "claude-fable-5-1",
+  "task_id": "t5_forkortelse",
+  "source_id": "ombudsmanden-2026-koebenhavn-laerer-ytringsfrihed",
+  "archetype": null,
+  "prompt_sha256": "5699dc7c7a7f391dfed46443bc18c4da0374f3d0be8cc7468ad4ff7a072be783",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 3860,
+    "reasoning_effort": "low"
+  },
+  "text": "Københavns Kommune indkaldte en lærer til en tilrettevisningssamtale, efter at hun i en avisartikel med overskriften ”Lærer fik hjernerystelse og blå mærker efter slag: ’Som at være i en krigszone’” havde fortalt om voldelig elevadfærd på sin tidligere skole.\n\nUnder samtalen fik hun en tilrettevisning og blev bl.a. opfordret til at holde lav profil over for pressen – en opfordring, kommunen siden har kaldt yderst beklagelig. Ombudsmanden konkluderer, at håndteringen ikke skete med respekt for hendes ytringsfrihed.\n\n”Udtalelserne fremstår klart som fremsat på egne vegne og må anses at være i kerneområdet for offentligt ansattes ytringsfrihed”, siger Folketingets Ombudsmand, Christian Britten Lundblad.\n\nKommunen har forklaret, at baggrunden ikke var udtalelserne, men et pressefoto, læreren ikke havde indhentet tilladelse til. Ombudsmanden mener, at forløbet berettiget kunne opfattes som en negativ ledelsesreaktion på udtalelserne, og at kommunen ikke har sikret hende korrekt information om sin situation og ret til at udtale sig. Læreren orienterede desuden på forhånd sin skoleleder om interviewet, uden at skolelederen vejledte om fotos.\n\nOmbudsmanden henstiller, at kommunen genoptager sagen og orienterer ham inden tre måneder. Pressemedarbejderes efterfølgende kontakt til flere medier om udtalelserne kalder han meget uheldig.\n\nYtringsfriheden er beskyttet af grundlovens § 77 og Den Europæiske Menneskerettighedskonventions artikel 10 og blev fra den 1. juli 2025 lovfæstet ved lov nr. 557 af 27. maj 2025. Justitsministeriet har udsendt vejledning nr. 9598 af 1. juli 2025; se også overblik #17 i Myndighedsguiden.",
+  "prompt_tokens": 2301,
+  "completion_tokens": 3308,
+  "latency_ms": 32627,
+  "cost_usd": 0.18841,
+  "created": "2026-11-10T07:26:47.346353Z",
+  "error": null
+}

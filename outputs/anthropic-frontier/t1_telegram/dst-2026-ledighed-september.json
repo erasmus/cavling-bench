@@ -1,0 +1,21 @@
+{
+  "model_id": "anthropic-frontier",
+  "pinned_version": "claude-fable-5-1",
+  "task_id": "t1_telegram",
+  "source_id": "dst-2026-ledighed-september",
+  "archetype": null,
+  "prompt_sha256": "6c0c76ce8324e7e5e55c01f2987ee41139121de3925e41c335368aeae2f4050d",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 3560,
+    "reasoning_effort": "low"
+  },
+  "text": "Ledigheden faldt med 200 fuldtidspersoner fra august til september og landede på 93.600, mens ledighedsprocenten forblev uændret på 3,1 pct. af arbejdsstyrken. Tallene er sæsonkorrigerede og offentliggjort 30. oktober 2026. Antallet af aktiverede ledige faldt med 500, mens antallet af ikke-aktiverede steg med 300. Både ledige dagpengemodtagere og kontanthjælpsmodtagere faldt med 100 til henholdsvis 78.600 og 15.000 fuldtidspersoner. Ledighedsprocenten var fortsat lavest for 16-24-årige med 1,6 pct. og højest for 25-29-årige med 5,0 pct. Blandt landsdelene havde Vestjylland den laveste ledighed med 2,1 pct., mens Byen København lå højest med 4,0 pct. De sæsonkorrigerede tal for juni, juli og august er alle nedjusteret med 100 siden seneste offentliggørelse 30. september.",
+  "prompt_tokens": 1365,
+  "completion_tokens": 370,
+  "latency_ms": 5303,
+  "cost_usd": 0.03215,
+  "created": "2026-11-10T07:19:00.139420Z",
+  "error": null
+}

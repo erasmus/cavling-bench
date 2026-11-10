@@ -113,7 +113,7 @@ class Scores:
 
 def load_scores(cfg: Config) -> Scores:
     judge_a = _judges(cfg)[0].id
-    outputs = {o.ref: o for o in load_outputs(cfg)}
+    outputs = {o.ref: o for o in load_outputs(cfg) if not o.error}  # API failures are not results
     checks = {c.output_ref: c for c in _read_jsonl(cfg.paths.scores / "checks.jsonl", CheckRecord)}
     grounding = {
         g.output_ref: g

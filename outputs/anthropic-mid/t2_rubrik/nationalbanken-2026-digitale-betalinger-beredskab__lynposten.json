@@ -1,0 +1,21 @@
+{
+  "model_id": "anthropic-mid",
+  "pinned_version": "claude-sonnet-5-5",
+  "task_id": "t2_rubrik",
+  "source_id": "nationalbanken-2026-digitale-betalinger-beredskab",
+  "archetype": "lynposten",
+  "prompt_sha256": "2add3ca0e3e8266758af823354744c75b45e16a569c816a1878168d54829e53b",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 3400,
+    "reasoning_effort": "low"
+  },
+  "text": "RUBRIK: 41 pct. af danskerne gemmer over 1.000 kr. i kontanter\nUNDERRUBRIK: Kontanter bruges til 9 pct. af betalingerne i butik, men flere gemmer dem som beredskab. Nationalbanken anbefaler to kort og 250 kr. pr. person.",
+  "prompt_tokens": 2824,
+  "completion_tokens": 117,
+  "latency_ms": 1359,
+  "cost_usd": 0.006818,
+  "created": "2026-11-10T07:15:20.266502Z",
+  "error": null
+}

@@ -1,0 +1,21 @@
+{
+  "model_id": "anthropic-mid",
+  "pinned_version": "claude-sonnet-5-5",
+  "task_id": "t5_forkortelse",
+  "source_id": "dst-2026-offentligt-overskud-2-kvt",
+  "archetype": null,
+  "prompt_sha256": "71bdb1c3c5f04dbf5cf68be12764a6fd520a740af328137f6f8f498950bd22da",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 3860,
+    "reasoning_effort": "low"
+  },
+  "text": "I andet kvartal 2026 var overskuddet på de offentlige finanser 35,5 mia. kr., hvilket er 12,3 mia. kr. højere end i første kvartal 2026. De samlede offentlige udgifter udgjorde 379,9 mia. kr., hvoraf de største poster var aflønning af ansatte på 116,2 mia. kr. og indkomstoverførsler til husholdningerne på 116,9 mia. kr. De offentlige indtægter udgjorde 415,3 mia. kr. Indtægterne i 2026 fra de personlige indkomstskatter samt selskabs- og pensionsafkastskatten er baseret på Skatte- og Vækstministeriets seneste Økonomisk Redegørelse.\n\nDen offentlige finansielle nettoformue faldt med 11 mia. kr. i andet kvartal og udgjorde 871 mia. kr. ved kvartalets udgang. Trods en offentlig saldo på 35,5 mia. kr. kan faldet hovedsageligt henføres til negative omvurderinger på børsnoterede aktier og andre ejerandelsbeviser på 14,1 mia. kr., positive omvurderinger af statens forpligtelser vedrørende langfristede statsobligationer samt øvrige negative omvurderinger og andre mængdemæssige ændringer i finansielle aktiver og passiver. Nettoformuen er steget med 98,1 mia. kr. over det seneste år.\n\nØMU-gælden steg med 19,4 mia. kr. i andet kvartal til 859,1 mia. kr., svarende til 27 pct. af BNP ved udgangen af kvartalet. Stigningen kan hovedsageligt tilskrives øget udstedelse af statsobligationer med lang løbetid fra staten og øgede lån med kort løbetid hos kommuner og regioner. ØMU-gælden er en bruttogældsopgørelse for offentlig forvaltning og service i nominel værdi.\n\nDen offentlige saldo i første kvartal 2026 er opjusteret med 13,9 mia. kr. Overskuddet er nu opgjort til 23,2 mia. kr. mod 9,3 mia. kr. ved sidste offentliggørelse. Revisionen kan forklares ved en opjustering af pensionsafkastskatten på 10,9 mia. kr.",
+  "prompt_tokens": 1478,
+  "completion_tokens": 812,
+  "latency_ms": 4581,
+  "cost_usd": 0.011076,
+  "created": "2026-11-10T07:17:41.448211Z",
+  "error": null
+}

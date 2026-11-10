@@ -1,0 +1,21 @@
+{
+  "model_id": "anthropic-frontier",
+  "pinned_version": "claude-fable-5-1",
+  "task_id": "t6_lydmanus",
+  "source_id": "dst-2026-offentligt-overskud-2-kvt",
+  "archetype": "lynposten",
+  "prompt_sha256": "38fec40f78d79f3a71d78b8b50155c5457bbe8fd83e32a86c427665814d94eb2",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 3620,
+    "reasoning_effort": "low"
+  },
+  "text": "Femogtredive komma fem milliarder kroner. Så stort var overskuddet på de offentlige finanser i andet kvartal 2026. Det viser nye tal fra Danmarks Statistik.\n\nOverskuddet er tolv komma tre milliarder kroner højere end i første kvartal.\n\nStaten, kommunerne og regionerne brugte i alt tre hundrede nioghalvfjerds komma ni milliarder kroner. De største udgifter gik til løn til ansatte og til indkomstoverførsler til husholdningerne. Indtægterne var på fire hundrede femten komma tre milliarder kroner.\n\nAlligevel faldt den offentlige finansielle nettoformue. Den gik ned med elleve milliarder kroner til otte hundrede enoghalvfjerds milliarder kroner. Ifølge Danmarks Statistik skyldes faldet især tab på børsnoterede aktier.\n\nØMU-gælden steg med nitten komma fire milliarder kroner. Den er nu på otte hundrede nioghalvtreds komma en milliarder kroner. Det svarer til syvogtyve procent af bruttonationalproduktet.\n\nOverskuddet i første kvartal er desuden rettet op med tretten komma ni milliarder kroner.",
+  "prompt_tokens": 1979,
+  "completion_tokens": 434,
+  "latency_ms": 7387,
+  "cost_usd": 0.04149,
+  "created": "2026-11-10T07:27:14.014164Z",
+  "error": null
+}

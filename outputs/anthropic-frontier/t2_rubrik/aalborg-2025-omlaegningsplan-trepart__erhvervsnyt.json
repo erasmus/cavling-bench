@@ -1,0 +1,21 @@
+{
+  "model_id": "anthropic-frontier",
+  "pinned_version": "claude-fable-5-1",
+  "task_id": "t2_rubrik",
+  "source_id": "aalborg-2025-omlaegningsplan-trepart",
+  "archetype": "erhvervsnyt",
+  "prompt_sha256": "e8339691d4628f323ef3a6cab1488cc0259c6a83aa99de50d00af065fe391fac",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 3400,
+    "reasoning_effort": "low"
+  },
+  "text": "RUBRIK: Aalborg Byråd vedtager omlægningsplan med 94 projekter\nUNDERRUBRIK: Planen rummer 77 lavbundsprojekter og 13 drikkevandsindsatser. Projekterne kræver enighed med lodsejere, og dialogmøder begynder i 2026.",
+  "prompt_tokens": 2826,
+  "completion_tokens": 114,
+  "latency_ms": 3711,
+  "cost_usd": 0.03396,
+  "created": "2026-11-10T07:19:46.469626Z",
+  "error": null
+}

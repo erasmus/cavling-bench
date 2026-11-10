@@ -1,0 +1,21 @@
+{
+  "model_id": "anthropic-frontier",
+  "pinned_version": "claude-fable-5-1",
+  "task_id": "t1_telegram",
+  "source_id": "politi-2026-midtvestsjaelland-idraetsforening",
+  "archetype": null,
+  "prompt_sha256": "4b3af25b0e8ed5f9ba97841491058913c0973a44b909136d4564af6ed2505da5",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 3560,
+    "reasoning_effort": "low"
+  },
+  "text": "En 46-årig mand, der var ansat i en idrætsforening i Roskilde, er i dag ved Retten i Roskilde idømt et års fængsel for seksuelle overgreb og blufærdighedskrænkelser mod et stort antal drenge. Manden har tilstået forholdene, herunder at have voldtaget en dreng under 12 år ved andet seksuelt forhold end samleje. Nogle drenge blev udsat for befølinger, og ikke færre end 42 drenge blev filmet uden deres viden i perioden januar 2022 til april 2024. På mandens telefon fandt politiet desuden en større mængde seksuelt overgrebsmateriale med personer under 18 år. Han er frakendt retten til at arbejde med børn og unge under 18 år. Senioranklager Pernille Fredin fra Midt- og Vestsjællands Politi kalder sagen et groft tillidsbrud. Den dømte tog betænkningstid i forhold til anke.",
+  "prompt_tokens": 1163,
+  "completion_tokens": 336,
+  "latency_ms": 3909,
+  "cost_usd": 0.02843,
+  "created": "2026-11-10T07:19:30.586904Z",
+  "error": null
+}

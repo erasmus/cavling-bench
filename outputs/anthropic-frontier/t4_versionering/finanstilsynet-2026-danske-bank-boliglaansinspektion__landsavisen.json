@@ -1,0 +1,21 @@
+{
+  "model_id": "anthropic-frontier",
+  "pinned_version": "claude-fable-5-1",
+  "task_id": "t4_versionering",
+  "source_id": "finanstilsynet-2026-danske-bank-boliglaansinspektion",
+  "archetype": "landsavisen",
+  "prompt_sha256": "ed4c690e1c1abbc36384fd8cfe7c29770d094b6f1682fe8be74bfbeb62ebf4bb",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 4025,
+    "reasoning_effort": "low"
+  },
+  "text": "Finanstilsynet har givet Danske Bank et påbud om at sikre, at bankens grundlag for at bevilge boliglån er korrekt, tilstrækkeligt dokumenteret og understøtter en individuel og konkret vurdering af kundens økonomiske robusthed og gældsserviceringsevne. Påbuddet kommer efter en inspektion, hvor tilsynet gennemgik en stikprøve på 58 bevillinger af boliglån til privatkunder.\n\nSagerne var udvalgt blandt kunder med gældsfaktor over 3,5, belåningsgrad over 60 pct. og et bankengagement på mere end 200.000 kr. Der var dermed tale om sager med højere risiko end gennemsnittet. Finanstilsynet vurderer, at fire af de 58 bevillinger ikke burde have været givet på det foreliggende grundlag. Sagerne var præget af væsentlige risikoforhold som høj gældsætning, høj belåning, store fald i rådighedsbeløb, usikkert indkomstgrundlag og begrænset likvid buffer, som banken ikke i tilstrækkelig grad havde analyseret.\n\nIfølge redegørelsen har Danske Bank en højere andel af bevillinger med høj gældsfaktor og høj belåningsgrad end de øvrige institutter i tilsynets temaundersøgelse. Tilsynet bemærker dog, at bankens data stammer fra en senere periode, og at udviklingen på boligmarkedet kan have påvirket billedet. En højere risikoprofil stiller ifølge tilsynet større krav til bankens kreditvurdering, dokumentation og kontrol.\n\nInspektionen så særskilt på en kundegruppe, som banken betragter som særlig robust, og som behandles i en forenklet kreditproces. Her fandt tilsynet væsentlige fejl i seks ud af 23 sager, svarende til 26 pct. For øvrige kunder var der væsentlige fejl i 13 ud af 35 sager, eller 37 pct. Finanstilsynet anerkender, at banken kan segmentere sine kunder, men kræver, at den forenklede proces bygger på en konkret og dokumenteret vurdering af rådighedsbeløb, opsparingsevne og forbrugstilpasning.\n\nTilsynet konstaterede desuden svagheder i et af bankens kreditindstillingsformater, som ikke i tilstrækkelig grad skaber gennemsigtighed om udgifter, forudsætninger og rådgiverens kreditfaglige vurdering. Inspektionen gav ikke anledning til at ændre bankens solvensbehov.",
+  "prompt_tokens": 2605,
+  "completion_tokens": 920,
+  "latency_ms": 10824,
+  "cost_usd": 0.07205,
+  "created": "2026-11-10T07:22:48.236964Z",
+  "error": null
+}

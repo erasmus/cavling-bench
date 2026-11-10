@@ -1,0 +1,21 @@
+{
+  "model_id": "anthropic-frontier",
+  "pinned_version": "claude-fable-5-1",
+  "task_id": "t1_telegram",
+  "source_id": "dst-2026-ubeskaeftigede-oensker-arbejde",
+  "archetype": null,
+  "prompt_sha256": "ac8b746661061c72800f354b354f93d2a8bb5eb120797a934974a54ea131c6d9",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 3560,
+    "reasoning_effort": "low"
+  },
+  "text": "Hver anden ubeskæftiget dansker i alderen 15-64 år ønskede et arbejde i første kvartal 2026, viser nye tal fra Danmarks Statistiks Arbejdskraftundersøgelse offentliggjort 28. maj 2026. Af 905.000 ubeskæftigede ønskede 52 pct., svarende til 470.000 personer, et job – en stigning på 85.000 siden første kvartal 2024, hvor andelen var 45 pct. Andelen var højest blandt 25-34-årige (66 pct.) og lavest blandt 55-64-årige (28 pct.). Blandt de 435.000, der ikke ønskede arbejde, var uddannelse årsagen for fire ud af fem 15-24-årige, mens pension mv. var årsagen for syv ud af ti 55-64-årige. Samtidig steg AKU-ledigheden til 236.000 personer eller 7,5 pct. af arbejdsstyrken, 0,8 procentpoint mere end året før. Ses der bort fra studerende, var ledigheden 6,2 pct.",
+  "prompt_tokens": 2069,
+  "completion_tokens": 377,
+  "latency_ms": 5272,
+  "cost_usd": 0.03954,
+  "created": "2026-11-10T07:19:05.203325Z",
+  "error": null
+}

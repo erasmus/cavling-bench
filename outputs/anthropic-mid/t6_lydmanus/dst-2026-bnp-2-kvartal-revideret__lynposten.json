@@ -1,0 +1,21 @@
+{
+  "model_id": "anthropic-mid",
+  "pinned_version": "claude-sonnet-5-5",
+  "task_id": "t6_lydmanus",
+  "source_id": "dst-2026-bnp-2-kvartal-revideret",
+  "archetype": "lynposten",
+  "prompt_sha256": "5f705b47c0d4e6fcbb98c97fd4a0a7866528825b8be1ad01a8718f9803e0ea10",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 3620,
+    "reasoning_effort": "low"
+  },
+  "text": "Danmarks økonomi voksede med nul komma ni procent i andet kvartal 2026. Det viser en ny opgørelse fra Danmarks Statistik. Tallet er korrigeret for priser og sæsonudsving.\n\nVæksten er skrevet op med nul komma seks procentpoint. Nye kildedata ligger bag.\n\nMedicinalindustrien trak op. Med den voksede værditilvæksten for hele økonomien med en komma en procent. Uden medicinalindustrien var væksten nul komma syv procent. Også den øvrige industri og den offentlige sektor bidrog.\n\nBeskæftigelsen steg med nul komma to procent. Det svarer til syv tusind og otte hundrede personer.\n\nHusholdningernes forbrug var uændret. Forbruget af varer faldt med nul komma otte procent. Forbruget af tjenester steg med nul komma otte procent.\n\nInvesteringerne steg med en komma fem procent. Et patentkøb i udlandet løfter tallet.",
+  "prompt_tokens": 3921,
+  "completion_tokens": 345,
+  "latency_ms": 3202,
+  "cost_usd": 0.011292,
+  "created": "2026-11-10T07:18:19.748029Z",
+  "error": null
+}

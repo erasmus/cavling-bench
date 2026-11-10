@@ -1,0 +1,21 @@
+{
+  "model_id": "anthropic-mid",
+  "pinned_version": "claude-sonnet-5-5",
+  "task_id": "t2_rubrik",
+  "source_id": "nationalbanken-2026-udsigter-marts",
+  "archetype": "lynposten",
+  "prompt_sha256": "302cf1dccd1ec05cf35134ddd4fc8f5d5901a2e36a4b1785b95e711cb0131ce4",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 3400,
+    "reasoning_effort": "low"
+  },
+  "text": "RUBRIK: Nationalbanken venter inflation på 1,8 pct. i år\nUNDERRUBRIK: Dansk økonomi er i god balance, siger Nationalbanken. Energipriserne er en risiko: Med lukket Golf-forsyning kan inflationen i år nå 4,5 pct.",
+  "prompt_tokens": 1936,
+  "completion_tokens": 111,
+  "latency_ms": 1718,
+  "cost_usd": 0.004982,
+  "created": "2026-11-10T07:15:21.985362Z",
+  "error": null
+}

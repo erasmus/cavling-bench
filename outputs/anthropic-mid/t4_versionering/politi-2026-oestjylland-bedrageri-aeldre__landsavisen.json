@@ -1,0 +1,21 @@
+{
+  "model_id": "anthropic-mid",
+  "pinned_version": "claude-sonnet-5-5",
+  "task_id": "t4_versionering",
+  "source_id": "politi-2026-oestjylland-bedrageri-aeldre",
+  "archetype": "landsavisen",
+  "prompt_sha256": "e18eb8437414f2700c123ac412d8c994ce187e53228f6bf495dac95b5895f7a7",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 4025,
+    "reasoning_effort": "low"
+  },
+  "text": "En 32-årig mand fra Tilst er ved Retten i Aarhus idømt et år og seks måneders fængsel for bankbudsbedragerier mod 48 ældre borgere, som han tilsammen har franarret 270.000 kroner. Dommen er et svar på en sag, hvor Østjyllands Politi gennem et længerevarende efterforskningsforløb har rullet en række lignende svindelnumre op.\n\nManden udgav sig for at være fra ofrenes bank og kørte i de fleste tilfælde selv ud til borgerne for at hente deres kort og koder. Derefter foretog han kontanthævninger. Svindlen skete i forening med flere medgerningsmænd. Kun i få tilfælde ringede han selv op til borgerne som bagmand, fremgår det af anklageskriftet.\n\nVed retten erkendte manden sig delvist skyldig i de 48 forhold. Han tilstod desuden at have forsøgt at bedrage omkring 150 andre borgere over telefonen. Foruden fængselsstraffen blev han dømt til at betale erstatning til de forurettede.\n\nManden blev anholdt den 28. januar på en adresse i Højbjerg, efter politiet havde modtaget en anmeldelse om bankbudsbedragerier mod ældre. Blandt ofrene var en kvinde i det centrale Aarhus, der havde afleveret hævekort og personlige oplysninger og fik hævet 15.000 kroner. Ved anholdelsen havde manden værdigenstande og nogle tusinde kroner på sig.\n\n\"Bankbudsbedragerier er noget, som myndighederne ser på med stor alvor, da ofrene oftest er enten ældre, svage eller øvrigt udsatte borgere,\" siger anklager Jakob Christensen fra Anklagemyndigheden ved Østjyllands Politi. Han peger på, at noget tyder på, at flere nu afviser ukendte, der ringer og udgiver sig for at være fra banken.\n\nDen 18. februar anholdt politiet fem medgerningsmænd. Efterforskningen pågår fortsat.\n\nManden modtog dommen og forbliver varetægtsfængslet. Kendelsen om det er kæret til landsretten.",
+  "prompt_tokens": 2541,
+  "completion_tokens": 773,
+  "latency_ms": 5474,
+  "cost_usd": 0.012812,
+  "created": "2026-11-10T07:17:18.162922Z",
+  "error": null
+}

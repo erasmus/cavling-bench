@@ -1,0 +1,21 @@
+{
+  "model_id": "anthropic-mid",
+  "pinned_version": "claude-sonnet-5-5",
+  "task_id": "t4_versionering",
+  "source_id": "regeringen-2026-grisefirepart",
+  "archetype": "lynposten",
+  "prompt_sha256": "c50c75fd78e2e7d8d0246b727449ca6371aab74614659719f424f2fb609f7fe9",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 4025,
+    "reasoning_effort": "low"
+  },
+  "text": "Regeringen samler seks parter om ét bord for at give grisene et bedre liv. Efter nytår går en ny firepart for fremtidens griseproduktion i gang. Ved bordet sidder Landbrug & Fødevarer, Dyrenes Beskyttelse, Fødevareforbundet NNF, Danmarks Naturfredningsforening, Dansk Erhverv, Dansk Industri og regeringen.\n\nParterne skal finde løsninger, der løfter dyrevelfærden. Samtidig skal produktionen blive stærk og bæredygtig. De skal også sikre mere økologi, skære ned på antibiotikaforbruget og flytte den danske griseproduktion højere op i værdikæden.\n\nTallene fra ministrene er hårde. Mange grise har for lidt plads. Omkring 95 procent får klippet en del af halen af. Millioner af pattegrise dør hvert år.\n\n\"Det skal vi gøre bedre,\" siger Christian Rabjerg Madsen, minister for natur og dyrevelfærd. \"Vores grise skal have et bedre griseliv.\"\n\nUdenrigsminister Lars Løkke Rasmussen peger på en skæv udvikling. I de sidste 15 år er antallet af slagtninger og slagteriarbejdere faldet med omtrent en tredjedel. Antallet af eksporterede smågrise er mere end tidoblet. \"Hvordan vi vender denne udvikling, har vi ikke svaret på i dag,\" siger han. Derfor nedsætter regeringen et ekspertpanel. Panelet skal anvise vejen til mere forædling.\n\nMiljøminister Maria Reumert Gjerding peger på naturen. \"Vi har en svineproduktion, der belaster vores fjorde og kystvande,\" siger hun. Naboerne til staldene mærker også konsekvenserne.\n\nErhvervs- og konkurrencekraftsminister Martin Lidegaard kalder fireparten \"et vigtigt skridt\" på vejen mod en national strategi for fødevaresektoren. Regeringen vil præsentere strategien.",
+  "prompt_tokens": 2349,
+  "completion_tokens": 721,
+  "latency_ms": 5233,
+  "cost_usd": 0.011908,
+  "created": "2026-11-10T07:17:22.037082Z",
+  "error": null
+}

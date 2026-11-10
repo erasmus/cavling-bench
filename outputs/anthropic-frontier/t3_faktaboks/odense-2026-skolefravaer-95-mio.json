@@ -1,0 +1,21 @@
+{
+  "model_id": "anthropic-frontier",
+  "pinned_version": "claude-fable-5-1",
+  "task_id": "t3_faktaboks",
+  "source_id": "odense-2026-skolefravaer-95-mio",
+  "archetype": null,
+  "prompt_sha256": "cffc63b45f8fcfadd87ad1a88b1ddd3a1a2419710d0ecac1ded7b0c49b22ae60",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 3575,
+    "reasoning_effort": "low"
+  },
+  "text": "- Odense Kommune investerer 9,5 millioner kroner om året i en styrket indsats mod ufrivilligt skolefravær.\n- Knap hver femte elev i Odense har et bekymrende skolefravær på mere end 10 procent.\n- Børn- og Ungeudvalget har på sit møde besluttet at udvide den nuværende indsats med en række nye tiltag.\n- De 9,5 millioner kroner blev afsat med budgetaftalen for 2026.\n- I starten af 2027 åbnes en ny fraværslinje, hvor forældre kan få råd og vejledning.",
+  "prompt_tokens": 2087,
+  "completion_tokens": 206,
+  "latency_ms": 3633,
+  "cost_usd": 0.03117,
+  "created": "2026-11-10T07:21:35.057898Z",
+  "error": null
+}

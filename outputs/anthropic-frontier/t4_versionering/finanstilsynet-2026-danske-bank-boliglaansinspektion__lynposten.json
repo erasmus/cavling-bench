@@ -1,0 +1,21 @@
+{
+  "model_id": "anthropic-frontier",
+  "pinned_version": "claude-fable-5-1",
+  "task_id": "t4_versionering",
+  "source_id": "finanstilsynet-2026-danske-bank-boliglaansinspektion",
+  "archetype": "lynposten",
+  "prompt_sha256": "048073112fbb6bfd46b68a3cb449b0a72262ab77764a1a84ca9da6ab85d014e1",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 4025,
+    "reasoning_effort": "low"
+  },
+  "text": "Fire ud af 58 boliglån i Danske Bank skulle aldrig have været givet. Det konkluderer Finanstilsynet efter en inspektion af bankens boliglån til privatkunder. Banken får nu et påbud.\n\nFinanstilsynet gennemgik 58 lånesager. Alle var sager med høj risiko. Kunderne havde en gældsfaktor over 3,5 og en belåningsgrad over 60 procent. Deres engagement i banken var over 200.000 kroner.\n\nI fire af sagerne manglede banken en grundig analyse af væsentlige risici. Det gjaldt blandt andet høj gæld, høj belåning og store fald i rådighedsbeløb. Flere kunder havde et usikkert indkomstgrundlag og en lille likvid buffer. Banken havde ikke dokumenteret, at kunderne kunne bære lånene.\n\nDanske Bank har en højere andel af lån med høj gældsfaktor og høj belåningsgrad end andre institutter i undersøgelsen. Finanstilsynet påpeger dog, at bankens tal stammer fra en senere periode. Boligmarkedet kan have ændret sig i mellemtiden.\n\nTilsynet fandt også mange fejl i sagsbehandlingen. Banken bruger en forenklet kreditproces for en gruppe kunder, den anser for særligt robuste. Her var der væsentlige fejl i 6 ud af 23 sager. Det svarer til 26 procent. Én af sagerne burde ikke være bevilget.\n\nFor øvrige kunder var der fejl i 13 ud af 35 sager. Det svarer til 37 procent. Tre af dem burde ikke være bevilget.\n\nFinanstilsynet kræver, at banken ændrer sin forenklede proces. Den skal bygge på en konkret vurdering af kundens rådighedsbeløb, opsparing og forbrug. Tilsynet kritiserer desuden et af bankens kreditindstillingsformater. Det gør det svært at efterprøve, om grundlaget for lånene holder.\n\nPåbuddet lyder, at banken skal sikre et korrekt og dokumenteret bevillingsgrundlag. Inspektionen ændrer ikke på bankens solvensbehov.",
+  "prompt_tokens": 2625,
+  "completion_tokens": 778,
+  "latency_ms": 10183,
+  "cost_usd": 0.06515,
+  "created": "2026-11-10T07:22:44.366253Z",
+  "error": null
+}

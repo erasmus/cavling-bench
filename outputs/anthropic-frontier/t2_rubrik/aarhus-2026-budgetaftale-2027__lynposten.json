@@ -1,0 +1,21 @@
+{
+  "model_id": "anthropic-frontier",
+  "pinned_version": "claude-fable-5-1",
+  "task_id": "t2_rubrik",
+  "source_id": "aarhus-2026-budgetaftale-2027",
+  "archetype": "lynposten",
+  "prompt_sha256": "d8f63e3fcd8f2cef31bfd9e056a0c55ac7a76df269ef964cc64b2f2563b4178c",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 3400,
+    "reasoning_effort": "low"
+  },
+  "text": "RUBRIK: Enigt Aarhus Byråd giver socialområdet 138 mio. kr. om året\nUNDERRUBRIK: Alle ni partier står bag budgetaftalen for 2027. Den sender 810 mio. kr. til anlæg og holder kommuneskatten i ro.",
+  "prompt_tokens": 2255,
+  "completion_tokens": 106,
+  "latency_ms": 3253,
+  "cost_usd": 0.02785,
+  "created": "2026-11-10T07:19:46.459866Z",
+  "error": null
+}

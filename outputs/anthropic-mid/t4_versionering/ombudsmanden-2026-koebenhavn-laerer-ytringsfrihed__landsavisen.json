@@ -1,0 +1,21 @@
+{
+  "model_id": "anthropic-mid",
+  "pinned_version": "claude-sonnet-5-5",
+  "task_id": "t4_versionering",
+  "source_id": "ombudsmanden-2026-koebenhavn-laerer-ytringsfrihed",
+  "archetype": "landsavisen",
+  "prompt_sha256": "0cecc115f86e978841f2d54203dd59824c5a257bed3e0f123dfaaf6ba342d453",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 4025,
+    "reasoning_effort": "low"
+  },
+  "text": "Folketingets Ombudsmand, Christian Britten Lundblad, mener, at Københavns Kommune ikke handlede med respekt for en folkeskolelærers ytringsfrihed, da kommunen indkaldte hende til en tilrettevisningssamtale. Ombudsmanden har henstillet, at kommunen genoptager sagen, og bedt om svar inden tre måneder på, hvad henstillingen giver anledning til.\n\nSamtalen fandt sted, efter at læreren havde givet interview til en avisartikel med overskriften \"Lærer fik hjernerystelse og blå mærker efter slag: 'Som at være i en krigszone'\". Hun fortalte om voldelig elevadfærd på den skole, hvor hun tidligere var ansat, og om sine synspunkter på elevers adfærdsproblemer mere generelt. Under samtalen fik hun en tilrettevisning og blev blandt andet opfordret til at holde lav profil over for pressen. Kommunen har siden kaldt opfordringen yderst beklagelig, og det er ombudsmanden enig i.\n\nKommunen har forklaret, at samtalen ikke skyldtes hendes udtalelser, men et pressefoto, som blev bragt sammen med artiklen, og som hun ikke havde indhentet tilladelse til at få taget. Ombudsmanden vurderer på baggrund af rammerne for samtalen og referatet, at forløbet helt berettiget kunne opfattes som en negativ ledelsesreaktion på hendes udtalelser. Han peger desuden på, at hun på forhånd havde orienteret sin skoleleder om interviewet, og at skolelederen efter det oplyste ikke spurgte til eller vejledte om optagelse af fotos på skolen.\n\n\"Offentligt ansatte har en nu lovfæstet ret til at gøre brug af deres ytringsfrihed – og derved bidrage med deres viden og erfaring til at kvalificere den offentlige debat – uden at blive udsat for negative reaktioner fra ledelsen,\" siger Christian Britten Lundblad og tilføjer, at udtalelserne klart er fremsat på egne vegne og ligger i kerneområdet for ytringsfriheden.\n\nOmbudsmanden finder også, at kommunens pressemedarbejderes efterfølgende kontakt til flere medier om lærerens udtalelser var meget uheldig. Reglerne blev lovfæstet med virkning fra 1. juli 2025.",
+  "prompt_tokens": 2733,
+  "completion_tokens": 856,
+  "latency_ms": 5456,
+  "cost_usd": 0.014026,
+  "created": "2026-11-10T07:17:06.428391Z",
+  "error": null
+}

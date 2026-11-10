@@ -1,0 +1,21 @@
+{
+  "model_id": "anthropic-frontier",
+  "pinned_version": "claude-fable-5-1",
+  "task_id": "t4_versionering",
+  "source_id": "ombudsmanden-2026-lolland-avisabonnement-pression",
+  "archetype": "lynposten",
+  "prompt_sha256": "cbccccbafecf7128fa69103d4195ff25f63a565eb8c80a9fd5808e6f69e2d640",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 4025,
+    "reasoning_effort": "low"
+  },
+  "text": "Lolland Kommune opsagde tre abonnementer på Lolland-Falsters Folketidende. Nu får kommunen en løftet pegefinger fra Folketingets Ombudsmand. En myndighed må ikke opsige avisabonnementer som pression eller straf mod pressen. Det fastslår ombudsmanden i en udtalelse til kommunen.\n\nSagen begyndte i maj 2026. Ombudsmanden indledte en undersøgelse efter medieomtale af opsigelserne. De skete i forlængelse af en artikel i avisen.\n\nLolland Kommune har forklaret sig over for ombudsmanden. Abonnementerne tilhørte borgmesteren og to byrådsmedlemmer. Opsigelserne skete efter politikernes egen anmodning. Formålet var ikke at straffe lokalavisen, mener kommunen.\n\nOmbudsmanden er ikke overbevist. Udtalelser fra politikerne kan efterlade et andet indtryk, lyder det.\n\n”Det er ikke sagligt, hvis det sker for at straffe eller lægge pres på bestemte journalister eller medier på baggrund af deres nyhedsformidling i f.eks. en kritisk artikel,” siger Folketingets Ombudsmand, Christian Britten Lundblad.\n\nHan tilføjer: ”I denne sag har der været udtalelser fremme, som kan efterlade et indtryk af, at det netop har været formålet.”\n\nDen 29. april 2026 skrev journalisten.dk, at borgmesteren var ”vred over en kritisk artikel i avisen”. På sociale medier skrev hun, at ”kritikken skal være fair, åben og ansvarlig ellers mister den sin legitimitet”. Hun ”overvejer yderligere skridt”.\n\nDet ene byrådsmedlem skrev på Facebook, at avisens journalister ”sætter loven for godt håndværk til side”. ”Det vil jeg ikke længere betale for,” lød det. Det andet byrådsmedlem kaldte i en intern mail den ”manglende journalistiske kvalitet” for ”dråben, der fik bægeret til at flyde over”.\n\nOmbudsmanden går ud fra, at kommunen nu overvejer, om udtalelserne ændrer billedet af formålet med opsigelserne. Han har bedt om en orientering om resultatet.\n\nEn myndighed må gerne opsige en avis som andre abonnenter, understreger ombudsmanden. Men det skal ske på sagligt grundlag.",
+  "prompt_tokens": 2388,
+  "completion_tokens": 874,
+  "latency_ms": 10864,
+  "cost_usd": 0.06758,
+  "created": "2026-11-10T07:24:12.175699Z",
+  "error": null
+}

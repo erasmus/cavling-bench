@@ -1,0 +1,21 @@
+{
+  "model_id": "anthropic-frontier",
+  "pinned_version": "claude-fable-5-1",
+  "task_id": "t3_faktaboks",
+  "source_id": "nationalbanken-2026-digitale-betalinger-beredskab",
+  "archetype": null,
+  "prompt_sha256": "26e5f7a808e29ec90cbf9162ebfee8a21b1902adb0313d49ff89d8ee83e67153",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 3575,
+    "reasoning_effort": "low"
+  },
+  "text": "- Kontanter blev brugt til 9 pct. af alle betalinger i fysisk handel i 2025 mod 11 pct. i 2023 og 23 pct. i 2017.\n- 41 pct. af borgerne har over 1.000 kr. i kontanter mod 33 pct. i 2023.\n- Wallet-betalinger, fx med Apple Pay og Google Pay, udgør nu hver tredje betaling i fysisk handel.\n- Tekniske fejl hos Nets i juli 2025 og maj 2026 har vist, at betalingsløsninger kan svigte, oplyser Nationalbanken.\n- Nationalbanken anbefaler borgerne et kontantbeløb med et pejlemærke på 250 kr. pr. person i husstanden.",
+  "prompt_tokens": 2355,
+  "completion_tokens": 265,
+  "latency_ms": 4317,
+  "cost_usd": 0.0368,
+  "created": "2026-11-10T07:21:33.068760Z",
+  "error": null
+}

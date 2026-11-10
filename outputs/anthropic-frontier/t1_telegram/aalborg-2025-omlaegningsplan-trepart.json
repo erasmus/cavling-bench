@@ -1,0 +1,21 @@
+{
+  "model_id": "anthropic-frontier",
+  "pinned_version": "claude-fable-5-1",
+  "task_id": "t1_telegram",
+  "source_id": "aalborg-2025-omlaegningsplan-trepart",
+  "archetype": null,
+  "prompt_sha256": "d53c5af7c9e6c5cf67035ae041c000999dce426e9f7e23698a2c7d97e67c5a4b",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 3560,
+    "reasoning_effort": "low"
+  },
+  "text": "Aalborg Byråd vedtog på byrådsmødet 15. december en omlægningsplan med 94 projekter, der skal give mere natur og skov, renere drikkevand og et sundere vandmiljø i Aalborg Kommune. Der er tale om en principvedtagelse, og projekterne kan kun gennemføres, hvis der opnås enighed med de berørte lodsejere. Planen rummer 77 forslag til lavbundsprojekter, 13 forslag til sikring af drikkevandet, udtagning af dyrkningsjord i oplandet til Halkær Bredning samt tre større sammenhængende naturområder ved Hals og Ulsted Rimmer, syd for Aalborg og omkring Halkær Bredning. Planen udspringer af Aftalen om et Grønt Danmark, vedtaget i Folketinget i 2024. I 2026 indledes dialogmøder med berørte borgere, og hovedparten af lavbunds- og kvælstofindsatsen skal være afsluttet i 2030, oplyser rådmand Jan Nymark Rose Thaysen.",
+  "prompt_tokens": 2352,
+  "completion_tokens": 379,
+  "latency_ms": 4487,
+  "cost_usd": 0.04247,
+  "created": "2026-11-10T07:18:53.496225Z",
+  "error": null
+}

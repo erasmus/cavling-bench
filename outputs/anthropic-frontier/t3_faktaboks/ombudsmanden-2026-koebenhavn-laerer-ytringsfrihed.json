@@ -1,0 +1,21 @@
+{
+  "model_id": "anthropic-frontier",
+  "pinned_version": "claude-fable-5-1",
+  "task_id": "t3_faktaboks",
+  "source_id": "ombudsmanden-2026-koebenhavn-laerer-ytringsfrihed",
+  "archetype": null,
+  "prompt_sha256": "3edc092c557dff45ca927696439e63efe8599a1143921953794999710d006514",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 3575,
+    "reasoning_effort": "low"
+  },
+  "text": "- Københavns Kommune indkaldte en lærer til en tilrettevisningssamtale, efter at hun havde givet et interview til en avis om voldelig elevadfærd.\n- Kommunen har forklaret, at baggrunden for samtalen var et pressefoto, som læreren ikke havde indhentet tilladelse til at få taget.\n- Folketingets Ombudsmand, Christian Britten Lundblad, konkluderer, at kommunens håndtering ikke skete med respekt for lærerens ytringsfrihed.\n- Ombudsmanden har henstillet, at kommunen genoptager sagen og orienterer ham inden tre måneder om, hvad henstillingen giver anledning til.\n- Reglerne om offentligt ansattes ytringsfrihed blev lovfæstet med virkning fra den 1. juli 2025 ved lov nr. 557 af 27. maj 2025.",
+  "prompt_tokens": 2301,
+  "completion_tokens": 310,
+  "latency_ms": 4620,
+  "cost_usd": 0.03851,
+  "created": "2026-11-10T07:21:37.689845Z",
+  "error": null
+}

@@ -1,0 +1,21 @@
+{
+  "model_id": "anthropic-frontier",
+  "pinned_version": "claude-fable-5-1",
+  "task_id": "t2_rubrik",
+  "source_id": "rigsrevisionen-2026-beretning-energinet-elnettet",
+  "archetype": "landsavisen",
+  "prompt_sha256": "b2dc51b5371238e7de1702df4c68c1b2e477884686c6e13dbef9b390c0b72cbf",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 3400,
+    "reasoning_effort": "low"
+  },
+  "text": "RUBRIK: Statsrevisorer kritiserer Energinets forsinkede elnet\nUNDERRUBRIK: Omkring 70 procent af projekterne er forsinkede, og udbygningen er foreløbig blevet over 10 mia. kr. dyrere. Ministeriet får kritik for sent tilsyn.",
+  "prompt_tokens": 2394,
+  "completion_tokens": 116,
+  "latency_ms": 3419,
+  "cost_usd": 0.02974,
+  "created": "2026-11-10T07:21:02.781040Z",
+  "error": null
+}

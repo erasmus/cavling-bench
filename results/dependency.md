@@ -2,8 +2,8 @@
 
 | Model | Niveau | USD pr. 1.000 T1 | Latens median/p95 ms | Åbne vægte | Licens | EU-residens | Params (mia.) | Version | Dato |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Claude Fable 5.1 | Frontier (proprietær) | – | – | nej | proprietary | no | – | `claude-fable-5-1` | 2026-11-10 |
-| Claude Sonnet 5.5 | Mellemklasse (proprietær) | 7.04 | 2948/3054 | nej | proprietary | no | – | `claude-sonnet-5-5` | 2026-11-10 |
+| Claude Fable 5.1 | Frontier (proprietær) | 40.02 | 5104/6146 | nej | proprietary | no | – | `claude-fable-5-1` | 2026-11-10 |
+| Claude Sonnet 5.5 | Mellemklasse (proprietær) | 7.55 | 2795/3157 | nej | proprietary | no | – | `claude-sonnet-5-5` | 2026-11-10 |
 | GPT-6 Astra | Frontier (proprietær) | – | – | nej | proprietary | cloud region | – | `gpt-6-astra` | 2026-11-10 |
 | GPT-6 Luna | Mellemklasse (proprietær) | – | – | nej | proprietary | cloud region | – | `gpt-6-luna` | 2026-11-10 |
 | Gemini 4 Argon | Frontier (proprietær) | – | – | nej | proprietary | no | – | `gemini-4-argon` | 2026-11-10 |

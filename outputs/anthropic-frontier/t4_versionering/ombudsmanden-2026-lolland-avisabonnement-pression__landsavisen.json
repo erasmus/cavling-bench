@@ -1,0 +1,21 @@
+{
+  "model_id": "anthropic-frontier",
+  "pinned_version": "claude-fable-5-1",
+  "task_id": "t4_versionering",
+  "source_id": "ombudsmanden-2026-lolland-avisabonnement-pression",
+  "archetype": "landsavisen",
+  "prompt_sha256": "5f172db74d461776a82ee36d1660133721ad0add506ea9695eba4ee70e864254",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 4025,
+    "reasoning_effort": "low"
+  },
+  "text": "Folketingets Ombudsmand har i en udtalelse til Lolland Kommune slået fast, at en myndigheds opsigelse af avisabonnementer ikke må bruges som pression eller straffeaktion over for pressen. Udtalelsen kommer efter en undersøgelse, som ombudsmanden indledte i maj 2026, da medier omtalte, at kommunen havde opsagt abonnementer på Lolland-Falsters Folketidende i forlængelse af en artikel i avisen.\n\nIfølge ombudsmanden har en myndighed relativt vide rammer for sin administration på området. Ud over økonomiske og bevillingsmæssige hensyn skal den dog overholde de almindelige forvaltningsretlige grundsætninger om saglighed og lighed, som også gælder i forhold til medierne.\n\nLolland Kommune har oplyst, at de opsagte abonnementer tilhørte borgmesteren og to byrådsmedlemmer, at opsigelserne skete efter anmodning fra de pågældende, og at formålet efter kommunens opfattelse ikke var at straffe lokalavisen.\n\nOmbudsmanden peger imidlertid på, at udtalelser fra de tre lokalpolitikere kan efterlade et andet indtryk. Journalisten.dk skrev den 29. april 2026, at borgmesteren var vred over en kritisk artikel, og citerede hende for på sociale medier at skrive, at hun overvejede yderligere skridt. Et byrådsmedlem skrev på Facebook, at nogle af avisens journalister sætter loven for godt håndværk til side, og at han ikke længere ville betale for det.\n\n”En myndighed kan naturligvis som andre abonnenter vælge at opsige et avisabonnement, men det skal ske på sagligt grundlag. Det er ikke sagligt, hvis det sker for at straffe eller lægge pres på bestemte journalister eller medier på baggrund af deres nyhedsformidling i f.eks. en kritisk artikel”, siger Folketingets Ombudsmand, Christian Britten Lundblad.\n\nOmbudsmanden går ud fra, at kommunen vil overveje, om udtalelserne ændrer grundlaget for dens opfattelse af formålet med opsigelserne, og han har bedt om en orientering om resultatet af overvejelserne.",
+  "prompt_tokens": 2368,
+  "completion_tokens": 810,
+  "latency_ms": 8470,
+  "cost_usd": 0.06418,
+  "created": "2026-11-10T07:24:10.082124Z",
+  "error": null
+}

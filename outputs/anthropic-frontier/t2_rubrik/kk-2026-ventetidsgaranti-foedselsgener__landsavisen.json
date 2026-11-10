@@ -1,0 +1,21 @@
+{
+  "model_id": "anthropic-frontier",
+  "pinned_version": "claude-fable-5-1",
+  "task_id": "t2_rubrik",
+  "source_id": "kk-2026-ventetidsgaranti-foedselsgener",
+  "archetype": "landsavisen",
+  "prompt_sha256": "e324897d97e7564ce9a461f0ce06a0635980166a79602541a361ef5b9977d170",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 3400,
+    "reasoning_effort": "low"
+  },
+  "text": "RUBRIK: København indfører ventetidsgaranti på efterfødselshjælp\nUNDERRUBRIK: Kvinder med fødselsgener skal have første samtale inden for syv dage. Budgetaftalen afsætter knap 12,5 mio. kr. og åbner for private leverandører.",
+  "prompt_tokens": 2994,
+  "completion_tokens": 107,
+  "latency_ms": 3496,
+  "cost_usd": 0.03529,
+  "created": "2026-11-10T07:20:31.946019Z",
+  "error": null
+}

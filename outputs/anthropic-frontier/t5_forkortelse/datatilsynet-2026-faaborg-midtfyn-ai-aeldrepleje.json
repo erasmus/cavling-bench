@@ -1,0 +1,21 @@
+{
+  "model_id": "anthropic-frontier",
+  "pinned_version": "claude-fable-5-1",
+  "task_id": "t5_forkortelse",
+  "source_id": "datatilsynet-2026-faaborg-midtfyn-ai-aeldrepleje",
+  "archetype": null,
+  "prompt_sha256": "4d9285fe8200304204c490d24445a27268b2af3b677e6dbb06533734a6351c1f",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 3860,
+    "reasoning_effort": "low"
+  },
+  "text": "Datatilsynet har truffet afgørelse i en sag om Faaborg-Midtfyn Kommunes brug af et AI-baseret monitoreringssystem på et plejehjem. Sagen blev indledt af egen drift i januar 2026 som led i tilsynets fokus på AI til overvågning af borgere i pleje.\n\nKommunen havde brugt løsningen over for 18 beboere i en prøveperiode på seks måneder for at øge tryghed, forebygge fald og understøtte plejepersonalets vurderinger. Løsningen er en sensorenhed, der med AI og kamerabaseret teknologi analyserer bevægelsesmønstre og giver indsigt i søvnkvalitet, uro og vejrtrækning. Kameraet anvendes ifølge kommunen kun i kortvarige sekvenser ved potentielle fald.\n\nKommunens risikovurdering oplistede alene generelle trusler, der alle blev vurderet som lav risiko uden nærmere begrundelse. Kommunen havde derfor ikke tilstrækkeligt påvist et passende sikkerhedsniveau. Datatilsynet vurderer, at kommunen skulle have gennemført en konsekvensanalyse inden ibrugtagning, da der var tale om ny teknologi og følsomme oplysninger om sårbare borgere. Prøveperioden ændrer ikke på pligten til at overholde reglerne.\n\nKommunen havde henvist til servicelovens og ældrelovens generelle bestemmelser som retsgrundlag. Det kan ifølge tilsynet ikke alene bære behandlingen. Tilsynet peger i stedet på reglerne om tryghedsskabende velfærdsteknologi, som under betingelser tillader teknologien over for personer med betydelig og varigt nedsat psykisk funktionsevne som følge af demens eller anden fremadskridende mental svækkelse, herunder særlige betingelser for AI. Kommunen havde ikke inddraget disse regler.\n\nDatatilsynet understreger, at kommuner inden brug af ny teknologi skal foretage konkrete risikovurderinger og konsekvensanalyser, når reglerne kræver det.",
+  "prompt_tokens": 1666,
+  "completion_tokens": 757,
+  "latency_ms": 9164,
+  "cost_usd": 0.05451,
+  "created": "2026-11-10T07:25:22.039360Z",
+  "error": null
+}

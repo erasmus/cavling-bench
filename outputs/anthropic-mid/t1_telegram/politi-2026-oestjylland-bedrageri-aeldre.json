@@ -1,0 +1,21 @@
+{
+  "model_id": "anthropic-mid",
+  "pinned_version": "claude-sonnet-5-5",
+  "task_id": "t1_telegram",
+  "source_id": "politi-2026-oestjylland-bedrageri-aeldre",
+  "archetype": null,
+  "prompt_sha256": "97651a831486e078d6c6513e6802cc3f400afe43790f4e94e1d95b8c3d755665",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 3560,
+    "reasoning_effort": "low"
+  },
+  "text": "En 32-årig mand fra Tilst er ved Retten i Aarhus idømt et år og seks måneders fængsel for bankbudsbedragerier mod 48 ældre borgere, som han tilsammen har svindlet for 270.000 kroner. Han erkendte også forsøg på at bedrage omkring 150 andre borgere over telefonen. Han optrådte oftest som bankbud, der hentede kort og koder, og handlede sammen med medgerningsmænd. Manden blev anholdt 28. januar i Højbjerg og har siddet varetægtsfængslet siden. Han skal forblive fængslet frem mod afsoning, men kendelsen er kæret til landsretten. Han skal desuden betale erstatning og modtog dommen.",
+  "prompt_tokens": 2091,
+  "completion_tokens": 259,
+  "latency_ms": 2403,
+  "cost_usd": 0.006772,
+  "created": "2026-11-10T07:14:52.360932Z",
+  "error": null
+}

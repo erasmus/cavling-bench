@@ -1,0 +1,21 @@
+{
+  "model_id": "anthropic-mid",
+  "pinned_version": "claude-sonnet-5-5",
+  "task_id": "t2_rubrik",
+  "source_id": "politi-2026-midtvestsjaelland-idraetsforening",
+  "archetype": "landsavisen",
+  "prompt_sha256": "4873a66a116d2ccbe96575ffbdef76c552ebeb05cb50034e47fbc94905a3117c",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 3400,
+    "reasoning_effort": "low"
+  },
+  "text": "RUBRIK: 46-årig fra idrætsforening får et års fængsel for overgreb\nUNDERRUBRIK: Retten i Roskilde har dømt manden for overgreb og krænkelser mod et stort antal drenge. 42 blev filmet uden at vide det. Manden har tilstået og overvejer anke.",
+  "prompt_tokens": 1630,
+  "completion_tokens": 114,
+  "latency_ms": 1886,
+  "cost_usd": 0.0044,
+  "created": "2026-11-10T07:15:27.163826Z",
+  "error": null
+}

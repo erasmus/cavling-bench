@@ -1,0 +1,21 @@
+{
+  "model_id": "anthropic-mid",
+  "pinned_version": "claude-sonnet-5-5",
+  "task_id": "t4_versionering",
+  "source_id": "fm-2026-ok26-statens-overenskomst",
+  "archetype": "landsavisen",
+  "prompt_sha256": "216820c5057ccff945439e7341efa9a3c2d2bf61d3d95a380f2097d9ab9865eb",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 4025,
+    "reasoning_effort": "low"
+  },
+  "text": "Finansministeren har sammen med Centralorganisationernes Fællesudvalg (CFU) og Akademikerne indgået et treårigt overenskomstforlig for de omkring 200.000 medarbejdere i staten. Forliget har en økonomisk ramme på 8,7 procent over de kommende tre år. Resultatet sendes nu til afstemning hos de faglige organisationer og gælder, hvis det tiltrædes, fra 1. april 2026 til 31. marts 2029.\n\nParterne beskriver forliget som økonomisk ansvarligt og som en pæn reallønsfremgang for den enkelte medarbejder. De første lønstigninger sker allerede i foråret.\n\nEn del af rammen er øremærket til Forsvaret. Parterne har prioriteret 275 mio. kr. til at understøtte rekruttering og fastholdelse af de militært ansatte. Den konkrete udmøntning aftales senere med organisationerne på forsvarsområdet. Desuden går 250 mio. kr. mere til lokal løn, og 20 mio. kr. går til et lønløft til erhvervsskolelærerne.\n\nForliget indfører en fritvalgskonto, hvor den ansatte kan vælge mellem løn, pension og frihed. Udvalgte personalegrupper får en fritvalgsdag, og der kommer to ekstra seniordage. Dagene er uden løn, men medarbejderen kan få et beløb fra sin Fritvalgs Lønkonto.\n\nBørnefamilierne får mulighed for fri med løn på hjemkaldelsesdagen og på barnets tredje sygedag. Lønretten under barselsorlov udvides, så den omfatter flere grupper, blandt andre aleneforældre, sociale forældre og nærtstående. Lønretten til deleorlov øges med to uger.\n\nFinansminister Nicolai Wammen (S) siger om Forsvarets lønløft: ”Danmark står lige nu i en helt særlig situation, hvor der er behov for store investeringer i vores fælles forsvar og sikkerhed.” Han peger på, at de grupper, der nu får mindst, skal opleve den største relative stigning – udover de generelle lønstigninger.",
+  "prompt_tokens": 1996,
+  "completion_tokens": 761,
+  "latency_ms": 4969,
+  "cost_usd": 0.011602,
+  "created": "2026-11-10T07:16:32.071884Z",
+  "error": null
+}

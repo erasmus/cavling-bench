@@ -1,0 +1,21 @@
+{
+  "model_id": "anthropic-mid",
+  "pinned_version": "claude-sonnet-5-5",
+  "task_id": "t3_faktaboks",
+  "source_id": "regeringen-2026-kystbeskyttelse-14-9-mia",
+  "archetype": null,
+  "prompt_sha256": "cefcfca0a8a01b846fe3636fdfeeed40262018ce613f2ac4bd70698c0c08474d",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 3575,
+    "reasoning_effort": "low"
+  },
+  "text": "- Regeringen afsætter med Klimatilpasningsplan II 14,9 mia. kroner til en national investeringsplan for kystbeskyttelse i Danmark.\n- Stormfloder, der i dag forventes hvert 100. år, ventes i år 2100 at komme hvert tredje år.\n- Op mod 100.000 husstande og virksomheder med 175.000 arbejdspladser risikerer oversvømmelser fra havet uden store investeringer i kystbeskyttelse.\n- Staten vil medfinansiere 85 procent af anlægsinvesteringerne i den kommende investeringsplan, mens kommunerne bidrager med 15 procent.\n- Med accelerationspakken, Finansloven 2026 og kommunale bidrag er der mulighed for investeringer på op mod 20 mia. kroner frem mod 2040.",
+  "prompt_tokens": 2085,
+  "completion_tokens": 293,
+  "latency_ms": 2539,
+  "cost_usd": 0.0071,
+  "created": "2026-11-10T07:15:57.724987Z",
+  "error": null
+}

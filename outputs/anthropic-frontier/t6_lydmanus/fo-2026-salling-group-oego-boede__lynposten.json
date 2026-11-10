@@ -1,0 +1,21 @@
+{
+  "model_id": "anthropic-frontier",
+  "pinned_version": "claude-fable-5-1",
+  "task_id": "t6_lydmanus",
+  "source_id": "fo-2026-salling-group-oego-boede",
+  "archetype": "lynposten",
+  "prompt_sha256": "5f4a45069aac6be79959815e4f0ad26580d19f66e2628369271c76d825cad248",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 3620,
+    "reasoning_effort": "low"
+  },
+  "text": "Salling Group betaler ti millioner kroner i bøde. Det sker for vildledende markedsføring af Nettos økologiske produktserie ØGO.\n\nNetto kaldte ØGO det fjerde mest bæredygtige mærke i Danmark. Udsagnet stod i opslag på sociale medier og i en tilbudsmail fra Netto plus. Men kåringen byggede på en spørgeundersøgelse blandt ti tusind danske forbrugere. Den var lavet af den private virksomhed SB Insight bag Sustainable Brand Index. Undersøgelsen viste altså forbrugernes opfattelse. Den dokumenterede ikke produkternes faktiske bæredygtighed.\n\nForbrugerombudsmanden politianmeldte Salling Group i september 2025. Ifølge Forbrugerombudsmanden gjorde økologi alene ikke produkterne bæredygtige. Salling Group fjernede opslagene efter henvendelsen.\n\nForbrugerombudsmand Torben Jensen siger, at virksomheder skal være meget varsomme med deres udsagn. Der er stor forskel på, om produkter er bæredygtige, eller om forbrugerne blot opfatter dem sådan.\n\nBøden er udmålt efter den skærpede bødemodel fra 2022.",
+  "prompt_tokens": 2660,
+  "completion_tokens": 453,
+  "latency_ms": 5942,
+  "cost_usd": 0.04925,
+  "created": "2026-11-10T07:27:25.198912Z",
+  "error": null
+}

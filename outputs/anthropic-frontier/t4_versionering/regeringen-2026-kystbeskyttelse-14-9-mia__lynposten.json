@@ -1,0 +1,21 @@
+{
+  "model_id": "anthropic-frontier",
+  "pinned_version": "claude-fable-5-1",
+  "task_id": "t4_versionering",
+  "source_id": "regeringen-2026-kystbeskyttelse-14-9-mia",
+  "archetype": "lynposten",
+  "prompt_sha256": "2e6f2475f8609ad336a6dcd22adb73b21dc64f734490b16694378fd477c26222",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 4025,
+    "reasoning_effort": "low"
+  },
+  "text": "14,9 milliarder kroner. Så meget vil regeringen bruge på at beskytte danske kyster mod stormfloder. Pengene skal hjælpe kommunerne med diger, højvandsmure og sluser.\n\nBehovet er stort. 1 million danskere bor under en kilometer fra kysten. Op mod 100.000 husstande og virksomheder risikerer oversvømmelser fra havet. 175.000 arbejdspladser ligger i farezonen. Det sker, hvis der ikke investeres massivt i kystbeskyttelse.\n\nVejret bliver vildere. Stormfloder, der i dag kommer én gang hvert 100. år, vil i 2100 komme hvert tredje år. Både investeringer og anlæg går for langsomt i dag, skriver regeringen.\n\nPlanen hedder Klimatilpasningsplan II. Staten vil betale 85 procent af anlægsudgifterne. Kommunerne betaler de sidste 15 procent. Sammen med accelerationspakken for kystbeskyttelse og Finansloven 2026 kan det give investeringer på op mod 20 milliarder kroner frem mod 2040.\n\nKommunerne har fortsat ansvaret for at gennemføre projekterne. Men staten vil fjerne barrierer og sikre fremdrift.\n\nHusejere kan dog ende med en regning. Det er endnu ikke afgjort, hvor stor en del af de statslige udgifter lodsejerne skal betale bagefter. En ekspertgruppe skal komme med anbefalinger til en model for fordelingen.\n\nDet skal også blive lettere at få tilladelse til klimatilpasning, hvor naturhensyn står i vejen. Regeringen vil udvide dispensationsmulighederne. Kommunerne skal kunne lægge mere vægt på beskyttelse af mennesker og ejendom.\n\n\"Det skal ikke længere være den enkelte kommune, husejere eller borgergruppe, der alene skal kæmpe for at få beskyttet deres by eller hjem,\" siger miljøminister Magnus Heunicke.\n\nKlima-, energi- og forsyningsminister Lars Aagard peger på de senere års ødelagte hjem.\n\n\"Klimaforandringerne kommer med en regning,\" siger han. \"Det haster med holdbare løsninger, for at regningen ikke bliver endnu større.\"\n\nMiljøministeren indkalder nu Folketingets partier til forhandlinger om en politisk aftale.",
+  "prompt_tokens": 2537,
+  "completion_tokens": 850,
+  "latency_ms": 10028,
+  "cost_usd": 0.06787,
+  "created": "2026-11-10T07:24:50.483473Z",
+  "error": null
+}

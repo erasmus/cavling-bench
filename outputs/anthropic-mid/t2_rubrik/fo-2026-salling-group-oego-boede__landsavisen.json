@@ -1,0 +1,21 @@
+{
+  "model_id": "anthropic-mid",
+  "pinned_version": "claude-sonnet-5-5",
+  "task_id": "t2_rubrik",
+  "source_id": "fo-2026-salling-group-oego-boede",
+  "archetype": "landsavisen",
+  "prompt_sha256": "04920bdcd97af52906eda0e002eaeeef1a5e09b0532f86cca9027f39feab35f2",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 3400,
+    "reasoning_effort": "low"
+  },
+  "text": "RUBRIK: Salling Group betaler 10 mio. kr. i bøde for ØGO-markedsføring\nUNDERRUBRIK: Forbrugerombudsmanden politianmeldte i september 2025 Nettos ØGO-mærke, der blev markedsført som fjerde mest bæredygtige brand på basis af en forbrugerundersøgelse.",
+  "prompt_tokens": 2608,
+  "completion_tokens": 129,
+  "latency_ms": 1793,
+  "cost_usd": 0.006506,
+  "created": "2026-11-10T07:15:12.803653Z",
+  "error": null
+}

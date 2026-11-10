@@ -1,0 +1,21 @@
+{
+  "model_id": "anthropic-mid",
+  "pinned_version": "claude-sonnet-5-5",
+  "task_id": "t4_versionering",
+  "source_id": "rm-2026-kultur-sundhed-pulje-78-mio",
+  "archetype": "landsavisen",
+  "prompt_sha256": "bbf92e12ecf567c17349b2021c852662b4bc43f657bc390c854fb11f313dffc3",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 4025,
+    "reasoning_effort": "low"
+  },
+  "text": "Region Midtjylland åbner en ny pulje på 7,8 mio. kr., der skal omsætte erfaringer med kultur i sundhedsvæsenet til konkrete tilbud for borgere og patienter i hele regionen. Initiativet bygger på forskning, som ifølge regionen viser, at kulturaktiviteter blandt andet kan forebygge sygdom, lindre symptomer og øge trivsel, både under og efter sygdom.\n\nPuljen skal styrke samarbejdet mellem kultur- og sundhedsaktører. Ambitionen er at skabe bæredygtige partnerskaber mellem kulturaktører, kommuner, hospitaler og andre relevante aktører i de fem sundhedsråds geografier. Det er kulturaktører, der kan søge, og de skal gøre det sammen med partnere fra sundhedsområdet.\n\nRegionen efterspørger særligt projekter inden for fire temaer: forebyggelse og øget trivsel, især blandt børn og unge; lindring af symptomer under behandling eller sygdom; mestring, rehabilitering og recovery ved psykisk eller kronisk sygdom; samt samarbejde mellem kommuner og hospitaler eller socialområdet.\n\n- Med puljen vil vi bygge videre på den viden og sikre, at endnu flere gode indsatser bliver udviklet og når ud til dem, der har brug for dem, siger Per Møller Jensen (S), formand for Region Midtjyllands Udvalg for Regional Udvikling. Han henviser til regionens erfaringer de seneste ti år.\n\nNæstformanden, Vivi Altenburg (DD), peger på behovet for løsninger, der virker i hverdagen og kan bruges på tværs af kommuner og institutioner.\n\nDer kan søges om støtte til projekter med en varighed på op til tre år. Ansøgninger skal mindst lyde på 200.000 kr., og projekterne skal medfinansieres med mindst 25 procent af det samlede budget. Fristen er 26. august 2026 klokken 12.00, og ansøgningerne behandles i november 2026.\n\nRegionen holder dialogmøder om puljen på Godsbanen i Aarhus 21. maj klokken 10-13 og digitalt 2. juni klokken 13-14.30. Puljen er en del af regionens indsats for sundhed og kultur, som i december sidste år gav landets første regionale politik på området.",
+  "prompt_tokens": 2294,
+  "completion_tokens": 838,
+  "latency_ms": 5458,
+  "cost_usd": 0.012968,
+  "created": "2026-11-10T07:17:31.896816Z",
+  "error": null
+}

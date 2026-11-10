@@ -1,0 +1,21 @@
+{
+  "model_id": "anthropic-frontier",
+  "pinned_version": "claude-fable-5-1",
+  "task_id": "t2_rubrik",
+  "source_id": "ankestyrelsen-2026-langeland-tilsynssager-afsluttet",
+  "archetype": "landsavisen",
+  "prompt_sha256": "bb7468b686ffcd6a039fa4b21aa513869a6fadc1e82010391a22b772df961e3d",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 3400,
+    "reasoning_effort": "low"
+  },
+  "text": "RUBRIK: Ankestyrelsen lukker to tilsynssager mod Langeland Kommune\nUNDERRUBRIK: Kommunen har gennemgået 295 sager i Familieafdelingen efter kritik fra 2022, og samarbejdet med taskforcen på børneområdet genoptages fra maj 2026.",
+  "prompt_tokens": 2287,
+  "completion_tokens": 117,
+  "latency_ms": 2095,
+  "cost_usd": 0.02872,
+  "created": "2026-11-10T07:19:48.565534Z",
+  "error": null
+}

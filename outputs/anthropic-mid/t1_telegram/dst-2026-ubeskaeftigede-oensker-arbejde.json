@@ -1,0 +1,21 @@
+{
+  "model_id": "anthropic-mid",
+  "pinned_version": "claude-sonnet-5-5",
+  "task_id": "t1_telegram",
+  "source_id": "dst-2026-ubeskaeftigede-oensker-arbejde",
+  "archetype": null,
+  "prompt_sha256": "ac8b746661061c72800f354b354f93d2a8bb5eb120797a934974a54ea131c6d9",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 3560,
+    "reasoning_effort": "low"
+  },
+  "text": "Hver anden ubeskæftiget ønsker nu et arbejde: I første kvartal 2026 var 470.000 af i alt 905.000 ubeskæftigede i alderen 15-64 år interesserede i et job, svarende til 52 pct. Det er 85.000 flere end i første kvartal 2024, hvor andelen var 45 pct. Andelen var højest blandt 25-34-årige (66 pct.) og lavest blandt 55-64-årige (28 pct.). 236.000 personer var AKU-ledige, svarende til 7,5 pct. af arbejdsstyrken og en stigning på 0,8 procentpoint på et år. Uden studerende var ledighedsprocenten 6,2, op med 0,5 procentpoint. Stigningen kan ifølge kilden ses i lyset af relativt mange opsigelser i andet halvår af 2025. Offentliggjort 28. maj 2026.",
+  "prompt_tokens": 2069,
+  "completion_tokens": 317,
+  "latency_ms": 2829,
+  "cost_usd": 0.007308,
+  "created": "2026-11-10T07:14:37.289847Z",
+  "error": null
+}

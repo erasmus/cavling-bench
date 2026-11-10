@@ -38,7 +38,7 @@ REPAIR_INSTRUCTION = (
     "Reply again with ONLY the JSON object, no prose, no code fences."
 )
 TONE_TASKS = ("t2_rubrik", "t4_versionering", "t6_lydmanus")
-JUDGE_MAX_TOKENS = {"grounding": 3000, "tone": 300, "fluency": 400}
+JUDGE_MAX_TOKENS = {"grounding": 6000, "tone": 300, "fluency": 400}
 
 
 # JSON handling -------------------------------------------------------------------

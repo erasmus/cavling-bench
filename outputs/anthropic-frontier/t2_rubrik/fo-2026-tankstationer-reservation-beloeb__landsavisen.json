@@ -1,0 +1,21 @@
+{
+  "model_id": "anthropic-frontier",
+  "pinned_version": "claude-fable-5-1",
+  "task_id": "t2_rubrik",
+  "source_id": "fo-2026-tankstationer-reservation-beloeb",
+  "archetype": "landsavisen",
+  "prompt_sha256": "384701802da7af14ab4fcf4612224071facc80c93c724b5804993431191e32e8",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 3400,
+    "reasoning_effort": "low"
+  },
+  "text": "RUBRIK: Tankstationer ændrer praksis efter kritik af høje reservationer\nUNDERRUBRIK: Forbrugerombudsmanden fandt reservationer på op til 1.500 kroner urimelige. Shell, Uno-X og OK har ændret praksis, mens Q8 fortsat reserverer 950 kroner.",
+  "prompt_tokens": 3799,
+  "completion_tokens": 122,
+  "latency_ms": 3614,
+  "cost_usd": 0.04409,
+  "created": "2026-11-10T07:20:21.257992Z",
+  "error": null
+}

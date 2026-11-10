@@ -1,0 +1,21 @@
+{
+  "model_id": "anthropic-frontier",
+  "pinned_version": "claude-fable-5-1",
+  "task_id": "t4_versionering",
+  "source_id": "fm-2026-2035-plan",
+  "archetype": "lynposten",
+  "prompt_sha256": "3a77c7e0bfc94c94b66585ce9b8702934ee2cdb9991f3cc21f0ad072950b3129",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 4025,
+    "reasoning_effort": "low"
+  },
+  "text": "Regeringen vil bruge milliarder på forsvar, beredskab og kyster frem mod 2035. Det fremgår af den nye 2035-plan, som regeringen præsenterer i dag.\n\nPlanen flytter Danmark hurtigere mod NATO's mål. Danmark skal bruge 3,5 procent af BNP på forsvar og sikkerhed allerede i 2030. Forsvarsudgifterne er i forvejen steget fra 1,36 procent af BNP i 2022 til forventet 3,5 procent i år. Heraf er cirka 70 milliarder kroner afsat til Ukrainefondens militære ramme i 2023-2028.\n\nBeredskabet får penge med det samme. Regeringen vil afsætte en akutpakke på 1,2 milliarder kroner allerede i år. I 2035 skal løftet svare til 5 milliarder kroner årligt. Regeringen peger på et skærpet trusselsbillede som begrundelse.\n\nKlimaet får også midler. Regeringen afsætter 4 milliarder kroner årligt til klimamålet om at skære 82 procent af CO2e-udledningen i 2035 i forhold til 1990. Dertil kommer cirka 15 milliarder kroner i 2029-2040 til beskyttelse af kysterne mod stormflod.\n\nPengene kommer fra en stærk økonomi. Danmark har haft offentlige overskud ni år i træk. De seneste seks år har overskuddet været det højeste i EU.\n\nMen pengene rækker ikke til alt. Det slår flere ministre fast.\n\n\"Regeringens 2035-plan viser dog også, at vi i fremtiden bliver nødt til at prioritere skarpt,\" siger finansminister Nicolai Wammen.\n\nØkonomiminister Stephanie Lose kalder investeringerne ansvarlige og ambitiøse. Men de begrænser rummet til andre prioriteringer frem mod 2030, siger hun.\n\nUdenrigsminister Lars Løkke Rasmussen er mere direkte.\n\n\"Når regningerne er betalt, er kassen så godt som tom,\" siger han. Han peger på store strukturelle udfordringer efter 2035, som planen ikke løser.\n\nPlanen fastholder målet for den strukturelle saldo på -0,5 procent af BNP i 2030. Der sættes et nyt mål på -0,6 procent af BNP i 2035.",
+  "prompt_tokens": 3035,
+  "completion_tokens": 826,
+  "latency_ms": 10730,
+  "cost_usd": 0.07165,
+  "created": "2026-11-10T07:22:48.430951Z",
+  "error": null
+}

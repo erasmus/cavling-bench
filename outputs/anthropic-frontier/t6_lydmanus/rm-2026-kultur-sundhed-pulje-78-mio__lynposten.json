@@ -1,0 +1,21 @@
+{
+  "model_id": "anthropic-frontier",
+  "pinned_version": "claude-fable-5-1",
+  "task_id": "t6_lydmanus",
+  "source_id": "rm-2026-kultur-sundhed-pulje-78-mio",
+  "archetype": "lynposten",
+  "prompt_sha256": "56918ee98f8e86a4590c47430238a4244a8eab9a094d02aaff9a7ed062b2584f",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 3620,
+    "reasoning_effort": "low"
+  },
+  "text": "Syv komma otte millioner kroner. Så meget sætter Region Midtjylland nu af til kultur, der skal styrke sundheden. Pengene går til projekter, hvor kulturaktører arbejder sammen med kommuner, hospitaler eller socialområdet. Ifølge Region Midtjylland viser forskning, at kultur kan forebygge sygdom, lindre symptomer og øge trivsel.\n\nPuljen støtter fire temaer. Forebyggelse, især blandt børn og unge. Lindring under sygdom. Mestring af psykisk eller kronisk sygdom. Og samarbejde mellem midtjyske kommuner og hospitaler.\n\nPer Møller Jensen, formand for regionens Udvalg for Regional Udvikling, siger, at erfaringer fra de seneste ti år viser, at kultur spiller en afgørende rolle for sundhed og trivsel.\n\nKulturaktører kan søge mindst to hundrede tusind kroner. Projekterne må vare op til tre år og skal selv finansiere mindst femogtyve procent. Fristen er den seksogtyvende august 2026 klokken tolv. Svar kommer i november.",
+  "prompt_tokens": 2363,
+  "completion_tokens": 405,
+  "latency_ms": 6712,
+  "cost_usd": 0.04388,
+  "created": "2026-11-10T07:28:01.071660Z",
+  "error": null
+}

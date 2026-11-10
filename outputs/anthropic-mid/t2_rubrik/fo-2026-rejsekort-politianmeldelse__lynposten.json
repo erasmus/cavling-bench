@@ -1,0 +1,21 @@
+{
+  "model_id": "anthropic-mid",
+  "pinned_version": "claude-sonnet-5-5",
+  "task_id": "t2_rubrik",
+  "source_id": "fo-2026-rejsekort-politianmeldelse",
+  "archetype": "lynposten",
+  "prompt_sha256": "bd60da396dbddd92e155886c287b96de4eed3f9a248ae46e2d7f8e53a00481aa",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 3400,
+    "reasoning_effort": "low"
+  },
+  "text": "RUBRIK: Ombudsmand politianmelder Rejsekort & Rejseplan\nUNDERRUBRIK: Kampagnen om det fysiske rejsekort vildleder, mener Forbrugerombudsmanden. Over 35 har klaget. Virksomheden afviser, at markedsføringen er vildledende.",
+  "prompt_tokens": 3076,
+  "completion_tokens": 116,
+  "latency_ms": 1866,
+  "cost_usd": 0.007312,
+  "created": "2026-11-10T07:15:11.343704Z",
+  "error": null
+}

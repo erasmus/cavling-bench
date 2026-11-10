@@ -1,0 +1,21 @@
+{
+  "model_id": "anthropic-mid",
+  "pinned_version": "claude-sonnet-5-5",
+  "task_id": "t6_lydmanus",
+  "source_id": "dst-2026-offentligt-overskud-2025",
+  "archetype": "lynposten",
+  "prompt_sha256": "a04e485b1a35f35e3351b6e936b0b39a4bff5749ddf7502631a68e0d9cb19285",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 3620,
+    "reasoning_effort": "low"
+  },
+  "text": "Et overskud på halvfems milliarder og ni hundrede millioner kroner. Det har de offentlige finanser i 2025. Det oplyser Danmarks Statistik.\n\nOverskuddet er mindre end året før. I 2024 var det et hundrede treogtyve milliarder og fem hundrede millioner kroner.\n\nUdgifterne steg med femogfirs milliarder kroner. De nåede et tusind fire hundrede toogfirs milliarder og otte hundrede millioner kroner. Indtægterne steg med toogfemti milliarder og fire hundrede millioner kroner. De endte på et tusind fem hundrede treogtreds milliarder og otte hundrede millioner kroner.\n\nIfølge Danmarks Statistik forklarer højere personskatter og selskabsskatter stigningen i indtægterne. Udgifterne stiger især på socialområdet, sundhedsområdet og forsvaret.\n\nSocial beskyttelse er den største post. Den tegner sig for enogfyrre procent af udgifterne. Sundhedsvæsenet følger med sytten procent.",
+  "prompt_tokens": 1973,
+  "completion_tokens": 374,
+  "latency_ms": 3998,
+  "cost_usd": 0.007686,
+  "created": "2026-11-10T07:18:22.781263Z",
+  "error": null
+}

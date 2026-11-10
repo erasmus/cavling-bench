@@ -1,0 +1,21 @@
+{
+  "model_id": "anthropic-mid",
+  "pinned_version": "claude-sonnet-5-5",
+  "task_id": "t3_faktaboks",
+  "source_id": "kfst-2026-fibernet-prislofter",
+  "archetype": null,
+  "prompt_sha256": "4404edab87f2a2f3813ebf20441851896253f18e1e8f7e12f69bc680e054cade",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 3575,
+    "reasoning_effort": "low"
+  },
+  "text": "- Konkurrence- og Forbrugerstyrelsen fastsætter de endelige prislofter for de kommende fem år i december.\n- De nye prislofter skal gælde fra årsskiftet.\n- Alt efter selskab og område forventes de nye prislofter at blive op til 35 procent højere end de nuværende.\n- Der vil blive truffet afgørelser om 13 fibernetselskaber for den kommende fem-årsperiode.\n- Afgørelserne sendes til Europa-Kommissionen (DG Connect), før de træffes endeligt, så reglerne håndhæves ensartet i hele EU.",
+  "prompt_tokens": 2346,
+  "completion_tokens": 213,
+  "latency_ms": 2164,
+  "cost_usd": 0.006822,
+  "created": "2026-11-10T07:15:48.928463Z",
+  "error": null
+}

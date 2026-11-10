@@ -1,0 +1,21 @@
+{
+  "model_id": "anthropic-frontier",
+  "pinned_version": "claude-fable-5-1",
+  "task_id": "t4_versionering",
+  "source_id": "dst-2026-ubeskaeftigede-oensker-arbejde",
+  "archetype": "landsavisen",
+  "prompt_sha256": "40a7ceb2ab886a8c3246970741bd2f7136aef8b7edda217f7dca26fd87a9e28c",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 4025,
+    "reasoning_effort": "low"
+  },
+  "text": "Flere af de danskere, der står uden arbejde, vil gerne have et job. I første kvartal 2026 var 905.000 personer i alderen 15-64 år ubeskæftigede, og 52 procent af dem, svarende til 470.000 personer, ønskede et arbejde. Det viser Arbejdskraftundersøgelsen fra Danmarks Statistik. Siden første kvartal 2024, hvor andelen var 45 procent, er gruppen vokset med 85.000 personer.\n\nIfølge Danmarks Statistik viser stigningen, at flere ubeskæftigede ønsker at deltage på arbejdsmarkedet. Ønsket om arbejde er størst blandt de 25-34-årige, hvor 66 procent vil have et job, og mindst blandt de 55-64-årige med 28 procent.\n\nDe resterende 435.000 ubeskæftigede ønsker ikke et arbejde, hvilket er 41.000 færre end to år tidligere. Årsagerne følger alderen. Blandt de 15-24-årige angiver fire ud af fem uddannelse som den primære grund, mens syv ud af ti 55-64-årige henviser til pension, efterløn, fleksydelse eller førtidspension. Familiemæssige årsager spiller kun en meget lille rolle i alle aldersgrupper.\n\nSamtidig stiger ledigheden. 236.000 personer var i første kvartal AKU-ledige, det vil sige ledige efter Arbejdskraftundersøgelsens internationale afgrænsning, hvor man både søger arbejde aktivt og kan begynde med det samme. Det svarer til 7,5 procent af arbejdsstyrken, en stigning på 0,8 procentpoint på et år. Ses der bort fra studerende, som ofte efterspørger deltidsjob med få timer, var ledigheden 6,2 procent, 0,5 procentpoint højere end året før. Danmarks Statistik peger på, at stigningen kan ses i lyset af et relativt højt antal opsigelser i andet halvår af 2025.\n\nAKU-ledigheden ligger højere end registerledigheden, fordi den ikke er afgrænset til personer, der modtager bestemte ydelser, og fordi den opgøres i berørte personer frem for fuldtidspersoner.",
+  "prompt_tokens": 2519,
+  "completion_tokens": 1870,
+  "latency_ms": 18599,
+  "cost_usd": 0.11869,
+  "created": "2026-11-10T07:22:47.427816Z",
+  "error": null
+}

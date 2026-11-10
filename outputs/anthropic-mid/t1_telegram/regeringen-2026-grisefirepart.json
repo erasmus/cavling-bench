@@ -1,0 +1,21 @@
+{
+  "model_id": "anthropic-mid",
+  "pinned_version": "claude-sonnet-5-5",
+  "task_id": "t1_telegram",
+  "source_id": "regeringen-2026-grisefirepart",
+  "archetype": null,
+  "prompt_sha256": "689172164f04c9ec88fb5b2ec163c234e29628c7180370f6950b4f7f96a97ce7",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 3560,
+    "reasoning_effort": "low"
+  },
+  "text": "Regeringen nedsætter en firepart for fremtidens griseproduktion, som efter nytår skal samle Landbrug & Fødevarer, Dyrenes Beskyttelse, Fødevareforbundet NNF, Danmarks Naturfredningsforening, Dansk Erhverv, Dansk Industri og regeringen om bedre dyrevelfærd og en bæredygtig produktion. Parterne skal også arbejde for mere økologi, lavere antibiotikaforbrug og mere forædling i Danmark. Minister for natur og dyrevelfærd Christian Rabjerg Madsen (S) peger på, at mange grise har for lidt plads, at omkring 95 procent får klippet en del af halen, og at millioner af pattegrise dør hvert år. Ifølge Lars Løkke Rasmussen er antallet af slagtninger og slagteriarbejdere faldet med omtrent en tredjedel på 15 år, mens eksporten af smågrise er mere end tidoblet. Et ekspertpanel skal anvise vejen frem.",
+  "prompt_tokens": 1879,
+  "completion_tokens": 367,
+  "latency_ms": 2870,
+  "cost_usd": 0.007428,
+  "created": "2026-11-10T07:14:53.173389Z",
+  "error": null
+}

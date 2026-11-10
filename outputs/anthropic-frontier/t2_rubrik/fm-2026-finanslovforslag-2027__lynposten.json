@@ -1,0 +1,21 @@
+{
+  "model_id": "anthropic-frontier",
+  "pinned_version": "claude-fable-5-1",
+  "task_id": "t2_rubrik",
+  "source_id": "fm-2026-finanslovforslag-2027",
+  "archetype": "lynposten",
+  "prompt_sha256": "1e619664f7036bdfd11f2ed5600a9560a1abb10dac07f889e7d16087c8bb6837",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 3400,
+    "reasoning_effort": "low"
+  },
+  "text": "RUBRIK: Regeringen giver fattigste pensionister 1.000 kr. ekstra\nUNDERRUBRIK: Finanslovforslaget for 2027 løfter også folkeskolen med 1,2 mia. kr., giver gratis tandpleje til førtidspensionister og gratis bus og tog til unge under 22 år.",
+  "prompt_tokens": 3055,
+  "completion_tokens": 120,
+  "latency_ms": 3470,
+  "cost_usd": 0.03655,
+  "created": "2026-11-10T07:20:09.896065Z",
+  "error": null
+}

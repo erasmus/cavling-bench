@@ -1,0 +1,21 @@
+{
+  "model_id": "anthropic-mid",
+  "pinned_version": "claude-sonnet-5-5",
+  "task_id": "t4_versionering",
+  "source_id": "politi-2026-oestjylland-bedrageri-aeldre",
+  "archetype": "lynposten",
+  "prompt_sha256": "b2394ef0c73ea31cbba57f3354a71bfb4efe815a3b287dd360174d280a6204a0",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 4025,
+    "reasoning_effort": "low"
+  },
+  "text": "270.000 kroner. Så meget har en 32-årig mand fra Tilst svindlet 48 ældre borgere for. Retten i Aarhus har idømt ham et år og seks måneders fængsel.\n\nManden udgav sig for at være fra ofrenes bank. I de fleste tilfælde kørte han ud som bankbud og hentede kort og koder. Bagefter hævede han kontanter. Han handlede sammen med flere medgerningsmænd.\n\nHan erkendte sig delvist skyldig i de 48 sager. Desuden tilstod han forsøg på at svindle omkring 150 andre borgere over telefonen.\n\n\"Bankbudsbedragerier ser myndighederne med stor alvor på, fordi ofrene oftest er ældre, svage eller udsatte,\" siger anklager Jakob Christensen fra Anklagemyndigheden ved Østjyllands Politi. Han er tilfreds med dommen.\n\nChristensen peger på et lyspunkt. \"Mange har efterhånden fået øjnene op for, at man skal smække røret på med det samme.\"\n\nPolitiet anholdt manden den 28. januar. Anledningen var en anmeldelse fra en kvinde i det centrale Aarhus. Hun havde udleveret hævekort og personlige oplysninger til en ukendt person. Bagefter blev der hævet 15.000 kroner på hendes konto.\n\nAnholdelsen skete i Højbjerg. Manden kom kørende i et køretøj, som politiet havde identificeret. Han havde flere værdigenstande og nogle tusinde kroner i kontanter på sig. Pengene formodes at stamme fra svindel.\n\nOnsdag den 18. februar anholdt politiet fem medgerningsmænd. Enkelte af dem har tidligere på året fået dom. Efterforskningen fortsætter.\n\nDen 32-årige har siddet varetægtsfængslet siden anholdelsen. Det fortsætter, til han skal afsone. Han skal også betale erstatning til de forurettede.\n\nHan modtog dommen. Kendelsen om fortsat varetægtsfængsling er kæret til landsretten.",
+  "prompt_tokens": 2561,
+  "completion_tokens": 734,
+  "latency_ms": 5467,
+  "cost_usd": 0.012462,
+  "created": "2026-11-10T07:17:16.802714Z",
+  "error": null
+}

@@ -1,0 +1,21 @@
+{
+  "model_id": "anthropic-frontier",
+  "pinned_version": "claude-fable-5-1",
+  "task_id": "t5_forkortelse",
+  "source_id": "kefm-2026-akutplan-elnettet-vedtaget",
+  "archetype": null,
+  "prompt_sha256": "72650e5c64281b68b4b12b36b764e834e8273a08b183a10f966d0a943cc28b2f",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 3860,
+    "reasoning_effort": "low"
+  },
+  "text": "Et bredt flertal i Folketinget har vedtaget akutplanen for elnettet, som partierne blev enige om før sommeren. Presset på elnettet er så stort, at der flere steder ikke er plads til alle projekter. Først-til-mølle-princippet erstattes af en model, hvor Energinet og netvirksomhederne i højere grad kan prioritere adgangen.\n\nKlima-, energi- og forsyningsminister Samira Nawa kalder situationen dybt alvorlig og planen første skridt i en genopretningsplan. Jesper Petersen (S) finder det nødvendigt at prioritere de samfundsmæssigt vigtigste formål. Nanna Bonde (SF) advarer mod, at techvirksomheders datacentre blokerer for kollektiv transport og fjernvarme. Mathilde Hjort Bressum (V) understreger, at modellen ikke må blive den nye normal, og efterlyser forhandlinger om udbygning af transmissionsnettet. Malte Larsen (DF) lægger vægt på bedre udnyttelse af eksisterende kapacitet, og Lars Aagaard (M) peger på hurtigere udbygning og mere fleksibelt elforbrug. Anders Storgaard (K) fremhæver, at netselskaberne får et år til at udvikle nye netprodukter, og at ministerens mulighed for at pålægge dem nye produkter drøftes ved genbesøget i 2027. Lisbeth Torfing (EL) glæder sig over, at datacentre sættes bagerst og danske hjem forrest. Anastasia Milthers (RV) ser nu til Energinet, netselskaberne og Forsyningstilsynet for godkendelse af fleksible netprodukter, mens Anna Bjerre (ALT) hilser muligheden for at afvise hyperscale datacentre velkommen.\n\nDen politiske forståelse er konverteret til en aftale. Klima-, Energi- og Forsyningsministeriet vurderer efter dialog med Forsyningstilsynet, at prioriteringen ikke i sig selv kræver metodegodkendelse, mens anvendelsen af netvenlighed skal bygge på godkendte metoder. Loven træder i kraft 12. oktober, og aftalepartierne inviteres til drøftelser om udbygning af elnettet og Energiinfrastrukturplan 2035.",
+  "prompt_tokens": 3808,
+  "completion_tokens": 2003,
+  "latency_ms": 18928,
+  "cost_usd": 0.13823,
+  "created": "2026-11-10T07:26:07.051491Z",
+  "error": null
+}

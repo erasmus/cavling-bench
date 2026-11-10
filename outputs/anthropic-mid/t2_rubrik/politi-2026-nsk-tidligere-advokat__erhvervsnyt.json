@@ -1,0 +1,21 @@
+{
+  "model_id": "anthropic-mid",
+  "pinned_version": "claude-sonnet-5-5",
+  "task_id": "t2_rubrik",
+  "source_id": "politi-2026-nsk-tidligere-advokat",
+  "archetype": "erhvervsnyt",
+  "prompt_sha256": "654274ddc3dd48d0e11c2104e81724ca6a1d4222de440e6ba5d7e849dbc4ead5",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 3400,
+    "reasoning_effort": "low"
+  },
+  "text": "RUBRIK: Tidligere advokat får 6 mdr. fængsel for kuratormisbrug\nUNDERRUBRIK: Retten i Lyngby fandt, at den 53-årige var inhabil i to konkursboer og tilbageholdt oplysninger om kriminalitet. Han er frakendt retten til at udøve advokatvirksomhed.",
+  "prompt_tokens": 1711,
+  "completion_tokens": 127,
+  "latency_ms": 1493,
+  "cost_usd": 0.004692,
+  "created": "2026-11-10T07:15:30.126247Z",
+  "error": null
+}

@@ -1,0 +1,21 @@
+{
+  "model_id": "anthropic-frontier",
+  "pinned_version": "claude-fable-5-1",
+  "task_id": "t5_forkortelse",
+  "source_id": "aarhus-2026-budgetaftale-2027",
+  "archetype": null,
+  "prompt_sha256": "87156675f78b39d0c900b3f3983b3bceaa06e11ffbe12d093ca34547feb5be7b",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 3860,
+    "reasoning_effort": "low"
+  },
+  "text": "Et enigt Aarhus Byråd har torsdag den 17. september indgået aftale om kommunens budget for de kommende fire år. Partierne prioriterer flere penge til socialområdet, flere fagprofessionelle i folkeskolen, indsatser for demente ældre og tidligere anbragte børn samt bedre og billigere kollektiv trafik. Samtidig investeres i bedre mobilitet, styrkede vilkår for erhvervslivet og nemmere erhvervsparkering.\n\nPå socialområdet, hvor udgifterne er under betydeligt pres, indføres en solidarisk \"socialprocent\" på tværs af afdelinger. Sammen med ekstra tildelinger får området et årligt løft på i alt 138 mio. kr.\n\nPartierne har prioriteret i alt 197 mio. kr. årligt til drift i budgetperioden. Hertil kommer 810 mio. kr. til anlæg, blandt andet til øget fremkommelighed for busser, cyklister og andre trafikanter samt tiltag for mindre trængsel.\n\nBudgettet indeholder desuden et samlet løft af velfærden på omkring 2 mia. kr. over budgetperioden som følge af kommunens budgetmodeller samt knap 500 mio. kr. til blandt andet flere pædagoger og lavere forældrebetaling i dagtilbud som følge af nationale aftaler.\n\nEt nyt velfærdsbidrag skal fra 2028 frigøre penge til nye velfærdsløsninger, f.eks. nye arbejdsgange eller teknologi. Kommuneskatten holdes i ro.\n\nBag aftalen står Socialdemokratiet, SF, Venstre, Enhedslisten, Det Konservative Folkeparti, Radikale Venstre, Liberal Alliance, Danmarksdemokraterne og Dansk Folkeparti.\n\nBorgmester Anders Winnerskjold siger, at et godt budget skal kunne mærkes i aarhusianernes hverdag, og at kommunen skal bruge færre kræfter på administration og være mere effektiv. Aarhus Kommune har på mange områder en sund økonomi, men kan ikke gennemføre alle gode ønsker på én gang.",
+  "prompt_tokens": 1786,
+  "completion_tokens": 771,
+  "latency_ms": 7486,
+  "cost_usd": 0.05641,
+  "created": "2026-11-10T07:25:15.935846Z",
+  "error": null
+}

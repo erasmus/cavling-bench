@@ -1,0 +1,21 @@
+{
+  "model_id": "anthropic-mid",
+  "pinned_version": "claude-sonnet-5-5",
+  "task_id": "t4_versionering",
+  "source_id": "kk-2026-ventetidsgaranti-foedselsgener",
+  "archetype": "landsavisen",
+  "prompt_sha256": "8c7f7146ac6b666bb7e8274e3f82755c7f7a15b8e0b21dec5059922cbe476fd5",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 4025,
+    "reasoning_effort": "low"
+  },
+  "text": "Københavns Kommune indfører en ventetidsgaranti til kvinder, der søger hjælp til gener efter en fødsel. Det er en del af kommunens nye budgetaftale, og det er et svar på en efterspørgsel, som ifølge kilden har overrasket kommunen, siden tilbuddet åbnede i foråret 2025.\n\nI dag er ventetiden 17 dage fra henvisning til visitationssamtale og yderligere 44 dage til en afklarende samtale og undersøgelse. Fremover skal kvinder tilbydes en første samtale efter højst 7 dage og en undersøgelse senest 3 uger senere. Kan kommunen ikke overholde garantien, får kvinden tilbudt et forløb hos en privat leverandør. Første samtale varetages af gynækologisk obstetriske fysioterapeuter, som giver rådgivning og vejledning i øvelser, kvinden kan gå i gang med derhjemme.\n\nPartierne bag aftalen har afsat knap 12,5 mio. kroner over de næste fire år. Beløbet kommer oven i knap 19 mio. kroner fra tidligere budgetaftaler. Kommunen kan i år hjælpe omtrent 800 kvinder, og tallet bliver næste år godt 1.000. Fremskrivninger viser et behov for at hjælpe yderligere 500 i 2027, i alt 1.500. Kommunen vil selv stå for 320 af de nye forløb, mens private forventes at tage 180. Kommunen fører løbende tilsyn med samarbejdspartnerne.\n\n”Nu indfører vi Danmarks mest ambitiøse garanti. Efterfødselsgener skal ikke længere være noget, som bliver overset,” siger sundheds- og omsorgsborgmester Jens-Kristian Lütken (V).\n\nAlexander Ryle, gruppeformand for Liberal Alliance i Københavns Borgerrepræsentation, fremhæver muligheden for at vælge en ekstern leverandør: ”Det handler ikke om privat eller offentlig. Det handler om at sætte mennesket før systemet.”\n\nBeslutningen om at arbejde for en ventetidsgaranti blev truffet i forbindelse med Overførselssagen i foråret 2026.",
+  "prompt_tokens": 2977,
+  "completion_tokens": 788,
+  "latency_ms": 5236,
+  "cost_usd": 0.013834,
+  "created": "2026-11-10T07:16:55.123543Z",
+  "error": null
+}

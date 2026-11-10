@@ -1,0 +1,21 @@
+{
+  "model_id": "anthropic-frontier",
+  "pinned_version": "claude-fable-5-1",
+  "task_id": "t6_lydmanus",
+  "source_id": "fm-2026-ok26-statens-overenskomst",
+  "archetype": "lynposten",
+  "prompt_sha256": "f036cdaf303d213d4500aaadbb91e6d285e45cd04ed3a937aec59b79b4c14416",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 3620,
+    "reasoning_effort": "low"
+  },
+  "text": "Omkring to hundrede tusind statsansatte får nu en ny overenskomst. Finansministeren, Centralorganisationernes Fællesudvalg og Akademikerne har indgået et treårigt forlig. Rammen er otte komma syv procent over tre år. De første lønstigninger kommer allerede i foråret.\n\nForsvarets militært ansatte får et ekstra lønløft. Parterne afsætter to hundrede femoghalvfjerds millioner kroner til at rekruttere og fastholde soldater. De grupper, der får mindst i dag, skal have den største relative stigning. Det siger finansminister Nicolai Wammen.\n\nDer bliver også to hundrede halvtreds millioner kroner til lokal løn. Erhvervsskolelærerne får tyve millioner kroner.\n\nBørnefamilier får fri med løn på barnets tredje sygedag. Lønretten under barsel forbedres, og deleorlov får to ugers ekstra lønret. Der kommer desuden en fritvalgskonto og to ekstra seniordage uden løn.\n\nForliget skal til afstemning hos de faglige organisationer. Bliver det vedtaget, gælder det fra første april 2026.",
+  "prompt_tokens": 2065,
+  "completion_tokens": 413,
+  "latency_ms": 5235,
+  "cost_usd": 0.0413,
+  "created": "2026-11-10T07:27:22.002165Z",
+  "error": null
+}

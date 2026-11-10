@@ -1,0 +1,21 @@
+{
+  "model_id": "anthropic-mid",
+  "pinned_version": "claude-sonnet-5-5",
+  "task_id": "t4_versionering",
+  "source_id": "ombudsmanden-2026-koebenhavn-laerer-ytringsfrihed",
+  "archetype": "lynposten",
+  "prompt_sha256": "bdf76e3eca15dd4220b93de650318b1b00bb3e9370b18debb742986f26ad934b",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 4025,
+    "reasoning_effort": "low"
+  },
+  "text": "Ombudsmanden har kritiseret Københavns Kommune for at indkalde en folkeskolelærer til en tilrettevisningssamtale, efter at hun havde givet interview til en avis. Kommunen handlede ikke med respekt for hendes ytringsfrihed, konkluderer han.\n\nInterviewet handlede om voldelig elevadfærd på den skole, hvor hun tidligere var ansat. Avisartiklen havde overskriften \"Lærer fik hjernerystelse og blå mærker efter slag: 'Som at være i en krigszone'\".\n\nUnder samtalen fik hun en tilrettevisning. Hun blev også opfordret til at holde lav profil over for pressen. Kommunen kalder selv opfordringen yderst beklagelig. Det er ombudsmanden enig i.\n\nKommunen siger, at udtalelserne ikke var årsagen til samtalen. Det var et pressefoto, som hun ikke havde fået tilladelse til at tage. Ombudsmanden mener alligevel, at forløbet helt berettiget kunne opfattes som en negativ reaktion på hendes udtalelser. Han peger på, at hun på forhånd havde orienteret sin skoleleder om interviewet. Skolelederen spurgte ikke til fotos og vejledte ikke om dem, så vidt det er oplyst.\n\n\"I denne sag fortalte en lærer om sine egne erfaringer som lærer\", siger Christian Britten Lundblad, Folketingets Ombudsmand. Udtalelserne ligger efter hans opfattelse i kerneområdet for offentligt ansattes ytringsfrihed.\n\nOmbudsmanden kalder det også meget uheldigt, at kommunens pressemedarbejdere kontaktede flere medier om lærerens udtalelser.\n\nHan henstiller, at kommunen genoptager sagen. Kommunen har tre måneder til at fortælle ham, hvad henstillingen giver anledning til.\n\nSiden 1. juli 2025 er offentligt ansattes ytringsfrihed lovfæstet.",
+  "prompt_tokens": 2753,
+  "completion_tokens": 712,
+  "latency_ms": 4944,
+  "cost_usd": 0.012626,
+  "created": "2026-11-10T07:17:03.428533Z",
+  "error": null
+}

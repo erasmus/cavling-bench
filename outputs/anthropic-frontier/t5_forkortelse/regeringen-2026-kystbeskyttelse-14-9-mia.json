@@ -1,0 +1,21 @@
+{
+  "model_id": "anthropic-frontier",
+  "pinned_version": "claude-fable-5-1",
+  "task_id": "t5_forkortelse",
+  "source_id": "regeringen-2026-kystbeskyttelse-14-9-mia",
+  "archetype": null,
+  "prompt_sha256": "75b8cbd6f672acb86df3c2aa363321aa05285591de974f17f682266da8393e67",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 3860,
+    "reasoning_effort": "low"
+  },
+  "text": "Regeringen afsætter med Klimatilpasningsplan II 14,9 mia. kroner til en national investeringsplan for kystbeskyttelse, der skal hjælpe kommunerne med at sikre Danmarks kyster mod hyppigere stormfloder og vildere vejr. Stormfloder, der i dag forventes hvert 100. år, vil i år 2100 komme hvert tredje år, men investeringer og anlæg går for langsomt.\n\n1 mio. danskere bor under en kilometer fra kysten, og op mod 100.000 husstande og virksomheder med 175.000 arbejdspladser risikerer oversvømmelser fra havet uden store investeringer.\n\nKommunerne er fortsat ansvarlige for gennemførelsen, men staten vil fjerne barrierer og medfinansiere 85 procent af anlægsinvesteringerne. Sammen med accelerationspakken for kystbeskyttelse, Finansloven 2026 og kommunale bidrag på 15 procent giver det mulighed for investeringer på op mod 20 mia. kroner frem mod 2040.\n\nDer skal tages stilling til, hvor stor en andel af de statslige udgifter lodsejerne efterfølgende skal opkræves. En ekspertgruppe skal anbefale en model for fordeling af et muligt finansieringsbidrag mellem lodsejere. Desuden vil regeringen udvide dispensationsmulighederne, så kommunerne kan vægte klimatilpasning højere over for naturhensyn.\n\nMiljøministeren indkalder Folketingets partier til drøftelser om en politisk aftale.\n\nMiljøminister Magnus Heunicke siger, at det nu bliver et fælles ansvar at beskytte Danmark mod stormfloder med diger, højvandmure og sluser. Klima-, energi- og forsyningsminister Lars Aagard kalder planen en solid håndsrækning til de mest udsatte områder, og minister for byer og landdistrikter Morten Dahlin betegner den som et vigtigt skridt mod mere tryghed.",
+  "prompt_tokens": 2085,
+  "completion_tokens": 716,
+  "latency_ms": 8379,
+  "cost_usd": 0.05665,
+  "created": "2026-11-10T07:26:52.027077Z",
+  "error": null
+}

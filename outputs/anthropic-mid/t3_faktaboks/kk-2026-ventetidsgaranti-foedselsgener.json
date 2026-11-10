@@ -1,0 +1,21 @@
+{
+  "model_id": "anthropic-mid",
+  "pinned_version": "claude-sonnet-5-5",
+  "task_id": "t3_faktaboks",
+  "source_id": "kk-2026-ventetidsgaranti-foedselsgener",
+  "archetype": null,
+  "prompt_sha256": "a5f913e65424e2a73c2a1f09edfe75655a544d2262f87258d25a7c2bf01aae33",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 3575,
+    "reasoning_effort": "low"
+  },
+  "text": "- Ventetiden er i dag 17 dage fra henvisning til visitationssamtale og yderligere 44 dage til afklarende samtale og undersøgelse.\n- Fremover skal kvinder tilbydes første samtale efter maksimalt 7 dage og en undersøgelse senest 3 uger senere.\n- Kan kommunen ikke overholde garantien, bliver kvinder tilbudt et forløb hos en privat leverandør.\n- Partierne bag budgetaftalen har afsat knap 12,5 mio. kroner til at styrke efterfødselshjælpen over de næste fire år.\n- Af 500 nye forløb i 2027 vil kommunen selv stå for 320, mens private leverandører forventes at varetage 180.",
+  "prompt_tokens": 2545,
+  "completion_tokens": 257,
+  "latency_ms": 1831,
+  "cost_usd": 0.00766,
+  "created": "2026-11-10T07:15:50.208103Z",
+  "error": null
+}

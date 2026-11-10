@@ -1,0 +1,21 @@
+{
+  "model_id": "anthropic-frontier",
+  "pinned_version": "claude-fable-5-1",
+  "task_id": "t2_rubrik",
+  "source_id": "kk-2026-vandkulturhus-papiroeen",
+  "archetype": "erhvervsnyt",
+  "prompt_sha256": "61e34a14373891573f081726faac67bc26a84c7c9973c99a8de084cecbc7d947",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 3400,
+    "reasoning_effort": "low"
+  },
+  "text": "RUBRIK: Nordea-fonden lægger 546 mio. kr. i nyt vandkulturhus i København\nUNDERRUBRIK: KAI på Papirøen åbner 5. december 2026 med 10 bassiner på 5.800 m2. 25 mio. kr. af støtten er øremærket bæredygtighedstiltag som jordvarme.",
+  "prompt_tokens": 3502,
+  "completion_tokens": 127,
+  "latency_ms": 2126,
+  "cost_usd": 0.04137,
+  "created": "2026-11-10T07:20:29.936351Z",
+  "error": null
+}

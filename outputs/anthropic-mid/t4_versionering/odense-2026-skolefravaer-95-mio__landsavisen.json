@@ -1,0 +1,21 @@
+{
+  "model_id": "anthropic-mid",
+  "pinned_version": "claude-sonnet-5-5",
+  "task_id": "t4_versionering",
+  "source_id": "odense-2026-skolefravaer-95-mio",
+  "archetype": "landsavisen",
+  "prompt_sha256": "9e1349cb086717422d3a93b820f2dc5977988d66ba6abe0a4aef7ff1efe0db6d",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 4025,
+    "reasoning_effort": "low"
+  },
+  "text": "Børn- og Ungeudvalget i Odense Kommune har besluttet at udvide indsatsen mod ufrivilligt skolefravær. Kommunen afsætter 9,5 millioner kroner om året, så flere børn og unge kan komme tilbage i skole, og så familier lettere kan få hjælp. Beslutningen er et svar på, at knap hver femte elev i Odense har et bekymrende fravær på mere end 10 procent.\n\nPengene blev afsat med budgetaftalen for 2026. I starten af 2027 åbner kommunen en fraværslinje, hvor forældre kan få råd og vejledning. Familier, hvor fraværet har særligt bekymrende karakter, kan desuden få tilbudt en fast tovholder, som skal skabe overblik og hjælpe med at koordinere mellem de aktører, der er omkring familien og barnets forløb.\n\nIndsatsen på skolerne bliver også styrket. Skolerne får flere ressourcer og flere muligheder for at sætte tiltag i gang i barnets hverdag i klassen, blandt andet gennem mere støtte og udvikling af kompetencer. Medarbejdere, der hjælper børn og unge med komplekse fraværsudfordringer, får flere timer. Kommunen skal også opspore børn med bekymrende fravær tidligere.\n\nIfølge kommunen gemmer der sig ofte mistrivsel eller andre udfordringer bag fraværet. Indsatsen retter sig mod børn og unge, hvor det er tilfældet.\n\n– Det er afgørende, at der bliver sat ind tidligere, også i de mest komplekse sager. Jeg er glad for, at vi nu styrker indsatsen, så hjælpen tager udgangspunkt i familiens behov og kommer tidligere, før problemerne vokser sig større, siger Brian Dybro (SF), børn- og ungerådmand.\n\nKristian Fahnøe Munksgaard, udviklingschef i Familie- og Forebyggelsesafdelingen, peger på kommunens erfaringer:\n\n– Vi har set positive resultater af vores tværfaglige samarbejde. Med de nye tiltag får vi endnu bedre muligheder for at sætte tidligere ind og skabe en mere koordineret støtte omkring barnet og familien.",
+  "prompt_tokens": 2519,
+  "completion_tokens": 798,
+  "latency_ms": 5210,
+  "cost_usd": 0.013018,
+  "created": "2026-11-10T07:17:02.643772Z",
+  "error": null
+}

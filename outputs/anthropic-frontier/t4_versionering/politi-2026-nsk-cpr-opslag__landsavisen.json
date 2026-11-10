@@ -1,0 +1,21 @@
+{
+  "model_id": "anthropic-frontier",
+  "pinned_version": "claude-fable-5-1",
+  "task_id": "t4_versionering",
+  "source_id": "politi-2026-nsk-cpr-opslag",
+  "archetype": "landsavisen",
+  "prompt_sha256": "71921153734ca9c057ce893dee898e716a054598571b57e27fa9f317e2e108d7",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 4025,
+    "reasoning_effort": "low"
+  },
+  "text": "En 27-årig mand fra Storkøbenhavn er onsdag ved Københavns Byret idømt fængsel i 3 år og 6 måneder for at muliggøre personfarlig kriminalitet gennem opslag i CPR-registret. Dommen er resultatet af en efterforskning ved National enhed for Særlig Kriminalitet (NSK), og ifølge anklagemyndigheden findes der ikke lignende retspraksis fra tidligere straffesager.\n\nRetten fandt det bevist, at manden fra juni 2023 til juli 2024 misbrugte sin stilling som studentermedhjælper på Københavns Kommunes vielseskontor. Stillingen gav ham adgang til Det Centrale Personregister (CPR) og dermed til oplysninger om blandt andet bopælsadresser og familienetværk på konkrete personer. Disse oplysninger solgte han til medgerningsmænd i det kriminelle miljø.\n\nVed at videregive oplysningerne medvirkede han ifølge retten til 34 tilfælde af forsøg på grov vold. Han blev desuden dømt for at have misbrugt sin offentligt betroede stilling ved de uberettigede opslag og for uberettiget at have videregivet oplysningerne mod betaling.\n\nDet centrale i sagen er, at den dømte ikke selv deltog i planlægningen af volden. Anklager i NSK, Tine Graakjær, siger:\n\n”Det er en særlig sag, som vi ikke har lignende retspraksis på fra tidligere straffesager. Den dømte har ikke direkte været med til at planlægge konkret personfarlig kriminalitet, men retten har fundet bevist, at han måtte have indset, at de solgte personfølsomme oplysninger skulle bruges til at begå personfarlig kriminalitet, og derfor er han fundet skyldig i medvirken til dette, og det er jeg godt tilfreds med.”\n\nSpecialanklager i NSK, Rikke Holm Schønsted, kalder forholdet alvorligt og udtrykker tilfredshed med, at retten har vurderet, at salget af oplysningerne kan straffes som medvirken til forsøg på personfarlig kriminalitet.\n\nDen 27-årige tog betænkningstid med hensyn til, om han vil anke dommen.",
+  "prompt_tokens": 2224,
+  "completion_tokens": 796,
+  "latency_ms": 9107,
+  "cost_usd": 0.06204,
+  "created": "2026-11-10T07:24:28.001828Z",
+  "error": null
+}

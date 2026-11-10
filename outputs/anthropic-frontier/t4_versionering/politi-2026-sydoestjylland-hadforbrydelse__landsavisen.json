@@ -1,0 +1,21 @@
+{
+  "model_id": "anthropic-frontier",
+  "pinned_version": "claude-fable-5-1",
+  "task_id": "t4_versionering",
+  "source_id": "politi-2026-sydoestjylland-hadforbrydelse",
+  "archetype": "landsavisen",
+  "prompt_sha256": "08d963b556a00c1ca6a68eba77dc21c44ae425fafda8fa5d0e9b98dc5d49543d",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 4025,
+    "reasoning_effort": "low"
+  },
+  "text": "Retten i Horsens har i dag idømt tre unge mænd på 18, 18 og 17 år fængselsstraffe for flere voldsepisoder begået i Horsens i januar 2026 samt for overtrædelse af våbenlovgivningen. Den alvorligste del af sagen er et overfald på to kvinder, som retten vurderede var en hadforbrydelse.\n\nOverfaldet fandt sted den 17. januar 2026 omkring klokken 02.10 ved banegården i Horsens. Her råbte den ene 18-årige og den 17-årige skældsord efter de to kvinder vedrørende deres seksuelle orientering, hvorefter de slog dem flere gange i og omkring hovedet med en totenschlæger og eksponerede dem for peberspray. Retten fandt, at volden helt eller delvist var begrundet i kvindernes seksuelle orientering, og dømte derfor de to for grov vold begået som hadforbrydelse.\n\nDen samme 18-årige blev desuden dømt for vold mod en mand på en bar i Horsens den 4. januar 2026, og sammen med den anden 18-årige for vold og trusler med kniv ved et overfald på en mand i Vitus Beringsparken den 2. januar 2026. Begge de dømte i hadforbrydelsen blev også dømt for ulovlig besiddelse af peberspray, og den 17-årige tillige for besiddelse af en totenschlæger.\n\nDen 18-årige, der blev kendt skyldig i hadforbrydelsen, fik et år og tre måneders fængsel, et opholdsforbud i nattelivet i seks måneder og udvisning af Danmark med indrejseforbud i seks år. Han blev fængslet efter dommen. Den 17-årige blev idømt ti måneders fængsel, mens den anden 18-årige fik tre måneders fængsel og en advarsel om udvisning.\n\n»Dommen i dag understreger blandt andet, at man som borger ikke skal diskrimineres eller udsættes for vold på baggrund af sin seksuelle orientering, kønsidentitet, kønsudtryk eller lignede,« udtaler Thomas Vestergaard, anklagerfuldmægtig i anklagemyndigheden ved Sydøstjyllands Politi.\n\nManden med den korteste straf modtog dommen, mens de to andre udbad sig betænkningstid.",
+  "prompt_tokens": 1793,
+  "completion_tokens": 821,
+  "latency_ms": 9972,
+  "cost_usd": 0.05898,
+  "created": "2026-11-10T07:24:44.721578Z",
+  "error": null
+}

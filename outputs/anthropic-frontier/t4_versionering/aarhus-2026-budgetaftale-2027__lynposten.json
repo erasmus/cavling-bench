@@ -1,0 +1,21 @@
+{
+  "model_id": "anthropic-frontier",
+  "pinned_version": "claude-fable-5-1",
+  "task_id": "t4_versionering",
+  "source_id": "aarhus-2026-budgetaftale-2027",
+  "archetype": "lynposten",
+  "prompt_sha256": "306ecf62925ce6f724630a2ec620f633bc63805c27255f29a52f29291beee9c6",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 4025,
+    "reasoning_effort": "low"
+  },
+  "text": "Et enigt Aarhus Byråd har indgået en budgetaftale for 2027. Aftalen gælder de kommende fire år. Den blev indgået torsdag den 17. september.\n\nSocialområdet får et årligt løft på 138 millioner kroner. Pengene kommer fra en solidarisk \"socialprocent\" på tværs af afdelinger og ekstra tildelinger. Udgifterne på området er under betydeligt pres. Løftet skal holde hånden under kommunens mest udsatte borgere.\n\nPartierne afsætter i alt 197 millioner kroner årligt til drift. Hertil kommer 810 millioner kroner til anlæg. Anlægspengene går blandt andet til bedre fremkommelighed for busser og cyklister. Målet er mindre trængsel i trafikken.\n\nVelfærden løftes samlet med omkring 2 milliarder kroner over budgetperioden. Det følger af kommunens budgetmodeller. Dertil kommer knap 500 millioner kroner til blandt andet flere pædagoger og lavere forældrebetaling i dagtilbud. De penge kommer fra nationale aftaler.\n\nKommuneskatten holdes i ro.\n\nAftalen prioriterer også flere fagprofessionelle i folkeskolen, indsatser for demente ældre og tidligere anbragte børn samt bedre og billigere kollektiv trafik. Erhvervslivet får styrkede vilkår og nemmere erhvervsparkering i byen.\n\nFra 2028 indføres et nyt velfærdsbidrag. Det skal frigøre penge til nye velfærdsløsninger, for eksempel nye arbejdsgange eller teknologi. Partierne vil samtidig skære i administrationen.\n\n\"Et godt budget skal kunne mærkes i aarhusianernes hverdag,\" siger borgmester Anders Winnerskjold.\n\n\"Vi skal bruge færre kræfter på administration og være mere effektive, så vi kan frigøre ressourcer til det, borgerne kan mærke,\" siger han.\n\nBorgmesteren erkender, at der er grænser. \"Vi kan ikke gennemføre alle gode ønsker på én gang, men med forliget har vi taget et solidt skridt fremad,\" siger han.\n\nBag aftalen står Socialdemokratiet, SF, Venstre, Enhedslisten, Det Konservative Folkeparti, Radikale Venstre, Liberal Alliance, Danmarksdemokraterne og Dansk Folkeparti.",
+  "prompt_tokens": 2238,
+  "completion_tokens": 865,
+  "latency_ms": 9324,
+  "cost_usd": 0.06563,
+  "created": "2026-11-10T07:21:55.357178Z",
+  "error": null
+}

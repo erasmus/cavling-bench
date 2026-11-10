@@ -1,0 +1,21 @@
+{
+  "model_id": "anthropic-mid",
+  "pinned_version": "claude-sonnet-5-5",
+  "task_id": "t5_forkortelse",
+  "source_id": "fm-2026-ok26-statens-overenskomst",
+  "archetype": null,
+  "prompt_sha256": "0f78d9fb9657cbd7d7b63d9085d5a93dd8bfff3a6ff747c951b0ef131cce5d39",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 3860,
+    "reasoning_effort": "low"
+  },
+  "text": "Finansministeren har sammen med Centralorganisationernes Fællesudvalg (CFU) og Akademikerne indgået et treårigt overenskomstforlig for de omkring 200.000 medarbejdere i staten. Forliget har en økonomisk ramme på 8,7 pct. over tre år, og de første lønstigninger sker allerede i foråret.\n\nParterne har prioriteret 275 mio. kr. af rammen til rekruttering og fastholdelse af Forsvarets militært ansatte. Den konkrete udmøntning aftales efterfølgende med organisationerne på forsvarsområdet. Desuden afsættes 250 mio. kr. mere til lokal løn og 20 mio. kr. til et lønløft til erhvervsskolelærerne.\n\nDer etableres en fritvalgskonto, hvor den ansatte kan vælge mellem løn, pension og frihed. Ordningen omfatter også en fritvalgsdag for udvalgte personalegrupper og to ekstra seniordage. Dagene er uden løn, men medarbejderen kan få et beløb fra sin Fritvalgs Lønkonto.\n\nBørnefamilier får mulighed for fri med løn på hjemkaldelsesdagen og på barnets tredje sygedag. Lønretten under barselsorlov forbedres, så den tilgodeser flere grupper, herunder aleneforældre, sociale forældre og nærtstående. Lønretten til deleorlov øges med to uger.\n\nFinansminister Nicolai Wammen siger, at det er afgørende, at det fortsat er attraktivt at arbejde i staten. Han peger på, at Danmark har behov for store investeringer i forsvar og sikkerhed. Lønløftet til de militært ansatte prioriterer de grupper, der nu får mindst, så de oplever den største relative stigning ud over de generelle lønstigninger.\n\nResultatet sendes til afstemning hos de faglige organisationer og gælder, hvis det tiltrædes, fra 1. april 2026 til 31. marts 2029.",
+  "prompt_tokens": 1564,
+  "completion_tokens": 707,
+  "latency_ms": 4392,
+  "cost_usd": 0.010198,
+  "created": "2026-11-10T07:17:48.513672Z",
+  "error": null
+}

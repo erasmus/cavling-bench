@@ -1,0 +1,21 @@
+{
+  "model_id": "anthropic-mid",
+  "pinned_version": "claude-sonnet-5-5",
+  "task_id": "t5_forkortelse",
+  "source_id": "finanstilsynet-2026-danske-bank-boliglaansinspektion",
+  "archetype": null,
+  "prompt_sha256": "76b6e52d39fe9f9359455776dd358ce647706203b649432b7ab7fc15309af3de",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 3860,
+    "reasoning_effort": "low"
+  },
+  "text": "Finanstilsynet har inspiceret Danske Banks boliglån for at vurdere bankens risikoappetit ved finansiering af privatkunders køb af ejerboliger og om lånene bevilges på et korrekt, dokumenteret og betryggende grundlag. Stikprøven bestod af 58 bevillinger til kunder med gældsfaktor over 3,5, belåningsgrad over 60 pct. og et engagement over 200.000 kr.\n\nDanske Bank har en højere andel af bevillinger med høj gældsfaktor og høj belåningsgrad end de øvrige institutter i temaundersøgelsen. Bankens data vedrører dog en senere periode, og udviklingen på boligmarkedet kan have påvirket tallene. Det ændrer ikke ved, at en høj andel af lånene gik til kunder med forhøjet følsomhed, hvilket stiller større krav til kreditvurdering, dokumentation og kontrol.\n\nFinanstilsynet vurderer, at 4 af de 58 bevillinger ikke burde have været givet. Banken havde ikke tilstrækkeligt analyseret og dokumenteret risici som høj gældsætning, høj belåning, store fald i rådighedsbeløb, usikker indkomst, begrænset likvid buffer og behov for forbrugstilpasning.\n\nFor en særskilt gruppe kunder, som banken anser for særlig robuste, bruger den en forenklet kreditproces. Her blev der fundet væsentlige fejl i 6 af 23 sager (26 pct.); 1 sag burde ikke have været bevilget. Det reelle fejlniveau er højere. For øvrige kunder var der væsentlige fejl i 13 af 35 sager (37 pct.), og 3 sager burde ikke have været bevilget.\n\nEt af bankens kreditindstillingsformater er svagt på gennemsigtighed.\n\nBanken har fået påbud om at sikre et korrekt, dokumenteret bevillingsgrundlag. Solvensbehovet ændres ikke.",
+  "prompt_tokens": 2173,
+  "completion_tokens": 703,
+  "latency_ms": 4755,
+  "cost_usd": 0.011376,
+  "created": "2026-11-10T07:17:44.411401Z",
+  "error": null
+}

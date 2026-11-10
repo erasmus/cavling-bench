@@ -1,0 +1,21 @@
+{
+  "model_id": "anthropic-mid",
+  "pinned_version": "claude-sonnet-5-5",
+  "task_id": "t2_rubrik",
+  "source_id": "dst-2026-ledighed-september",
+  "archetype": "lynposten",
+  "prompt_sha256": "111d3a7a9b23d4d506aebecadfdbcab1df114a83ba27dfa7441a63b7de6b9b50",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 3400,
+    "reasoning_effort": "low"
+  },
+  "text": "RUBRIK: Ledigheden falder med 200 til 93.600 i september\nUNDERRUBRIK: Ledighedsprocenten er uændret på 3,1. Der er 500 færre aktiverede ledige, mens 300 flere er ikke-aktiverede. Højest er den blandt 25-29-årige med 5,0 pct.",
+  "prompt_tokens": 1852,
+  "completion_tokens": 120,
+  "latency_ms": 1641,
+  "cost_usd": 0.004904,
+  "created": "2026-11-10T07:15:00.931992Z",
+  "error": null
+}

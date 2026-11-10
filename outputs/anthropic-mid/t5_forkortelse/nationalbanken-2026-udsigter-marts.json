@@ -1,0 +1,21 @@
+{
+  "model_id": "anthropic-mid",
+  "pinned_version": "claude-sonnet-5-5",
+  "task_id": "t5_forkortelse",
+  "source_id": "nationalbanken-2026-udsigter-marts",
+  "archetype": null,
+  "prompt_sha256": "26c9697f4a3da91108af378dabe74e9ae733e3a41f2d3229e36e135f91b9d341",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 3860,
+    "reasoning_effort": "low"
+  },
+  "text": "Udsigterne for dansk og global økonomi er præget af vedvarende geopolitisk usikkerhed, handelskonflikter og stigende energipriser. Dansk økonomi er dog grundlæggende i god balance med høj beskæftigelse og lav ledighed, vurderer Nationalbanken i sin prognose, der er offentliggjort i dag.\n\nNationalbanken forventer lav inflation de kommende år, men energipriserne som følge af krigen i Mellemøsten udgør en betydelig risiko. ”Trods de nuværende stigninger i energipriserne forventer vi ikke, at vi ser ind i en inflationskrise, som den vi oplevede efter Ruslands invasion af Ukraine,” siger nationalbankdirektør Christian Kettel Thomsen.\n\nInflationen ventes at blive 1,8 pct. i år, 2,0 pct. i 2027 og 1,9 pct. i 2028. I et risikoscenarie, hvor olie- og gasforsyningen fra Den Persiske Golf begrænses, og priserne ligger betydeligt og langvarigt over de nuværende markedspriser, kan inflationen i år ende på 4,5 pct.\n\nNationalbanken har to anbefalinger til finanspolitikken. Der er ifølge Kettel Thomsen kun begrænset ledig kapacitet til at øge produktionen uden at skubbe til lønstigningerne og inflationen. Den nye regering bør derfor i finansloven for 2027 ikke skubbe til efterspørgslen ud over det, der allerede er lagt op til i den tidligere regerings 2035‑plan.\n\nDanmark står over for store udgifter til blandt andet forsvar, klima og den demografiske udvikling. Det permanente løft af forsvarsudgifterne med 75 mia. kr. i forhold til før invasionen betyder, at rummet for yderligere prioriteringer er væsentligt mindre. Den kommende regering bør udvise forsigtighed med at udmønte hele råderummet eller øge det yderligere gennem svækkelser af den strukturelle saldo.\n\nBNP ventes at vokse med 1,8 pct. i år og næste år og 2 pct. i 2028. Kerneinflationen vurderes at være 2,2 pct. i 2026, 2,1 pct. i 2027 og 1,7 pct. i 2028.\n\nNationalbanken har torsdag også udgivet analyser om privatforbruget og om monetære og finansielle tendenser.",
+  "prompt_tokens": 1467,
+  "completion_tokens": 863,
+  "latency_ms": 5001,
+  "cost_usd": 0.011564,
+  "created": "2026-11-10T07:18:01.999722Z",
+  "error": null
+}

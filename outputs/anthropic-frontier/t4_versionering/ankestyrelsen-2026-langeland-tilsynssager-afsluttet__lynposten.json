@@ -1,0 +1,21 @@
+{
+  "model_id": "anthropic-frontier",
+  "pinned_version": "claude-fable-5-1",
+  "task_id": "t4_versionering",
+  "source_id": "ankestyrelsen-2026-langeland-tilsynssager-afsluttet",
+  "archetype": "lynposten",
+  "prompt_sha256": "40292cc14c2dfd5cba61ae7f90985c9126ed2f59530a24959dc6593d6cacd0e3",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 4025,
+    "reasoning_effort": "low"
+  },
+  "text": "295 børnesager er gennemgået på Langeland. Nu lukker Ankestyrelsen to tilsynssager mod kommunen.\n\nDen første sag er fra november 2022. Her fandt tilsynet, at Familieafdelingen havde brudt en række regler. Det gjaldt offentlighedsloven, forvaltningsloven, retssikkerhedsloven og serviceloven.\n\nTilsynet bad kommunen gennemgå alle igangværende og eventuelt afsluttede sager i Familieafdelingen. Kommunen fandt 295 sager, der skulle kigges efter.\n\nForløbet trak ud. Tilsynet havde brug for flere præciseringer af kommunens tilbagemeldinger. Kommunen måtte også ændre sin plan for opfølgningen. I marts 2025 kom slutorienteringen efter en ny gennemgang af en stor del af sagerne.\n\nNu vurderer tilsynet, at sagerne er gennemgået konkret og individuelt. Fejl og mangler er fundet. Der er taget stilling til, om relevante sager skal genoptages.\n\n\"Det er derfor vores vurdering i dag, at kommunen har fulgt op på vores udtalelse fra november 2022 og gennemført de fornødne tiltag i Familieafdelingen\", siger ankechef Hanne Østergaard, Tilsyn og Underretning i Ankestyrelsen.\n\nDen anden sag er fra 2024. Den startede med en henvendelse fra Taskforce på børneområdet. Taskforcen var i gang med et forløb hos Familieafdelingen. Den så bekymrende forhold og satte arbejdet på pause.\n\nTaskforcen består af folk fra Socialstyrelsen og Ankestyrelsen. De hjælper kommuner med at forbedre sagsbehandlingen for udsatte børn og unge.\n\nSagen blev lukket i august sidste år. Tilsynet så ikke grund til en ny tilsynssag. Men det ville følge kommunens tiltag.\n\nLangeland Kommune oplyser, at Familieafdelingen er omorganiseret og opnormeret. Kommunen mener selv, at sagsbehandlingen nu er mere ensartet.\n\nSamarbejdet med taskforcen genoptages. Forløbet varer fra maj 2026 til januar 2028. Resultatet skal rapporteres til politikerne på Langeland.\n\n\"Tilsynet foretager sig derfor ikke mere i sagen\", siger Hanne Østergaard.",
+  "prompt_tokens": 2290,
+  "completion_tokens": 868,
+  "latency_ms": 10824,
+  "cost_usd": 0.0663,
+  "created": "2026-11-10T07:22:06.132037Z",
+  "error": null
+}

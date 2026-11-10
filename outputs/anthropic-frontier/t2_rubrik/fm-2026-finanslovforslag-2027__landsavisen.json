@@ -1,0 +1,21 @@
+{
+  "model_id": "anthropic-frontier",
+  "pinned_version": "claude-fable-5-1",
+  "task_id": "t2_rubrik",
+  "source_id": "fm-2026-finanslovforslag-2027",
+  "archetype": "landsavisen",
+  "prompt_sha256": "5d5e921643f66a175b7e1f8a6bfa98e59540e426cac2a56a40a76eec71e82319",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 3400,
+    "reasoning_effort": "low"
+  },
+  "text": "RUBRIK: Regeringen fremlægger finanslovforslag for 2027\nUNDERRUBRIK: Forslaget afsætter penge til forsvar, folkeskole, tandpleje og grøn omstilling og giver de fattigste folkepensionister 1.000 kr. mere om måneden efter skat.",
+  "prompt_tokens": 3035,
+  "completion_tokens": 111,
+  "latency_ms": 3219,
+  "cost_usd": 0.0359,
+  "created": "2026-11-10T07:20:10.204614Z",
+  "error": null
+}

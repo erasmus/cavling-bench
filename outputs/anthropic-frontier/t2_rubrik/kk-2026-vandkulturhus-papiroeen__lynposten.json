@@ -1,0 +1,21 @@
+{
+  "model_id": "anthropic-frontier",
+  "pinned_version": "claude-fable-5-1",
+  "task_id": "t2_rubrik",
+  "source_id": "kk-2026-vandkulturhus-papiroeen",
+  "archetype": "lynposten",
+  "prompt_sha256": "393658bd49f57d1ad714ab0312e9916ee830b6d3baac64fe615b793a07e4b882",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 3400,
+    "reasoning_effort": "low"
+  },
+  "text": "RUBRIK: Vandkulturhuset KAI åbner på Papirøen 5. december 2026\nUNDERRUBRIK: 10 bassiner inde og ude, 5.800 kvadratmeter og 546 millioner kroner fra Nordea-fonden. Huset er tegnet af japanske Kengo Kuma & Associates.",
+  "prompt_tokens": 3515,
+  "completion_tokens": 120,
+  "latency_ms": 1783,
+  "cost_usd": 0.04115,
+  "created": "2026-11-10T07:20:28.448644Z",
+  "error": null
+}

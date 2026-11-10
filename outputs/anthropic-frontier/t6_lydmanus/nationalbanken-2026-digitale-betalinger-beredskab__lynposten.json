@@ -1,0 +1,21 @@
+{
+  "model_id": "anthropic-frontier",
+  "pinned_version": "claude-fable-5-1",
+  "task_id": "t6_lydmanus",
+  "source_id": "nationalbanken-2026-digitale-betalinger-beredskab",
+  "archetype": "lynposten",
+  "prompt_sha256": "15ee8c047a8102fff947ff810f56472574e004643290afff35eb7c61c8d925b9",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 3620,
+    "reasoning_effort": "low"
+  },
+  "text": "Ni ud af ti betalinger i Danmark er nu digitale. Det viser to nye analyser fra Nationalbanken. Samtidig lægger flere danskere kontanter til side som beredskab.\n\nKontanter blev brugt til ni procent af betalingerne i fysisk handel i 2025. I 2017 var det treogtyve procent. Wallet-betalinger med mobilen udgør nu hver tredje betaling i butikkerne.\n\nAlligevel har enogfyrre procent af borgerne over tusind kroner i kontanter. I 2023 var det treogtredive procent. Syv ud af ti ser kontanterne som et beredskab.\n\nNationalbankdirektør Ulrik Nødgaard peger på to nedbrud hos Nets i juli 2025 og maj 2026. Her virkede kontanter og straksbetalinger som alternativ til kort.\n\nNationalbanken anbefaler mindst to betalingskort fra forskellige mærker i husstanden. Desuden kontanter til cirka to hundrede halvtreds kroner per person. Og en mobilløsning til kontooverførsler, for eksempel MobilePay.",
+  "prompt_tokens": 2856,
+  "completion_tokens": 394,
+  "latency_ms": 6398,
+  "cost_usd": 0.04826,
+  "created": "2026-11-10T07:27:36.946694Z",
+  "error": null
+}

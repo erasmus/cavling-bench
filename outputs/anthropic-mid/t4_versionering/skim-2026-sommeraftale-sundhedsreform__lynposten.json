@@ -1,0 +1,21 @@
+{
+  "model_id": "anthropic-mid",
+  "pinned_version": "claude-sonnet-5-5",
+  "task_id": "t4_versionering",
+  "source_id": "skim-2026-sommeraftale-sundhedsreform",
+  "archetype": "lynposten",
+  "prompt_sha256": "c995fdf250e9fc959a57c59c1e5f3ff6fed7a61839a13b1c520f57fec2b1623d",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 4025,
+    "reasoning_effort": "low"
+  },
+  "text": "Regeringen, Danske Regioner og KL har indgået en sommeraftale om sundhedsreformen. Aftalen giver sundhedsvæsenet knap 800 mio. kr. i 2027. Fra 2030 stiger bevillingen til op til 1,1 mia. kr. om året. Beløbene er opgjort i 2025-pl niveau.\n\nPatienterne mærker de første forbedringer fra 2027. Mennesker med KOL og kroniske lænderygsmerter får de første kronikerpakker. De får ret til en behandlingsplan. De skal også tilbydes forebyggelsestilbud inden for 21 dage efter henvisning fra egen læge. Senere følger type 2-diabetes, hjertesygdom og kompleks multisygdom.\n\nSygehuslægen får behandlingsansvaret i 96 timer efter udskrivelse. Det gælder ældre medicinske patienter fra akutmodtagelsen og visse psykiatriske patienter.\n\nDer kommer også nyt til sundheds- og omsorgspladserne. Ophold er uden egenbetaling. Borgerne får frit valg og ret til befordring, som ved sygehusbehandling.\n\nDer afsættes 128 mio. kr. i 2027 til at nedbringe ventetider hos praktiserende speciallæger.\n\nLoftet over speciallægestillinger på hospitaler i de store byer fortsætter. Det gælder ikke læger over 67 år.\n\n\"Med aftalen tager vi nogle store skridt videre med sundhedsreformen,\" siger sundhedsminister Ida Auken.\n\nMads Duedahl, formand for Danske Regioner, siger: \"Sundhedsreformen bliver først en succes, når patienterne mærker den i deres hverdag.\"\n\nDorte West, formand for KL's Sundheds- og Ældreudvalg, er glad for, at ordningen med 96 timers behandlingsansvar udvides.\n\nAftalen bakker også op om den første nationale sundhedsplan for 2027-2030.",
+  "prompt_tokens": 3631,
+  "completion_tokens": 696,
+  "latency_ms": 4849,
+  "cost_usd": 0.014222,
+  "created": "2026-11-10T07:17:32.988444Z",
+  "error": null
+}

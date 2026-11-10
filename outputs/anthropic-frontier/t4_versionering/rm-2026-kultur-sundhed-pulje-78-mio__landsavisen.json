@@ -1,0 +1,21 @@
+{
+  "model_id": "anthropic-frontier",
+  "pinned_version": "claude-fable-5-1",
+  "task_id": "t4_versionering",
+  "source_id": "rm-2026-kultur-sundhed-pulje-78-mio",
+  "archetype": "landsavisen",
+  "prompt_sha256": "bbf92e12ecf567c17349b2021c852662b4bc43f657bc390c854fb11f313dffc3",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 4025,
+    "reasoning_effort": "low"
+  },
+  "text": "Region Midtjylland åbner en pulje på 7,8 millioner kroner, som skal omsætte viden om kulturens betydning for sundheden til konkrete tilbud for borgere og patienter i hele regionen. Puljen er en del af regionens indsats for sundhed og kultur, og den følger efter, at regionsrådet i december sidste år præsenterede landets første regionale politik på området.\n\nIfølge regionen viser forskning, at kulturaktiviteter blandt andet kan forebygge sygdom, lindre symptomer, øge trivsel og hjælpe mennesker videre i livet både med og efter sygdom. Puljen skal styrke samarbejdet mellem kultur- og sundhedsaktører, og ambitionen er at skabe bæredygtige samarbejder mellem kulturaktører, kommuner, hospitaler og andre relevante aktører i de fem sundhedsråds geografier.\n\n\"Vi ved, at kulturen kan spille en afgørende rolle for vores sundhed og trivsel, og at de her indsatser kan være med til at styrke kvaliteten af vores sundhedsvæsen. Det viser vores erfaringer de seneste ti år. Med puljen vil vi bygge videre på den viden og sikre, at endnu flere gode indsatser bliver udviklet og når ud til dem, der har brug for dem,\" siger Per Møller Jensen (S), formand for Region Midtjyllands Udvalg for Regional Udvikling.\n\nPuljen efterspørger særligt projekter inden for fire temaer: forebyggelse og trivsel, især blandt børn og unge; lindring af symptomer under behandling eller sygdom; mestring, rehabilitering og recovery ved psykisk eller kronisk sygdom; samt samarbejde mellem midtjyske kommuner og hospitaler eller socialområdet.\n\nDet er kulturaktører, der kan søge, i samarbejde med partnere fra sundhedsområdet. Projekter kan vare op til tre år, der skal søges om mindst 200.000 kroner, og medfinansieringen skal udgøre mindst 25 procent af budgettet. Ansøgningsfristen er den 26. august 2026 klokken 12, og ansøgningerne behandles i november 2026. Regionen holder et fysisk dialogmøde på Godsbanen i Aarhus den 21. maj og et digitalt møde den 2. juni.",
+  "prompt_tokens": 2294,
+  "completion_tokens": 828,
+  "latency_ms": 7977,
+  "cost_usd": 0.06434,
+  "created": "2026-11-10T07:25:07.364684Z",
+  "error": null
+}

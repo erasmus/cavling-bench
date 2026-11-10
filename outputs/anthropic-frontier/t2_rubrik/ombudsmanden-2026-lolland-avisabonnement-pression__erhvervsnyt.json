@@ -1,0 +1,21 @@
+{
+  "model_id": "anthropic-frontier",
+  "pinned_version": "claude-fable-5-1",
+  "task_id": "t2_rubrik",
+  "source_id": "ombudsmanden-2026-lolland-avisabonnement-pression",
+  "archetype": "erhvervsnyt",
+  "prompt_sha256": "acc2db8c95f9902a196500b7bae753ee3c014a7b35ba7d64ef596c04e26dc8b8",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 3400,
+    "reasoning_effort": "low"
+  },
+  "text": "RUBRIK: Ombudsmand: Lolland Kommunes avisopsigelse må ikke være straf\nUNDERRUBRIK: Kommunen opsagde tre abonnementer på Folketidende efter kritisk artikel. Ombudsmanden beder kommunen genoverveje formålet og orientere om resultatet.",
+  "prompt_tokens": 2392,
+  "completion_tokens": 116,
+  "latency_ms": 1555,
+  "cost_usd": 0.02972,
+  "created": "2026-11-10T07:20:40.609515Z",
+  "error": null
+}

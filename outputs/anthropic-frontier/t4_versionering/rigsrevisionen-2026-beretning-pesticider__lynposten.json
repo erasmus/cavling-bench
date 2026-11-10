@@ -1,0 +1,21 @@
+{
+  "model_id": "anthropic-frontier",
+  "pinned_version": "claude-fable-5-1",
+  "task_id": "t4_versionering",
+  "source_id": "rigsrevisionen-2026-beretning-pesticider",
+  "archetype": "lynposten",
+  "prompt_sha256": "fa8289c7fc89431472d872f9035ceeb7499e50af7f2ecfbdab455ff78ef23e88",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 4025,
+    "reasoning_effort": "low"
+  },
+  "text": "7.800 tons af pesticidet glyfosat er købt i Danmark, men aldrig indberettet som brugt. Miljøstyrelsen har ikke undersøgt, hvor stoffet er blevet af. Det viser en ny beretning fra Statsrevisorerne.\n\nStatsrevisorerne behandlede beretningen den 7. september 2026. De kalder Miljøministeriets kontrol med pesticider \"stærkt foruroligende\". Kontrollen er ifølge dem helt utilstrækkelig.\n\nDe 7.800 tons glyfosat er indkøbt siden 2011. Det svarer til knap halvdelen af det samlede indkøb i perioden. Glyfosat udgør cirka 40 procent af alt pesticid, der købes i Danmark. Miljøstyrelsen har vidst siden 2018, at ikke alt forbrug bliver indberettet.\n\nProblemet rammer drikkevandet. I 2025 blev der fundet pesticidrester i over halvdelen af drikkevandsboringerne. Indholdet har været stigende siden 2018. Flere steder må grundvandet fortyndes, før det kan sendes ud til forbrugerne. Det oplyser vandforsyningsselskaberne.\n\nKontrollen bygger næsten kun på virksomhedernes egne oplysninger. Virksomhederne kan selv slette, rette eller udelade oplysninger. Styrelsen tjekker ikke tallene. Ved kontrolbesøg bruger kontrollørerne virksomhedernes egne sprøjtejournaler. Finder en kontrollør en halvtom dunk med ulovlige pesticider, kan det ikke bevise ulovligt brug. Det kræver, at virksomheden selv har skrevet stoffet ned.\n\nFra 2022 til 2025 ledte Miljøstyrelsen kun efter fire slags ulovlige pesticider. Der er forbud mod hundredvis. Virksomheder, der angiver nul forbrug, bliver slet ikke kontrolleret.\n\nStatsrevisorerne kritiserer også, at Miljøstyrelsen har handlet i strid med kemikalieloven. Frem til foråret 2025 undlod styrelsen at kontrollere selvanmeldte overtrædelser. Styrelsen vidste ikke, at den havde pligt til at håndhæve reglerne, når overtrædelsen skete året før.\n\nStyrelsen for Grøn Arealomlægning og Vandmiljø har siden 2020 foreslået et krydstjek af køb, forbrug og lager. Miljøstyrelsen har ikke forholdt sig til forslagene.\n\nKonsekvensen er ifølge Statsrevisorerne, at ulovlige pesticider kan sive ned i grundvandet eller blive siddende i fødevarerne.",
+  "prompt_tokens": 2880,
+  "completion_tokens": 972,
+  "latency_ms": 11932,
+  "cost_usd": 0.0774,
+  "created": "2026-11-10T07:25:02.416947Z",
+  "error": null
+}

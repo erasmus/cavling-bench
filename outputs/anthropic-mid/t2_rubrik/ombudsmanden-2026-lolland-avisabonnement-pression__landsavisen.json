@@ -1,0 +1,21 @@
+{
+  "model_id": "anthropic-mid",
+  "pinned_version": "claude-sonnet-5-5",
+  "task_id": "t2_rubrik",
+  "source_id": "ombudsmanden-2026-lolland-avisabonnement-pression",
+  "archetype": "landsavisen",
+  "prompt_sha256": "90ebd2e4aef2316c57028e5dd3e581247227e0e564335d3eb54c7a2149b713bf",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 3400,
+    "reasoning_effort": "low"
+  },
+  "text": "RUBRIK: Ombudsmand: Kommune må ikke opsige avis som straffeaktion\nUNDERRUBRIK: Efter Lolland Kommunes opsigelse af tre abonnementer på Folketidende beder ombudsmanden kommunen overveje, om politikeres udtalelser ændrer synet på formålet.",
+  "prompt_tokens": 2385,
+  "completion_tokens": 118,
+  "latency_ms": 2042,
+  "cost_usd": 0.00595,
+  "created": "2026-11-10T07:15:26.802685Z",
+  "error": null
+}

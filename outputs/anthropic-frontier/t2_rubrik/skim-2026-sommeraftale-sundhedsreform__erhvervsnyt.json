@@ -1,0 +1,21 @@
+{
+  "model_id": "anthropic-frontier",
+  "pinned_version": "claude-fable-5-1",
+  "task_id": "t2_rubrik",
+  "source_id": "skim-2026-sommeraftale-sundhedsreform",
+  "archetype": "erhvervsnyt",
+  "prompt_sha256": "2ef754538ced5727d0a23ea2f34aee348c849c419d1b8c3e97afbdb113e8b018",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 3400,
+    "reasoning_effort": "low"
+  },
+  "text": "RUBRIK: Sundhedsreform får 800 mio. kr. i 2027 med ny sommeraftale\nUNDERRUBRIK: Regeringen, Danske Regioner og KL enige om kronikerpakker, 96 timers behandlingsansvar og 128 mio. kr. til speciallæger. Bevillingen stiger til 1,1 mia. kr. fra 2030.",
+  "prompt_tokens": 3635,
+  "completion_tokens": 137,
+  "latency_ms": 1922,
+  "cost_usd": 0.0432,
+  "created": "2026-11-10T07:21:09.352097Z",
+  "error": null
+}

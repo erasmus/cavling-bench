@@ -1,0 +1,21 @@
+{
+  "model_id": "anthropic-frontier",
+  "pinned_version": "claude-fable-5-1",
+  "task_id": "t4_versionering",
+  "source_id": "fm-2026-ok26-statens-overenskomst",
+  "archetype": "landsavisen",
+  "prompt_sha256": "216820c5057ccff945439e7341efa9a3c2d2bf61d3d95a380f2097d9ab9865eb",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 4025,
+    "reasoning_effort": "low"
+  },
+  "text": "Finansministeren har sammen med Centralorganisationernes Fællesudvalg (CFU) og Akademikerne indgået et treårigt overenskomstforlig for de omkring 200.000 ansatte i staten. Forliget har en økonomisk ramme på 8,7 procent over de kommende tre år og skal nu til afstemning hos de faglige organisationer. Tiltrædes det, gælder det fra 1. april 2026 til 31. marts 2029.\n\nParterne beskriver forliget som økonomisk ansvarligt og angiver, at det giver en pæn reallønsfremgang for den enkelte medarbejder. De første lønstigninger kommer allerede i foråret.\n\nEt centralt element er et ekstraordinært lønløft til Forsvarets militært ansatte. Parterne afsætter 275 millioner kroner af den samlede ramme til at understøtte rekruttering og fastholdelse, mens den konkrete udmøntning aftales efterfølgende med organisationerne på forsvarsområdet. Desuden prioriteres 250 millioner kroner mere til lokal løn og 20 millioner kroner til et lønløft til erhvervsskolelærerne.\n\nFinansminister Nicolai Wammen henviser til den sikkerhedspolitiske situation som baggrund for prioriteringen:\n\n»Danmark står lige nu i en helt særlig situation, hvor der er behov for store investeringer i vores fælles forsvar og sikkerhed. Derfor er jeg glad for, at vi sammen med aftaleparterne kan prioritere et ekstraordinært lønløft til Forsvarets militært ansatte på 275 mio. kr. og med vægt på, at de grupper, der nu får mindst, kommer til at opleve den største relative stigning – udover de generelle lønstigninger,« siger han.\n\nForliget indfører også en fritvalgskonto, hvor den ansatte kan vælge mellem løn, pension og frihed, samt en fritvalgsdag for udvalgte personalegrupper og to ekstra seniordage. Dagene er uden løn, men medarbejderen kan få et beløb fra sin Fritvalgs Lønkonto.\n\nFor børnefamilier bliver der fri med løn på hjemkaldelsesdagen og barnets tredje sygedag. Lønretten under barsel forbedres for flere grupper, herunder aleneforældre, sociale forældre og nærtstående, og lønretten til deleorlov øges med to uger.",
+  "prompt_tokens": 1996,
+  "completion_tokens": 850,
+  "latency_ms": 10143,
+  "cost_usd": 0.06246,
+  "created": "2026-11-10T07:23:04.315831Z",
+  "error": null
+}

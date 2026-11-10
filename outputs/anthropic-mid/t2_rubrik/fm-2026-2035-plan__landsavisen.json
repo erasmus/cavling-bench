@@ -1,0 +1,21 @@
+{
+  "model_id": "anthropic-mid",
+  "pinned_version": "claude-sonnet-5-5",
+  "task_id": "t2_rubrik",
+  "source_id": "fm-2026-2035-plan",
+  "archetype": "landsavisen",
+  "prompt_sha256": "2a4913aefecd915b90677022004cc47083658907995fbfe257f1fefc78a4e9a4",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 3400,
+    "reasoning_effort": "low"
+  },
+  "text": "RUBRIK: Regeringen vil bruge 3,5 pct. af BNP på forsvar fra 2030\nUNDERRUBRIK: 2035-planen prioriterer forsvar, beredskab, klima og velfærd. Ministrene advarer om, at der bliver mindre plads til andre prioriteringer frem mod 2030.",
+  "prompt_tokens": 3032,
+  "completion_tokens": 119,
+  "latency_ms": 1744,
+  "cost_usd": 0.007254,
+  "created": "2026-11-10T07:15:07.667528Z",
+  "error": null
+}

@@ -1,0 +1,21 @@
+{
+  "model_id": "anthropic-frontier",
+  "pinned_version": "claude-fable-5-1",
+  "task_id": "t4_versionering",
+  "source_id": "ombudsmanden-2026-koebenhavn-laerer-ytringsfrihed",
+  "archetype": "lynposten",
+  "prompt_sha256": "bdf76e3eca15dd4220b93de650318b1b00bb3e9370b18debb742986f26ad934b",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 4025,
+    "reasoning_effort": "low"
+  },
+  "text": "En folkeskolelærer blev kaldt til tilrettevisningssamtale i Københavns Kommune. Det skete, efter at hun havde talt med en avis om vold fra elever. Nu får kommunen kritik af Folketingets Ombudsmand.\n\nLæreren fortalte i et interview om sine oplevelser på den skole, hvor hun tidligere var ansat. Artiklen havde overskriften \"Lærer fik hjernerystelse og blå mærker efter slag: 'Som at være i en krigszone'\". Hun talte også om elevers adfærdsproblemer mere generelt.\n\nUnder samtalen fik hun en tilrettevisning. Hun blev samtidig opfordret til at holde lav profil over for pressen. Kommunen kalder i dag den opfordring yderst beklagelig. Det er ombudsmanden enig i.\n\n\"I denne sag fortalte en lærer om sine egne erfaringer som lærer. Udtalelserne fremstår efter min opfattelse klart som fremsat på egne vegne og må anses at være i kerneområdet for offentligt ansattes ytringsfrihed\", siger Folketingets Ombudsmand, Christian Britten Lundblad.\n\nKommunen forklarer, at samtalen ikke handlede om lærerens udtalelser. Den handlede om et pressefoto, der blev bragt med artiklen. Læreren havde ikke indhentet tilladelse til fotoet.\n\nOmbudsmanden køber ikke den forklaring fuldt ud. Han peger på rammerne for samtalen og referatet fra den. Forløbet har helt berettiget kunnet opfattes som en negativ reaktion på hendes udtalelser.\n\nHan peger også på, at læreren på forhånd orienterede sin skoleleder om interviewet. Skolelederen spurgte efter det oplyste ikke til fotos på skolen.\n\nKommunens pressemedarbejdere kontaktede siden flere medier om lærerens udtalelser. Det kalder ombudsmanden meget uheldigt.\n\nOmbudsmanden mener ikke, at kommunen har rettet op på sagen over for læreren. Hun har ikke fået samlet og korrekt besked om sin situation og sin ret til at udtale sig.\n\nDerfor henstiller han, at Københavns Kommune genoptager sagen. Kommunen skal svare ham inden tre måneder.\n\nOffentligt ansattes ytringsfrihed blev lovfæstet den 1. juli 2025.",
+  "prompt_tokens": 2753,
+  "completion_tokens": 855,
+  "latency_ms": 10401,
+  "cost_usd": 0.07028,
+  "created": "2026-11-10T07:24:10.202171Z",
+  "error": null
+}

@@ -1,0 +1,21 @@
+{
+  "model_id": "anthropic-frontier",
+  "pinned_version": "claude-fable-5-1",
+  "task_id": "t4_versionering",
+  "source_id": "dst-2026-inflation-september",
+  "archetype": "lynposten",
+  "prompt_sha256": "66c478e9b9ddc4272eb2f487930df438b94ae662985f621c1b5f19729a98670d",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 4025,
+    "reasoning_effort": "low"
+  },
+  "text": "Inflationen steg til 2,2 procent i september. Det viser nye tal for forbrugerprisindekset, offentliggjort 12. oktober 2026. I august lå stigningen på 2,0 procent.\n\nDet er især brændstof, der trækker priserne op. Hovedgruppen transport bidrager mest til inflationen i september. Her er det prisstigninger på brændstof, der vejer tungest.\n\nFra august til september var forbrugerprisindekset uændret. Men bag det stabile tal gemmer sig store udsving. Brændstof, tøj og flyrejser trak indekset op med 0,46 procentpoint. Omvendt trak prisfald på leje af sommerhus, pakkerejser og fødevarer indekset ned med 0,72 procentpoint.\n\nKerneinflationen gik den modsatte vej. Den måler priserne uden energi og ikke-forarbejdede fødevarer. Her var årsstigningen 1,9 procent i september mod 2,2 procent i august. Stigningen i september skyldes primært højere husleje.\n\nDanmarks EU-harmoniserede inflation lå på 2,1 procent i september. Den opgøres uden udgifter til ejerboliger, så tallene kan sammenlignes på tværs af lande.\n\nDe europæiske tal for september er endnu ikke klar. De udkommer 16. oktober 2026 hos Eurostat. I august steg den samlede inflation i de 27 EU-lande til 3,2 procent fra 3,0 procent i juli.\n\nSverige havde den laveste inflation i EU i august med 0,3 procent. Derefter fulgte Estland med 1,3 procent og Tjekkiet med 1,5 procent.\n\nI den anden ende lå Rumænien med 6,3 procent. Litauen havde 5,6 procent, og Cypern havde 5,2 procent.\n\nDanmark lå dermed i august under EU-gennemsnittet. Om det også gælder for september, viser Eurostats tal om få dage.",
+  "prompt_tokens": 1757,
+  "completion_tokens": 682,
+  "latency_ms": 9646,
+  "cost_usd": 0.05167,
+  "created": "2026-11-10T07:22:17.448364Z",
+  "error": null
+}

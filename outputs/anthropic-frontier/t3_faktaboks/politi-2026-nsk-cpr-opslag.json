@@ -1,0 +1,21 @@
+{
+  "model_id": "anthropic-frontier",
+  "pinned_version": "claude-fable-5-1",
+  "task_id": "t3_faktaboks",
+  "source_id": "politi-2026-nsk-cpr-opslag",
+  "archetype": null,
+  "prompt_sha256": "79785f44a202bae98094c69df42b88ea18b27dca478ae98f00ee89bbf2f00d3a",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 3575,
+    "reasoning_effort": "low"
+  },
+  "text": "- En 27-årig mand fra Storkøbenhavn er idømt fængsel i 3 år og 6 måneder ved Københavns Byret.\n- Han misbrugte fra juni 2023 til juli 2024 sin stilling som studentermedhjælper i Københavns Kommune.\n- Ved at videregive CPR-oplysninger medvirkede han til 34 tilfælde af forsøg på grov vold.\n- Han havde adgang til oplysninger om bopælsadresser og familienetværk gennem sin stilling på kommunens vielseskontor.\n- Den 27-årige tog betænkningstid i forhold til eventuelt at anke dommen.",
+  "prompt_tokens": 1792,
+  "completion_tokens": 227,
+  "latency_ms": 2790,
+  "cost_usd": 0.02927,
+  "created": "2026-11-10T07:21:40.362863Z",
+  "error": null
+}

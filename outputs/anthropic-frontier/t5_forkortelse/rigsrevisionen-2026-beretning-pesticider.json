@@ -1,0 +1,21 @@
+{
+  "model_id": "anthropic-frontier",
+  "pinned_version": "claude-fable-5-1",
+  "task_id": "t5_forkortelse",
+  "source_id": "rigsrevisionen-2026-beretning-pesticider",
+  "archetype": null,
+  "prompt_sha256": "e945ada437c48fd48e4a97f95830305ae53a42412c9c31ad344815388b8a5cf5",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 3860,
+    "reasoning_effort": "low"
+  },
+  "text": "Den 7. september 2026 behandlede Statsrevisorerne Beretning nr. 23/2025 om kontrol med pesticider og afgav den til Folketinget.\n\nIndholdet af pesticider i danske drikkevandsboringer har været stigende siden 2018. I 2025 blev der fundet pesticidrester i over halvdelen af boringerne, og grundvand må ifølge vandforsyningsselskaberne flere steder fortyndes. Siden 1986 har det været et mål at begrænse brugen. En politisk aftale fra 2022 skulle styrke kontrollen, der blev tilført flere penge i 2022-2026, og i 2025 kom en tillægsaftale.\n\nStatsrevisorerne finder Miljøministeriets kontrol stærkt foruroligende: Den er helt utilstrækkelig, næsten udelukkende baseret på virksomhedernes selvangivelser og ikke på en risikovurdering. Selvoplyste overtrædelser har i en række tilfælde ingen konsekvenser haft. Statsrevisorerne kritiserer, at Miljøstyrelsen i flere tilfælde har forvaltet i strid med kemikalieloven og ikke har kendt lovgrundlaget tilstrækkeligt.\n\nUndersøgelsesresultater: Miljøstyrelsen efterprøver ikke virksomhedernes oplysninger, som kan slettes, rettes eller udelades. Styrelsen har siden 2018 vidst, at ikke alt forbrug indberettes; siden 2011 er 7.800 tons glyfosat – knap halvdelen af indkøbet – ikke indberettet som forbrugt, og styrelsen har ikke undersøgt hvor det er blevet af. Glyfosat udgør ca. 40 % af alt købt pesticid. Virksomheder udvælges ikke efter risiko, trods krav i EU’s kontrolforordning. I 2022-2025 er kun søgt efter 4 slags ulovlige pesticider ud af hundredvis. Kontrolbesøg bygger på sprøjtejournaler, så fund af en halvtom dunk ikke kan påvise ulovligt forbrug. Frem til foråret 2025 blev selvanmeldte overtrædelser ikke kontrolleret, i strid med kemikalieloven, og styrelsen kendte ikke pligten til at håndhæve overtrædelser fra foregående år. Virksomheder uden angivet forbrug er helt undtaget fra kontrol. Styrelsen for Grøn Arealomlægning og Vandmiljø har siden 2020 flere gange foreslået krydstjek af køb, forbrug og lager, uden at Miljøstyrelsen har forholdt sig til det.",
+  "prompt_tokens": 2428,
+  "completion_tokens": 947,
+  "latency_ms": 9921,
+  "cost_usd": 0.07163,
+  "created": "2026-11-10T07:26:57.655097Z",
+  "error": null
+}

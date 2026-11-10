@@ -1,0 +1,21 @@
+{
+  "model_id": "anthropic-frontier",
+  "pinned_version": "claude-fable-5-1",
+  "task_id": "t5_forkortelse",
+  "source_id": "finanstilsynet-2026-danske-bank-boliglaansinspektion",
+  "archetype": null,
+  "prompt_sha256": "76b6e52d39fe9f9359455776dd358ce647706203b649432b7ab7fc15309af3de",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 3860,
+    "reasoning_effort": "low"
+  },
+  "text": "Finanstilsynets inspektion af Danske Bank A/S skulle vurdere bankens risikoappetit ved finansiering af privatkunders køb af ejerboliger, og om banken yder lån på et korrekt, dokumenteret og betryggende bevillingsgrundlag. Stikprøven omfattede 58 bevillinger til kunder med gældsfaktor over 3,5, belåningsgrad over 60 pct. og bankengagement over 200.000 kr. – altså sager med højere risiko end gennemsnittet.\n\nDanske Bank har en højere andel af bevillinger med høj gældsfaktor og høj belåningsgrad end de øvrige institutter i temaundersøgelsen, selv om bankens data vedrører en senere periode. En højere risikoprofil stiller større krav til kreditvurdering, dokumentation og kontrol.\n\nFinanstilsynet vurderer, at 4 ud af 58 bevillinger ikke burde have været bevilget. Banken havde ikke tilstrækkeligt dokumenteret kundernes økonomiske robusthed og gældsserviceringsevne.\n\nBanken har en forenklet kreditproces for en særlig kundegruppe, hvor der var væsentlige fejl i 6 ud af 23 sager (26 pct.), heraf 1 der ikke burde være bevilget. Fejlniveauet undervurderer dog de reelle svagheder, fordi processen ikke vurderer forbrug, opsparingsevne og forbrugstilpasning tilstrækkeligt. For øvrige kunder var der væsentlige fejl i 13 ud af 35 sager (37 pct.), heraf 3 der ikke burde være bevilget.\n\nFinanstilsynet kræver, at den særskilte kreditproces bygger på konkret, dokumenteret vurdering af rådighedsbeløb, opsparingsevne, forbrugstilpasning og samlet robusthed. Et kreditindstillingsformat mangler desuden gennemsigtighed.\n\nDanske Bank har fået påbud om at sikre et korrekt og tilstrækkeligt dokumenteret bevillingsgrundlag. Solvensbehovet ændres ikke.",
+  "prompt_tokens": 2173,
+  "completion_tokens": 755,
+  "latency_ms": 7898,
+  "cost_usd": 0.05948,
+  "created": "2026-11-10T07:25:34.752712Z",
+  "error": null
+}

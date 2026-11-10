@@ -1,0 +1,21 @@
+{
+  "model_id": "anthropic-frontier",
+  "pinned_version": "claude-fable-5-1",
+  "task_id": "t4_versionering",
+  "source_id": "dst-2026-ledighed-september",
+  "archetype": "lynposten",
+  "prompt_sha256": "f70c7c0433207b691c0a46e5f483d9090399e4235b56de4fcf8802de34f3ff71",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 4025,
+    "reasoning_effort": "low"
+  },
+  "text": "93.600 danskere stod uden job i september. Det er 200 færre end i august. Ledighedsprocenten står stadig på 3,1 procent af arbejdsstyrken.\n\nTallene er sæsonkorrigerede og omregnet til fuldtidspersoner. De er afrundet til hele hundreder.\n\nFaldet dækker over to modsatrettede bevægelser. Antallet af aktiverede ledige faldt med 500. Antallet af ikke-aktiverede ledige steg med 300.\n\nBåde dagpenge- og kontanthjælpsmodtagere blev lidt færre. Antallet af ledige på dagpenge faldt med 100 til 78.600. Antallet af ledige på kontanthjælp faldt også med 100 til 15.000.\n\nDe 25-29-årige har det sværest. Deres ledighedsprocent steg med 0,1 procentpoint til 5,0 procent. Det er landets højeste. Modsat faldt ledigheden med 0,1 procentpoint for de 30-39-årige. De 16-24-årige har fortsat den laveste ledighed med 1,6 procent. For de øvrige aldersgrupper var tallet uændret. Mænd og kvinder ligger begge på 3,1 procent.\n\nDer er også forskel på, hvor i landet man bor. I Københavns omegn og i Vestjylland faldt ledighedsprocenten med 0,1 procentpoint. I Byen København og på Bornholm steg den med 0,1 procentpoint. I landets øvrige syv landsdele var tallet uændret.\n\nVestjylland har nu landets laveste ledighed med 2,1 procent. Byen København har fortsat den højeste med 4,0 procent.\n\nTallene for sommeren er samtidig justeret. De sæsonkorrigerede ledighedstal for juni, juli og august er alle nedjusteret med 100 i forhold til seneste offentliggørelse 30. september. Revisioner kan skyldes opdaterede indberetninger for de enkelte måneder. De kan også skyldes selve sæsonkorrektionen. Den justerer hver måned de seneste tal, når det nye faktiske ledighedstal kommer til.",
+  "prompt_tokens": 1835,
+  "completion_tokens": 747,
+  "latency_ms": 10843,
+  "cost_usd": 0.0557,
+  "created": "2026-11-10T07:22:24.673175Z",
+  "error": null
+}

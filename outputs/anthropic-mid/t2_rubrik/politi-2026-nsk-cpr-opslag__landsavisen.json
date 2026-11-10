@@ -1,0 +1,21 @@
+{
+  "model_id": "anthropic-mid",
+  "pinned_version": "claude-sonnet-5-5",
+  "task_id": "t2_rubrik",
+  "source_id": "politi-2026-nsk-cpr-opslag",
+  "archetype": "landsavisen",
+  "prompt_sha256": "cd834d144baa5e59db8ce6e2c16fbbab7d966d00aeceab3f7573330a6aeab93e",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 3400,
+    "reasoning_effort": "low"
+  },
+  "text": "RUBRIK: 27-årig fik 3,5 års fængsel for at sælge CPR-oplysninger\nUNDERRUBRIK: Studentermedhjælper i Københavns Kommune misbrugte sin stilling og medvirkede til 34 forsøg på grov vold. Det er første sag af sin art, siger anklager.",
+  "prompt_tokens": 2241,
+  "completion_tokens": 117,
+  "latency_ms": 2066,
+  "cost_usd": 0.005652,
+  "created": "2026-11-10T07:15:29.020371Z",
+  "error": null
+}

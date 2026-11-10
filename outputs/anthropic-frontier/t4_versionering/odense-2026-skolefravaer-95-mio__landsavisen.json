@@ -1,0 +1,21 @@
+{
+  "model_id": "anthropic-frontier",
+  "pinned_version": "claude-fable-5-1",
+  "task_id": "t4_versionering",
+  "source_id": "odense-2026-skolefravaer-95-mio",
+  "archetype": "landsavisen",
+  "prompt_sha256": "9e1349cb086717422d3a93b820f2dc5977988d66ba6abe0a4aef7ff1efe0db6d",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 4025,
+    "reasoning_effort": "low"
+  },
+  "text": "Børn- og Ungeudvalget i Odense Kommune har besluttet at udvide kommunens indsats mod ufrivilligt skolefravær med nye tiltag. Beslutningen er et svar på, at knap hver femte elev i Odense har et bekymrende skolefravær på mere end 10 procent. Kommunen afsætter 9,5 millioner kroner om året til indsatsen, og pengene blev bevilget med budgetaftalen for 2026.\n\nIfølge kommunen handler de tomme stole i klasselokalerne sjældent om manglende lyst til undervisning. Oftere gemmer der sig mistrivsel eller andre udfordringer bag fraværet, som rammer både barnet, familien og klassefællesskabet.\n\nMidlerne skal blandt andet finansiere en ny fraværslinje, der åbner i starten af 2027, hvor forældre kan få råd og vejledning. Familier, hvor fraværet har særligt bekymrende karakter, kan desuden få tilbudt en fast tovholder, som skal koordinere mellem aktørerne omkring barnet og skabe overblik for familien.\n\nDerudover får skolerne flere ressourcer til at sætte tiltag i gang i barnets hverdag i klassen, og der bliver flere timer til de medarbejdere, der hjælper børn og unge med komplekse fraværsudfordringer. Indsatsen skal også sikre tidligere opsporing og styrke det tværfaglige samarbejde mellem fagpersonerne omkring barnet og familien.\n\n\"Det er katastrofalt, når en elev ikke kommer i skole. Det er det for barnet, det er det for familien, og det er det for klassefællesskabet. Derfor er det afgørende, at der bliver sat ind tidligere, også i de mest komplekse sager,\" siger Brian Dybro, børn- og ungerådmand (SF).\n\nKristian Fahnøe Munksgaard, udviklingschef i Familie- og Forebyggelsesafdelingen, peger på, at der ofte er flere årsager til bekymrende skolefravær, og at hjælpen derfor skal hænge sammen på tværs af fagligheder. \"Vi har set positive resultater af vores tværfaglige samarbejde. Med de nye tiltag får vi endnu bedre muligheder for at sætte tidligere ind og skabe en mere koordineret støtte omkring barnet og familien,\" siger han.",
+  "prompt_tokens": 2519,
+  "completion_tokens": 833,
+  "latency_ms": 8235,
+  "cost_usd": 0.06684,
+  "created": "2026-11-10T07:24:01.611563Z",
+  "error": null
+}

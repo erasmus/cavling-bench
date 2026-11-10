@@ -1,0 +1,21 @@
+{
+  "model_id": "anthropic-frontier",
+  "pinned_version": "claude-fable-5-1",
+  "task_id": "t4_versionering",
+  "source_id": "jm-2026-nyt-ledelseshold-politi",
+  "archetype": "landsavisen",
+  "prompt_sha256": "24a4a4ca78e5c0c9118390b915e6d38fed1489dee13880e62778f027a654ff5b",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 4025,
+    "reasoning_effort": "low"
+  },
+  "text": "Justitsminister Nicolai Wammen har gennemført en omfattende rokade i toppen af dansk politi og anklagemyndighed. Rokaden sker, fordi åremålsansættelserne for en betydelig del af de øverste chefer på Justitsministeriets område udløber, og den skal ifølge ministeriet stille det ledelsesmæssigt stærkeste hold frem mod 2030.\n\nDen mest markante ændring er, at rigspolitichef Thorkild Fogde forlader sin post og bliver politidirektør i Københavns Vestegns Politi. Ny rigspolitichef bliver Lasse Boje Nielsen, der kommer fra stillingen som rigsadvokat. Han har tidligere været politidirektør for National enhed for Særlig Kriminalitet og har desuden erfaring fra Danmarks Fængsler, Justitsministeriet og Beskæftigelsesministeriet. Caroline Østergaard Nielsen, i dag statsadvokat ved Rigsadvokaten, fungerer som rigsadvokat indtil videre.\n\nOgså Politiets Efterretningstjeneste, PET, får ny chef. Rasmus Kieffer-Kristensen overtager posten efter Finn Borch Andersen, som bliver politidirektør i Københavns Politi. Kieffer-Kristensen kommer fra en stilling som ministerråd ved Danmarks Faste Mission ved FN i New York og har tidligere været blandt andet juridisk chef i PET, statsadvokat, konstitueret landsdommer og forsvarsadvokat.\n\n»Med udnævnelserne er der sat et stærkt hold med solidt kendskab til og erfaring fra politiet og anklagemyndigheden og med en god blanding af dygtige nye og gamle kræfter. Samlet set er det holdet, som jeg vurderer bedst vil kunne lede politi og anklagemyndighed i de kommende år,« udtaler justitsminister Nicolai Wammen.\n\nMinisteren takker samtidig Thorkild Fogde og de øvrige, der forlader deres hidtidige stillinger, for deres indsats.\n\nRokaden berører desuden en lang række politikredse. Steen Bechmann Jacobsen bliver politidirektør i National enhed for Særlig Kriminalitet, mens Frits Villy Kjeldsen, Lene Frank, Henriette Rosenborg Larsen, Brian Sølvberg Fussing, Lars Kirkegaard og Andreas Langsted får nye politidirektørposter i henholdsvis Østjylland, Syd- og Sønderjylland, Sydsjælland og Lolland-Falster, Sydøstjylland, Fyn samt Midt- og Vestsjælland. Fire politidirektører udnævnes på ny, og Marie Bindslev bliver statsadvokat i København.",
+  "prompt_tokens": 2651,
+  "completion_tokens": 989,
+  "latency_ms": 9837,
+  "cost_usd": 0.07596,
+  "created": "2026-11-10T07:23:29.353309Z",
+  "error": null
+}

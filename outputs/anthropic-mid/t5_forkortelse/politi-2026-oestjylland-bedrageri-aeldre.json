@@ -1,0 +1,21 @@
+{
+  "model_id": "anthropic-mid",
+  "pinned_version": "claude-sonnet-5-5",
+  "task_id": "t5_forkortelse",
+  "source_id": "politi-2026-oestjylland-bedrageri-aeldre",
+  "archetype": null,
+  "prompt_sha256": "f3c26bffb47d8b1b03c664ec62efd9087294d5cc8539e5e4c94ffdae5d1a1c70",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 3860,
+    "reasoning_effort": "low"
+  },
+  "text": "En 32-årig mand fra Tilst er ved Retten i Aarhus idømt et år og seks måneders fængsel for bankbudsbedragerier mod 48 ældre borgere, som han tilsammen har svindlet for 270.000 kroner. Han erkendte sig delvist skyldig i de 48 forhold og tilstod desuden at have forsøgt at bedrage omkring 150 øvrige borgere via telefonen.\n\nSvindlen blev begået sammen med flere medgerningsmænd. I de fleste tilfælde var den 32-årige bankbud, der kørte ud til borgerne for at hente kort og koder, som han derefter misbrugte til kontanthævninger. Kun i få tilfælde ringede han selv ud som bagmand.\n\nAnklager Jakob Christensen fra Anklagemyndigheden ved Østjyllands Politi siger, at myndighederne ser alvorligt på sagerne, fordi ofrene oftest er ældre, svage eller udsatte. Han er tilfreds med fængselsdommen og mener, at mange heldigvis er blevet opmærksomme på at lægge røret på.\n\nManden blev anholdt den 28. januar i Højbjerg, efter at politiet havde modtaget en anmeldelse om bankbudsbedragerier, bl.a. mod en kvinde i det centrale Aarhus, der fik hævet 15.000 kroner. Han kom i et køretøj, politiet havde identificeret, og havde værdigenstande og nogle tusinde kroner på sig.\n\nOnsdag den 18. februar anholdt Østjyllands Politi fem medgerningsmænd. Enkelte af dem har tidligere på året fået dom, og efterforskningen fortsætter.\n\nManden har været varetægtsfængslet siden anholdelsen og skal forblive det frem mod afsoning. Han skal også betale erstatning til de forurettede. Han modtog dommen, men kendelsen om fortsat varetægtsfængsling blev kæret til landsretten.",
+  "prompt_tokens": 2109,
+  "completion_tokens": 694,
+  "latency_ms": 4767,
+  "cost_usd": 0.011158,
+  "created": "2026-11-10T07:18:09.897010Z",
+  "error": null
+}

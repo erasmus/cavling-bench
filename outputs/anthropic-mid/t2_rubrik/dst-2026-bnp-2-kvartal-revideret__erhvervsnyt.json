@@ -1,0 +1,21 @@
+{
+  "model_id": "anthropic-mid",
+  "pinned_version": "claude-sonnet-5-5",
+  "task_id": "t2_rubrik",
+  "source_id": "dst-2026-bnp-2-kvartal-revideret",
+  "archetype": "erhvervsnyt",
+  "prompt_sha256": "a0c1c578f6789680a90803f2a2d07f9a2d33d3a238e15838d5d798d160fede0d",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 3400,
+    "reasoning_effort": "low"
+  },
+  "text": "RUBRIK: BNP steg 0,9 pct. i 2. kvartal – opjusteret med 0,6 point\nUNDERRUBRIK: Opdaterede kildedata løfter væksten fra første opgørelse. Uden medicinalindustrien voksede bruttoværditilvæksten 0,7 pct. mod 1,1 pct. for hele økonomien.",
+  "prompt_tokens": 3876,
+  "completion_tokens": 131,
+  "latency_ms": 1971,
+  "cost_usd": 0.009062,
+  "created": "2026-11-10T07:15:00.336354Z",
+  "error": null
+}

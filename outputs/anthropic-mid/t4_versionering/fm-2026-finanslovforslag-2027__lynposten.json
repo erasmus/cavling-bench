@@ -1,0 +1,21 @@
+{
+  "model_id": "anthropic-mid",
+  "pinned_version": "claude-sonnet-5-5",
+  "task_id": "t4_versionering",
+  "source_id": "fm-2026-finanslovforslag-2027",
+  "archetype": "lynposten",
+  "prompt_sha256": "e0991b27517b2c74a254e396f579882948cfef045fd7df53ed2c68aaf33473d2",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 4025,
+    "reasoning_effort": "low"
+  },
+  "text": "Regeringen vil bruge 1,2 mia. kr. på folkeskole og dagtilbud i 2027. Det fremgår af forslaget til finanslov for 2027, som regeringen præsenterer i dag. Pengene er en del af en pakke om børn, pensionister, forsvar og grøn omstilling.\n\nSkolerne får 1,1 mia. kr. årligt i 2028-2030. Økonomi- og indenrigsminister Pia Olsen Dyhr peger på 900 mio. kr. til folkeskolen. Pengene skal holde hånden under skoler i landdistrikterne. De skal også gå til de 100 skoler med de største udfordringer.\n\nDe folkepensionister, der har mindst, får et permanent løft på godt 1.600 kr. om måneden. Det svarer til 1.000 kr. om måneden efter skat.\n\nTandpleje bliver gratis for førtidspensionister og udsatte grupper. Regeringen afsætter 0,6 mia. kr. i 2027 og 0,9 mia. kr. årligt fra 2028. Det er første skridt mod vederlagsfri tandpleje for alle i 2035.\n\nUnge under 22 år skal have gratis kollektiv transport. Regeringen sætter 800 mio. kr. af i 2027 og 1.000 mio. kr. i helårsniveau til at begynde indfasningen.\n\nForsvarsudgifterne skal op på 3,5 pct. af BNP i 2030. Regeringen kalder Rusland en trussel mod Danmarks sikkerhed.\n\nTil elektrificering og grøn omstilling går 650 mio. kr. i 2027 og 850 mio. kr. årligt i 2028-2030.\n\nSkatte- og vækstminister Jakob Engel-Schmidt lover skattelettelser. »Sygeplejersken, ingeniøren og VVS'eren skal ikke straffes med en mellemskat for at tage en ekstra vagt«, siger han.\n\nFinansminister Peter Hummelgaard kalder regeringen »stædige optimister«.",
+  "prompt_tokens": 3038,
+  "completion_tokens": 711,
+  "latency_ms": 5038,
+  "cost_usd": 0.013186,
+  "created": "2026-11-10T07:16:28.236632Z",
+  "error": null
+}

@@ -1,0 +1,21 @@
+{
+  "model_id": "anthropic-mid",
+  "pinned_version": "claude-sonnet-5-5",
+  "task_id": "t5_forkortelse",
+  "source_id": "nationalbanken-2026-digitale-betalinger-beredskab",
+  "archetype": null,
+  "prompt_sha256": "e845da16f198e6fe16664514d862838a3cc5fe6dbce8acf3ceaa1786adaf7c8d",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 3860,
+    "reasoning_effort": "low"
+  },
+  "text": "Mere end 90 pct. af betalingerne i Danmark er digitale, og flere bruger mobilen. Samtidig ser flere kontanter som betalingsberedskab, og stadig flere har en kontantbeholdning over 1.000 kr. Det viser Nationalbankens analyser ”Danskernes brug af kontanter falder fortsat” og ”Danskerne betaler mere med mobilen”.\n\nKontanter udgjorde 9 pct. af betalingerne i fysisk handel i 2025 mod 11 pct. i 2023 og 23 pct. i 2017. Wallet-betalinger, fx med Apple Pay og Google Pay, udgør nu hver tredje betaling. 41 pct. har over 1.000 kr. i kontanter mod 33 pct. i 2023, og 7 ud af 10 med en kontantbeholdning ser den som et beredskab. Under 5 pct. af betalingerne er straksbetalinger, fx via Mobilepay.\n\nNationalbankdirektør Ulrik Nødgaard vil have flere butikker klar til offline digitale betalinger og større udbredelse af straksbetalinger. Tekniske fejl hos Nets i juli 2025 og maj 2026 viste, at betalingsløsninger kan svigte. Offline-kortberedskabet gjorde, at mange i dagligvarehandlen ikke mærkede nedbruddet i maj 2026. Det er lanceret af Nationalbanken sammen med detailhandlen, den finansielle sektor og Betalingsrådets øvrige medlemmer og sikrer, at borgere over 18 år kan betale med kort og wallets i dagligvarebutikker og apoteker i mindst syv dage. Andre butikker kan tilslutte sig.\n\nKontanter og straksbetalinger fungerede som alternativer under begge nedbrud.\n\nNationalbanken anbefaler borgerne mindst to fysiske kort fra forskellige mærker med pinkoder, et pejlemærke på 250 kr. i kontanter pr. person og en mobilløsning til kontooverførsler. Detailhandlen bør forberede sig, modtage offline-kortbetalinger, overveje kontooverførsler og have konkrete planer og instruktioner.",
+  "prompt_tokens": 2355,
+  "completion_tokens": 778,
+  "latency_ms": 4838,
+  "cost_usd": 0.01249,
+  "created": "2026-11-10T07:18:00.500396Z",
+  "error": null
+}

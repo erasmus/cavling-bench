@@ -1,0 +1,21 @@
+{
+  "model_id": "anthropic-frontier",
+  "pinned_version": "claude-fable-5-1",
+  "task_id": "t4_versionering",
+  "source_id": "dst-2026-offentligt-overskud-2025",
+  "archetype": "lynposten",
+  "prompt_sha256": "bc8ff6f4407a1df54e6b13eed86b79c4d064e93e2c878cd22867d0140cfc4795",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 4025,
+    "reasoning_effort": "low"
+  },
+  "text": "Overskuddet på de offentlige finanser faldt til 90,9 milliarder kroner i 2025. Året før lå overskuddet på 123,5 milliarder kroner. Det viser nye tal fra Danmarks Statistik.\n\nForklaringen er enkel. Udgifterne steg mere end indtægterne. Udgifterne voksede med 85,0 milliarder kroner til 1.472,8 milliarder kroner. Indtægterne voksede med 52,4 milliarder kroner til 1.563,8 milliarder kroner.\n\nPengene gik især til socialområdet, sundhedsområdet og forsvaret. Her steg udgifterne mest.\n\nSociale ydelser kostede 438,4 milliarder kroner i 2025. Det er 18,8 milliarder kroner mere end i 2024. Alene de generelle pensioner steg med 11,8 milliarder kroner. Flere danskere er gået på pension. Samtidig er satserne sat op. Derudover steg udgifterne lidt på en lang række andre ydelser.\n\nSocial beskyttelse er stadig den største post. Den udgør 41 procent af alle offentlige udgifter. Sundhedsvæsenet står for 17 procent. Uddannelse og generelle offentlige tjenester udgør hver 12 procent. Forsvaret fylder 5 procent. Den andel er steget de seneste år. Ellers har fordelingen af udgifterne været relativt stabil.\n\nPå indtægtssiden gav pensionsafkastskatten 47,0 milliarder kroner. Det er lidt mere end sidste år. Også personskatter og selskabsskatter steg. Det er med til at forklare de højere indtægter.\n\nDanmarks Statistik har samtidig rettet tidligere tal. Overskuddet for 2025 er justeret op med 2,5 milliarder kroner. Overskuddet for 2024 er justeret ned med 7,0 milliarder kroner. Overskuddet for 2023 er justeret op med 1,9 milliarder kroner. Det skyldes nye skattetal fra Skattestyrelsen og nye opgørelser af forbrugsudgiften.\n\nDen offentlige forbrugsudgift er justeret op med 5,9 milliarder kroner i 2025. Opgørelsen rummer nu endelige regnskaber fra kommuner og regioner. Der er også nye tal for blandt andet universiteter og andre selvejende institutioner.",
+  "prompt_tokens": 1924,
+  "completion_tokens": 838,
+  "latency_ms": 9508,
+  "cost_usd": 0.06114,
+  "created": "2026-11-10T07:22:34.182614Z",
+  "error": null
+}

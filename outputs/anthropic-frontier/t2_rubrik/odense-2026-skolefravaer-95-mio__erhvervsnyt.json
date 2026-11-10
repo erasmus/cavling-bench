@@ -1,0 +1,21 @@
+{
+  "model_id": "anthropic-frontier",
+  "pinned_version": "claude-fable-5-1",
+  "task_id": "t2_rubrik",
+  "source_id": "odense-2026-skolefravaer-95-mio",
+  "archetype": "erhvervsnyt",
+  "prompt_sha256": "d15106408c9173922024924632f182ea7057dc3d02afb9f2144bfaf9b8beef3d",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 3400,
+    "reasoning_effort": "low"
+  },
+  "text": "RUBRIK: Odense afsætter 9,5 mio. kr. årligt mod skolefravær\nUNDERRUBRIK: Knap hver femte elev i Odense har fravær over 10 pct. Kommunen åbner fraværslinje i starten af 2027 og giver faste tovholdere til de mest belastede familier.",
+  "prompt_tokens": 2543,
+  "completion_tokens": 115,
+  "latency_ms": 3395,
+  "cost_usd": 0.03118,
+  "created": "2026-11-10T07:20:38.540830Z",
+  "error": null
+}

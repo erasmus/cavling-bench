@@ -1,0 +1,21 @@
+{
+  "model_id": "anthropic-mid",
+  "pinned_version": "claude-sonnet-5-5",
+  "task_id": "t3_faktaboks",
+  "source_id": "regeringen-2026-grisefirepart",
+  "archetype": null,
+  "prompt_sha256": "8641ed13c42f8259da399106d72d2226ac43e4e86c591c7c3f0d858992fa815e",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 3575,
+    "reasoning_effort": "low"
+  },
+  "text": "- Regeringens nye firepart for fremtidens griseproduktion begynder arbejdet efter nytår.\n- Ved bordet sidder Landbrug & Fødevarer, Dyrenes Beskyttelse, Fødevareforbundet NNF, Danmarks Naturfredningsforening, Dansk Erhverv, Dansk Industri og regeringen.\n- Ifølge Christian Rabjerg Madsen får omkring 95 procent af grisene klippet en del af halen af.\n- Lars Løkke Rasmussen oplyser, at antallet af slagtninger og slagteriarbejdere er faldet med omtrent en tredjedel de seneste 15 år.\n- Ifølge Lars Løkke Rasmussen er antallet af eksporterede smågrise i samme periode mere end tidoblet.",
+  "prompt_tokens": 1897,
+  "completion_tokens": 283,
+  "latency_ms": 2606,
+  "cost_usd": 0.006624,
+  "created": "2026-11-10T07:15:56.515330Z",
+  "error": null
+}

@@ -1,0 +1,21 @@
+{
+  "model_id": "anthropic-frontier",
+  "pinned_version": "claude-fable-5-1",
+  "task_id": "t1_telegram",
+  "source_id": "regeringen-2026-kystbeskyttelse-14-9-mia",
+  "archetype": null,
+  "prompt_sha256": "8273d6c3b2cab40413293cf70623a8042a6995cfe9a1090386f4653fbdb654ae",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 3560,
+    "reasoning_effort": "low"
+  },
+  "text": "Regeringen afsætter 14,9 mia. kroner til en national investeringsplan for kystbeskyttelse som led i Klimatilpasningsplan II, hvor staten fremover medfinansierer 85 procent af anlægsinvesteringerne, mens kommunerne bidrager med 15 procent. Sammen med accelerationspakken for kystbeskyttelse og Finansloven 2026 giver det ifølge regeringen mulighed for investeringer på op mod 20 mia. kroner frem mod 2040. Baggrunden er, at stormfloder, der i dag forventes hvert 100. år, i 2100 ventes hvert tredje år, og at op mod 100.000 husstande og virksomheder med 175.000 arbejdspladser risikerer oversvømmelser fra havet. En ekspertgruppe skal komme med anbefalinger til, hvordan et muligt finansieringsbidrag kan fordeles mellem lodsejere, og dispensationsmulighederne over for naturhensyn skal udvides. Miljøminister Magnus Heunicke indkalder nu Folketingets partier til drøftelser om en politisk aftale.",
+  "prompt_tokens": 2067,
+  "completion_tokens": 396,
+  "latency_ms": 5994,
+  "cost_usd": 0.04047,
+  "created": "2026-11-10T07:19:41.021489Z",
+  "error": null
+}

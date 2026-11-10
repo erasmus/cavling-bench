@@ -1,0 +1,21 @@
+{
+  "model_id": "anthropic-frontier",
+  "pinned_version": "claude-fable-5-1",
+  "task_id": "t2_rubrik",
+  "source_id": "fo-2026-salling-group-oego-boede",
+  "archetype": "landsavisen",
+  "prompt_sha256": "04920bdcd97af52906eda0e002eaeeef1a5e09b0532f86cca9027f39feab35f2",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 3400,
+    "reasoning_effort": "low"
+  },
+  "text": "RUBRIK: Salling Group betaler 10 millioner i bøde for ØGO-markedsføring\nUNDERRUBRIK: Netto kaldte ØGO landets fjerde mest bæredygtige mærke, men kåringen byggede på forbrugeres opfattelse, ikke dokumentation, vurderer Forbrugerombudsmanden.",
+  "prompt_tokens": 2608,
+  "completion_tokens": 126,
+  "latency_ms": 3354,
+  "cost_usd": 0.03238,
+  "created": "2026-11-10T07:20:19.053074Z",
+  "error": null
+}

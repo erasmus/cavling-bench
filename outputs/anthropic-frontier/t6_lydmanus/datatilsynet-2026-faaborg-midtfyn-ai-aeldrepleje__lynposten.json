@@ -1,0 +1,21 @@
+{
+  "model_id": "anthropic-frontier",
+  "pinned_version": "claude-fable-5-1",
+  "task_id": "t6_lydmanus",
+  "source_id": "datatilsynet-2026-faaborg-midtfyn-ai-aeldrepleje",
+  "archetype": "lynposten",
+  "prompt_sha256": "c4c5ca61509e021cff197693512d31d80b5a53cfbe2f2babe5a28d1beafd9ee9",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 3620,
+    "reasoning_effort": "low"
+  },
+  "text": "Atten beboere på et plejehjem i Faaborg-Midtfyn Kommune blev overvåget med kunstig intelligens. Nu får kommunen alvorlig kritik af Datatilsynet.\n\nSystemet bruger en sensor og et kamera i plejeboligen. Det analyserer beboernes søvn, uro, vejrtrækning og bevægelser. Kommunen ville forebygge fald og skabe tryghed. Prøveperioden varede seks måneder.\n\nIfølge Datatilsynet var kommunens risikovurdering for generel. Kommunen vurderede alle trusler som lav risiko. Den gav ingen nærmere begrundelse. Kommunen skulle også have lavet en konsekvensanalyse, før systemet blev taget i brug. Det gjorde den ikke.\n\nDatatilsynet afviser desuden kommunens retlige grundlag. Serviceloven og ældreloven er ikke nok til at bruge løsningen. Tilsynet peger i stedet på reglerne om tryghedsskabende velfærdsteknologi. Dem havde kommunen ikke inddraget.\n\nDatatilsynet understreger, at kommuner skal have vurderingerne på plads, før de tager ny teknologi i brug. En prøveperiode ændrer ikke på reglerne.",
+  "prompt_tokens": 2167,
+  "completion_tokens": 450,
+  "latency_ms": 7041,
+  "cost_usd": 0.04417,
+  "created": "2026-11-10T07:27:06.656228Z",
+  "error": null
+}

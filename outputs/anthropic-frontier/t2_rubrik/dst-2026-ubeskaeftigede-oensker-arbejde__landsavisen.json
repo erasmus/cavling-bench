@@ -1,0 +1,21 @@
+{
+  "model_id": "anthropic-frontier",
+  "pinned_version": "claude-fable-5-1",
+  "task_id": "t2_rubrik",
+  "source_id": "dst-2026-ubeskaeftigede-oensker-arbejde",
+  "archetype": "landsavisen",
+  "prompt_sha256": "0864f5856f11afbf5f0b287ad1c227b46347906da4ac158307cff056586b2853",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 3400,
+    "reasoning_effort": "low"
+  },
+  "text": "RUBRIK: Hver anden ubeskæftiget ønsker nu et arbejde\nUNDERRUBRIK: 470.000 ubeskæftigede ønskede et job i første kvartal 2026, 85.000 flere end to år før. Samtidig steg AKU-ledigheden til 7,5 procent af arbejdsstyrken.",
+  "prompt_tokens": 2536,
+  "completion_tokens": 121,
+  "latency_ms": 3121,
+  "cost_usd": 0.03141,
+  "created": "2026-11-10T07:20:02.928407Z",
+  "error": null
+}

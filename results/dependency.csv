@@ -1,6 +1,6 @@
 model_id,display,tier,cost_per_1000_t1_usd,latency_median_ms,latency_p95_ms,open_weights,licence,eu_residency,params_b,pinned_version,snapshot_date,billing
-anthropic-frontier,Claude Fable 5.1,frontier_proprietary,,,,False,proprietary,no,,claude-fable-5-1,2026-11-10,paid
-anthropic-mid,Claude Sonnet 5.5,mid_proprietary,7.040400000000001,2948.0,3053.8,False,proprietary,no,,claude-sonnet-5-5,2026-11-10,paid
+anthropic-frontier,Claude Fable 5.1,frontier_proprietary,40.018249999999995,5104.5,6146.199999999992,False,proprietary,no,,claude-fable-5-1,2026-11-10,paid
+anthropic-mid,Claude Sonnet 5.5,mid_proprietary,7.55415,2795.0,3157.0,False,proprietary,no,,claude-sonnet-5-5,2026-11-10,paid
 openai-frontier,GPT-6 Astra,frontier_proprietary,,,,False,proprietary,cloud region,,gpt-6-astra,2026-11-10,paid
 openai-mid,GPT-6 Luna,mid_proprietary,,,,False,proprietary,cloud region,,gpt-6-luna,2026-11-10,paid
 google-frontier,Gemini 4 Argon,frontier_proprietary,,,,False,proprietary,no,,gemini-4-argon,2026-11-10,paid

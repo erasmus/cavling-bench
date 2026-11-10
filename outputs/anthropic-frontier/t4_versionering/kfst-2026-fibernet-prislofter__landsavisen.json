@@ -1,0 +1,21 @@
+{
+  "model_id": "anthropic-frontier",
+  "pinned_version": "claude-fable-5-1",
+  "task_id": "t4_versionering",
+  "source_id": "kfst-2026-fibernet-prislofter",
+  "archetype": "landsavisen",
+  "prompt_sha256": "709ae06599a54d581f3744aa9c3b6088b029e93a35f226f0e24397f8f9f1b8ef",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 4025,
+    "reasoning_effort": "low"
+  },
+  "text": "Konkurrence- og Forbrugerstyrelsen er i færd med at fastsætte nye prislofter for leje af fibernet til husholdninger og mindre virksomheder. De nye lofter skal gælde fra årsskiftet og ventes at ligge op til 35 procent over de nuværende, oplyser styrelsen, der samtidig vil rette det, den kalder misforståelser i mediernes dækning af sagen – særligt af rammerne for TDC.\n\nStyrelsen fastsætter kun prislofter i områder, hvor ejeren af fibernettet har monopollignende status og derfor kunne sætte lejeprisen meget højt over for andre bredbåndsudbydere. For TDC er det ifølge styrelsen kun en mindre del af forretningen, der reguleres. Der lægges hverken begrænsninger på selskabets priser på mobilområdet eller på fiberlejepriser uden for hovedstadsområdet.\n\nStyrelsen forklarer stigningen i prislofterne med tre forhold: Generelle prisstigninger har gjort udstyr til fibernet dyrere, den tilladte forrentning af investeret kapital er steget med renteniveauet, og selskaberne skal kunne få dækket investeringer i at beskytte nettene mod udefrakommende angreb. En særlig analyse af disse sikkerhedsinvesteringer, udarbejdet med eksterne eksperter og input fra de berørte virksomheder, har medført, at ekstraomkostninger til robusthed er regnet ind, så lofterne sættes højere end ellers. Lejepriserne skal dog ikke finansiere beskyttelse af ikke-regulerede net som mobilnettet.\n\nDe endelige afgørelser om 13 fibernetselskaber træffes til december og gælder i fem år. Der lægges op til, at fem selskaber – Aura, BornFiber, EnergiFyn, Fibia og Norlys – bindes til egne tilsagn, mens TDC pålægges forpligtelser, fordi selskabet ikke har præsenteret tilsagn, styrelsen kan acceptere. Syv selskaber, der alene sælger fibernet engros, pålægges primært at holde nettene åbne for detailudbydere.\n\nUdkastene har været i høring hos interessenter og sendes til Europa-Kommissionen, inden de vedtages. Selskaberne kan indbringe afgørelserne for Teleklagenævnet og domstolene.",
+  "prompt_tokens": 2778,
+  "completion_tokens": 1047,
+  "latency_ms": 14973,
+  "cost_usd": 0.08013,
+  "created": "2026-11-10T07:23:44.327399Z",
+  "error": null
+}

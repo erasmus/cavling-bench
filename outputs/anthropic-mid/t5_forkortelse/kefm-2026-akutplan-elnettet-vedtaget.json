@@ -1,0 +1,21 @@
+{
+  "model_id": "anthropic-mid",
+  "pinned_version": "claude-sonnet-5-5",
+  "task_id": "t5_forkortelse",
+  "source_id": "kefm-2026-akutplan-elnettet-vedtaget",
+  "archetype": null,
+  "prompt_sha256": "72650e5c64281b68b4b12b36b764e834e8273a08b183a10f966d0a943cc28b2f",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 3860,
+    "reasoning_effort": "low"
+  },
+  "text": "Presset på elnettet er så stort, at der flere steder ikke er plads til alle projekter, der ønsker tilslutning. Derfor er et bredt flertal i Folketinget nu gået fra en politisk forståelse fra før sommeren til en vedtaget akutplan, og dermed er de lovgivningsmæssige rammer for en ny prioriteringsmodel på plads. Modellen erstatter først-til-mølle-princippet, så Energinet og netvirksomhederne i højere grad kan prioritere, hvem der får adgang til pladsen i nettet.\n\nKlima-, energi- og forsyningsminister Samira Nawa kalder situationen dybt alvorlig og planen første skridt i en genopretning, der handler om at prioritere, bygge, optimere og gentænke elnettet. Jesper Petersen (S) og Nanna Bonde (SF) understreger, at samfundets vigtigste formål skal prioriteres. Mathilde Hjort Bressum (V) vil have modellen som styringsværktøj i en akut situation og ikke som ny normal. Malte Larsen (DF) ønsker også mere effektiv udnyttelse af eksisterende kapacitet. Lars Aagaard (M) peger på hurtigere udbygning og mere fleksibelt elforbrug. Anders Storgaard (K) fremhæver, at netselskaberne får et år til at udvikle nye netprodukter, og at ministerens mulighed for at pålægge dem at anmelde produkter skal drøftes ved genbesøget i 2027. Lisbeth Torfing (EL) og Anna Bjerre (ALT) hilser det velkommen, at datacentre og techgiganter kommer bagerst. Anastasia Milthers (RV) fremhæver godkendelse af fleksible netprodukter.\n\nMinisteriet vurderer, at den politisk fastsatte prioritering ikke i sig selv kræver metodegodkendelse fra Forsyningstilsynet. Anvendelsen af netvenlighed skal dog baseres på metoder, som tilsynet har godkendt.\n\nLoven træder efter planen i kraft 12. oktober, og reglerne kan bruges, når kapacitet næste gang fordeles i efteråret. Aftalepartierne inviteres til drøftelser om udbygning af elnettet og Energiinfrastrukturplan 2035.",
+  "prompt_tokens": 3808,
+  "completion_tokens": 815,
+  "latency_ms": 5795,
+  "cost_usd": 0.015766,
+  "created": "2026-11-10T07:17:55.661654Z",
+  "error": null
+}

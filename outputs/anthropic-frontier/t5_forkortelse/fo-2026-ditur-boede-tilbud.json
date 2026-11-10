@@ -1,0 +1,21 @@
+{
+  "model_id": "anthropic-frontier",
+  "pinned_version": "claude-fable-5-1",
+  "task_id": "t5_forkortelse",
+  "source_id": "fo-2026-ditur-boede-tilbud",
+  "archetype": null,
+  "prompt_sha256": "c1314e2e76fe074e3c93c8f79b5e7faf7f4f30558fdd83b6fa190a0c11c63dfc",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 3860,
+    "reasoning_effort": "low"
+  },
+  "text": "Ditur.dk ApS har accepteret at betale en bøde på 4,25 millioner kroner, efter at Forbrugerombudsmanden i maj 2026 politianmeldte virksomheden for i 26 tilfælde at overtræde markedsføringslovens vildledningsforbud og prismærkningsbekendtgørelsen.\n\nForbrugerombudsmanden havde i fem måneder overvåget priserne på tilfældigt udvalgte varer på avile.dk og ditur.dk og vurderede, at smykker og ure blev markedsført som tilbud så længe, at der reelt ikke længere var tale om tilbud. Når produkter sælges til nedsat pris i så lange perioder, bliver den oplyste normalpris mere teoretisk end faktisk, og tilbudsprisen må anses for den egentlige normalpris. De oplyste normalpriser var derfor egnede til at vildlede forbrugerne.\n\nIfølge prismærkningsbekendtgørelsens § 9 a skal normalprisen være den laveste pris, den erhvervsdrivende har anvendt i mindst 30 dage forud for prisnedsættelsen. I et eksempel var en halskæde på tilbud i 28 af 50 dage og markedsført med en fast normalpris på 599 kroner, selvom de laveste priser i de to foregående 30-dages perioder var 199 kroner og 179 kroner.\n\nDitur.dk ApS har erkendt alle forhold. Bøden er udmålt efter bødemodellen indført 1. januar 2022, der skærpede bødeniveauet.\n\nForbrugerombudsmand Torben Jensen siger, at der desværre har været en del sager med ikke-retvisende normalpriser, og at sagen understreger vigtigheden af, at virksomheder følger reglerne for prismarkedsføring, af hensyn til forbrugernes tillid og lige konkurrence.\n\nMarkedsføringslovens §§ 5 og 6 forbyder vildledning, og overtrædelser kan straffes med bøde efter § 37, stk. 3, jf. § 8.",
+  "prompt_tokens": 2652,
+  "completion_tokens": 722,
+  "latency_ms": 8781,
+  "cost_usd": 0.06262,
+  "created": "2026-11-10T07:25:43.535099Z",
+  "error": null
+}

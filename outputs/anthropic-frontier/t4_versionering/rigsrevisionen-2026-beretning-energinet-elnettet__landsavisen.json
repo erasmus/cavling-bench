@@ -1,0 +1,21 @@
+{
+  "model_id": "anthropic-frontier",
+  "pinned_version": "claude-fable-5-1",
+  "task_id": "t4_versionering",
+  "source_id": "rigsrevisionen-2026-beretning-energinet-elnettet",
+  "archetype": "landsavisen",
+  "prompt_sha256": "aea366a09b092cb0b94aeb472bfc586dc2b49b094b9a4c30429e2f657a22c867",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 4025,
+    "reasoning_effort": "low"
+  },
+  "text": "Statsrevisorerne finder Energinets styring af udbygningen af elnettet kritisabel. Det fremgår af en beretning, som Statsrevisorerne den 9. april 2026 afgav til Folketinget, efter at Rigsrevisionen har undersøgt både Energinets styring og Klima-, Energi- og Forsyningsministeriets tilsyn med den statsejede virksomhed.\n\nIfølge beretningen er cirka 70 procent af de igangsatte udbygningsprojekter forsinkede, og de forsinkede projekter tager i gennemsnit cirka 80 procent længere tid end forventet. De projekter, som ikke er forsinkede, er generelt nystartede. Energinet har kun delvist overblik over årsagerne til forsinkelserne, og virksomheden har ifølge Statsrevisorerne systematisk undervurderet, hvor lang tid projekterne tager.\n\nUdbygningen af elnettet er en forudsætning for den udbygning af vedvarende energi, som et flertal af Folketingets partier aftalte i Klimaaftale om grøn strøm og varme i juni 2022. Elnettet omfatter i dag cirka 9.000 kilometer jordkabler og luftledninger, og Energinet forventer, at der frem mod 2030 skal etableres yderligere cirka 2.700 kilometer og frem mod 2050 yderligere 3.000-4.000 kilometer. Det kræver, at tempoet mere end fordobles fra 120 til 250 kilometer elnet årligt.\n\nKonsekvensen af forsinkelserne er, at den grønne omstilling forsinkes, og udbygningen er foreløbigt blevet mere end 10 milliarder kroner dyrere end planlagt. Siden den seneste langsigtede udviklingsplan fra maj 2024 er 206 kilometer færdiggjort ud af de 490 kilometer, der ifølge planen var behov for pr. 1. januar 2026.\n\nStatsrevisorerne kritiserer desuden, at ministeriet har reageret for sent i sit tilsyn, selv om det gentagne gange siden starten af 2023 er blevet gjort opmærksom på store og stigende forsinkelser. Ministeriet har i februar 2026 taget initiativ til en ekstern analyse af rammerne for Energinet, hvilket Rigsrevisionen vurderer kunne være sket tidligere. Ministeriet har ikke beregnet, hvad forsinkelserne betyder for CO2-udledningen eller for tilslutningen af nye solcelle- og vindmølleparker, og Statsrevisorerne anbefaler, at konsekvenserne for klimamålet frem mod 2030 undersøges nærmere.",
+  "prompt_tokens": 2377,
+  "completion_tokens": 942,
+  "latency_ms": 10032,
+  "cost_usd": 0.07087,
+  "created": "2026-11-10T07:24:58.743997Z",
+  "error": null
+}

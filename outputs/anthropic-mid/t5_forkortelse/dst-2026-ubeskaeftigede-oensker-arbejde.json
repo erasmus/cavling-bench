@@ -1,0 +1,21 @@
+{
+  "model_id": "anthropic-mid",
+  "pinned_version": "claude-sonnet-5-5",
+  "task_id": "t5_forkortelse",
+  "source_id": "dst-2026-ubeskaeftigede-oensker-arbejde",
+  "archetype": null,
+  "prompt_sha256": "0739d3da8f3f6e4c00d553fa4fbad9ccd806096d61756c69faed230016c37c4f",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 3860,
+    "reasoning_effort": "low"
+  },
+  "text": "I første kvartal 2026 var der 905.000 ubeskæftigede i alderen 15-64 år. Heraf ønskede 52 pct., svarende til 470.000 personer, et arbejde. Det er 85.000 flere end i første kvartal 2024, hvor andelen var 45 pct. Andelen var lavest blandt 55-64-årige (28 pct.) og højest blandt 25-34-årige (66 pct.).\n\nDe resterende 435.000 ønskede ikke et arbejde, hvilket er 41.000 færre end i første kvartal 2024. Blandt 15-24-årige er uddannelse årsagen for fire ud af fem. Med stigende alder afløses uddannelse af pension mv., som bl.a. omfatter efterløn, fleksydelse og førtidspension. Syv ud af ti 55-64-årige ønsker ikke arbejde på grund af pension mv. Meget få angiver familiemæssige årsager.\n\nBlandt de 470.000, der ønskede arbejde, udgjorde de AKU-ledige 236.000, omtrent halvdelen. AKU-ledige søger aktivt arbejde og kan starte med det samme. Derudover søgte 81.000 arbejde, men kunne ikke starte med det samme, og 40.000 søgte ikke, men kunne starte straks. Disse tre grupper udgjorde i alt 356.000 personer og udgør sammen med deltidsbeskæftigede, der ønsker flere timer, arbejdskraftreserven.\n\nDe 236.000 AKU-ledige svarer til 7,5 pct. af arbejdsstyrken, en stigning på 0,8 procentpoint på et år. Uden studerende var ledighedsprocenten 6,2 pct., op med 0,5 procentpoint. Stigningen kan ses i lyset af et relativt højt antal opsigelser i andet halvår af 2025.\n\nAKU-ledigheden er højere end registerledigheden, bl.a. fordi AKU-ledige ikke skal modtage bestemte ydelser, og fordi registerledigheden opgøres i fuldtidspersoner.",
+  "prompt_tokens": 2087,
+  "completion_tokens": 728,
+  "latency_ms": 4883,
+  "cost_usd": 0.011454,
+  "created": "2026-11-10T07:17:44.120972Z",
+  "error": null
+}

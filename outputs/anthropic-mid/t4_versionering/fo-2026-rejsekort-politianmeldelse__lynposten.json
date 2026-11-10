@@ -1,0 +1,21 @@
+{
+  "model_id": "anthropic-mid",
+  "pinned_version": "claude-sonnet-5-5",
+  "task_id": "t4_versionering",
+  "source_id": "fo-2026-rejsekort-politianmeldelse",
+  "archetype": "lynposten",
+  "prompt_sha256": "dc8b081dec20f7c386cdc6cf047dc79e05b7926179ecfd4b85e1cd383bc700a3",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 4025,
+    "reasoning_effort": "low"
+  },
+  "text": "Forbrugerombudsmanden politianmelder Rejsekort & Rejseplan A/S for vildledende markedsføring. Over 35 forbrugere har klaget over kampagnen om lukningen af det fysiske rejsekort.\n\nOmbudsmanden mener, at kampagnen gav indtryk af, at kunderne var nødt til at hente en billet-app. Virksomheden skrev ikke klart, at der stadig ville være et ikke-digitalt alternativ.\n\nKampagnen kørte på sociale medier, reklameskilte på stationer og informationsskærme i busser og tog. Fra oktober 2025 dækkede hætter en række tjek ind-standere. Der stod: \"Rejs med digitalt. Det fysiske rejsekort lukker. Brug i stedet en af disse billet-apps.\" Hætterne signalerede, at kortet ikke længere kunne bruges.\n\nI et Facebook-opslag fra Nordjyllands Trafikselskab stod oplysningen om alternativet kun, hvis man trykkede \"se mere\". Det samme gjaldt DSB's opslag med de overdækkede standere. I metroen stod: \"RIP fysisk Rejsekort og DOT-app.\" Heller ikke her stod der noget om et alternativ.\n\nOmbudsmanden kalder omfanget en skærpende omstændighed. Kampagnen handler om, hvordan folk betaler for noget så basalt som offentlig transport.\n\nForbrugerombudsmand Torben Jensen er klar i spyttet: \"Man giver nogle oplysninger, men udelader andre væsentlige oplysninger.\" Formålet var ifølge ham at få forbrugerne til at skifte til en app.\n\nHan peger på, at ikke alle kan eller vil bruge en app. \"Offentlig transport er ikke noget, man bare kan fravælge,\" siger han. Virksomheden skulle have oplyst om det fysiske alternativ fra kampagnens start.\n\nRejsekort & Rejseplan afviser, at markedsføringen er vildledende.\n\nSagen støtter sig på markedsføringslovens paragraf 5, stk. 1, og paragraf 6, stk. 1. Begge forbyder vildledende handelspraksis.",
+  "prompt_tokens": 3059,
+  "completion_tokens": 766,
+  "latency_ms": 5736,
+  "cost_usd": 0.013778,
+  "created": "2026-11-10T07:16:33.973703Z",
+  "error": null
+}

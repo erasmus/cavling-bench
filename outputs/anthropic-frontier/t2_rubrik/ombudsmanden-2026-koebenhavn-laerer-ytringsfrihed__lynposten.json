@@ -1,0 +1,21 @@
+{
+  "model_id": "anthropic-frontier",
+  "pinned_version": "claude-fable-5-1",
+  "task_id": "t2_rubrik",
+  "source_id": "ombudsmanden-2026-koebenhavn-laerer-ytringsfrihed",
+  "archetype": "lynposten",
+  "prompt_sha256": "7523513d70e1b60b89c78a89d4b5403e0d509f96030c2b4717e5288c665ba790",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 3400,
+    "reasoning_effort": "low"
+  },
+  "text": "RUBRIK: Ombudsmand kritiserer København for at tysse på lærer\nUNDERRUBRIK: Lærer fik tilrettevisning og besked om at holde lav profil over for pressen efter interview om vold. Kommunen skal nu genoptage sagen inden tre måneder.",
+  "prompt_tokens": 2770,
+  "completion_tokens": 104,
+  "latency_ms": 1858,
+  "cost_usd": 0.0329,
+  "created": "2026-11-10T07:20:38.529494Z",
+  "error": null
+}

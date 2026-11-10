@@ -1,0 +1,21 @@
+{
+  "model_id": "anthropic-frontier",
+  "pinned_version": "claude-fable-5-1",
+  "task_id": "t6_lydmanus",
+  "source_id": "skim-2026-sommeraftale-sundhedsreform",
+  "archetype": "lynposten",
+  "prompt_sha256": "fee60da27a08235220b482fa68a05cc116b9be8236d1b6671da2cf89334cb4c9",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 3620,
+    "reasoning_effort": "low"
+  },
+  "text": "Regeringen, Danske Regioner og Kommunernes Landsforening har indgået en ny sommeraftale om sundhedsreformen. Aftalen giver sundhedsvæsenet knap otte hundrede millioner kroner i 2027. Beløbet stiger til en komma en milliard kroner om året fra 2030.\n\nPatienter med KOL og kroniske lænderygsmerter får de første kronikerpakker fra 2027. De får ret til en behandlingsplan og tilbud om forebyggelse inden for enogtyve dage efter henvisning fra egen læge. Senere følger patienter med type to-diabetes, hjertesygdom og kompleks multisygdom.\n\nÆldre medicinske patienter og visse psykiatriske patienter får nu en sygehuslæge med behandlingsansvar i seksoghalvfems timer efter udskrivelse. Målet er færre unødige genindlæggelser.\n\nBorgere får frit valg og gratis ophold på de nye sundheds- og omsorgspladser. Sundhedsminister Ida Auken siger, at aftalen baner vejen for konkrete forbedringer for patienter og borgere.",
+  "prompt_tokens": 3680,
+  "completion_tokens": 396,
+  "latency_ms": 6395,
+  "cost_usd": 0.0566,
+  "created": "2026-11-10T07:28:02.217905Z",
+  "error": null
+}

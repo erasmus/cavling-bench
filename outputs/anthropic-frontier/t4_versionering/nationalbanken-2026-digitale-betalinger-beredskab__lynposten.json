@@ -1,0 +1,21 @@
+{
+  "model_id": "anthropic-frontier",
+  "pinned_version": "claude-fable-5-1",
+  "task_id": "t4_versionering",
+  "source_id": "nationalbanken-2026-digitale-betalinger-beredskab",
+  "archetype": "lynposten",
+  "prompt_sha256": "35c237b49e2ca81f7a70cc82e9cb7ccd9c9134d2c121d92c7aa68e42689590f0",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 4025,
+    "reasoning_effort": "low"
+  },
+  "text": "Flere end 90 procent af alle betalinger i Danmark er digitale. Samtidig har 41 procent af danskerne nu over 1.000 kroner i kontanter. I 2023 var det 33 procent. Det viser to nye analyser fra Nationalbanken.\n\nKontanter blev brugt til 9 procent af alle betalinger i fysisk handel i 2025. I 2023 var tallet 11 procent. I 2017 var det 23 procent. Hver tredje betaling i butikkerne sker nu med wallet på mobilen, fx Apple Pay og Google Pay.\n\nMen danskerne holder fast i sedlerne som nødplan. 7 ud af 10 med kontanter ser dem som et beredskab.\n\nDet er der grund til. To gange det seneste år har tekniske fejl hos Nets ramt betalingerne. Det skete i juli 2025 og i maj 2026.\n\n\"Offline-kortberedskabet sørgede for, at mange kunder i dagligvarehandlen ikke mærkede Nets-nedbruddet i maj 2026,\" siger nationalbankdirektør Ulrik Nødgaard.\n\nBeredskabet sikrer, at alle over 18 år kan betale med kort og wallet i dagligvarebutikker og apoteker i mindst syv dage, selv om kortinfrastrukturen er nede. Andre butikker kan tilslutte sig samme løsning.\n\nUnder begge nedbrud steg straksbetalinger via MobilePay og mobilbank kraftigt. Kontanter virkede også.\n\n\"Det er positivt, at flere danskere har et kontantberedskab, og at de fleste kan lave straksbetalinger, men vi har brug for, at endnu flere danskere har forberedt sig på, at kortinfrastrukturen kan fejle,\" siger Ulrik Nødgaard.\n\nNationalbanken giver tre råd til borgerne. Hav mindst to fysiske kort fra forskellige mærker med pinkoder. Hav et mindre beløb i kontanter. Et pejlemærke er 250 kroner per person i husstanden. Og hav en mobilløsning til kontooverførsler, fx MobilePay.\n\nButikkerne bør kunne modtage offline-kortbetalinger. De bør også have konkrete planer og instruktioner klar til personalet.",
+  "prompt_tokens": 2807,
+  "completion_tokens": 796,
+  "latency_ms": 9114,
+  "cost_usd": 0.06787,
+  "created": "2026-11-10T07:23:51.410574Z",
+  "error": null
+}

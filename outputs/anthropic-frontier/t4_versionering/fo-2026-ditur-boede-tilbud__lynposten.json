@@ -1,0 +1,21 @@
+{
+  "model_id": "anthropic-frontier",
+  "pinned_version": "claude-fable-5-1",
+  "task_id": "t4_versionering",
+  "source_id": "fo-2026-ditur-boede-tilbud",
+  "archetype": "lynposten",
+  "prompt_sha256": "f41008b48e3d16fd0d3ce00367855fa4cdf8b8093a9753f0d38e4caa7241bf37",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 4025,
+    "reasoning_effort": "low"
+  },
+  "text": "Ditur.dk ApS betaler 4,25 millioner kroner i bøde for vildledende tilbud. Virksomheden har erkendt 26 overtrædelser af markedsføringsloven og prismærkningsbekendtgørelsen.\n\nForbrugerombudsmanden politianmeldte virksomheden i maj 2026. Forinden havde myndigheden overvåget priser på ditur.dk og avile.dk i fem måneder. Den fulgte en række tilfældigt udvalgte varer.\n\nKonklusionen var klar. Smykker og ure var på tilbud så længe, at der reelt ikke var tale om tilbud. Når en vare er nedsat i meget lange perioder, bliver den oplyste normalpris teoretisk. Tilbudsprisen er så i praksis den rigtige normalpris. Dermed så tilbuddene bedre ud, end de var.\n\nEt eksempel fra sagen er en halskæde. I en periode på 50 dage var den på tilbud i 28 af dagene. Den blev solgt til skiftende tilbudspriser med en fast normalpris på 599 kroner. Men de laveste priser i de to foregående 30-dages perioder var 199 kroner og 179 kroner. Besparelsen var altså ikke så stor, som virksomheden gav udtryk for.\n\nReglerne er præcise. Normalprisen skal være den laveste pris, virksomheden har brugt i mindst 30 dage før nedsættelsen. Det står i prismærkningsbekendtgørelsens § 9 a. Reglen skal forhindre falske prisnedsættelser.\n\nForbrugerombudsmand Torben Jensen ser en tendens.\n\n\"Vi har desværre haft en del sager, hvor en virksomhed markedsfører tilbud baseret på normalpriser, der ikke har været retvisende, så forbrugerne tror, at de kan gøre et godt køb,\" siger han.\n\nHan kalder det både vildledende og en overtrædelse af prismærkningsbekendtgørelsen. Derfor politianmelder Forbrugerombudsmanden den slags sager.\n\n\"Vi ser med stor alvor på denne type overtrædelser,\" siger Torben Jensen. Ifølge ham rammer det forbrugernes tillid og virksomhedernes mulighed for at konkurrere på lige vilkår.\n\nBøden er udmålt efter den bødemodel, der trådte i kraft 1. januar 2022. Modellen skulle skærpe bødeniveauet for brud på markedsføringsloven.",
+  "prompt_tokens": 3104,
+  "completion_tokens": 871,
+  "latency_ms": 9821,
+  "cost_usd": 0.07459,
+  "created": "2026-11-10T07:23:08.431143Z",
+  "error": null
+}

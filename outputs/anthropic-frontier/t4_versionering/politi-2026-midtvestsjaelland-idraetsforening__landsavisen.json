@@ -1,0 +1,21 @@
+{
+  "model_id": "anthropic-frontier",
+  "pinned_version": "claude-fable-5-1",
+  "task_id": "t4_versionering",
+  "source_id": "politi-2026-midtvestsjaelland-idraetsforening",
+  "archetype": "landsavisen",
+  "prompt_sha256": "fe2e061346fb7a3704cf603ac5440094f7c1c0ebb8610a5d8fec584ab5f668bc",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 4025,
+    "reasoning_effort": "low"
+  },
+  "text": "En 46-årig mand, der var ansat i en idrætsforening i Roskilde, er i dag ved Retten i Roskilde idømt et års fængsel for seksuelle overgreb og blufærdighedskrænkelser mod et stort antal drenge. Manden har tilstået forholdene, og han er desuden frakendt retten til at beskæftige sig med børn og unge under 18 år.\n\nAlle de forurettede drenge på nær én var tilknyttet den idrætsforening, hvor manden arbejdede. Han har tilstået at have udsat et større antal drenge for blufærdighedskrænkelser og at have voldtaget en dreng under 12 år ved andet seksuelt forhold end samleje.\n\nNogle af drengene blev udsat for befølinger, mens ikke færre end 42 drenge blev filmet uden deres viden. Manden er i den forbindelse også dømt for uberettiget at have filmet på et ikke frit tilgængeligt sted i perioden fra januar 2022 til april 2024.\n\n\"Der er tale om en meget alvorlig sag, hvor et stort antal drenge er blevet udsat for seksuelle krænkelser af en voksen, som de burde kunne have tillid til. Det er et groft tillidsbrud, som kan have store konsekvenser for de berørte,\" siger senioranklager Pernille Fredin fra anklagemyndigheden hos Midt- og Vestsjællands Politi.\n\nEfter anholdelsen fik politiet adgang til mandens telefon, hvor der blev fundet en større mængde seksuelt billed- og videomateriale med personer under 18 år. Materialet fordelte sig på alle tre kategorier af seksuelt overgrebsmateriale med børn.\n\nSagen har været længe undervejs, blandt andet fordi den dømtes mentale tilstand skulle vurderes.\n\n\"Jeg håber, at dommen nu kan være med til at give drengene og deres familier en følelse af retfærdighed og den afklaring, de har ventet på,\" siger Pernille Fredin.\n\nDen 46-årige tog sig betænkningstid i forhold til anke.",
+  "prompt_tokens": 1613,
+  "completion_tokens": 726,
+  "latency_ms": 6717,
+  "cost_usd": 0.05243,
+  "created": "2026-11-10T07:24:18.893509Z",
+  "error": null
+}

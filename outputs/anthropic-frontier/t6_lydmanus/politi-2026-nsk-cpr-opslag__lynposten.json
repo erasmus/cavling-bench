@@ -1,0 +1,21 @@
+{
+  "model_id": "anthropic-frontier",
+  "pinned_version": "claude-fable-5-1",
+  "task_id": "t6_lydmanus",
+  "source_id": "politi-2026-nsk-cpr-opslag",
+  "archetype": "lynposten",
+  "prompt_sha256": "0905497bb2d78c54998299436f79a09c994b0cebe2f4826eb44b07dc1ac09878",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 3620,
+    "reasoning_effort": "low"
+  },
+  "text": "En syvogtyveårig mand fra Storkøbenhavn er idømt tre år og seks måneders fængsel. Han solgte personfølsomme oplysninger fra CPR-registret til det kriminelle miljø. Det afgjorde Københavns Byret onsdag.\n\nManden var studentermedhjælper på Københavns Kommunes vielseskontor. Fra juni 2023 til juli 2024 misbrugte han sin stilling. Han slog adresser og familienetværk op på konkrete personer. Oplysningerne solgte han videre. Dermed medvirkede han til fireogtredive tilfælde af forsøg på grov vold.\n\nSagen er efterforsket af National enhed for Særlig Kriminalitet. Specialanklager Rikke Holm Schønsted kalder det selvsagt alvorligt. Anklager Tine Graakjær siger, at der ikke findes lignende retspraksis. Manden planlagde ikke selv volden. Men retten fandt det bevist, at han måtte have indset, hvad oplysningerne skulle bruges til.\n\nDen dømte har taget betænkningstid i forhold til at anke dommen.",
+  "prompt_tokens": 2293,
+  "completion_tokens": 396,
+  "latency_ms": 4728,
+  "cost_usd": 0.04273,
+  "created": "2026-11-10T07:27:44.394374Z",
+  "error": null
+}

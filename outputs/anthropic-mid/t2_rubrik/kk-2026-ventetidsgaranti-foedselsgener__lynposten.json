@@ -1,0 +1,21 @@
+{
+  "model_id": "anthropic-mid",
+  "pinned_version": "claude-sonnet-5-5",
+  "task_id": "t2_rubrik",
+  "source_id": "kk-2026-ventetidsgaranti-foedselsgener",
+  "archetype": "lynposten",
+  "prompt_sha256": "3900ba1f3e1928d49fdcce0ea19b67bae87b827c54e419a0236e46bb802dc56d",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 3400,
+    "reasoning_effort": "low"
+  },
+  "text": "RUBRIK: København indfører 7 dages garanti for fødselsgener\nUNDERRUBRIK: Kvinder med efterfødselsgener skal fremover tilbydes første samtale inden for 7 dage. I dag venter de 17 dage. Kan kommunen ikke, tilbydes en privat leverandør.",
+  "prompt_tokens": 3014,
+  "completion_tokens": 114,
+  "latency_ms": 1749,
+  "cost_usd": 0.007168,
+  "created": "2026-11-10T07:15:19.557827Z",
+  "error": null
+}

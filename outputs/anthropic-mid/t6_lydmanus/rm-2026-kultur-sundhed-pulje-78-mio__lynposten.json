@@ -1,0 +1,21 @@
+{
+  "model_id": "anthropic-mid",
+  "pinned_version": "claude-sonnet-5-5",
+  "task_id": "t6_lydmanus",
+  "source_id": "rm-2026-kultur-sundhed-pulje-78-mio",
+  "archetype": "lynposten",
+  "prompt_sha256": "56918ee98f8e86a4590c47430238a4244a8eab9a094d02aaff9a7ed062b2584f",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 3620,
+    "reasoning_effort": "low"
+  },
+  "text": "Syv komma otte millioner kroner. Så meget har Region Midtjylland nu sat af til kultur, der skal gøre borgerne sundere. Pengene går til projekter for borgere og patienter i hele regionen.\n\nDet er kulturaktører, der søger. De skal have en partner fra sundhedsområdet med. Projekterne kan løbe i op til tre år. Der skal søges om mindst to hundrede tusind kroner. Ansøgerne selv skal betale mindst femogtyve procent af budgettet.\n\nFristen er den seksogtyvende august 2026. Ansøgningerne behandles i november 2026.\n\nPer Møller Jensen, formand for Udvalget for Regional Udvikling, siger: \"Vi vil sikre, at endnu flere gode indsatser når ud til dem, der har brug for dem.\"\n\nRegionen holder to dialogmøder. Det første er på Godsbanen i Aarhus den enogtyvende maj. Det andet foregår digitalt den anden juni.",
+  "prompt_tokens": 2363,
+  "completion_tokens": 343,
+  "latency_ms": 3499,
+  "cost_usd": 0.008156,
+  "created": "2026-11-10T07:18:46.043280Z",
+  "error": null
+}

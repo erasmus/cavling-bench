@@ -1,0 +1,21 @@
+{
+  "model_id": "anthropic-mid",
+  "pinned_version": "claude-sonnet-5-5",
+  "task_id": "t4_versionering",
+  "source_id": "ankestyrelsen-2026-langeland-tilsynssager-afsluttet",
+  "archetype": "lynposten",
+  "prompt_sha256": "40292cc14c2dfd5cba61ae7f90985c9126ed2f59530a24959dc6593d6cacd0e3",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 4025,
+    "reasoning_effort": "low"
+  },
+  "text": "295 sager i Langeland Kommunes Familieafdeling er gennemgået igen. Nu lukker Ankestyrelsen to tilsynssager mod kommunen.\n\nTilsynet meddelte for nylig kommunen, at opfølgningen stopper. Den første sag stammer fra november 2022. Dengang vurderede tilsynet, at Familieafdelingen ikke havde overholdt flere bestemmelser. Det gælder offentlighedsloven, forvaltningsloven, retssikkerhedsloven og serviceloven.\n\nTilsynet bad kommunen gennemgå alle sager i afdelingen. Kommunen udvalgte 295 sager. Forløbet krævede flere præciseringer og ændringer i opfølgningen. I marts 2025 sendte kommunen sin slutorientering efter en fornyet gennemgang af en stor del af sagerne.\n\nTilsynet lægger vægt på, at kommunen har lavet en konkret og individuel vurdering i sagerne. Fejl og mangler er identificeret. Kommunen har taget stilling til genoptagelse af relevante sager.\n\n– Kommunen har fulgt op på vores udtalelse og gennemført de fornødne tiltag, siger ankechef Hanne Østergaard, Tilsyn og Underretning i Ankestyrelsen.\n\nDen anden sag stammer fra 2024. Den startede, da en taskforce på børneområdet gav tilsynet en henvendelse om bekymrende forhold. Taskforcen havde et forløb med Familieafdelingen. På grund af forholdene satte den arbejdet på pause. Taskforcen består af medarbejdere fra Socialstyrelsen og Ankestyrelsen.\n\nTilsynet afsluttede sagen i august sidste år. Det ville dog følge kommunens tiltag. Kommunen har omorganiseret og opnormeret Familieafdelingen. Det giver ifølge kommunen mere ensartet sagsbehandling.\n\nNu genoptager taskforcen samarbejdet. Forløbet løber fra maj 2026 til januar 2028. Fokus er lovmedholdelighed og socialfaglig kvalitet.\n\n– Tilsynet foretager sig derfor ikke mere i sagen, siger Hanne Østergaard.",
+  "prompt_tokens": 2290,
+  "completion_tokens": 793,
+  "latency_ms": 5294,
+  "cost_usd": 0.01251,
+  "created": "2026-11-10T07:16:03.494380Z",
+  "error": null
+}

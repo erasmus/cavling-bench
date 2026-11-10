@@ -1,0 +1,21 @@
+{
+  "model_id": "anthropic-frontier",
+  "pinned_version": "claude-fable-5-1",
+  "task_id": "t4_versionering",
+  "source_id": "fo-2026-rejsekort-politianmeldelse",
+  "archetype": "lynposten",
+  "prompt_sha256": "dc8b081dec20f7c386cdc6cf047dc79e05b7926179ecfd4b85e1cd383bc700a3",
+  "params": {
+    "temperature": 0.0,
+    "seed": null,
+    "max_tokens": 4025,
+    "reasoning_effort": "low"
+  },
+  "text": "Forbrugerombudsmanden politianmelder Rejsekort & Rejseplan A/S for vildledende markedsføring. Selskabet gav forbrugerne indtryk af, at de skulle bruge en billet-app for at rejse med offentlig transport. Det var ikke sandt. Der ville stadig være et ikke-digitalt alternativ.\n\nKampagnen kørte, da det fysiske rejsekort lukkede. Den blev vist på sociale medier, på reklameskilte på stationer og på informationsskærme i busser og tog. Fra oktober 2025 blev tjek ind-standere på stationer desuden dækket med hætter. På hætterne stod: \"Rejs med digitalt. Det fysiske rejsekort lukker. Brug i stedet en af disse billet-apps\".\n\nForbrugerombudsmanden fremhæver flere eksempler. I metroen hang opslag med teksten \"RIP fysisk Rejsekort og DOT-app\". På store reklameskilte stod: \"Det fysiske Rejsekort checker snart ud\". Videoer med budskabet \"Dit fysiske kort lukker - Hent Rejsekort-appen\" blev delt af Nordjyllands Trafikselskab. I flere Facebook-opslag fremgik oplysningen om et fysisk alternativ kun, hvis man trykkede \"se mere\".\n\nForbrugerombudsmanden har modtaget over 35 klager fra forbrugere over kampagnen.\n\n\"Markedsføringskampagnen fra Rejsekort & Rejseplan er efter vores vurdering et klart eksempel på vildledning af forbrugerne,\" siger forbrugerombudsmand Torben Jensen.\n\nHan mener, at selskabet gav nogle oplysninger og udelod andre. Formålet var at få forbrugerne til at skifte til en app.\n\n\"Vi ser det som en skærpende omstændighed, at kampagnen har været så omfattende, og at offentlig transport ikke er noget, man bare kan fravælge,\" siger Torben Jensen.\n\nRejsekort & Rejseplan skulle fra starten have oplyst klart, at der stadig ville være et fysisk alternativ, lyder vurderingen.\n\nRejsekort & Rejseplan afviser kritikken. Selskabet har oplyst til Forbrugerombudsmanden, at der ikke er tale om vildledende markedsføring.\n\nAnmeldelsen bygger på markedsføringslovens paragraf 5 og 6. De forbyder vildledende handlinger og vildledende udeladelser.",
+  "prompt_tokens": 3059,
+  "completion_tokens": 878,
+  "latency_ms": 9044,
+  "cost_usd": 0.07449,
+  "created": "2026-11-10T07:23:07.880535Z",
+  "error": null
+}

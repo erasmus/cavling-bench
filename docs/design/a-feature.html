@@ -1,0 +1,167 @@
+<!DOCTYPE html>
+<html lang="da">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Forslag A · Feature-artikel · Cavling-bench</title>
+<style>
+  :root { --bg:#fbfaf7; --ink:#141414; --ink-2:#5a5852; --rule:#e2dfd6; --accent:#b4321f; --tint:#f3efe5; }
+  @media (prefers-color-scheme: dark) { :root { --bg:#191817; --ink:#efede8; --ink-2:#b8b5ab; --rule:#3a3835; --accent:#e0694f; --tint:#24221f; } }
+  * { box-sizing:border-box; }
+  body { margin:0; background:var(--bg); color:var(--ink); font:18px/1.65 Georgia, "Iowan Old Style", "Times New Roman", serif; }
+  .wip { background:var(--ink); color:var(--bg); font:14px/1.4 system-ui, sans-serif; padding:.6rem 1rem; text-align:center; }
+  .wip a { color:inherit; }
+  header.hero { max-width:1000px; margin:0 auto; padding:5rem 1.25rem 2.5rem calc(1.25rem + 200px + 3rem); } header.hero > * { max-width:680px; }
+  .kicker { font:600 13px/1 system-ui, sans-serif; letter-spacing:.12em; text-transform:uppercase; color:var(--accent); }
+  h1 { font-size:clamp(2.2rem, 5vw, 3.4rem); line-height:1.08; margin:.6rem 0 1rem; font-weight:700; }
+  .dek { font-size:1.25rem; color:var(--ink-2); margin:0 0 1.5rem; }
+  .byline { font:14px system-ui, sans-serif; color:var(--ink-2); border-top:1px solid var(--rule); padding-top:.8rem; }
+  .layout { display:grid; grid-template-columns:200px minmax(0,680px); gap:3rem; max-width:1000px; margin:0 auto; padding:0 1.25rem 5rem; }
+  nav.toc { position:sticky; top:1.5rem; align-self:start; font:14px/1.5 system-ui, sans-serif; }
+  nav.toc ol { list-style:none; padding:0; margin:0; counter-reset:c; }
+  nav.toc li { counter-increment:c; margin:.35rem 0; }
+  nav.toc a { color:var(--ink-2); text-decoration:none; display:block; padding-left:1.8rem; position:relative; }
+  nav.toc a::before { content:counter(c, decimal-leading-zero); position:absolute; left:0; color:var(--accent); font-variant-numeric:tabular-nums; }
+  nav.toc a:hover { color:var(--ink); }
+  section { margin:0 0 3.5rem; scroll-margin-top:1.5rem; }
+  h2 { font-size:1.7rem; line-height:1.2; margin:0 0 1rem; }
+  h2 small { display:block; font:600 12px system-ui, sans-serif; letter-spacing:.12em; text-transform:uppercase; color:var(--accent); margin-bottom:.4rem; }
+  p { margin:0 0 1.1rem; }
+  blockquote { margin:2rem 0; padding:0 0 0 1.25rem; border-left:3px solid var(--accent); font-size:1.4rem; line-height:1.35; font-style:italic; }
+  .steps { list-style:none; padding:0; margin:1.5rem 0; border-left:2px solid var(--rule); }
+  .steps li { position:relative; padding:0 0 1.4rem 1.6rem; }
+  .steps li::before { content:""; position:absolute; left:-7px; top:.55rem; width:12px; height:12px; border-radius:50%; background:var(--bg); border:2px solid var(--accent); }
+  .steps b { font-family:system-ui, sans-serif; font-size:.95rem; }
+  .steps code { font-size:.8rem; color:var(--ink-2); }
+  .tasks { display:grid; grid-template-columns:repeat(2,1fr); gap:1px; background:var(--rule); border:1px solid var(--rule); margin:1.5rem 0; font:15px/1.45 system-ui, sans-serif; }
+  .tasks div { background:var(--bg); padding:.9rem 1rem; }
+  .tasks b { display:block; } .tasks span { color:var(--ink-2); font-size:.85rem; }
+  .ledger { display:grid; grid-template-columns:1fr 1fr; gap:2rem; font:15px/1.5 system-ui, sans-serif; }
+  .ledger h3 { font:700 13px system-ui; letter-spacing:.1em; text-transform:uppercase; margin:0 0 .6rem; padding-bottom:.4rem; border-bottom:2px solid var(--ink); }
+  .ledger ul { padding-left:1.1rem; margin:0; } .ledger li { margin:.5rem 0; }
+  .cta { background:var(--tint); padding:2rem; border-radius:4px; font-family:system-ui, sans-serif; }
+  .cta h2 { font-family:Georgia, serif; }
+  .btn { display:inline-block; background:var(--accent); color:#fff; padding:.7rem 1.2rem; border-radius:3px; text-decoration:none; font-weight:600; margin:.5rem .6rem 0 0; }
+  .btn.ghost { background:transparent; color:var(--ink); border:1px solid var(--ink); }
+  .status { display:flex; gap:1.5rem; flex-wrap:wrap; margin:1rem 0 1.5rem; font:14px system-ui; }
+  .status div b { display:block; font-size:1.6rem; font-family:Georgia, serif; }
+  @media (max-width:800px) { header.hero { padding-left:1.25rem; } .layout { grid-template-columns:1fr; } nav.toc { display:none; } .ledger, .tasks { grid-template-columns:1fr; } }
+</style>
+</head>
+<body>
+<div class="wip" role="note">Arbejdsversion · Metoden er under udvikling, og tallene er foreløbige. <a href="#resultater">Se status</a></div>
+
+<header class="hero">
+  <div class="kicker">Cavling-bench · metode</div>
+  <h1>Kan en sprogmodel skrive dansk nyhedsjournalistik, man tør trykke?</h1>
+  <p class="dek">Et åbent benchmark, der tester sprogmodeller på seks redaktionelle opgaver: hvad de kan, hvordan vi måler det, og hvor målingen selv er usikker.</p>
+  <div class="byline">Erasmus Hagen · Opdateret 10. november 2026 · Kode MIT, data CC BY 4.0</div>
+</header>
+
+<div class="layout">
+  <nav class="toc" aria-label="Indhold">
+    <ol>
+      <li><a href="#sporgsmaalet">Spørgsmålet</a></li>
+      <li><a href="#materialet">Materialet</a></li>
+      <li><a href="#opgaverne">Opgaverne</a></li>
+      <li><a href="#maalingen">Målingen</a></li>
+      <li><a href="#pipeline">Pipelinen</a></li>
+      <li><a href="#styrker">Styrker og svagheder</a></li>
+      <li><a href="#resultater">Status og resultater</a></li>
+    </ol>
+  </nav>
+
+  <article>
+    <section id="sporgsmaalet">
+      <h2><small>01</small>Spørgsmålet</h2>
+      <p>Danske redaktioner skal beslutte, hvilke sprogmodeller de vil bygge arbejdsgange på. De fleste benchmarks måler engelsk, generel viden eller kode. Ingen af dem fortæller en redaktør, om modellen holder sig til kilden, rammer husets tone og skriver dansk, som en redaktionssekretær ikke behøver at rette.</p>
+      <blockquote>Hvilke modeller kan betros danske redaktionelle opgaver, på hvilket grundlag, og hvad koster afhængigheden?</blockquote>
+      <p>Det sidste led er lige så vigtigt som kvaliteten. En model, der skriver lidt bedre, men kun kan køres hos én amerikansk leverandør uden EU-databehandling, er et andet valg end en åben model, man selv kan drive.</p>
+    </section>
+
+    <section id="materialet">
+      <h2><small>02</small>Materialet</h2>
+      <p>Testen bygger på 40 danske kildetekster fra det offentlige: ministeriers udspil, statistiknyheder, politiets meddelelser, tilsynsafgørelser og kommunale beslutninger. De er valgt, fordi de må genbruges, fordi de er fyldt med tal, navne og datoer, der kan efterprøves, og fordi de ligner det, en nyhedsredaktion faktisk skriver om.</p>
+      <p>Hver tekst har en håndskrevet liste over de fakta, der skal overleve: beløb, datoer, navne. Otte tekster har en bevidst indbygget uklarhed, der tester, om modellen udfylder hullet selv.</p>
+    </section>
+
+    <section id="opgaverne">
+      <h2><small>03</small>Opgaverne</h2>
+      <p>Seks faste opgaver, som en redaktion løser hver dag. Tre opfundne publikationer, et tabloidmedie, en omnibusavis og et erhvervsdagblad, giver stilguides at skrive efter.</p>
+      <div class="tasks">
+        <div><b>Nyhedstelegram</b><span>90–120 ord, det vigtigste først</span></div>
+        <div><b>Rubrik og underrubrik</b><span>≤ 60 / ≤ 160 tegn, tre stilguides</span></div>
+        <div><b>Faktaboks</b><span>Præcis fem verificerbare punkter</span></div>
+        <div><b>Versionering</b><span>Samme nyhed til to publikationer</span></div>
+        <div><b>Forkortelse</b><span>180–220 ord, alle fakta bevaret</span></div>
+        <div><b>Lydmanus</b><span>Til oplæsning: tal som ord, ingen forkortelser</span></div>
+      </div>
+      <p>Det giver 360 tekster pr. model. Alle modeller får præcis samme prompt; ingen tilpasning pr. model.</p>
+    </section>
+
+    <section id="maalingen">
+      <h2><small>04</small>Målingen</h2>
+      <p>Fire dimensioner, målt hver for sig og aldrig lagt sammen til én score:</p>
+      <p><b>Kildetroskab.</b> En dommermodel deler hver tekst op i enkeltpåstande og slår dem op i kilden: understøttet, uunderstøttet eller modsagt. Et mekanisk tjek kontrollerer desuden, at de kritiske tal og datoer er bevaret.</p>
+      <p><b>Tonefit.</b> To anonymiserede tekster til samme publikation sættes over for hinanden; dommeren vælger den, der følger stilguiden bedst. Hundredvis af parvise dueller omregnes til en rating.</p>
+      <p><b>Sprogkvalitet.</b> Dansk vurderet på en skala fra 1 til 5 med faste ankre, fra ”ikke til at skelne fra en dygtig dansk journalist” til ”brudt dansk”.</p>
+      <p><b>Format.</b> Ordtal, tegngrænser, antal punkter, ingen tal i lydmanus. Ren kode, ingen model.</p>
+      <p>To dommermodeller fra forskellige familier bedømmer, og ingen dommer bedømmer tonen hos sin egen familie. 150 tekster bedømmes af mennesker, så vi kan rapportere, hvor godt dommerne rammer.</p>
+    </section>
+
+    <section id="pipeline">
+      <h2><small>05</small>Pipelinen</h2>
+      <ol class="steps">
+        <li><b>Indsamling</b> <code>collect</code><br>Kildetekster hentes, renses og fryses sammen med faktalisterne.</li>
+        <li><b>Generering</b> <code>generate</code><br>Hver model løser hver opgave én gang, temperatur 0. Alt gemmes råt.</li>
+        <li><b>Mekaniske tjek</b> <code>check</code><br>Format, bevarede fakta, engelsk i teksten, særskrivning, sproglige tics.</li>
+        <li><b>Dommere</b> <code>judge</code><br>Kildetroskab, tone og sprog fra to modeller på tværs af familier.</li>
+        <li><b>Menneskelig stikprøve</b> <code>spotcheck</code><br>150 tekster, blindet. Enighed med dommerne rapporteres.</li>
+        <li><b>Rapport</b> <code>report</code><br>Tabeller med 95 % bootstrap-intervaller; ingen samlet rangering.</li>
+      </ol>
+      <p>Alle rå output og scorer ligger i repoet. Rapporten kan genskabes uden API-nøgler; hele målingen kan gentages med én kommando.</p>
+    </section>
+
+    <section id="styrker">
+      <h2><small>06</small>Styrker og svagheder</h2>
+      <div class="ledger">
+        <div>
+          <h3>Det holder</h3>
+          <ul>
+            <li>Redaktionelle opgaver, ikke quizspørgsmål</li>
+            <li>Fakta efterprøves mekanisk mod en håndskrevet liste</li>
+            <li>Dommere på tværs af modelfamilier, kontrolleret af mennesker</li>
+            <li>Usikkerhed vist på hvert tal; ingen samlet score</li>
+            <li>Pris, latens, licens og EU-forhold står ved siden af kvaliteten</li>
+            <li>Alt er åbent og kan genkøres</li>
+          </ul>
+        </div>
+        <div>
+          <h3>Det skal man vide</h3>
+          <ul>
+            <li>Én fælles prompt; tunede opsætninger vil klare sig bedre</li>
+            <li>40 tekster giver brede intervaller</li>
+            <li>Tone er dommer-relativ, og dommerne er selv sprogmodeller</li>
+            <li>Arketyperne er opfundne, ikke rigtige mediers stemmer</li>
+            <li>Dommer A er også selv med i testen</li>
+            <li>Modeller ændrer sig på uger; alt er dateret</li>
+          </ul>
+        </div>
+      </div>
+    </section>
+
+    <section id="resultater" class="cta">
+      <h2>Status og resultater</h2>
+      <div class="status">
+        <div><b>4 / 13</b>modeller kørt</div>
+        <div><b>40</b>kildetekster</div>
+        <div><b>0 / 150</b>menneskelige bedømmelser</div>
+      </div>
+      <p>Tallene er foreløbige og må ikke citeres som en rangering. De første resultater viser, at pipelinen virker, ikke hvilken model der er bedst.</p>
+      <a class="btn" href="../../site/index.html">Se foreløbige resultater →</a>
+      <a class="btn ghost" href="https://github.com/erasmus/cavling-bench">Kode og data på GitHub</a>
+    </section>
+  </article>
+</div>
+</body>
+</html>

@@ -172,7 +172,7 @@ def report(root: Path | None = ROOT_OPT) -> None:
 
 @app.command()
 def site(root: Path | None = ROOT_OPT) -> None:
-    """Copy site_data.json and figures into site/."""
+    """Copy site_data.json and figures into site/resultater/."""
     from .site import run_site
 
     console.print(run_site(_cfg(root)))
